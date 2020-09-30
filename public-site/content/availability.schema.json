@@ -1,0 +1,42 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "additionalProperties": { "$ref": "#/definitions/city" },
+  "definitions": {
+    "cities": {
+      "type": "object",
+      "milano": { "$ref": "#/definitions/city" }
+    },
+    "city": {
+      "type": "object",
+      "properties": {
+        "code": {
+          "type": "string"
+        },
+        "zone": {
+          "type": "integer"
+        },
+        "disciplines": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/discipline" }
+        }
+      },
+      "required": ["code", "zone", "disciplines"]
+    },
+    "discipline": {
+      "type": "object",
+      "properties": {
+        "discipline": {
+          "type": "string"
+        },
+        "specialist": {
+          "type": "string"
+        },
+        "reservation": {
+          "type": "string"
+        }
+      },
+      "required": ["discipline", "specialist", "reservation"]
+    }
+  }
+}
