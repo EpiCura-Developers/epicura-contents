@@ -3,10 +3,6 @@
   "type": "object",
   "additionalProperties": { "$ref": "#/definitions/city" },
   "definitions": {
-    "cities": {
-      "type": "object",
-      "milano": { "$ref": "#/definitions/city" }
-    },
     "city": {
       "type": "object",
       "properties": {
