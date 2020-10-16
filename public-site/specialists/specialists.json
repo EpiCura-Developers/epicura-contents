@@ -23,7 +23,7 @@
         "image": "pro-hands"
       },
       {
-        "title": "GESTIAMO NOI LA BUROCRAZIA",
+        "title": "Gestiamo noi la burocrazia",
         "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
         "image": "pro-docs"
       }
@@ -74,7 +74,12 @@
       {
         "tab-name": "assistenti professionali",
         "title": "Cosa è richiesto",
-        "requirement-list": ["aaaaa", "bbbbb", "ccccc", "ddddd", "eeeee", "fffff"]
+        "requirement-list": [
+          "Almeno 1 anno di esperienza",
+          "Carta di identità",
+          "Permesso di soggiorno",
+          "Eventuale certificato abilitante (richiesta per OSS)"
+        ]
       }
     ]
   },
