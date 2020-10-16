@@ -1,0 +1,80 @@
+{
+  "header": {
+    "title": "Diventa parte del primo poliambulatorio digitale in Italia.",
+    "subtitle": "Abbiamo costruito una rete di 600 professionisti attivi.",
+    "background-image": "specialist"
+  },
+  "first-section": {
+    "title": "Perché conviene?",
+    "card-list": [
+      {
+        "title": "Gestisci tutto da App",
+        "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "image": "pro-alarm"
+      },
+      {
+        "title": "Scegli tu quando lavorare",
+        "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "image": "pro-pointer"
+      },
+      {
+        "title": "Ricevi pagamenti puntuali",
+        "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "image": "pro-hands"
+      }
+    ]
+  },
+  "second-section": {
+    "title": "gestisci tutto tramite App.",
+    "subtitle": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+    "background-image": "pro-phone"
+  },
+  "third-section": {
+    "title": "come funziona",
+    "subtitle": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+    "card-list": [
+      {
+        "title": "prendi in carico l'intervento",
+        "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "image": "pro-medical-records"
+      },
+      {
+        "title": "esegui l'intervento",
+        "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "image": "pro-calendar"
+      },
+      {
+        "title": "ricevi la tua ricompensa",
+        "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "image": "pro-with-phone"
+      }
+    ]
+  },
+  "fourth-section": {
+    "title": "Requisiti per collaborare con noi",
+    "subtitle": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+    "tab-list": [
+      {
+        "tab-name": "medici e professionisti",
+        "title": "Cosa è richiesto",
+        "requirement-list": [
+          "Almeno 1 anno di esperienza",
+          "Certificato di laurea",
+          "Tesserino di iscrizione all'Albo Professionale (se richiesto)",
+          "Assicurazione di responsabilità professionale",
+          "Partita IVA e regime forfettario",
+          "Dimestichezza con i principali strumenti digitali (mail, agenda, app di conference call)"
+        ]
+      },
+      {
+        "tab-name": "assistenti professionali",
+        "title": "Cosa è richiesto",
+        "requirement-list": ["aaaaa", "bbbbb", "ccccc", "ddddd", "eeeee", "fffff"]
+      }
+    ]
+  },
+  "faqs-section": {
+    "title": "Domande e risposte",
+    "faqs-link": ""
+  }
+}
