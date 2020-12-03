@@ -1,0 +1,59 @@
+{
+  "meta": {
+    "title": "Videoconsulti e consulti fisioterapici online",
+    "description": "Consulti per richiedere pareri specialistici ai migliori fisioterapisti. Veloce, comodo e semplice. Il professionista sul tuo telefono!"
+  },
+  "header": {
+    "title": "Videoconsulto di Fisioterapia",
+    "subtitle": "Servizio garantito entro 24 ore, 7 giorni su 7. Consulti online con fisioterapisti certificati e con esperienza",
+    "bkgColor": "linear-gradient(315deg, rgba(129,184,235,1) 0%, rgba(220,246,250,1) 100%)",
+    "textColor": "dark"
+  },
+  "card": {
+    "title": "In cosa ti è utile il videoconsulto",
+    "description": "Grazie al videoconsulto potrai fare domande sulla tua salute o quella dei tuoi cari, o avere una seconda opinione dopo una visita medica oppure di effettuare un colloquio conoscitivo prima della visita vera e propria.",
+    "whatIsIncludedLabel": "I casi più comuni su cui il fisioterapista può aiutarti",
+    "bulletPoints": [
+      "Scoliosi, iperlordosi, ipercifosi",
+      "Cervicalgia, sciatalgia, lombalgia, dorsalgia",
+      "Problemi legati alla postura",
+      "Artrosi e artrite reumatoide",
+      "Osteoporosi",
+      "Ernie e protrusioni",
+      "Cefalee muscolo-tensive",
+      "Disturbi alla spalla, al ginocchio, al polso, al gomito",
+      "Contratture, distorsioni, infiammazioni muscolo scheletriche",
+      "Gestione e riabilitazione protesi",
+      "Piede piatto o cavo",
+      "Reflusso gastro esofageo",
+      "Lombalgia da infiammazione intestinale",
+      "Enfisema",
+      "Vertigini, disorientamento, mal di testa",
+      "Ictus",
+      "Parkinson e malattie neurodegenerative",
+      "Traumi sportivi",
+      "Incontinenza e prolasso vescicale",
+      "Pubalgia"
+    ],
+    "price": "25€",
+    "priceUnit": "/20 minuti",
+    "bookNowBtnLabel": "Prenota ora"
+  },
+  "faq": {
+    "title": "Domande e risposte",
+    "list": [
+      {
+        "question": "Come avverrà il videoconsulto?",
+        "answer": "Dopo il pagamento, il professionista ti contatterà nel giro di poco tempo in modo che possiate definire quale piattaforma utilizzare per l’erogazione del videoconsulto."
+      },
+      {
+        "question": "Cosa posso richiedere durante un videoconsulto?",
+        "answer": "Potrai richiedere consulenza sull’individuazione dello specialista adeguato alla definizione di una diagnosi; consulenza su patologia già accertata o sulla tipologia di trattamenti e terapie da attuare (già prescritte); consigli di tipo specialistico su segni clinici e sintomi presenti al momento del videoconsulto; dubbi su qualunque elemento concernente la propria salute o quella dei propri cari."
+      },
+      {
+        "question": "Quanto dura un videoconsulto",
+        "answer": "Indicativamente, la durata del consulto è di 15-20 minuti."
+      }
+    ]
+  }
+}
