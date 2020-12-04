@@ -1,0 +1,487 @@
+{
+  "milano": {
+    "code": "MI",
+    "zone": 44881,
+    "disciplines": [
+      {
+        "discipline": "assistenza-domiciliare",
+        "specialist": "assistente-domiciliare",
+        "reservation": "/form-what-homecare?province=MI"
+      },
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/form-what-nursing?province=MI"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/form-what-physiotherapy?province=MI"
+      },
+      {
+        "discipline": "psicologia",
+        "specialist": "psicologo",
+        "reservation": "/form-what-psychology?province=MI"
+      },
+      {
+        "discipline": "psicoterapia",
+        "specialist": "psicoterapeuta",
+        "reservation": "/form-what-psychotherapy?province=MI"
+      },
+      {
+        "discipline": "nutrizione",
+        "specialist": "nutrizionista",
+        "reservation": "/form-what-nutrition?province=MI"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/form-what-osteopathy?province=MI"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/form-what-veterinary?province=MI"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/form-what-generalMedicine?province=MI"
+      },
+      {
+        "discipline": "pediatria",
+        "specialist": "pediatra",
+        "reservation": "/form-what-pediatrics?province=MI"
+      },
+      {
+        "discipline": "massaggi",
+        "specialist": "massaggiatore-professionale",
+        "reservation": "/form-what-massages?province=MI"
+      }
+    ]
+  },
+  "roma": {
+    "code": "RM",
+    "zone": 41313,
+    "disciplines": [
+      {
+        "discipline": "assistenza-domiciliare",
+        "specialist": "assistente-domiciliare",
+        "reservation": "/form-what-homecare?province=RM"
+      },
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/form-what-nursing?province=RM"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/form-what-physiotherapy?province=RM"
+      },
+      {
+        "discipline": "psicologia",
+        "specialist": "psicologo",
+        "reservation": "/form-what-psychology?province=RM"
+      },
+      {
+        "discipline": "psicoterapia",
+        "specialist": "psicoterapeuta",
+        "reservation": "/form-what-psychotherapy?province=RM"
+      },
+      {
+        "discipline": "nutrizione",
+        "specialist": "nutrizionista",
+        "reservation": "/form-what-nutrition?province=RM"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/form-what-osteopathy?province=RM"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/form-what-veterinary?province=RM"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/form-what-generalMedicine?province=RM"
+      },
+      {
+        "discipline": "pediatria",
+        "specialist": "pediatra",
+        "reservation": "/form-what-pediatrics?province=RM"
+      },
+      {
+        "discipline": "massaggi",
+        "specialist": "massaggiatore-professionale",
+        "reservation": "/form-what-massages?province=RM"
+      }
+    ]
+  },
+  "torino": {
+    "code": "TO",
+    "zone": 44880,
+    "disciplines": [
+      {
+        "discipline": "assistenza-domiciliare",
+        "specialist": "assistente-domiciliare",
+        "reservation": "/form-what-homecare?province=TO"
+      },
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/form-what-nursing?province=TO"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/form-what-physiotherapy?province=TO"
+      },
+      {
+        "discipline": "psicologia",
+        "specialist": "psicologo",
+        "reservation": "/form-what-psychology?province=TO"
+      },
+      {
+        "discipline": "psicoterapia",
+        "specialist": "psicoterapeuta",
+        "reservation": "/form-what-psychotherapy?province=TO"
+      },
+      {
+        "discipline": "nutrizione",
+        "specialist": "nutrizionista",
+        "reservation": "/form-what-nutrition?province=TO"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/form-what-osteopathy?province=TO"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/form-what-veterinary?province=TO"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/form-what-generalMedicine?province=TO"
+      },
+      {
+        "discipline": "pediatria",
+        "specialist": "pediatra",
+        "reservation": "/form-what-pediatrics?province=TO"
+      },
+      {
+        "discipline": "massaggi",
+        "specialist": "massaggiatore-professionale",
+        "reservation": "/form-what-massages?province=TO"
+      }
+    ]
+  },
+  "napoli": {
+    "code": "NA",
+    "zone": 40600,
+    "disciplines": [
+      {
+        "discipline": "assistenza-domiciliare",
+        "specialist": "assistente-domiciliare",
+        "reservation": "/form-what-homecare?province=NA"
+      },
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/form-what-nursing?province=NA"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/form-what-physiotherapy?province=NA"
+      },
+      {
+        "discipline": "nutrizione",
+        "specialist": "nutrizionista",
+        "reservation": "/form-what-nutrition?province=NA"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/form-what-osteopathy?province=NA"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/form-what-veterinary?province=NA"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/form-what-generalMedicine?province=NA"
+      }
+    ]
+  },
+  "bologna": {
+    "code": "BO",
+    "zone": 42856,
+    "disciplines": [
+      {
+        "discipline": "assistenza-domiciliare",
+        "specialist": "assistente-domiciliare",
+        "reservation": "/form-what-homecare?province=BO"
+      },
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/form-what-nursing?province=BO"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/form-what-physiotherapy?province=BO"
+      },
+      {
+        "discipline": "psicologia",
+        "specialist": "psicologo",
+        "reservation": "/form-what-psychology?province=BO"
+      },
+      {
+        "discipline": "psicoterapia",
+        "specialist": "psicoterapeuta",
+        "reservation": "/form-what-psychotherapy?province=BO"
+      },
+      {
+        "discipline": "nutrizione",
+        "specialist": "nutrizionista",
+        "reservation": "/form-what-nutrition?province=BO"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/form-what-osteopathy?province=BO"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/form-what-veterinary?province=BO"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/form-what-generalMedicine?province=BO"
+      }
+    ]
+  },
+  "catania": {
+    "code": "CT",
+    "zone": 39181,
+    "disciplines": [
+      {
+        "discipline": "assistenza-domiciliare",
+        "specialist": "assistente-domiciliare",
+        "reservation": "/form-what-homecare?province=CT"
+      },
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/form-what-nursing?province=CT"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/form-what-physiotherapy?province=CT"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/form-what-osteopathy?province=CT"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/form-what-veterinary?province=CT"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/form-what-generalMedicine?province=CT"
+      }
+    ]
+  },
+  "firenze": {
+    "code": "FI",
+    "zone": 42472,
+    "disciplines": [
+      {
+        "discipline": "assistenza-domiciliare",
+        "specialist": "assistente-domiciliare",
+        "reservation": "/form-what-homecare?province=FI"
+      },
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/form-what-nursing?province=FI"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/form-what-physiotherapy?province=FI"
+      },
+      {
+        "discipline": "psicologia",
+        "specialist": "psicologo",
+        "reservation": "/form-what-psychology?province=FI"
+      },
+      {
+        "discipline": "psicoterapia",
+        "specialist": "psicoterapeuta",
+        "reservation": "/form-what-psychotherapy?province=FI"
+      },
+      {
+        "discipline": "nutrizione",
+        "specialist": "nutrizionista",
+        "reservation": "/form-what-nutrition?province=FI"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/form-what-osteopathy?province=FI"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/form-what-veterinary?province=FI"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/form-what-generalMedicine?province=FI"
+      }
+    ]
+  },
+  "genova": {
+    "code": "GE",
+    "zone": 49135,
+    "disciplines": [
+      {
+        "discipline": "assistenza-domiciliare",
+        "specialist": "assistente-domiciliare",
+        "reservation": "/form-what-homecare?province=GE"
+      },
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/form-what-nursing?province=GE"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/form-what-physiotherapy?province=GE"
+      },
+      {
+        "discipline": "psicologia",
+        "specialist": "psicologo",
+        "reservation": "/form-what-psychology?province=GE"
+      },
+      {
+        "discipline": "psicoterapia",
+        "specialist": "psicoterapeuta",
+        "reservation": "/form-what-psychotherapy?province=GE"
+      },
+      {
+        "discipline": "nutrizione",
+        "specialist": "nutrizionista",
+        "reservation": "/form-what-nutrition?province=GE"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/form-what-osteopathy?province=GE"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/form-what-veterinary?province=GE"
+      }
+    ]
+  },
+  "verona": {
+    "code": "VR",
+    "zone": 44107,
+    "disciplines": [
+      {
+        "discipline": "assistenza-domiciliare",
+        "specialist": "assistente-domiciliare",
+        "reservation": "/form-what-homecare?province=VR"
+      },
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/form-what-nursing?province=VR"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/form-what-physiotherapy?province=VR"
+      },
+      {
+        "discipline": "psicoterapia",
+        "specialist": "psicoterapeuta",
+        "reservation": "/form-what-psychotherapy?province=VR"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/form-what-osteopathy?province=VR"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/form-what-veterinary?province=VR"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/form-what-generalMedicine?province=VR"
+      },
+      {
+        "discipline": "massaggi",
+        "specialist": "massaggiatore-professionale",
+        "reservation": "/form-what-massages?province=VR"
+      }
+    ]
+  },
+  "brescia": {
+    "code": "BS",
+    "zone": 44882,
+    "disciplines": [
+      {
+        "discipline": "assistenza-domiciliare",
+        "specialist": "assistente-domiciliare",
+        "reservation": "/form-what-homecare?province=BS"
+      },
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/form-what-nursing?province=BS"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/form-what-physiotherapy?province=BS"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/form-what-osteopathy?province=BS"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/form-what-veterinary?province=BS"
+      }
+    ]
+  }
+}
