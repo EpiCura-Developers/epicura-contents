@@ -1,0 +1,11 @@
+{
+    "discipline-specialist": "Massaggiatore Professionale",
+    "discipline-text-with-price": "A partire da 30€",
+    "discipline-image": "",
+    "discipline-description": "Alleviamento di stress e contratture, rilassamento",
+    "discipline-background-color": "#FFEACC",
+    "discipline-link": "/massaggiatore-professionale/",
+    "discipline-specialities": [
+        "Massaggio"
+    ]
+}
