@@ -3,6 +3,7 @@
     "title": "Assistente domiciliare a Bologna",
     "description": "Assistenti domiciliari con assicurazione a Bologna e area metropolitana. Assistenze diurne e notturne, assistenza in ospedale o a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
+  "isPricingTable": true,
   "prezzi_title": "I prezzi di Assistenza domiciliare a Bologna",
   "come_funziona": {
     "title": "Come funziona",

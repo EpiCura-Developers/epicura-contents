@@ -3,6 +3,7 @@
     "title": "Fisioterapista a Bologna",
     "description": "Fisioterapisti esperti a domicilio a Bologna e area metropolitana. Riabilitazione a domicilio, linfodrenaggio, sedute fisioterapiche a casa, 7 giorni su 7, senza liste d'attesa."
   },
+  "isPricingTable": true,
   "prezzi_title": "I prezzi di Fisioterapia a Bologna",
   "come_funziona": {
     "title": "Come funziona",

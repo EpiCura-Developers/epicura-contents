@@ -3,6 +3,7 @@
     "title": "Medico di base a Verona",
     "description": "Medici generici a domicilio a Verona e area metropolitana. Visite mediche, prescrizione farmaci a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
+  "isPricingTable": true,
   "prezzi_title": "I prezzi di Medicina Generale a Verona",
   "come_funziona": {
     "title": "Come funziona",

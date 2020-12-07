@@ -3,6 +3,7 @@
     "title": "Infermiere a Verona",
     "description": "Infermieri a domicilio a Verona e area metropolitana. Inieizioni, medicazioni, clistere a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
+  "isPricingTable": true,
   "prezzi_title": "I prezzi di Infermieristica a Verona",
   "come_funziona": {
     "title": "Come funziona",

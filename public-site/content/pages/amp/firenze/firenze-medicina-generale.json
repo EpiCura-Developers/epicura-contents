@@ -3,6 +3,7 @@
     "title": "Medico di base a Firenze",
     "description": "Medici generici a domicilio a Firenze e area metropolitana. Visite mediche, prescrizione farmaci a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
+  "isPricingTable": true,
   "prezzi_title": "I prezzi di Medicina Generale a Firenze",
   "come_funziona": {
     "title": "Come funziona",
