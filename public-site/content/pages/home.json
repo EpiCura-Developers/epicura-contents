@@ -1,4 +1,8 @@
 {
+    "meta": {
+        "title": "EpiCura",
+        "description": "Siamo il primo poliambulatorio digitale in Italia."
+    },
     "site-relation-search-header": {
         "site-search-header-title": "Il primo poliambulatorio digitale in Italia.",
         "site-search-header-subtitle": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
