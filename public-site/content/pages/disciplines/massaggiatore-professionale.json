@@ -64,6 +64,15 @@
         "discount": ""
       }
     ],
+    "hint-card": {
+      "title": "Indeciso? Fatti consigliare da un fisioterapista",
+      "content": "Se è la prima volta, ti consigliamo di iniziare con un teleconsulto con uno dei nostri esperti per individuare correttamente il problema e il percorso migliore per te.",
+      "price": "Costo fisso 25€",
+      "bkg-color": "",
+      "image": "#F5F8FF",
+      "button-text": "Button",
+      "button-link": "/teleconsulting/?discipline=physiotherapy"
+    },
     "teleconsulting": {
       "title1": "Prima visita di fisioterapia?",
       "title2": "Inizia con un consulto video o telefonico",
