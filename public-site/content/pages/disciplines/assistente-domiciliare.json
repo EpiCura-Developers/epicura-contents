@@ -99,18 +99,6 @@
       "feedaty-male-image": "",
       "feedaty-female-image": ""
     },
-    "teleconsulting": {
-      "title1": "Prima visita di fisioterapia?",
-      "title2": "Inizia con un consulto video o telefonico",
-      "content": "Se è la prima volta, ti consigliamo di iniziare con un teleconsulto con uno dei nostri esperti per individuare correttamente il problema e il percorso migliore per te.",
-      "price": "150"
-    },
-    "evaluation-test": {
-      "title": "Test di autovalutazione per il disturbo cervicale",
-      "content": "Esegui il test gratuito di autovalutazione per scoprire le caratteristiche del tuo disturbo e ridurre il dolore. Avrai accesso alla demo gratuita di Cervicale STOP!",
-      "image": "eval-test-physio",
-      "background-color": "#EAE9F6"
-    },
     "pro": [
       {},
       {}
