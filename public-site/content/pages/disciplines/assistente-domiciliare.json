@@ -13,11 +13,11 @@
     "cta": [
       {
         "text": "Richiedi informazioni",
-        "link": "/"
+        "link": "/contattaci/"
       },
       {
         "text": "Prenota ora",
-        "link": "/prenota/?d=physiotherapy"
+        "link": "/prenota/?d=homecare"
       }
     ],
     "problems": [

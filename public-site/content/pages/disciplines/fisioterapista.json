@@ -10,6 +10,16 @@
       "content": "Quando abbiamo un dolore o un indolenzimento in una parte del nostro corpo tendiamo a trascurarlo e a non curarcene troppo. Non dare importanza ai segnali che il nostro corpo ci invia, molte volte, porta alla cronicizzazione del problema rendendo faticoso e difficile uscirne. La fisioterapia permette di prevenire tutto ciò e di ritrovare l’armonia con il proprio corpo facendo riscoprire sensazioni di confort che molto probabilmente avevamo dimenticato.",
       "background-image": "physiotherapist_subheader"
     },
+    "cta": [
+      {
+        "text": "Richiedi informazioni",
+        "link": "/contattaci/"
+      },
+      {
+        "text": "Prenota ora",
+        "link": "/prenota/?d=physiotherapy"
+      }
+    ],
     "problems": [
       {
         "title": "Malattie neurologiche",
