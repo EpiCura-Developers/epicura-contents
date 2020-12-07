@@ -1,6 +1,11 @@
 [
     {
+        "meta": {
+            "title": "EpiCura",
+            "description": "Siamo il primo poliambulatorio digitale in Italia."
+        },
         "site-specialist-profile-page-name": "Annalisa Grasso",
+        "site-specialist-profile-page-link-name": "/annalisa-grasso/",
         "site-specialist-profile-page-disciplines": [
             "fisioterapista"
         ],
@@ -17,7 +22,12 @@
         "site-specialist-profile-address-marker-list": []
     },
     {
+        "meta": {
+            "title": "EpiCura",
+            "description": "Siamo il primo poliambulatorio digitale in Italia."
+        },
         "site-specialist-profile-page-name": "Nicolò Giordano",
+        "site-specialist-profile-page-link-name": "/nicolo-giordano/",
         "site-specialist-profile-page-disciplines": [
             "fisioterapista",
             "osteopata"
