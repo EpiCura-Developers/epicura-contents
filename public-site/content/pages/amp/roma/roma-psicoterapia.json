@@ -3,7 +3,7 @@
     "title": "Psicoterapeuta a Roma",
     "description": "Terapeuti a Roma e area metropolitana in studio, a domicilio e in video consulto. Psicoterapeuti per ansia, depressione, disturbi psicologici, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "isPricingTable": false,
+  "showPricesInCardADW": true,
   "prezzi_title": "I prezzi di Psicoterapia a Roma",
   "come_funziona": {
     "title": "Come funziona",

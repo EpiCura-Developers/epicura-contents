@@ -3,7 +3,7 @@
     "title": "Psicologo a Milano",
     "description": "Psicologi a Milano e area metropolitana in studio, a domicilio e in video consulto. Psicologi per ansia, depressione, disturbi psicologici, 7 giorni su 7, nessuna lista d'attesa."
   },
-  "isPricingTable": false,
+  "showPricesInCardADW": true,
   "prezzi_title": "I prezzi di Psicologia a Milano",
   "come_funziona": {
     "title": "Come funziona",
