@@ -73,6 +73,32 @@
       "button-text": "Button",
       "button-link": "/teleconsulting/?discipline=physiotherapy"
     },
+    "site-landing-feedaty": {
+      "title": "Oltre 3000 famiglie soddisfatte",
+      "subtitle": "Le recensioni di chi ci ha scelto",
+      "feedaty-score": 4.7,
+      "feedaty-review-score": "Ottimo",
+      "feedaty-text": "Più di 300 recensioni",
+      "feedaty-feedback-list": [
+          {
+              "feedaty-feedback-author-sex": "Maschio",
+              "feedaty-feedback-author": "Maurizio",
+              "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+          },
+          {
+              "feedaty-feedback-author-sex": "Femmina",
+              "feedaty-feedback-author": "Anna",
+              "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+          },
+          {
+              "feedaty-feedback-author-sex": "Femmina",
+              "feedaty-feedback-author": "Maria",
+              "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+          }
+      ],
+      "feedaty-male-image": "",
+      "feedaty-female-image": ""
+    },
     "teleconsulting": {
       "title1": "Prima visita di fisioterapia?",
       "title2": "Inizia con un consulto video o telefonico",
