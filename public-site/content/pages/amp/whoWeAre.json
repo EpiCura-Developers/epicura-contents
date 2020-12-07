@@ -1,0 +1,79 @@
+{
+    "metaDescription": {
+        "title": "EpiCura",
+        "description": "Siamo il primo poliambulatorio digitale in Italia."
+    },
+    "site-who-we-are-header-title": "Chi siamo",
+    "site-who-we-are-header-subtitle": "Sognatori, creativi e appassionati: vogliamo semplificare la sanità e renderla migliore per tutti.",
+    "site-who-we-are-header-img": "",
+    "site-who-we-are-header-color": "#CEF5F2",
+    "site-who-we-are-description-title": "Siamo il primo poliambulatorio digitale in Italia",
+    "site-who-we-are-description-text": "Immaginiamo un mondo in cui tutti quanti possano prendersi cura della propria salute in modo semplice e veloce, senza lunghe attese e infiniti iter burocratici. Vogliamo erogare servizi sanitari e socio assistenziali di altissimo livello e solo con personale qualificato e selezionato, attraverso l'utilizzo della tecnologia per semplificare la vita dei nostri pazienti e dei loro familiari.",
+    "site-who-we-are-description-img": "",
+    "site-who-we-are-relation-work": {},
+    "site-who-we-are-team-title": "Il team EpiCura",
+    "site-who-we-are-team-img": "",
+    "site-who-we-are-slogan": "Sognatori, creativi e appassionati: vogliamo semplificare la sanità e renderla migliore per tutti.",
+    "site-who-we-are-statistics": [
+        {
+            "site-who-we-are-statistic-value": "2017",
+            "site-who-we-are-statistic-label": "Anno di nascita"
+        },
+        {
+            "site-who-we-are-statistic-value": "3M",
+            "site-who-we-are-statistic-label": "Finanziamenti"
+        },
+        {
+            "site-who-we-are-statistic-value": "5.000",
+            "site-who-we-are-statistic-label": "Interventi erogati"
+        },
+        {
+            "site-who-we-are-statistic-value": "+3000",
+            "site-who-we-are-statistic-label": "Pazienti aiutati"
+        }
+    ],
+    "site-who-we-are-our-values-title": "Cosa ci rende speciali",
+    "site-who-we-are-our-values-share-text": "Condividi i nostri valori e hai qualcosa di speciale da portare in EpiCura? Scopri chi stiamo cercando.",
+    "site-who-we-are-our-values-btn-text": "Entra nel team",
+    "site-who-we-are-our-values-link": "/",
+    "site-who-we-are-our-values": [
+        {
+            "site-who-we-are-our-value-image": "",
+            "site-who-we-are-our-value-title": "Le persone al centro",
+            "site-who-we-are-our-value-subtitle": "Progettiamo e sviluppiamo servizi su misura dei nostri pazienti. È per questo che abbiamo recensioni che fanno invidia."
+        },
+        {
+            "site-who-we-are-our-value-image": "",
+            "site-who-we-are-our-value-title": "Un grande obiettivo condiviso",
+            "site-who-we-are-our-value-subtitle": "Non abbiamo la pretesa di andare sulla luna, vogliamo solo rivoluzionare il sistema della salute e del benessere."
+        },
+        {
+            "site-who-we-are-our-value-image": "",
+            "site-who-we-are-our-value-title": "Agili, flessibili e veloci",
+            "site-who-we-are-our-value-subtitle": "Non facciamo in tempo ad elaborare un’idea che ci stiamo già lavorando sopra: è il nostro miglior modo per capire se funzionerà."
+        },
+        {
+            "site-who-we-are-our-value-image": "",
+            "site-who-we-are-our-value-title": "Menti brillanti e determinate",
+            "site-who-we-are-our-value-subtitle": "Ci piace il pezzo di carta, ma puntiamo molto a qualità che non si imparano sui libri. Nessuno è stato maltrattato durante la selezione."
+        },
+        {
+            "site-who-we-are-our-value-image": "",
+            "site-who-we-are-our-value-title": "Collaborazione e crescita continua",
+            "site-who-we-are-our-value-subtitle": "Non riusciamo a vederci come semplici colleghi. Ognuno di noi ha qualcosa da insegnare o imparare dall'altro, molto umilmente."
+        }
+    ],
+    "site-who-we-are-contact": "Vuoi metterti in contatto con noi?",
+    "site-who-we-are-contact-list": [
+        {
+            "site-who-we-are-contact-img": "",
+            "site-who-we-are-contact-text": "Per enti, aziende e privati",
+            "site-who-we-are-contact-phone": "800909209",
+            "site-who-we-are-contact-email": "informazioni@epicuramed.it"
+        },
+        {
+            "site-who-we-are-contact-img": "",
+            "site-who-we-are-contact-text": "Per professionisti che vogliono collaborare"
+        }
+    ]
+}
