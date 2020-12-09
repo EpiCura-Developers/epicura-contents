@@ -9,145 +9,149 @@
         "site-search-header-img": "",
         "site-search-header-input-title": "Cerchi un professionista?",
         "site-search-header-services-title": "I nostri servizi",
-        "site-search-header-relation-services": {
-            "options-group": [
-                {
-                    "option-link": "/fisioterapista/",
-                    "option-label": "Fisioterapista",
-                    "option-filter-category": "specialist",
-                    "option-style-object-like": "",
-                    "option-is-new": false
-                },
-                {
-                    "option-link": "/medico-di-base/",
-                    "option-label": "Medico di base",
-                    "option-filter-category": "specialist",
-                    "option-style-object-like": "",
-                    "option-is-new": false
-                },
-                {
-                    "option-link": "/infermiere/",
-                    "option-label": "Infermiere",
-                    "option-filter-category": "specialist",
-                    "option-style-object-like": "",
-                    "option-is-new": false
-                },
-                {
-                    "option-link": "/pediatra/",
-                    "option-label": "Pediatra",
-                    "option-filter-category": "specialist",
-                    "option-style-object-like": "",
-                    "option-is-new": false
-                },
-                {
-                    "option-link": "/psicoterapeuta/",
-                    "option-label": "Psicoterapeuta",
-                    "option-filter-category": "specialist",
-                    "option-style-object-like": "",
-                    "option-is-new": false
-                },
-                {
-                    "option-link": "/psicologo/",
-                    "option-label": "Psicologo",
-                    "option-filter-category": "specialist",
-                    "option-style-object-like": "",
-                    "option-is-new": false
-                },
-                {
-                    "option-link": "/veterinario/",
-                    "option-label": "Veterinario",
-                    "option-filter-category": "veterinary",
-                    "option-style-object-like": "",
-                    "option-is-new": false
-                },
-                {
-                    "option-link": "/massaggiatore-professionale/",
-                    "option-label": "Massaggiatore",
-                    "option-filter-category": "welfare",
-                    "option-style-object-like": "",
-                    "option-is-new": false
-                },
-                {
-                    "option-link": "/osteopata/",
-                    "option-label": "Osteopata",
-                    "option-filter-category": "welfare",
-                    "option-style-object-like": "",
-                    "option-is-new": false
-                },
-                {
-                    "option-link": "/assistente-domiciliare/",
-                    "option-label": "Assistente domiciliare",
-                    "option-filter-category": "homecare",
-                    "option-style-object-like": "",
-                    "option-is-new": false
-                },
-                {
-                    "option-link": "/videoconsulti/",
-                    "option-label": "Come funziona?",
-                    "option-filter-category": "videoconsultation",
-                    "option-style-object-like": {
-                        "color": "#909090"
+        "site-search-header-relation-services": [
+            {
+                "section-title": "Assistenza alla persona",
+                "section-options": [
+                    {
+                        "option-link": "/assistente-domiciliare/",
+                        "option-label": "Assistente domiciliare",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    }
+                ]
+            },
+            {
+                "section-title": "Benessere e cura",
+                "section-options": [
+                    {
+                        "option-link": "/massaggiatore-professionale/",
+                        "option-label": "Massaggiatore",
+                        "option-style-object-like": "",
+                        "option-is-new": false
                     },
-                    "option-is-new": true
-                },
-                {
-                    "option-link": "/fisioterapista-videoconsulto/",
-                    "option-label": "Fisioterapista",
-                    "option-filter-category": "videoconsultation",
-                    "option-style-object-like": "",
-                    "option-is-new": true
-                },
-                {
-                    "option-link": "/osteopata-videoconsulto/",
-                    "option-label": "Osteopata",
-                    "option-filter-category": "videoconsultation",
-                    "option-style-object-like": "",
-                    "option-is-new": true
-                },
-                {
-                    "option-link": "/veterinario-videoconsulto/",
-                    "option-label": "Veterinario",
-                    "option-filter-category": "videoconsultation",
-                    "option-style-object-like": "",
-                    "option-is-new": true
-                },
-                {
-                    "option-link": "/pediatra-videoconsulto/",
-                    "option-label": "Pediatra",
-                    "option-filter-category": "videoconsultation",
-                    "option-style-object-like": "",
-                    "option-is-new": true
-                },
-                {
-                    "option-link": "/medico-di-base-videoconsulto/",
-                    "option-label": "Medico di base",
-                    "option-filter-category": "videoconsultation",
-                    "option-style-object-like": "",
-                    "option-is-new": true
-                },
-                {
-                    "option-link": "/infermiere-videoconsulto/",
-                    "option-label": "Infermiere",
-                    "option-filter-category": "videoconsultation",
-                    "option-style-object-like": "",
-                    "option-is-new": true
-                },
-                {
-                    "option-link": "/psicologo-videoconsulto/",
-                    "option-label": "Psicologo",
-                    "option-filter-category": "videoconsultation",
-                    "option-style-object-like": "",
-                    "option-is-new": true
-                },
-                {
-                    "option-link": "/nutrizionista-videoconsulto/",
-                    "option-label": "Nutrizionista",
-                    "option-filter-category": "videoconsultation",
-                    "option-style-object-like": "",
-                    "option-is-new": true
-                }
-            ]
-        }
+                    {
+                        "option-link": "/osteopata/",
+                        "option-label": "Osteopata",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    }
+                ]
+            },
+            {
+                "section-title": "Specialisti",
+                "section-options": [
+                    {
+                        "option-link": "/fisioterapista/",
+                        "option-label": "Fisioterapista",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    },
+                    {
+                        "option-link": "/medico-di-base/",
+                        "option-label": "Medico di base",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    },
+                    {
+                        "option-link": "/infermiere/",
+                        "option-label": "Infermiere",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    },
+                    {
+                        "option-link": "/pediatra/",
+                        "option-label": "Pediatra",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    },
+                    {
+                        "option-link": "/psicoterapeuta/",
+                        "option-label": "Psicoterapeuta",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    },
+                    {
+                        "option-link": "/psicologo/",
+                        "option-label": "Psicologo",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    }
+                ]
+            },
+            {
+                "section-title": "Per l'animale",
+                "section-options": [
+                    {
+                        "option-link": "/veterinario/",
+                        "option-label": "Veterinario",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    }
+                ]
+            },
+            {
+                "section-title": "Videoconsulto",
+                "section-options": [
+                    {
+                        "option-link": "/videoconsulti/",
+                        "option-label": "Come funziona?",
+                        "option-style-object-like": {
+                            "color": "#909090"
+                        },
+                        "option-is-new": true
+                    },
+                    {
+                        "option-link": "/fisioterapista-videoconsulto/",
+                        "option-label": "Fisioterapista",
+                        "option-style-object-like": "",
+                        "option-is-new": true
+                    },
+                    {
+                        "option-link": "/osteopata-videoconsulto/",
+                        "option-label": "Osteopata",
+                        "option-style-object-like": "",
+                        "option-is-new": true
+                    },
+                    {
+                        "option-link": "/veterinario-videoconsulto/",
+                        "option-label": "Veterinario",
+                        "option-style-object-like": "",
+                        "option-is-new": true
+                    },
+                    {
+                        "option-link": "/pediatra-videoconsulto/",
+                        "option-label": "Pediatra",
+                        "option-style-object-like": "",
+                        "option-is-new": true
+                    },
+                    {
+                        "option-link": "/medico-di-base-videoconsulto/",
+                        "option-label": "Medico di base",
+                        "option-style-object-like": "",
+                        "option-is-new": true
+                    },
+                    {
+                        "option-link": "/infermiere-videoconsulto/",
+                        "option-label": "Infermiere",
+                        "option-style-object-like": "",
+                        "option-is-new": true
+                    },
+                    {
+                        "option-link": "/psicologo-videoconsulto/",
+                        "option-label": "Psicologo",
+                        "option-style-object-like": "",
+                        "option-is-new": true
+                    },
+                    {
+                        "option-link": "/nutrizionista-videoconsulto/",
+                        "option-label": "Nutrizionista",
+                        "option-style-object-like": "",
+                        "option-is-new": true
+                    }
+                ]
+            }
+        ]
     },
     "service-nav-bar-img": "",
     "site-landing-page-relation-section": [

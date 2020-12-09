@@ -1,4 +1,8 @@
 {
+  "metaDescription": {
+    "title": "EpiCura",
+    "description": "Siamo il primo poliambulatorio digitale in Italia."
+  },
   "title-color": "#002E4D",
   "header": {
     "title": "Medico di base",
