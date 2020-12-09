@@ -3,7 +3,29 @@
     "title": "Psicologo a Roma",
     "description": "Psicologi a Roma e area metropolitana in studio, a domicilio e in video consulto. Psicologi per ansia, depressione, disturbi psicologici, 7 giorni su 7, nessuna lista d'attesa."
   },
-  "showPricesInCardADW": true,
+  "prices_adw": {
+    "startingFromLabel": "A partire da",
+    "cards": [
+      {
+        "title": "Videoseduta",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "price": "40",
+        "icon": "videoseduta"
+      },
+      {
+        "title": "Seduta singola in studio",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "price": "50",
+        "icon": "seduta-singola-studio"
+      },
+      {
+        "title": "Seduta singola a domicilio",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "price": "60",
+        "icon": "seduta-singola-domicilio"
+      }
+    ]
+  },
   "prezzi_title": "I prezzi di Psicologia a Roma",
   "come_funziona": {
     "title": "Come funziona",
