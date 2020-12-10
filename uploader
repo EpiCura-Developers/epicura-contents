@@ -1,3 +1,0 @@
-aws s3 sync . s3://contents-production-contentbucket-ak729pkhknco/development/ --delete --exclude ".gitignore" --exclude "uploader" --exclude "README.md" --exclude ".prettierrc.yml" --exclude ".git/*" --exclude ".DS_Store" 
-
-aws cloudfront create-invalidation --distribution-id E35TMY7J4QZN59 --paths "/development/*"
