@@ -1,0 +1,11 @@
+{
+    "discipline-specialist": "Pediatra",
+    "discipline-text-with-price": "A partire da 30€",
+    "discipline-image": "",
+    "discipline-description": "Visite, terapie e cure specialistiche per i più piccoli, a domicilio.",
+    "discipline-background-color": "#F2EAFF",
+    "discipline-link": "/pediatra/",
+    "discipline-specialities": [
+        "Massaggio"
+    ]
+}

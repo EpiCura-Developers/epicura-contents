@@ -1,0 +1,107 @@
+{
+  "metaDescription": {
+    "title": "Videoconsulti e consulti medici online",
+    "description": "Consulti per richiedere pareri specialistici ai migliori professionisti sanitari. Veloce, comodo e semplice. Il professionista sul tuo telefono!"
+  },
+  "faq": {
+    "title": "Domande e risposte",
+    "list": [
+      {
+        "question": "Come avverrà il videoconsulto?",
+        "answer": "Dopo il pagamento, il professionista ti contatterà nel giro di poco tempo in modo che possiate definire quale piattaforma utilizzare per l’erogazione del videoconsulto."
+      },
+      {
+        "question": "Cosa posso richiedere durante un videoconsulto?",
+        "answer": "Potrai richiedere consulenza sull’individuazione dello specialista adeguato alla definizione di una diagnosi; consulenza su patologia già accertata o sulla tipologia di trattamenti e terapie da attuare (già prescritte); consigli di tipo specialistico su segni clinici e sintomi presenti al momento del videoconsulto; dubbi su qualunque elemento concernente la propria salute o quella dei propri cari."
+      },
+      {
+        "question": "Quanto dura un videoconsulto",
+        "answer": "Indicativamente, la durata del consulto è di 15-20 minuti."
+      },
+      {
+        "question": "Il consulto è riservato?",
+        "answer": "Tutto ciò che verrà detto tra te e lo specialista è strettamente confidenziale e legato al segreto professionale, la riservatezza è garantita."
+      },
+      {
+        "question": "Perché dovrei scegliere il videoconsulto?",
+        "answer": "L'opportunità di avere consulti specialistici a portata di click e senza attese o spostamenti, soprattutto in un periodo come quello in cui viviamo, non è solo una soluzione comoda, ma anche consigliabile!"
+      },
+      {
+        "question": "Posso scegliere l'ora in cui ricevere il videoconsulto?",
+        "answer": "Sì, sarai tu a indicare un'orario per il consulto online. Ne potrai parlare comunque con il professionista, subito dopo il pagamento."
+      }
+    ]
+  },
+  "header": {
+    "title": "Videoconsulto specialistico",
+    "subtitle": "Consulti online con esperti a 25€",
+    "dropdownLabel": "Seleziona specialità",
+    "dropdownPlaceholder": "Seleziona specialità",
+    "bkgColor": "linear-gradient(315deg, rgba(129,184,235,1) 0%, rgba(220,246,250,1) 100%)",
+    "textColor": "dark"
+  },
+  "body": {
+    "htmlContent": "<h3>Dove e quando vuoi, senza liste di attesa.</h3><p>Se devi intraprendere un percorso specialistico per la prima volta, oppure vuoi ricevere un altro parere professionale su una diagnosi o una terapia prescritta, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.*</p><p style='color: #008075'>*Il servizio ha una durata di 20 minuti.</p>"
+  },
+  "carousel": {
+    "bkgColor": "#F5F8FF",
+    "title": "È utile per",
+    "slides": [
+      {
+        "icon": "/videoconsultation/carousel-icon",
+        "title": "Consulenza su patologia già accertata",
+        "description": "Se hai bisogno di un altro parere specialistico o di maggiori informazioni su una diagnosi poco chiara."
+      },
+      {
+        "icon": "/videoconsultation/carousel-icon",
+        "title": "Definire una diagnosi adeguata",
+        "description": "Se vuoi inquadrare meglio una condizione clinica per intraprendere il percorso specialistico più adeguato per il tuo caso."
+      },
+      {
+        "icon": "/videoconsultation/carousel-icon",
+        "title": "Consulenza su prescrizione medica",
+        "description": "Se necessiti di indicazioni più dettagliate su una prescrizione medica già emessa da un altro professionista."
+      },
+      {
+        "icon": "/videoconsultation/carousel-icon",
+        "title": "Valutazione specialistica su segni clinici e sintomi ",
+        "description": "Se non vuoi aspettare e preferisci ricevere una valutazione specialistica immediata, saltando attese e liste infinite."
+      },
+      {
+        "icon": "/videoconsultation/carousel-icon",
+        "title": "Parere su trattamento già prescritto",
+        "description": "Se vuoi confrontarti con uno specialista su un trattamento e/o un piano terapeutico prescritto da un altro professionista."
+      },
+      {
+        "icon": "/videoconsultation/carousel-icon",
+        "title": "Informazioni su accertamenti diagnostici",
+        "description": "Se ti hanno prescritto esami strumentali o accertamenti diagnostici e vuoi approfondire su come prepararti al meglio."
+      }
+    ]
+  },
+  "come_funziona": {
+    "title": "Come funziona",
+    "text": "Videoconsulti e consulti online per avere la sicurezza di pareri specialistici, la semplicità e la comodità di un servizio tempestivo e sempre a portata di click!",
+    "cards": [
+      {
+        "image": "scegli-soluzione",
+        "title": "Scegli la disciplina",
+        "text": "Offriamo un’ampia scelta di servizi sanitari per rispondere esattamente a ciò di cui hai bisogno. Se hai un problema e non sai a chi rivolgerti, il nostro team di esperti ti aiuterà ad individuare la soluzione più adatta a te."
+      },
+      {
+        "image": "prenota-seduta",
+        "title": "Paga comodamente",
+        "text": "Paga comodamente online e ti metteremo in contatto con lo specialista che fa al caso tuo. Nessuna lista di attesa o scomodi spostamenti, avrai tutto il supporto di cui hai bisogno direttamente sul tuo telefono."
+      },
+      {
+        "image": "videoconsultation",
+        "title": "Parla con lo specialista",
+        "text": "Rilassati e prenditi cura della tua salute o quella del tuo animale, a tutto il resto pensiamo noi. I nostri esperti sono disponibili 7 giorni su 7, anche in orario serale."
+      }
+    ]
+  },
+  "where": {
+    "title": "Dove avviene la visita",
+    "description": "Dopo aver prenotato riceverai una mail con una guida che ti spiega nel dettaglio come prepararti al meglio all’incontro telefonico o video con lo specialista. Tutti i nostri professionisti utilizzano queste tre piattaforme e puoi decidere tra:"
+  }
+}

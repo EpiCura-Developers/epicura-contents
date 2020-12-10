@@ -1,0 +1,115 @@
+[
+    {
+        "option-link": "/chi-siamo/",
+        "option-label": "Chi siamo",
+        "option-is-complex": true,
+        "option-is-amp": true,
+        "option-style-object-like": {
+            "font-weight": "bold",
+            "font-size": "1.25rem"
+        }
+    },
+    {
+        "option-link": "/registrazione/",
+        "option-label": "Registrati",
+        "option-is-complex": true,
+        "option-is-amp": false,
+        "option-style-object-like": {
+            "font-weight": "bold",
+            "margin-top": "5px",
+            "font-size": "1.25rem"
+        }
+    },
+    {
+        "option-link": "/professionisti/",
+        "option-label": "I nostri professionisti",
+        "option-is-complex": true,
+        "option-is-amp": false,
+        "option-style-object-like": {
+            "font-weight": "bold",
+            "margin-top": "5px",
+            "font-size": "1.25rem"
+        }
+    },
+    {
+        "option-link": "/professionisti-lavoro/",
+        "option-label": "Sei un professionista?",
+        "option-is-complex": true,
+        "option-is-amp": false,
+        "option-style-object-like": {
+            "font-weight": "bold",
+            "margin-top": "5px",
+            "font-size": "1.25rem"
+        }
+    },
+    {
+        "option-link": "/blog/",
+        "option-label": "Leggi il magazine",
+        "option-is-complex": true,
+        "option-is-amp": false,
+        "option-style-object-like": {
+            "margin-top": "30px",
+            "font-size": "1.25rem"
+        }
+    },
+    {
+        "option-link": "/domande-frequenti/",
+        "option-label": "Domande frequenti",
+        "option-is-complex": true,
+        "option-is-amp": false,
+        "option-style-object-like": {
+            "margin-top": "5px",
+            "font-size": "1.25rem"
+        }
+    },
+    {
+        "option-link": "https://www.feedaty.com/feedaty/reviews/epicuramed",
+        "option-label": "Tutte le recensioni",
+        "option-is-complex": false,
+        "option-is-amp": false,
+        "option-style-object-like": {
+            "margin-top": "5px",
+            "font-size": "1.25rem"
+        }
+    },
+    {
+        "option-link": "/rassegna-stampa/",
+        "option-label": "Rassegna stampa",
+        "option-is-complex": true,
+        "option-is-amp": true,
+        "option-style-object-like": {
+            "margin-top": "5px",
+            "font-size": "1.25rem"
+        }
+    },
+    {
+        "option-link": "/contattaci/",
+        "option-label": "Richiedi informazioni",
+        "option-is-complex": true,
+        "option-is-amp": false,
+        "option-style-object-like": {
+            "margin-top": "30px",
+            "font-size": "1.25rem"
+        }
+    },
+    {
+        "option-link": "/privacy-policy/",
+        "option-label": "Privacy Policy",
+        "option-is-complex": true,
+        "option-is-amp": false,
+        "option-style-object-like": {
+            "margin-top": "5px",
+            "font-size": "1.25rem"
+        }
+    },
+    {
+        "option-link": "/termini-e-condizioni/",
+        "option-label": "Termini e Condizioni",
+        "option-is-complex": true,
+        "option-is-amp": false,
+        "option-style-object-like": {
+            "margin-top": "5px",
+            "font-size": "1.25rem"
+        }
+    }
+]

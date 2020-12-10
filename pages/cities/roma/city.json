@@ -1,0 +1,1142 @@
+{
+  "metaDescription": {
+    "title": "EpiCura - Vicini alla tua salute",
+    "description": "Cura la tua salute e quella di chi ami a Roma e area metropolitana con EpiCura, primo poliambulatorio digitale in Italia. Servizi medici, sanitari e assistenziali 7 giorni su 7, anche in orari serali, senza liste d'attesa."
+  },
+  "come_funziona": {
+    "title": "Come funziona",
+    "text": "Il settore della sanità è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno, rende l'accesso alle cure efficace, comodo e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Roma e area metropolitana grazie a 3 semplici passaggi:",
+    "cards": [
+      {
+        "image": "scegli-soluzione",
+        "title": "Scegli la soluzione",
+        "text": "EpiCura offre un’ampia scelta di servizi per permettere al paziente di trovare esattamente ciò di cui ha bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
+      },
+      {
+        "image": "prenota-seduta",
+        "title": "Prenota la seduta",
+        "text": "Contattaci telefonicamente o prenota direttamente online, troveremo il miglior specialista che ti guiderà nel percorso terapeutico. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
+      },
+      {
+        "image": "migliora-salute",
+        "title": "Migliora la tua salute",
+        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo corpo. Potrai contattarci per qualunque esigenza."
+      }
+    ]
+  },
+  "subheader": {
+    "prenotaOnlineText": "Prenota online",
+    "textColor": "dark",
+    "professionistaText": "Sei un professionista?",
+    "professionistaUrl": "/professionisti/",
+    "titleBig": "La salute a Roma con Epicura",
+    "subtitleBig": "Il primo poliambulatorio digitale in Italia",
+    "description1": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
+    "description2": "Scopri i servizi che offriamo o richiedi informazioni per capire come possiamo soddisfare le tue necessità.",
+    "askInfoButtonText": "Richiedi informazioni"
+  },
+  "nostri_servizi": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "title": "I nostri servizi",
+    "startingFromText": "Interventi a partire da",
+    "list": {
+      "medicina-generale": {
+        "title": "Medicina generale",
+        "textColor": "light",
+        "image": "medicina-generale",
+        "price": "100€",
+        "prestazioni": [
+          "Visita generica",
+          "Certificati medici",
+          "Prescrizione esami strumentali e visite specialistiche",
+          "Prescrizione farmaci"
+        ],
+        "description": "Visite mediche a domicilio, senza alcuna lista d’attesa e anche nel weekend. I nostri medici offrono comodità oraria, 7 giorni su 7, per avere la sicurezza di uno specialista in qualsiasi momento."
+      },
+      "veterinaria": {
+        "title": "Veterinaria",
+        "textColor": "dark",
+        "image": "veterinaria",
+        "price": "15€",
+        "prestazioni": [
+          "Visita generica",
+          "Vaccini",
+          "Prelievi ed esami feci e urine",
+          "Prescrizione farmaci",
+          "Eutanasia"
+        ],
+        "description": "Interventi di medicina veterinaria rapidi e senza attesa direttamente a casa tua. Qualunque giorno della settimana e in orari serali per regalare al tuo animale la migliore salute possibile."
+      },
+      "osteopatia": {
+        "title": "Osteopatia",
+        "textColor": "dark",
+        "image": "osteopatia",
+        "price": "210€",
+        "prestazioni": [
+          "Osteopatia viscerale e strutturale",
+          "Osteopatia pediatrica e in gravidanza",
+          "Terapia cranio-sacrale",
+          "Trattamento osteopatico neonatale"
+        ],
+        "description": "Sedute di osteopatia a domicilio e in studio con i nostri professionisti certificati disponibili 7 giorni alla settimana. Per permettere al tuo corpo di tornare in forma e in equilibrio."
+      },
+      "infermieristica": {
+        "title": "Infermieristica",
+        "textColor": "dark",
+        "image": "infermieristica",
+        "price": "20€",
+        "prestazioni": [
+          "Medicazioni semplici e complesse",
+          "Flebo",
+          "Iniezioni",
+          "Clisteri",
+          "Rimozione punti di sutura",
+          "Cateterismi",
+          "Rilevazione parametri vitali"
+        ],
+        "description": "Interventi infermieristici a domicilio garantiti in 24 ore, 7 giorni alla settimana. I nostri infermieri professionisti operano senza alcuna lista di attesa per fornire un intervento repentino, sicuro ed efficace."
+      },
+      "assistenza-domiciliare": {
+        "title": "Assistenza domiciliare",
+        "textColor": "dark",
+        "image": "assistenza-domiciliare",
+        "price": "14€",
+        "prestazioni": [
+          "Igiene, bagno assistito, vestizione",
+          "Assistenza a ore o continuativa",
+          "Sostituzione badante",
+          "Assistenza notturna",
+          "Assistenza in ospedale"
+        ],
+        "description": "Assistenza domiciliare o in ospedale, diurna e notturna per anziani malati disabili, 7 giorni su 7, curata da personale con esperienza. Percorsi personalizzati per avere sempre qualcuno al proprio fianco."
+      },
+      "fisioterapia": {
+        "title": "Fisioterapia",
+        "textColor": "dark",
+        "image": "fisioterapia",
+        "price": "120€",
+        "prestazioni": [
+          "Riabilitazione ortopedica",
+          "Linfodrenaggio",
+          "Rieducazione posturale",
+          "Riabilitazione respiratoria",
+          "Terapia manuale e massoterapia"
+        ],
+        "description": "Servizi di fisioterapia a domicilio o in studio, 7 giorni su 7, anche in orari serali con professionisti certificati. Per migliorare la salute del tuo corpo nella massima comodità e senza dover aspettare."
+      },
+      "pediatria": {
+        "title": "Pediatria",
+        "textColor": "dark",
+        "image": "pediatria",
+        "price": "130€",
+        "prestazioni": [
+          "Visita generica",
+          "Prescrizione farmaci",
+          "Prescrizione esami strumentali e visite specialistiche"
+        ],
+        "description": "Visite pediatriche a domicilio con specialisti con esperienza, garantite tutti i giorni della settimana, entro 24 ore."
+      },
+      "psicologia": {
+        "title": "Psicologia",
+        "textColor": "dark",
+        "image": "psicologia",
+        "price": "40€",
+        "prestazioni": [
+          "Ascolto e sostegno psicologico",
+          "Riabilitazione psicologica",
+          "Parent training e sostegno alla genitorialità"
+        ],
+        "description": "Sedute di psicologia per un supporto fornito da specialisti che comprendono la situazione e aiutano il paziente a ritrovare il suo equilibrio. Sedute in studio, a domicilio o in videoconsulto."
+      },
+      "psicoterapia": {
+        "title": "Psicoterapia",
+        "textColor": "dark",
+        "price": "50€",
+        "prestazioni": [
+          "Psicoanalisi",
+          "Psicoterapia cognitiva-costuttivista",
+          "Psicoterapia psicodinamica",
+          "Psicoterapia sistemica-familiare"
+        ],
+        "description": "Sedute di psicoterapia per un supporto fornito da specialisti che comprendono la situazione e aiutano il paziente a ritrovare il suo equilibrio. Sedute in studio, a domicilio o in videoconsulto."
+      },
+      "nutrizione": {
+        "title": "Nutrizione",
+        "textColor": "dark",
+        "image": "nutrizione",
+        "price": "100€",
+        "prestazioni": [
+          "Valutazione e monitoraggio apporto alimentare",
+          "Elaborazione diete",
+          "Misurazione adipometrica, bioimpendeziometrica e con plicometro"
+        ],
+        "description": "Servizi di nutrizione a domicilio o in studio, 7 giorni su 7, anche in orari serali con professionisti certificati. Per ritrovare l'equilibrio e la salute del tuo corpo."
+      },
+      "massaggi": {
+        "title": "Massaggi",
+        "textColor": "dark",
+        "image": "massaggi",
+        "price": "65€",
+        "prestazioni": [
+          "Massaggio sportivo",
+          "Massaggio svedese",
+          "Massaggio terapeutico",
+          "Massaggio linfodrenante",
+          "Massaggio connettivale",
+          "Terapie fisiche"
+        ],
+        "description": "Massaggi professionali a domicilio per il benessere di tutto il corpo e l'eliminazione di stress e ansie. Richiedi subito un professionista certificato."
+      }
+    }
+  },
+  "nostri_professionisti": {
+    "title": "I nostri professionisti",
+    "text": "",
+    "professionisti": [
+      {
+        "name": "Nicolò Giordano",
+        "disciplina": "Fisioterapista",
+        "prestazioni": [
+          "Riabilitazione posturale",
+          "Riabilitazione ortopedica",
+          "Linfodreanggio",
+          "Terapia Manuale"
+        ],
+        "avatar": "nicolo-giordano"
+      },
+      {
+        "name": "Denise Albanese",
+        "disciplina": "Veterinaria",
+        "prestazioni": [
+          "Visita generica",
+          "Sverminazione",
+          "Vaccini",
+          "Alimentazione animale"
+        ],
+        "avatar": "denise-albanese"
+      },
+      {
+        "name": "Giuditta Seassaro",
+        "disciplina": "Psicologa",
+        "prestazioni": [
+          "Psicologia infantile",
+          "Psicologia dell'età evolutiva",
+          "Psicologa per DSA",
+          "Psicologia giovane età adulta"
+        ],
+        "avatar": "giuditta-seassaro"
+      },
+      {
+        "name": "Cristian Valeri",
+        "disciplina": "Infermiere",
+        "prestazioni": [
+          "Iniezioni",
+          "Assistenza infermieristica",
+          "Medicazioni semplici e complesse"
+        ],
+        "avatar": "cristian-valeri"
+      }
+    ]
+  },
+  "feedaty": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "title": "Oltre 3000 famiglie soddisfatte",
+    "subtitle": "Le recensioni di chi ci ha scelto",
+    "average": "media recensioni",
+    "vote": "4,7",
+    "voteLiteral": "Ottimo",
+    "howManyReviews": "Più di 300 recensioni",
+    "logo": "feedaty",
+    "allReviewsText": "Tutte le recensioni",
+    "cards": [
+      {
+        "image": "male",
+        "title": "Maurizio",
+        "text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+      },
+      {
+        "image": "female",
+        "title": "Anna",
+        "text": "Una novità incredibile. Ottima organizzazione e professionalità. Bastano pochi messaggi per organizzare un appuntamento e la visita a domicilio. Il dottore cortese e in gamba! La fattura mi è Arrivata qualche giorno dopo tramite e-mail. Servizio eccellente!"
+      },
+      {
+        "image": "female",
+        "title": "Federica",
+        "text": "Personale altamente qualificato, gentilissimi nella fase di prenotazione, e negli orari concordati. Prezzi concorrenziali. Di meglio in giro credo che non ci sia davvero."
+      }
+    ]
+  },
+  "prenotazione": {
+    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
+    "subtitle": "Inizia subito a stare meglio con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
+    "ctaCall": "Vuoi prenotare telefonicamente?"
+  },
+  "faqs": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "title": "Domande frequenti",
+    "list": [
+      {
+        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
+        "answer": "Sì, tutte le prestazioni sanitarie sono detraibili dalla dichiarazione dei redditi. Per farlo basterà utilizzare la fattura che riceverai da EpiCura dopo il pagamento dell'intervento."
+      },
+      {
+        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
+        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
+      },
+      {
+        "question": "Avete un centro o uno studio dove avvengono le prestazioni?",
+        "answer": "Non abbiamo un nostro centro sul territorio, ma ci appoggiamo agli studi privati dei professionisti che collaborano con noi."
+      },
+      {
+        "question": "Cosa succede se non mi trovo bene con il professionista?",
+        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra professionista e paziente, per questo motivo se non ti trovi bene con lo specialista basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
+      }
+    ]
+  },
+  "magazine": {
+    "title": "Ultimi articoli dal nostro Magazine",
+    "continueBtnText": "Continua",
+    "magazinesBig": [
+      {
+        "image": "assistenza",
+        "title": "I sintomi della demenza senile",
+        "text": "Ad oggi, sono state individuate diverse tipologie di demenza senile. Se le cause di questa malattia restano ancora poco chiare, sono perfettamente noti i sintomi della demenza senile, che annoverano una vasta gamma di problemi capaci di gravare su ogni aspetto dell'esistenza.",
+        "url": "https://www.epicuramed.it/blog/iii-eta/i-sintomi-della-demenza-senile/"
+      },
+      {
+        "image": "veterinaria",
+        "title": "5 cose da fare quando prendete un cucciolo",
+        "text": "Le cure veterinarie sono necessarie durante tutto il corso della vita del vostro animale, tuttavia sono particolarmente importanti soprattutto nelle prime settimane. Vi sono infatti degli accorgimenti che devono essere eseguiti sui cuccioli per assicurargli una sicura e tranquilla crescita. ",
+        "url": "https://www.epicuramed.it/blog/veterinaria/prima-notte-cucciolo-5-cose-da-fare/"
+      }
+    ],
+    "magazinesSmall": [
+      {
+        "image": "nutrizione",
+        "title": "Qual è la differenza tra dietologo e nutrizionista",
+        "text": "nutrizionista e dietologo/nutrizione",
+        "url": "https://www.epicuramed.it/blog/nutrizionista/qual-e-la-differenza-tra-dietologo-e-nutrizionista/",
+        "minutes": "5"
+      },
+      {
+        "image": "psico",
+        "title": "Quali sono i sintomi fisici della depressione",
+        "text": "depressione/psicologia",
+        "url": "https://www.epicuramed.it/blog/psicologia/sintomi-fisici-della-depressione/",
+        "minutes": "5"
+      },
+      {
+        "image": "fisioterapia",
+        "title": "Gambe gonfie e doloranti: Ecco cos’è il linfodrenaggio, 10 cose da sapere",
+        "text": "gambe gonfie e linfodrenaggio/fisioterapia",
+        "url": "https://www.epicuramed.it/blog/fisioterapia/gambe-gonfie-e-doloranti-cose-il-linfodrenaggio/",
+        "minutes": "5"
+      },
+      {
+        "image": "medicina",
+        "title": "Reflusso gastroesofageo ed ernia iatale, riconoscere i sintomi e le cause",
+        "text": "reflusso gastrico/medicina",
+        "url": "https://www.epicuramed.it/blog/medicina-generale/reflusso-gastroesofageo-e-cause-ernia-iatale/",
+        "minutes": "5"
+      }
+    ]
+  },
+  "latest_articles": {
+    "title": "Ultimi articoli su di noi",
+    "titleFbAdw": "Parlano di noi",
+    "allArticlesLink": "/rassegna-stampa/",
+    "allArticlesText": "Tutti gli articoli",
+    "readArticleText": "Leggi articolo",
+    "articles": [
+      {
+        "image": "ilsole24ore",
+        "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
+        "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
+      },
+      {
+        "image": "forbes",
+        "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
+        "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
+      },
+      {
+        "image": "corrieredellasera",
+        "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
+        "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
+      },
+      {
+        "image": "lastampa",
+        "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
+        "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
+      }
+    ]
+  },
+  "servizi_piu_richiesti": {
+    "title": "I servizi più richiesti",
+    "list": [
+      {
+        "title": "Assistente domiciliare a Roma",
+        "url": "/assistente-domiciliare"
+      },
+      {
+        "title": "Fisioterapista a Roma",
+        "url": "/fisioterapista"
+      },
+      {
+        "title": "Medico Generico a Roma",
+        "url": "/medico-di-base"
+      },
+      {
+        "title": "Veterinario a Roma",
+        "url": "/veterinario"
+      },
+      {
+        "title": "Infermiere a Roma",
+        "url": "/infermiere"
+      },
+      {
+        "title": "Osteopata a Roma",
+        "url": "/osteopata"
+      },
+      {
+        "title": "Pediatra a Roma",
+        "url": "/pediatra"
+      },
+      {
+        "title": "Psicologo a Roma",
+        "url": "/psicologo"
+      },
+      {
+        "title": "Psicoterapeuta a Roma",
+        "url": "/psicoterapeuta"
+      },
+      {
+        "title": "Nutrizionista a Roma",
+        "url": "/nutrizionista"
+      },
+      {
+        "title": "Massaggiatore professionale a Roma",
+        "url": "/massaggiatore-professionale"
+      }
+    ]
+  },
+  "map": {
+    "showAllText": "Mostra tutti",
+    "hideAllText": "Mostra meno",
+    "doveCiTroviText": "I professionisti di EpiCura sono disponibili in tutta Roma",
+    "quartieriText": "Controlla qui i comuni coperti dal servizio",
+    "mapCenter": "41.893056,12.482778",
+    "markers": [
+      {
+        "location": "41.784148,12.363997",
+        "name": "Acilia"
+      },
+      {
+        "location": "41.910556,12.476389",
+        "name": "Piazza del Popolo"
+      },
+      {
+        "location": "41.90361,12.48833",
+        "name": "Barberini"
+      },
+      {
+        "location": "41.8956,12.47217",
+        "name": "Campo de' Fiori"
+      },
+      {
+        "location": "41.890278,12.492222",
+        "name": "Colosseo - Fori Imperiali"
+      },
+      {
+        "location": "41.8924,12.4775",
+        "name": "Ghetto - Portico d'Ottavia"
+      },
+      {
+        "location": "41.89528,12.47694",
+        "name": "Largo Argentina"
+      },
+      {
+        "location": "41.901389,12.478611",
+        "name": "Montecitorio"
+      },
+      {
+        "location": "41.898561,12.47685",
+        "name": "Pantheon"
+      },
+      {
+        "location": "41.898889,12.473056",
+        "name": "Piazza Navona"
+      },
+      {
+        "location": "41.908078,12.465706",
+        "name": "Sallustiano"
+      },
+      {
+        "location": "41.90595,12.482058",
+        "name": "Piazza di Spagna"
+      },
+      {
+        "location": "41.902773,12.485952",
+        "name": "Trevi"
+      },
+      {
+        "location": "41.89417,12.47007",
+        "name": "Via Giulia"
+      },
+      {
+        "location": "41.907978,12.489413",
+        "name": "Vittorio Veneto"
+      },
+      {
+        "location": "41.893413,12.496541",
+        "name": "Colle Oppio"
+      },
+      {
+        "location": "41.916642,12.460777",
+        "name": "Mazzini - Delle Vittorie"
+      },
+      {
+        "location": "41.935096,12.506325",
+        "name": "Pinciano - Villa Ada"
+      },
+      {
+        "location": "41.933072,12.475276",
+        "name": "Villaggio Olimpico"
+      },
+      {
+        "location": "41.926891,12.480953",
+        "name": "Euclide"
+      },
+      {
+        "location": "41.933068,12.515006",
+        "name": "Africano - Villa Chigi"
+      },
+      {
+        "location": "41.947266,12.467532",
+        "name": "Vigna Clara - Vigna Stelluti"
+      },
+      {
+        "location": "41.942665,12.479299",
+        "name": "Tor di Quinto"
+      },
+      {
+        "location": "41.897427,12.501077",
+        "name": "Repubblica"
+      },
+      {
+        "location": "41.904840,12.500343",
+        "name": "Castro Pretorio"
+      },
+      {
+        "location": "41.881906,12.513956",
+        "name": "Re di Roma"
+      },
+      {
+        "location": "41.887014,12.507359",
+        "name": "San Giovanni"
+      },
+      {
+        "location": "41.884797,12.522810",
+        "name": "Villa Fiorelli"
+      },
+      {
+        "location": "41.958045,12.571666",
+        "name": "Bologna"
+      },
+      {
+        "location": "41.909673,12.505925",
+        "name": "Policlinico"
+      },
+      {
+        "location": "41.805379,12.446136",
+        "name": "Mostacciano"
+      },
+      {
+        "location": "41.866604,12.535006",
+        "name": "Arco di Travertino"
+      },
+      {
+        "location": "41.947673,12.443572",
+        "name": "Cortina d'Ampezzo"
+      },
+      {
+        "location": "41.963318,12.467250",
+        "name": "Due Ponti"
+      },
+      {
+        "location": "41.974315,12.493263",
+        "name": "Saxa Rubra"
+      },
+      {
+        "location": "41.947459,12.535804",
+        "name": "Tufello"
+      },
+      {
+        "location": "41.934538,12.535364",
+        "name": "Città Giardino"
+      },
+      {
+        "location": "41.938635,12.527369",
+        "name": "Conca d'Oro - Valli"
+      },
+      {
+        "location": "41.978552,12.515055",
+        "name": "Fidene"
+      },
+      {
+        "location": "41.971366,12.537665",
+        "name": "Porta di Roma"
+      },
+      {
+        "location": "41.966207,12.516840",
+        "name": "Serpentara"
+      },
+      {
+        "location": "41.892853,12.553257",
+        "name": "Villa Gordiani"
+      },
+      {
+        "location": "41.884978,12.562590",
+        "name": "Tor de' Schiavi"
+      },
+      {
+        "location": "41.926616,12.426477",
+        "name": "Gemelli - Pineta Sacchetti"
+      },
+      {
+        "location": "41.844972,12.545847",
+        "name": "Quarto Miglio"
+      },
+      {
+        "location": "41.834354,12.506030",
+        "name": "Roma 70"
+      },
+      {
+        "location": "41.813706,12.545879",
+        "name": "Torricola - Tor Carbone"
+      },
+      {
+        "location": "41.840381,12.507194",
+        "name": "Rinnovamento"
+      },
+      {
+        "location": "41.803762,12.506141",
+        "name": "Tor Pagnotta"
+      },
+      {
+        "location": "41.845290,12.438659",
+        "name": "Trullo - Colle del Sole"
+      },
+      {
+        "location": "41.898400,12.412499",
+        "name": "Aurelio - Val Cannuta"
+      },
+      {
+        "location": "41.915020,12.384347",
+        "name": "Boccea"
+      },
+      {
+        "location": "41.930890,12.398114",
+        "name": "Torresina"
+      },
+      {
+        "location": "41.913428,12.395707",
+        "name": "Colle delle Muse"
+      },
+      {
+        "location": "41.984033,12.406743",
+        "name": "La Giustiniana"
+      },
+      {
+        "location": "42.009283,12.377096",
+        "name": "La Storta"
+      },
+      {
+        "location": "42.005851,12.478487",
+        "name": "Prima Porta"
+      },
+      {
+        "location": "41.940028,12.627097",
+        "name": "Settecamini"
+      },
+      {
+        "location": "41.904830,12.659637",
+        "name": "Ponte di Nona"
+      },
+      {
+        "location": "41.879748,12.617661",
+        "name": "Torre Angela"
+      },
+      {
+        "location": "41.860241,12.604826",
+        "name": "Giardinetti"
+      },
+      {
+        "location": "41.865757,12.373946",
+        "name": "Casal Lumbroso"
+      },
+      {
+        "location": "41.901366,12.378755",
+        "name": "Maglianella"
+      },
+      {
+        "location": "41.909069,12.448378",
+        "name": "Piazzale degli Eroi"
+      },
+      {
+        "location": "41.798960,12.430156",
+        "name": "Torrino Mezzocammino"
+      },
+      {
+        "location": "41.837337,12.543801",
+        "name": "Capannelle - Statuario"
+      },
+      {
+        "location": "41.778176,12.542709",
+        "name": "Divino Amore"
+      },
+      {
+        "location": "41.794283,12.461420",
+        "name": "Vallerano"
+      },
+      {
+        "location": "41.786325,12.566860",
+        "name": "Fioranello"
+      },
+      {
+        "location": "41.850440,12.454099",
+        "name": "Villa Bonelli"
+      },
+      {
+        "location": "41.787973,12.383552",
+        "name": "Casal Bernocchi"
+      },
+      {
+        "location": "41.792037,12.379771",
+        "name": "Centro Giano"
+      },
+      {
+        "location": "41.882682,12.581211",
+        "name": "Alessandrina"
+      },
+      {
+        "location": "41.901475,12.589990",
+        "name": "Tor Sapienza - La Rustica"
+      },
+      {
+        "location": "41.858760,12.592074",
+        "name": "Tor Tre Teste - Torre Maura"
+      },
+      {
+        "location": "41.839587,12.586996",
+        "name": "Campanelle"
+      },
+      {
+        "location": "41.843309,12.586996",
+        "name": "Anagnina"
+      },
+      {
+        "location": "41.840633,12.599589",
+        "name": "Romanina"
+      },
+      {
+        "location": "41.848689,12.620140",
+        "name": "Tor Vergata"
+      },
+      {
+        "location": "41.848038,12.536516",
+        "name": "Appia Pignatelli"
+      },
+      {
+        "location": "41.852983,12.498300",
+        "name": "Ardeatino"
+      },
+      {
+        "location": "41.850308,12.477046",
+        "name": "Montagnola"
+      },
+      {
+        "location": "41.845670,12.559951",
+        "name": "Appio Claudio"
+      },
+      {
+        "location": "41.870092,12.512591",
+        "name": "Appio Latino"
+      },
+      {
+        "location": "41.737158,12.700017",
+        "name": "Colli Albani"
+      },
+      {
+        "location": "41.893494,12.438063",
+        "name": "Aurelio"
+      },
+      {
+        "location": "41.902411,12.452276",
+        "name": "Città del Vaticano"
+      },
+      {
+        "location": "41.884782,12.468242",
+        "name": "Trastevere"
+      },
+      {
+        "location": "41.880117,12.462937",
+        "name": "Monteverde"
+      },
+      {
+        "location": "41.878458,12.486084",
+        "name": "San Saba - Caracalla"
+      },
+      {
+        "location": "41.882578,12.477683",
+        "name": "Aventino"
+      },
+      {
+        "location": "41.765829,12.372032",
+        "name": "Axa"
+      },
+      {
+        "location": "41.919806,12.441484",
+        "name": "Balduina"
+      },
+      {
+        "location": "41.915385,12.442638",
+        "name": "Medaglie d'Oro"
+      },
+      {
+        "location": "41.908870,12.465228",
+        "name": "Rione Prati"
+      },
+      {
+        "location": "41.918387,12.463871",
+        "name": "Vittoria"
+      },
+      {
+        "location": "41.906035,12.413994",
+        "name": "Battistini"
+      },
+      {
+        "location": "41.914882,12.411178",
+        "name": "Primavalle"
+      },
+      {
+        "location": "41.923900,12.412528",
+        "name": "Torrevecchia"
+      },
+      {
+        "location": "41.905094,12.514816",
+        "name": "Tiburtino"
+      },
+      {
+        "location": "41.911514,12.516677",
+        "name": "Nomentano"
+      },
+      {
+        "location": "41.897652,12.512509",
+        "name": "San Lorenzo"
+      },
+      {
+        "location": "41.896566,12.510637",
+        "name": "Torpignattara"
+      },
+      {
+        "location": "41.892733,12.508464",
+        "name": "Esquilino"
+      },
+      {
+        "location": "41.894650,12.491185",
+        "name": "Rione i Monti"
+      },
+      {
+        "location": "41.860574,12.670395",
+        "name": "Borghesiana"
+      },
+      {
+        "location": "41.851751,12.568246",
+        "name": "Cinecittà"
+      },
+      {
+        "location": "41.968615,12.551201",
+        "name": "Bufalotta"
+      },
+      {
+        "location": "41.945123,12.599623",
+        "name": "Casal Monastero"
+      },
+      {
+        "location": "42.006626,12.520214",
+        "name": "Settebagni"
+      },
+      {
+        "location": "41.59297,12.29090",
+        "name": "Labaro"
+      },
+      {
+        "location": "41.940322,12.461819",
+        "name": "Farnesina - Camilluccia"
+      },
+      {
+        "location": "41.933937,12.474190",
+        "name": "Parioli"
+      },
+      {
+        "location": "41.925764,12.468241",
+        "name": "Flaminio"
+      },
+      {
+        "location": "41.920272,12.444074",
+        "name": "Balduina"
+      },
+      {
+        "location": "41.876694,12.347715",
+        "name": "Casal Lombroso"
+      },
+      {
+        "location": "41.875672,12.355150",
+        "name": "La Massimina"
+      },
+      {
+        "location": "41.824503,12.333165",
+        "name": "Ponte Galeria"
+      },
+      {
+        "location": "41.920321,12.362505",
+        "name": "Casalotti"
+      },
+      {
+        "location": "41.903378,12.389704",
+        "name": "Cornelia - Montespaccato"
+      },
+      {
+        "location": "41.855890,12.422525",
+        "name": "Casetta Mattei - Corviale"
+      },
+      {
+        "location": "41.854998,12.382526",
+        "name": "Pisana"
+      },
+      {
+        "location": "41.876747,12.425716",
+        "name": "Bravetta"
+      },
+      {
+        "location": "41.973595,12.428369",
+        "name": "Cassia"
+      },
+      {
+        "location": "43.926009,11.618794",
+        "name": "San Godenzo"
+      },
+      {
+        "location": "41.978052,12.491626",
+        "name": "Grottarossa"
+      },
+      {
+        "location": "41.777222,12.506286",
+        "name": "Castel di Leva"
+      },
+      {
+        "location": "41.779120,12.440851",
+        "name": "Spinaceto"
+      },
+      {
+        "location": "41.804670,12.513783",
+        "name": "Cecchignola - Giuliano Dalmata"
+      },
+      {
+        "location": "41.823973,12.507293",
+        "name": "Fonte Meravigliosa"
+      },
+      {
+        "location": "41.878150,12.564204",
+        "name": "Centocelle"
+      },
+      {
+        "location": "41.861845,12.550142",
+        "name": "Quadraro"
+      },
+      {
+        "location": "41.946413,12.473924",
+        "name": "Fleming"
+      },
+      {
+        "location": "41.936324,12.466571",
+        "name": "Ponte Milvio"
+      },
+      {
+        "location": "41.829680,12.468324",
+        "name": "Eur"
+      },
+      {
+        "location": "41.812345,12.446469",
+        "name": "Poggio del Torrino"
+      },
+      {
+        "location": "41.836272,12.488438",
+        "name": "Tintoretto"
+      },
+      {
+        "location": "41.867446,12.493678",
+        "name": "Garbatella"
+      },
+      {
+        "location": "41.860670,12.498529",
+        "name": "Navigatori"
+      },
+      {
+        "location": "41.856988,12.482148",
+        "name": "Ostiense"
+      },
+      {
+        "location": "41.854878,12.451458",
+        "name": "Portuense"
+      },
+      {
+        "location": "41.896543,12.441638",
+        "name": "Gregorio VII - Piccolomini"
+      },
+      {
+        "location": "41.899095,12.433648",
+        "name": "Baldo degli Ubaldi"
+      },
+      {
+        "location": "41.907105,12.693972",
+        "name": "Castelverde"
+      },
+      {
+        "location": "41.842777,12.406005",
+        "name": "Magliana"
+      },
+      {
+        "location": "41.816023,12.412658",
+        "name": "Parco de' Medici - Muratella"
+      },
+      {
+        "location": "41.858894,12.470175",
+        "name": "Marconi"
+      },
+      {
+        "location": "41.855698,12.465578",
+        "name": "San Paolo"
+      },
+      {
+        "location": "41.875996,12.452756",
+        "name": "Gianicolense"
+      },
+      {
+        "location": "41.868165,12.437242",
+        "name": "Casaletto"
+      },
+      {
+        "location": "41.915202,12.544861",
+        "name": "Monti Tiburtini"
+      },
+      {
+        "location": "41.910060,12.548911",
+        "name": "Casal Bruciato"
+      },
+      {
+        "location": "41.915170,12.569720",
+        "name": "Colli Aniene"
+      },
+      {
+        "location": "41.904439,12.558492",
+        "name": "Collatino"
+      },
+      {
+        "location": "41.926825,12.573228",
+        "name": "Rebibbia"
+      },
+      {
+        "location": "41.925069,12.573330",
+        "name": "Tor Cervara"
+      },
+      {
+        "location": "41.923951,12.558369",
+        "name": "Pietralata"
+      },
+      {
+        "location": "41.890272,12.532726",
+        "name": "Pigneto"
+      },
+      {
+        "location": "41.898681,12.534728",
+        "name": "Casal Bertone"
+      },
+      {
+        "location": "41.933065,12.644954",
+        "name": "Case Rosse"
+      },
+      {
+        "location": "41.935756,12.567844",
+        "name": "Ponte Mammolo"
+      },
+      {
+        "location": "41.940800,12.583245",
+        "name": "San Basilio"
+      },
+      {
+        "location": "41.964382,12.544433",
+        "name": "Casal Boccone"
+      },
+      {
+        "location": "41.968724,12.533904",
+        "name": "Vigne Nuove - Casale Nei"
+      },
+      {
+        "location": "41.967192,12.441749",
+        "name": "Tomba di Nerone"
+      },
+      {
+        "location": "41.869842,12.537868",
+        "name": "Tuscolano"
+      },
+      {
+        "location": "41.876725,12.524263",
+        "name": "Furio Camillo"
+      },
+      {
+        "location": "41.914278,12.501116",
+        "name": "Salario"
+      },
+      {
+        "location": "41.926026,12.516764",
+        "name": "Trieste"
+      },
+      {
+        "location": "41.946140,12.547481",
+        "name": "Monte sacro"
+      },
+      {
+        "location": "41.950194,12.558596",
+        "name": "Talenti"
+      },
+      {
+        "location": "41.958554,12.520133",
+        "name": "Nuovo Salario"
+      },
+      {
+        "location": "41.877558,12.471207",
+        "name": "Testaccio"
+      }
+    ],
+    "cardPhone": {
+      "title": "Chiamaci",
+      "text": "Numero attivo 7 su 7, dalle 8.30 alle 19.30.",
+      "image": "phone-card"
+    },
+    "cardContact": {
+      "title": "Scrivici un messaggio",
+      "text": "Ti rispondiamo subito, o se lo desideri ti ricontattiamo quando vuoi tu.",
+      "buttonText": "Scrivici",
+      "image": "contact-card"
+    }
+  },
+  "phone_number": {
+    "full": "0687155269",
+    "display": "06 87155269",
+    "format": "XX%20XXXXXXXX"
+  }
+}
