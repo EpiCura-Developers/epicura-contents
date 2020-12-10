@@ -11,21 +11,18 @@
         "title": "Videoseduta",
         "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
         "price": "40€",
-        "icon": "videoseduta",
         "duration": "40 min"
       },
       {
         "title": "Seduta singola in studio",
         "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
         "price": "50€",
-        "icon": "seduta-singola-studio",
         "duration": "1 ora"
       },
       {
         "title": "Seduta singola a domicilio",
         "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
         "price": "60€",
-        "icon": "seduta-singola-domicilio",
         "duration": "1 ora"
       }
     ]
