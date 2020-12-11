@@ -215,11 +215,9 @@
     ],
     "site-landing-cta-btn-list": [
         {
-            "site-cta-btn-relation": {
-                "site-cta-btn-action": "/",
-                "site-cta-button-text": "20% di sconto sulla prima visita",
-                "site-cta-button-color": "#FFE66D"
-            }
+            "site-cta-btn-action": "/",
+            "site-cta-button-text": "20% di sconto sulla prima visita",
+            "site-cta-button-color": "#FFE66D"
         }
     ],
     "site-landing-cta-big-list": [],
