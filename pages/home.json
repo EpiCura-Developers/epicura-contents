@@ -102,55 +102,64 @@
                         "option-style-object-like": {
                             "color": "#909090"
                         },
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/fisioterapista-videoconsulto/",
                         "option-label": "Fisioterapista",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/osteopata-videoconsulto/",
                         "option-label": "Osteopata",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/veterinario-videoconsulto/",
                         "option-label": "Veterinario",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/pediatra-videoconsulto/",
                         "option-label": "Pediatra",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/medico-di-base-videoconsulto/",
                         "option-label": "Medico di base",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/infermiere-videoconsulto/",
                         "option-label": "Infermiere",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/psicologo-videoconsulto/",
                         "option-label": "Psicologo",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/nutrizionista-videoconsulto/",
                         "option-label": "Nutrizionista",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     }
                 ]
             }
