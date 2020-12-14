@@ -1,7 +1,10 @@
 {
     "discipline-specialist": "Medico generico",
     "discipline-text-with-price": "A partire da 30€",
-    "discipline-image": "",
+    "discipline-image": {
+        "path": "generalMedicine",
+        "name": "generalMedicine"
+    },
     "discipline-description": "Visita, precrizione farmaci e accertamenti specialistici. Tutto comodamente a casa tua.",
     "discipline-background-color": "#FFC5C4",
     "discipline-link": "/medico-di-base/",

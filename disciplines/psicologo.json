@@ -1,7 +1,10 @@
 {
     "discipline-specialist": "Psicologo",
     "discipline-text-with-price": "A partire da 30€",
-    "discipline-image": "",
+    "discipline-image": {
+        "path": "psychology",
+        "name": "psychology"
+    },
     "discipline-description": "Percorso di terapia individuale, di coppia, familiare.",
     "discipline-background-color": "#FFE9A7",
     "discipline-link": "/psicologo/",
