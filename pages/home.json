@@ -6,7 +6,10 @@
     "site-relation-search-header": {
         "site-search-header-title": "Il primo poliambulatorio digitale in Italia.",
         "site-search-header-subtitle": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
-        "site-search-header-img": "",
+        "site-search-header-img": {
+            "path": "common",
+            "name": "header_home"
+        },
         "site-search-header-input-title": "Cerchi un professionista?",
         "site-search-header-services-title": "I nostri servizi",
         "site-search-header-relation-services": [
@@ -153,12 +156,16 @@
             }
         ]
     },
-    "service-nav-bar-img": "",
+    "service-nav-bar-img": {
+        "path": "common",
+        "name": "services"
+    },
     "site-landing-page-relation-section": [
         {
             "site-discipline-section-title": "Prendersi cura di anziani, malati e disabili*",
             "site-discipline-section-description": "Servizi pensati per le esigenze di persone anziane, malate e disabili con differenti bisogni di assistenza e cura. Per affidare la salute dei tuoi cari a personale qualificato e certificato.",
-            "site-discipline-placeholder-image": "",
+            "site-discipline-placeholder-image": {},
+            "site-discipline-placeholder-image-width": 0,
             "site-discipline-bkg-color": "#FFFCF8",
             "site-discipline-section-list": [
                 "assistente-domiciliare",
@@ -170,7 +177,11 @@
         {
             "site-discipline-section-title": "Consulti specialistici da remoto",
             "site-discipline-section-description": "Ricevere il parere di un professionista non è mai stato tanto semplice: attraverso i nostri video-consulti puoi confrontarti con uno specialista EpiCura direttamente da smartphone, tablet o pc. Risolvi dubbi sulla tua salute e quella dei tuoi cari nella comodità del divano di casa.",
-            "site-discipline-placeholder-image": "",
+            "site-discipline-placeholder-image": {
+                "path": "common",
+                "name": "old-lady"
+            },
+            "site-discipline-placeholder-image-width": 1,
             "site-discipline-bkg-color": "#FFF",
             "site-discipline-section-list": [
                 "psicologo-videoconsulto",
@@ -181,7 +192,8 @@
         {
             "site-discipline-section-title": "Per prevenire e curare i dolori muscolo-scheletrici",
             "site-discipline-section-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "site-discipline-placeholder-image": "",
+            "site-discipline-placeholder-image": {},
+            "site-discipline-placeholder-image-width": 0,
             "site-discipline-bkg-color": "#F5F8FF",
             "site-discipline-section-list": [
                 "fisioterapista",
@@ -193,7 +205,8 @@
         {
             "site-discipline-section-title": "Per il benessere di corpo e mente",
             "site-discipline-section-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "site-discipline-placeholder-image": "",
+            "site-discipline-placeholder-image": {},
+            "site-discipline-placeholder-image-width": 0,
             "site-discipline-bkg-color": "#FFF",
             "site-discipline-section-list": [
                 "psicologo",
@@ -205,7 +218,11 @@
         {
             "site-discipline-section-title": "Per la salute degli animali domestici",
             "site-discipline-section-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-            "site-discipline-placeholder-image": "",
+            "site-discipline-placeholder-image": {
+                "path": "common",
+                "name": "veterinary-office"
+            },
+            "site-discipline-placeholder-image-width": 0,
             "site-discipline-bkg-color": "#F5F8FF",
             "site-discipline-section-list": [
                 "veterinario"
@@ -230,7 +247,10 @@
             "site-cta-card-btn-action": "/professionisti/",
             "site-cta-card-btn-action-collaboration": "/professionisti-lavoro/",
             "site-cta-card-bkg-color": "#F5F5F7",
-            "site-cta-card-img-bkg": ""
+            "site-cta-card-img-bkg": {
+                "path": "common",
+                "name": "pro"
+            }
         }
     ],
     "site-landing-page-slogan": "Vogliamo rendere la sanità accessibile, semplice e digitale per tutti.",
@@ -255,11 +275,20 @@
                 "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
             }
         ],
-        "feedaty-male-image": "",
-        "feedaty-female-image": ""
+        "feedaty-male-image": {
+            "path": "common",
+            "name": "male"
+        },
+        "feedaty-female-image": {
+            "path": "common",
+            "name": "female"
+        }
     },
     "site-landing-active-cities-title": "In quali province è attivo il servizio",
-    "site-landing-newsletter-img": "",
+    "site-landing-newsletter-img": {
+        "path": "common",
+        "name": "news-letter"
+    },
     "site-landing-active-cities": [
         {
             "option-link": "/torino/",
