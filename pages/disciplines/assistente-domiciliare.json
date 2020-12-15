@@ -7,7 +7,10 @@
   "header": {
     "title": "Assistente domiciliare",
     "subtitle": "A partire da 30€",
-    "background-image": "physiotherapist"
+    "background-image": {
+      "path": "homecare",
+      "name": "homecare"
+  }
   },
   "subheader": {
     "title": "Perché è importante?",

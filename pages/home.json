@@ -6,7 +6,10 @@
     "site-relation-search-header": {
         "site-search-header-title": "Prenota online una visita, ovunque <br> tu voglia, senza liste d'attesa",
         "site-search-header-subtitle": "Medici, infermieri, assistenti domiciliari e professionisti della salute a domicilio, <br> in studio o in videoconsulto, 7 giorni su 7.",
-        "site-search-header-img": "",
+        "site-search-header-img": {
+            "path": "common",
+            "name": "header_home"
+        },
         "site-search-header-input-title": "Come possiamo aiutarti?",
         "site-search-header-services-title": "Scopri i nostri servizi",
         "site-search-header-relation-services": [
@@ -127,66 +130,79 @@
                         "option-style-object-like": {
                             "color": "#909090"
                         },
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/fisioterapista-videoconsulto/",
                         "option-label": "Fisioterapista",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/osteopata-videoconsulto/",
                         "option-label": "Osteopata",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/veterinario-videoconsulto/",
                         "option-label": "Veterinario",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/pediatra-videoconsulto/",
                         "option-label": "Pediatra",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/medico-di-base-videoconsulto/",
                         "option-label": "Medico di base",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/infermiere-videoconsulto/",
                         "option-label": "Infermiere",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/psicologo-videoconsulto/",
                         "option-label": "Psicologo",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     },
                     {
                         "option-link": "/nutrizionista-videoconsulto/",
                         "option-label": "Nutrizionista",
                         "option-style-object-like": "",
-                        "option-is-new": true
+                        "option-is-new": true,
+                        "option-is-amp": true
                     }
                 ]
             }
         ]
     },
-    "service-nav-bar-img": "",
+    "service-nav-bar-img": {
+        "path": "common",
+        "name": "services"
+    },
     "site-landing-page-relation-section": [
         {
             "site-discipline-section-title": "Per prendersi cura di anziani, malati e disabili*",
             "site-discipline-section-description": "Servizi pensati per le esigenze di persone autosufficienti e non autosufficienti <br> con differenti bisogni di assistenza e cura. <br> Affida la salute dei tuoi cari a personale qualificato con EpiCura.",
-            "site-discipline-placeholder-image": "",
+            "site-discipline-placeholder-image": {},
+            "site-discipline-placeholder-image-width": 0,
             "site-discipline-bkg-color": "#FFFCF8",
             "site-discipline-section-list": [
                 "assistente-domiciliare",
@@ -198,7 +214,11 @@
         {
             "site-discipline-section-title": "Consulti specialistici da remoto",
             "site-discipline-section-description": "Parla con uno specialista dove e quando vuoi, evitando scomodi spostamenti. <br> Collegati da pc, smartphone o tablet e prenditi cura della tua salute in tempo reale. <br> Il nostro servizio è disponibile 7 giorni su 7 e strutturato a completa garanzia della tua privacy.",
-            "site-discipline-placeholder-image": "",
+            "site-discipline-placeholder-image": {
+                "path": "common",
+                "name": "old-lady"
+            },
+            "site-discipline-placeholder-image-width": 1,
             "site-discipline-bkg-color": "#FFF",
             "site-discipline-section-list": [
                 "videoconsulto-landing",
@@ -209,7 +229,8 @@
         {
             "site-discipline-section-title": "Per prevenire e curare i dolori muscolo-scheletrici",
             "site-discipline-section-description": "Mal di schiena, cervicalgia, tensione muscolare: per dire addio al dolore (anche cronico) possono bastare <br> poche sedute. <br> Ritrova flessibilità nei movimenti, educando il tuo corpo a una corretta postura e sciogliendo le contratture.",
-            "site-discipline-placeholder-image": "",
+            "site-discipline-placeholder-image": {},
+            "site-discipline-placeholder-image-width": 0,
             "site-discipline-bkg-color": "#F5F8FF",
             "site-discipline-section-list": [
                 "fisioterapista",
@@ -221,7 +242,8 @@
         {
             "site-discipline-section-title": "Per il benessere di corpo e mente",
             "site-discipline-section-description": "Il benessere mentale ha un importante impatto sul nostro corpo e viceversa. <br> Ritrova il tuo equilibrio psico-fisico, dedicando del tempo alla tua salute fisica e mentale: i nostri professionisti <br> ascolteranno le tue esigenze e ti guideranno verso uno stile di vita più felice, sereno e in salute.",
-            "site-discipline-placeholder-image": "",
+            "site-discipline-placeholder-image": {},
+            "site-discipline-placeholder-image-width": 0,
             "site-discipline-bkg-color": "#FFF",
             "site-discipline-section-list": [
                 "psicologo",
@@ -233,7 +255,11 @@
         {
             "site-discipline-section-title": "Per la salute degli animali domestici",
             "site-discipline-section-description": "I nostri amici animali hanno bisogno di particolari cure e attenzioni. <br> Con i servizi veterinari EpiCura potrai prenderti cura del tuo amico a quattro zampe <br> nel comfort di casa, senza stress per te e il tuo animale domestico. ",
-            "site-discipline-placeholder-image": "",
+            "site-discipline-placeholder-image": {
+                "path": "common",
+                "name": "veterinary-office"
+            },
+            "site-discipline-placeholder-image-width": 0,
             "site-discipline-bkg-color": "#F5F8FF",
             "site-discipline-section-list": [
                 "veterinario"
@@ -243,11 +269,9 @@
     ],
     "site-landing-cta-btn-list": [
         {
-            "site-cta-btn-relation": {
-                "site-cta-btn-action": "/",
-                "site-cta-button-text": "20% di sconto sulla prima visita",
-                "site-cta-button-color": "#FFE66D"
-            }
+            "site-cta-btn-action": "/",
+            "site-cta-button-text": "20% di sconto sulla prima visita",
+            "site-cta-button-color": "#FFE66D"
         }
     ],
     "site-landing-cta-big-list": [],
@@ -260,7 +284,10 @@
             "site-cta-card-btn-action": "/professionisti/",
             "site-cta-card-btn-action-collaboration": "/professionisti-lavoro/",
             "site-cta-card-bkg-color": "#F5F5F7",
-            "site-cta-card-img-bkg": ""
+            "site-cta-card-img-bkg": {
+                "path": "common",
+                "name": "pro"
+            }
         }
     ],
     "site-landing-page-slogan": "Vogliamo rendere la sanità <br> più semplice, rapida e su misura.",
@@ -285,11 +312,20 @@
                 "feedaty-feedback-text": "Vi siete presi cura di mio padre, in un momento molto difficile per lui. <br> Vi ringrazio per la vostra professionalità, efficienza e disponibilità. Veramente un servizio ottimo, molto consigliato."
             }
         ],
-        "feedaty-male-image": "",
-        "feedaty-female-image": ""
+        "feedaty-male-image": {
+            "path": "common",
+            "name": "male"
+        },
+        "feedaty-female-image": {
+            "path": "common",
+            "name": "female"
+        }
     },
     "site-landing-active-cities-title": "Ecco le città in cui siamo attivi*",
-    "site-landing-newsletter-img": "",
+    "site-landing-newsletter-img": {
+        "path": "common",
+        "name": "news-letter"
+    },
     "site-landing-active-cities": [
         {
             "option-link": "/torino/",

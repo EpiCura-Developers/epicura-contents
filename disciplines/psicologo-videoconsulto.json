@@ -1,7 +1,10 @@
 {
     "discipline-specialist": "Videoseduta psicologica o psicoterapeutica",
     "discipline-text-with-price": "25€ a consulto",
-    "discipline-image": "",
+    "discipline-image": {
+        "path": "videoconsultation",
+        "name": "psychology"
+    },
     "discipline-description": "Parla con uno specialista da smartphone, tablet o pc.",
     "discipline-background-color": "#F5F8FF",
     "discipline-link": "/psicologo-videoconsulto/",

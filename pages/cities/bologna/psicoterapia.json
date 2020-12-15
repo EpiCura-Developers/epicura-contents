@@ -3,7 +3,30 @@
     "title": "Psicoterapeuta a Bologna",
     "description": "Terapeuti a Bologna e area metropolitana in studio, a domicilio e in video consulto. Psicoterapeuti per ansia, depressione, disturbi psicologici, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "showPricesInCardADW": true,
+  "prices_adw": {
+    "startingFromLabel": "A partire da",
+    "durationLabel": "Durata:",
+    "cards": [
+      {
+        "title": "Videoseduta",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "price": "40€",
+        "duration": "40 min"
+      },
+      {
+        "title": "Seduta singola in studio",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "price": "50€",
+        "duration": "1 ora"
+      },
+      {
+        "title": "Seduta singola a domicilio",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "price": "60€",
+        "duration": "1 ora"
+      }
+    ]
+  },
   "prezzi_title": "I prezzi di Psicoterapia a Bologna",
   "come_funziona": {
     "title": "Come funziona",
@@ -76,33 +99,25 @@
       {
         "name": "Alessandro Longo",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia cognitiva ad orientamento costruttivista ed evolutivo"
-        ],
+        "prestazioni": ["Psicoterapia cognitiva ad orientamento costruttivista ed evolutivo"],
         "avatar": "alessandro-longo"
       },
       {
         "name": "Giovanni Stornaiuolo",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia psicoanalitico, individuale e di gruppo"
-        ],
+        "prestazioni": ["Psicoterapia psicoanalitico, individuale e di gruppo"],
         "avatar": "giovanni-stornaiuolo"
       },
       {
         "name": "Francesca Monoli",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia psicodinamica adleriana"
-        ],
+        "prestazioni": ["Psicoterapia psicodinamica adleriana"],
         "avatar": "francesca-monoli"
       },
       {
         "name": "Chiara Bergese",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia psicoanalitica"
-        ],
+        "prestazioni": ["Psicoterapia psicoanalitica"],
         "avatar": "chiara-bergese"
       }
     ]

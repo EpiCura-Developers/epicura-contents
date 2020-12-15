@@ -1,7 +1,10 @@
 {
     "discipline-specialist": "Osteopata",
     "discipline-text-with-price": "A partire da 30€",
-    "discipline-image": "",
+    "discipline-image": {
+        "path": "osteopathy",
+        "name": "osteopathy"
+    },
     "discipline-description": "Trattamento olistico dei dolori osseo-muscolari.",
     "discipline-background-color": "#E6F3FF",
     "discipline-link": "/osteopata/",

@@ -1,10 +1,7 @@
 {
   "websiteURL": "https://www.alphega-farmacia.it/",
   "logoURL": "https://images.prismic.io/epicura/423f1673-07a4-4848-bbe9-50c39776f6be_alphega-logo.png?auto=compress,format",
-  "textColor": "#ffffff",
-  "btnTextColor": "#ffffff",
-  "btnColor": "#009539",
-  "btnLocationTextColor": "#ffffff",
-  "btnLocationColor": "#004015",
-  "headerBackgroundColor": "#009539"
+  "textColor": "#009534",
+  "mainColor": "#009539",
+  "headerColor": "#009539"
 }
