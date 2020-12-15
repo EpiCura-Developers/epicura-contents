@@ -1,32 +1,49 @@
 {
     "metaDescription": {
         "title": "EpiCura",
-        "description": "Siamo il primo poliambulatorio digitale in Italia."
+        "description": "Medici, infermieri, veterinari, badanti e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7."
     },
     "site-relation-search-header": {
-        "site-search-header-title": "Il primo poliambulatorio digitale in Italia.",
-        "site-search-header-subtitle": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
+        "site-search-header-title": "Prenota online una visita, ovunque <br> tu voglia, senza liste d'attesa",
+        "site-search-header-subtitle": "Medici, infermieri, assistenti domiciliari e professionisti della salute a domicilio, <br> in studio o in videoconsulto, 7 giorni su 7.",
         "site-search-header-img": "",
-        "site-search-header-input-title": "Cerchi un professionista?",
-        "site-search-header-services-title": "I nostri servizi",
+        "site-search-header-input-title": "Come possiamo aiutarti?",
+        "site-search-header-services-title": "Scopri i nostri servizi",
         "site-search-header-relation-services": [
             {
-                "section-title": "Assistenza alla persona",
+                "section-title": "Assistenza domiciliare",
                 "section-options": [
                     {
+                        "option-link": "/italia/badante/",
+                        "option-label": "Badanti",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    },
+                    {
                         "option-link": "/assistente-domiciliare/",
-                        "option-label": "Assistente domiciliare",
+                        "option-label": "Assistenti ad ore",
                         "option-style-object-like": "",
                         "option-is-new": false
                     }
                 ]
             },
             {
-                "section-title": "Benessere e cura",
+                "section-title": "Videoconsulti",
                 "section-options": [
                     {
-                        "option-link": "/massaggiatore-professionale/",
-                        "option-label": "Massaggiatore",
+                        "option-link": "/videoconsulto-landing/",
+                        "option-label": "Scopri il servizio",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    }
+                ]
+            },
+            {
+                "section-title": "Riabilitazione motoria",
+                "section-options": [
+                    {
+                        "option-link": "/fisioterapista/",
+                        "option-label": "Fisioterapista",
                         "option-style-object-like": "",
                         "option-is-new": false
                     },
@@ -39,17 +56,11 @@
                 ]
             },
             {
-                "section-title": "Specialisti",
+                "section-title": "Cura e terapie",
                 "section-options": [
                     {
-                        "option-link": "/fisioterapista/",
-                        "option-label": "Fisioterapista",
-                        "option-style-object-like": "",
-                        "option-is-new": false
-                    },
-                    {
                         "option-link": "/medico-di-base/",
-                        "option-label": "Medico di base",
+                        "option-label": "Medico generico",
                         "option-style-object-like": "",
                         "option-is-new": false
                     },
@@ -64,10 +75,21 @@
                         "option-label": "Pediatra",
                         "option-style-object-like": "",
                         "option-is-new": false
+                    }
+                ]
+            },
+            {
+                "section-title": "Benessere psico-fisico",
+                "section-options": [
+                    {
+                        "option-link": "/nutrizionista/",
+                        "option-label": "Nutrizionista",
+                        "option-style-object-like": "",
+                        "option-is-new": false
                     },
                     {
-                        "option-link": "/psicoterapeuta/",
-                        "option-label": "Psicoterapeuta",
+                        "option-link": "/massaggiatore-professionale/",
+                        "option-label": "Massoterapista",
                         "option-style-object-like": "",
                         "option-is-new": false
                     },
@@ -76,11 +98,17 @@
                         "option-label": "Psicologo",
                         "option-style-object-like": "",
                         "option-is-new": false
+                    },
+                    {
+                        "option-link": "/psicoterapeuta/",
+                        "option-label": "Psicoterapeuta",
+                        "option-style-object-like": "",
+                        "option-is-new": false
                     }
                 ]
             },
-            {
-                "section-title": "Per l'animale",
+            {   
+                "section-title": "Cani e gatti",
                 "section-options": [
                     {
                         "option-link": "/veterinario/",
@@ -156,8 +184,8 @@
     "service-nav-bar-img": "",
     "site-landing-page-relation-section": [
         {
-            "site-discipline-section-title": "Prendersi cura di anziani, malati e disabili*",
-            "site-discipline-section-description": "Servizi pensati per le esigenze di persone anziane, malate e disabili con differenti bisogni di assistenza e cura. Per affidare la salute dei tuoi cari a personale qualificato e certificato.",
+            "site-discipline-section-title": "Per prendersi cura di anziani, malati e disabili*",
+            "site-discipline-section-description": "Servizi pensati per le esigenze di persone autosufficienti e non autosufficienti <br> con differenti bisogni di assistenza e cura. <br> Affida la salute dei tuoi cari a personale qualificato con EpiCura.",
             "site-discipline-placeholder-image": "",
             "site-discipline-bkg-color": "#FFFCF8",
             "site-discipline-section-list": [
@@ -169,18 +197,18 @@
         },
         {
             "site-discipline-section-title": "Consulti specialistici da remoto",
-            "site-discipline-section-description": "Ricevere il parere di un professionista non è mai stato tanto semplice: attraverso i nostri video-consulti puoi confrontarti con uno specialista EpiCura direttamente da smartphone, tablet o pc. Risolvi dubbi sulla tua salute e quella dei tuoi cari nella comodità del divano di casa.",
+            "site-discipline-section-description": "Parla con uno specialista dove e quando vuoi, evitando scomodi spostamenti. <br> Collegati da pc, smartphone o tablet e prenditi cura della tua salute in tempo reale. <br> Il nostro servizio è disponibile 7 giorni su 7 e strutturato a completa garanzia della tua privacy.",
             "site-discipline-placeholder-image": "",
             "site-discipline-bkg-color": "#FFF",
             "site-discipline-section-list": [
-                "psicologo-videoconsulto",
-                "infermiere"
+                "videoconsulto-landing",
+                "psicologo-videoconsulto"
             ],
             "site-discipline-notes": ""
         },
         {
             "site-discipline-section-title": "Per prevenire e curare i dolori muscolo-scheletrici",
-            "site-discipline-section-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "site-discipline-section-description": "Mal di schiena, cervicalgia, tensione muscolare: per dire addio al dolore (anche cronico) possono bastare <br> poche sedute. <br> Ritrova flessibilità nei movimenti, educando il tuo corpo a una corretta postura e sciogliendo le contratture.",
             "site-discipline-placeholder-image": "",
             "site-discipline-bkg-color": "#F5F8FF",
             "site-discipline-section-list": [
@@ -192,7 +220,7 @@
         },
         {
             "site-discipline-section-title": "Per il benessere di corpo e mente",
-            "site-discipline-section-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "site-discipline-section-description": "Il benessere mentale ha un importante impatto sul nostro corpo e viceversa. <br> Ritrova il tuo equilibrio psico-fisico, dedicando del tempo alla tua salute fisica e mentale: i nostri professionisti <br> ascolteranno le tue esigenze e ti guideranno verso uno stile di vita più felice, sereno e in salute.",
             "site-discipline-placeholder-image": "",
             "site-discipline-bkg-color": "#FFF",
             "site-discipline-section-list": [
@@ -204,7 +232,7 @@
         },
         {
             "site-discipline-section-title": "Per la salute degli animali domestici",
-            "site-discipline-section-description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "site-discipline-section-description": "I nostri amici animali hanno bisogno di particolari cure e attenzioni. <br> Con i servizi veterinari EpiCura potrai prenderti cura del tuo amico a quattro zampe <br> nel comfort di casa, senza stress per te e il tuo animale domestico. ",
             "site-discipline-placeholder-image": "",
             "site-discipline-bkg-color": "#F5F8FF",
             "site-discipline-section-list": [
@@ -226,41 +254,41 @@
     "site-landing-cta-card-list": [
         {
             "site-cta-card-title": "I nostri professionisti",
-            "site-cta-card-description": "Selezioniamo e collaboriamo solo con medici e professionisti qualificati che condividono i nostri valori di attenzione e cura per le persone.",
+            "site-cta-card-description": "Lavoriamo solo con personale qualificato e certificato, capace di rispondere a precisi criteri di selezione. <br> Il nostro obiettivo è garantirti un servizio con elevati standard di qualità. <br><br> Con EpiCura la tua salute è nelle mani dei migliori professionisti!.",
             "site-cta-card-btn-title": "Sei un professionista?",
-            "site-cta-card-btn-text": "Collabora con noi",
+            "site-cta-card-btn-text": "Lavora con noi",
             "site-cta-card-btn-action": "/professionisti/",
             "site-cta-card-btn-action-collaboration": "/professionisti-lavoro/",
             "site-cta-card-bkg-color": "#F5F5F7",
             "site-cta-card-img-bkg": ""
         }
     ],
-    "site-landing-page-slogan": "Vogliamo rendere la sanità accessibile, semplice e digitale per tutti.",
+    "site-landing-page-slogan": "Vogliamo rendere la sanità <br> più semplice, rapida e su misura.",
     "site-landing-feedaty": {
         "feedaty-score": 4.7,
         "feedaty-review-score": "Ottimo",
-        "feedaty-text": "Più di 300 recensioni",
+        "feedaty-text": "Oltre 400 recensioni verificate",
         "feedaty-feedback-list": [
             {
                 "feedaty-feedback-author-sex": "Maschio",
                 "feedaty-feedback-author": "Maurizio",
-                "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+                "feedaty-feedback-text": "Davvero un ottimo servizio! <br> Stavo male e avevo bisogno di un intervento tempestivo. <br> Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!"
             },
             {
                 "feedaty-feedback-author-sex": "Femmina",
                 "feedaty-feedback-author": "Anna",
-                "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+                "feedaty-feedback-text": "Le prenotazioni per gli interventi sono veloci e hanno coperto tutti i problemi e le esigenze fino ad ora incontrate. <br> Il servizio infermieristico è ineccepibile: personale molto preparato e gentile."
             },
             {
                 "feedaty-feedback-author-sex": "Femmina",
-                "feedaty-feedback-author": "Maria",
-                "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+                "feedaty-feedback-author": "Federica",
+                "feedaty-feedback-text": "Vi siete presi cura di mio padre, in un momento molto difficile per lui. <br> Vi ringrazio per la vostra professionalità, efficienza e disponibilità. Veramente un servizio ottimo, molto consigliato."
             }
         ],
         "feedaty-male-image": "",
         "feedaty-female-image": ""
     },
-    "site-landing-active-cities-title": "In quali province è attivo il servizio",
+    "site-landing-active-cities-title": "Ecco le città in cui siamo attivi*",
     "site-landing-newsletter-img": "",
     "site-landing-active-cities": [
         {
@@ -268,12 +296,12 @@
             "option-label": "Torino"
         },
         {
-            "option-link": "/roma/",
-            "option-label": "Roma"
-        },
-        {
             "option-link": "/milano/",
             "option-label": "Milano"
+        },
+        {
+            "option-link": "/roma/",
+            "option-label": "Roma"
         },
         {
             "option-link": "/bologna/",
@@ -303,5 +331,6 @@
             "option-link": "/napoli/",
             "option-label": "Napoli"
         }
-    ]
+    ],
+    "site-landing-active-cities-notes": "*Il servizio di badanti è attivo in tutta Italia."
 }
