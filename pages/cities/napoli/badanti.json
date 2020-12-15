@@ -56,27 +56,45 @@
     },
     "tasks": [
       {
-        "image": "meal",
+        "image": {
+          "path": "caregiver",
+          "name": "meal"
+        },
         "text": "Preparazione e aiuto durante i pasti"
       },
       {
-        "image": "cleaning",
+        "image": {
+          "path": "caregiver",
+          "name": "cleaning"
+        },
         "text": "Gestione e pulizia della casa"
       },
       {
-        "image": "hygiene",
+        "image": {
+          "path": "caregiver",
+          "name": "hygiene"
+        },
         "text": "Igiene personale e vestizione dell'assistito"
       },
       {
-        "image": "drugs",
+        "image": {
+          "path": "caregiver",
+          "name": "drugs"
+        },
         "text": "Supporto nell'assunzione di farmaci e terapie<br />Accompagnamento a visite mediche"
       },
       {
-        "image": "cognitive-func",
+        "image": {
+          "path": "caregiver",
+          "name": "cognitive-func"
+        },
         "text": "Stimolazione dell’attività motoria, della comunicazione e delle funzionalità cognitive"
       },
       {
-        "image": "24h-supervision",
+        "image": {
+          "path": "caregiver",
+          "name": "24h-supervision"
+        },
         "text": "Compagnia e sorveglianza 24 ore su 24"
       }
     ]
