@@ -9,7 +9,10 @@
         "site-specialist-profile-page-disciplines": [
             "fisioterapista"
         ],
-        "site-specialist-profile-img": "",
+        "site-specialist-profile-img": {
+            "path": "specialist",
+            "name": "annalisa-grasso"
+          },
         "site-specialist-profile-score": 5,
         "site-specialist-profile-total-review": 10,
         "site-specialist-profile-cv": "<p>Curriculum html</p>",
@@ -32,7 +35,10 @@
             "fisioterapista",
             "osteopata"
         ],
-        "site-specialist-profile-img": "",
+        "site-specialist-profile-img": {
+            "path": "specialist",
+            "name": "nicolo-giordano"
+          },
         "site-specialist-profile-score": 5,
         "site-specialist-profile-total-review": 10,
         "site-specialist-profile-cv": "<p>Curriculum html</p>",
