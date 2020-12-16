@@ -34,7 +34,7 @@
                 "section-title": "Videoconsulti",
                 "section-options": [
                     {
-                        "option-link": "/videoconsulto-landing/",
+                        "option-link": "/videoconsulto/",
                         "option-label": "Scopri il servizio",
                         "option-style-object-like": "",
                         "option-is-new": false
@@ -221,7 +221,7 @@
             "site-discipline-placeholder-image-width": 1,
             "site-discipline-bkg-color": "#FFF",
             "site-discipline-section-list": [
-                "videoconsulto-landing",
+                "videoconsulti",
                 "psicologo-videoconsulto"
             ],
             "site-discipline-notes": ""
