@@ -9,7 +9,7 @@
   "site-who-we-are-header-color": "#CEF5F2",
   "site-who-we-are-description-title": "Siamo il primo poliambulatorio digitale in Italia",
   "site-who-we-are-description-text": "Utilizziamo la tecnologia per rendere più accessibili i servizi sanitari e socio-assistenziali, con la missione di semplificare la vita delle persone. </br> Vogliamo migliorare un settore caratterizzato da lunghe attese e grandi scomodità e lo stiamo facendo costruendo un servizio che si basa sulla tempestività, sulla flessibilità e sulla vicinanza ai nostri pazienti.",
-  "site-who-we-are-description-img": "",
+  "site-who-we-are-description-img": { "path": "common", "name": "lamp" },
   "site-who-we-are-relation-work": {
     "title": "Come funziona?",
     "content": "Abbiamo una rete nazionale che oggi conta 700 professionisti attivi, tra medici, personale sanitario e assistenti domiciliari in 10 delle principali città italiane. <span class='green'><strong>Il nostro servizio è attivo 7 giorni su 7, dalle 8 alle 21.</strong></span>",
