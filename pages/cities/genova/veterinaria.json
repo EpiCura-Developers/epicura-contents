@@ -9,17 +9,26 @@
     "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno rende la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Genova e area metropolitana grazie a 3 semplici passaggi:",
     "cards": [
       {
-        "image": "scegli-soluzione",
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
         "title": "Scegli la soluzione",
         "text": "EpiCura offre un’ampia scelta di servizi per permetterti di trovare esattamente ciò di cui hai bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te e al tuo animale."
       },
       {
-        "image": "prenota-seduta",
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
         "title": "Prenota la seduta",
         "text": "Contattaci o prenota direttamente online e troveremo il miglior specialista per il tuo caso che ti guiderà nel percorso terapeutico del tuo animale. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità"
       },
       {
-        "image": "migliora-salute",
+        "image": {
+          "path": "common",
+          "name": "migliora-salute"
+        },
         "title": "Migliora la sua salute",
         "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo animale. Potrai contattarci per qualunque esigenza."
       }
@@ -30,17 +39,26 @@
     "text": "EpiCura, con oltre 800 figure, è il primo poliambulatorio digitale in Italia. Abbiamo creato un sistema rapido per evitare disorganizzazione, disagi e attese ai nostri pazienti. Ecco come funziona:",
     "cards": [
       {
-        "image": "scegli-soluzione",
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
         "title": "Scegli la soluzione",
         "text": "Trova il servizio adatto alle necessità del tuo cane o gatto, oppure spiegaci la situazione. Ascolteremo i tuoi bisogni e ti aiuteremo a scegliere la migliore soluzione per il tuo animale."
       },
       {
-        "image": "prenota-seduta",
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
         "title": "Prenota la prestazione",
         "text": "Chiamaci o prenota direttamente online. Troveremo il miglior specialista per te e potrai ricevere il servizio in tempi brevi, senza alcuna lista d’attesa e con la massima comodità."
       },
       {
-        "image": "migliora-salute",
+        "image": {
+          "path": "common",
+          "name": "migliora-salute"
+        },
         "title": "Migliora la sua salute",
         "text": "Preparati a ricevere a casa tua il nostro specialista. Ti affiancherà in modo professionale nel migliorare la salute del tuo animale. Per qualsiasi dubbio o necessità, potrai chiamarci in ogni momento."
       }
@@ -111,17 +129,26 @@
     "allReviewsText": "Tutte le recensioni",
     "cards": [
       {
-        "image": "male",
+        "image": {
+          "path": "common",
+          "name": "male"
+        },
         "title": "Giuseppe",
         "text": "Mi sono trovata bene, perché Epicura mi ha fornito un veloce e valido aiuto in un momento di improvvisa e grave difficoltà."
       },
       {
-        "image": "female",
+        "image": {
+          "path": "common",
+          "name": "female"
+        },
         "title": "Gloria",
         "text": "La visita è stata effettuata puntualmente ed in modo accurato a breve distanza dal momento della richiesta. Il pagamento online è molto comodo."
       },
       {
-        "image": "female",
+        "image": {
+          "path": "common",
+          "name": "female"
+        },
         "title": "Federica",
         "text": "La richiesta dell'intervento è stata confermata in breve tempo. Veterinario professionale, rassicurante e dotato di umanità. Contatti con EpiCura sempre improntati alla cortesia."
       }
@@ -211,22 +238,34 @@
     "readArticleText": "Leggi articolo",
     "articles": [
       {
-        "image": "ilsole24ore",
+        "image": {
+          "path": "common",
+          "name": "ilsole24ore"
+        },
         "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
         "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
       },
       {
-        "image": "forbes",
+        "image": {
+          "path": "common",
+          "name": "forbes"
+        },
         "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
         "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
       },
       {
-        "image": "corrieredellasera",
+        "image": {
+          "path": "common",
+          "name": "corrieredellasera"
+        },
         "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
         "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
       },
       {
-        "image": "lastampa",
+        "image": {
+          "path": "common",
+          "name": "lastampa"
+        },
         "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
         "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
       }
@@ -275,17 +314,26 @@
     "htmlText": "<h2>Cura la sua salute</h2><p> Da quando è un cucciolo a quando è anziano, l’animale di compagnia va curato e seguito. Questa decisione va presa in modo consapevole altrimenti si rischia di danneggiare la sua salute e il rapporto che hai con lui. Il veterinario si occupa di prendersi cura dell’animale migliorando la sua qualità di vita ed evitando sofferenze. Lo specialista si occupa di curare la salute dell’animale in vari ambiti, dall’igiene alla riproduzione. <br />Sappiamo quanto, a volte, sia difficile e scomodo il trasporto fino allo studio veterinario. Quando l'animale è anziano, malato o addirittura quando è cucciola spesso è proibitivo spostarsi. Per questo EpiCura offre interventi di veterinari professionisti a domicilio per evitare attese e scomodi spostamenti. Per dare il massimo al tuo animale e farlo sentire sempre curato e al sicuro garantiamo i servizi 7 giorni su 7 anche in orari serali e senza liste di attesa. Sei tu che decidi ora e giorno.</p>",
     "cards": [
       {
-        "image": "comodita-casa",
+        "image": {
+          "path": "common",
+          "name": "comodita-casa"
+        },
         "title": "La comodità di casa",
         "text": "I nostri specialisti ti raggiungono a casa o in ufficio con tutto il necessario per eseguire la prestazione. Pensiamo a tutto noi. Il tuo animale si sentirà curato e tranquillo direttamente nel confort di casa."
       },
       {
-        "image": "percorsi-personalizzati",
+        "image": {
+          "path": "common",
+          "name": "percorsi-personalizzati"
+        },
         "title": "Percorsi personalizzati",
         "text": "Ogni animale ha le sue esigenze. Per questo offriamo percorsi personalizzati creati su misura. I nostri professionisti affiancheranno il tuo animale nel suo percorso offrendogli i trattamenti giusti negli orari e giorni che preferisci."
       },
       {
-        "image": "interventi-tempestivi",
+        "image": {
+          "path": "common",
+          "name": "interventi-tempestivi"
+        },
         "title": "Interventi tempestivi",
         "text": "Sappiamo quanto possa essere frustrante dover attendere un intervento quando ce n’è bisogno. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali. Vuoi risolvere il problema? Chiamaci subito allo 010 807 8680."
       }
@@ -297,17 +345,26 @@
     "htmlText": "<h2>Cura la sua salute</h2><p>I nostri professionisti certificati e coperti da assicurazione sono in grado di strutturare percorsi personalizzati studiati per le tue esigenze e per quelle del tuo animale. Porteranno con loro tutto quello di cui hanno bisogno per farti beneficiare a pieno dell'intervento veterinario direttamente nel comfort di casa tua.</p> ",
     "cards": [
       {
-        "image": "comodita-casa",
+        "image": {
+          "path": "common",
+          "name": "comodita-casa"
+        },
         "title": "Quando e dove vuoi",
         "text": "Pensiamo a tutto noi. I nostri specialisti sono disponibili a domicilio con tutto il necessario per eseguire la prestazione."
       },
       {
-        "image": "percorsi-personalizzati",
+        "image": {
+          "path": "common",
+          "name": "percorsi-personalizzati"
+        },
         "title": "Percorsi personalizzati",
         "text": "I nostri professionisti accompagneranno il tuo animale in un percorso creato su misura per lui, offrendo i trattamenti corretti sulla base delle esigenze, dove vuoi tu e quando vuoi tu."
       },
       {
-        "image": "interventi-tempestivi",
+        "image": {
+          "path": "common",
+          "name": "interventi-tempestivi"
+        },
         "title": "Interventi tempestivi",
         "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
       }

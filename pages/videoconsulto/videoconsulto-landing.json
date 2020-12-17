@@ -84,12 +84,18 @@
     "text": "Videoconsulti e consulti online per avere la sicurezza di pareri specialistici, la semplicità e la comodità di un servizio tempestivo e sempre a portata di click!",
     "cards": [
       {
-        "image": "scegli-soluzione",
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
         "title": "Scegli la disciplina",
         "text": "Offriamo un’ampia scelta di servizi sanitari per rispondere esattamente a ciò di cui hai bisogno. Se hai un problema e non sai a chi rivolgerti, il nostro team di esperti ti aiuterà ad individuare la soluzione più adatta a te."
       },
       {
-        "image": "prenota-seduta",
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
         "title": "Paga comodamente",
         "text": "Paga comodamente online e ti metteremo in contatto con lo specialista che fa al caso tuo. Nessuna lista di attesa o scomodi spostamenti, avrai tutto il supporto di cui hai bisogno direttamente sul tuo telefono."
       },

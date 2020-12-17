@@ -9,17 +9,26 @@
     "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno rende la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Bologna e area metropolitana grazie a 3 semplici passaggi:",
     "cards": [
       {
-        "image": "scegli-soluzione",
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
         "title": "Scegli la soluzione",
         "text": "EpiCura offre un’ampia scelta di servizi per permettere al paziente di trovare esattamente ciò di cui ha bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
       },
       {
-        "image": "prenota-seduta",
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
         "title": "Prenota la seduta",
         "text": "Contattaci telefonicamente o prenota direttamente online, troveremo il miglior specialista che ti guiderà nel percorso terapeutico. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
       },
       {
-        "image": "migliora-salute",
+        "image": {
+          "path": "common",
+          "name": "migliora-salute"
+        },
         "title": "Migliora la tua salute",
         "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo corpo. Potrai contattarci per qualunque esigenza."
       }
@@ -30,17 +39,26 @@
     "text": "EpiCura, con oltre 800 figure, è il primo poliambulatorio digitale in Italia. Abbiamo creato un sistema rapido per <b>evitare disorganizzazione, disagi e attese</b> ai nostri pazienti. Ecco come funziona:",
     "cards": [
       {
-        "image": "scegli-soluzione",
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
         "title": "Scegli la soluzione",
         "text": "Trova il servizio adatto alle tue necessità oppure spiegaci la tua situazione. Ascolteremo i tuoi bisogni e ti aiuteremo a scegliere la migliore soluzione per te."
       },
       {
-        "image": "prenota-seduta",
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
         "title": "Prenota la prestazione",
         "text": "Chiamaci o prenota direttamente online. Troveremo il miglior specialista per te e potrai ricevere il servizio in tempi brevi, senza alcuna lista d’attesa e con la massima comodità."
       },
       {
-        "image": "migliora-salute",
+        "image": {
+          "path": "common",
+          "name": "migliora-salute"
+        },
         "title": "Migliora la tua salute",
         "text": "Preparati a ricevere a casa tua il nostro specialista. Ti affiancherà in modo professionale nel migliorare la tua salute. Per qualsiasi dubbio o necessità, potrai chiamarci in ogni momento."
       }
@@ -111,17 +129,26 @@
     "allReviewsText": "Tutte le recensioni",
     "cards": [
       {
-        "image": "male",
+        "image": {
+          "path": "common",
+          "name": "male"
+        },
         "title": "Mirco",
         "text": "Mi sono trovato molto bene, avevo un problema con i miei genitori a casa e non riuscivo a trovare un'infermiere per delle iniezioni urgenti. Hanno pensato a tutto e mi hanno fornito un servizio ottimo con dei veri professionisti. Sicuramente consigliato anche per l'umanità del personale che si occupa di organizzare gli appuntamenti, fornire informazioni dettagliate del servizio e monitorare l'andamento. Prezzi nelle media, sicuramente consigliato."
       },
       {
-        "image": "female",
+        "image": {
+          "path": "common",
+          "name": "female"
+        },
         "title": "Angela",
         "text": "Sono rimasto soddisfatto fin da subito per il trattamento ricevuto dall'operatrice che ha risposto al numero telefonico, per la sua disponibilità, gentilezza e professionalità. Avevo bisogno di un'infermiera che si è dimostrata altrettanto puntuale e professionale. Faccio i miei complimenti e ringraziamenti a tutti. Consiglierò senz'altro ai miei amici questo servizio."
       },
       {
-        "image": "female",
+        "image": {
+          "path": "common",
+          "name": "female"
+        },
         "title": "Sonia",
         "text": "Eccellente e corretti. Hanno dovuto fare un intervento a mia madre per levare punti di sutura. La prima volta che sono venuti hanno constatato che non potevano essere tolti e chiesto di verificare con dottore. Non hanno chiesto quindi il compenso anche se di diritto avrebbero avuto il diritto di chiamata. Il secondo intervento e' stato fatto 2 giorni dopo. Professionalmente bravi, puntuali negli appuntamenti, gentili nelle risposte e sopratutto correttissimi."
       }
@@ -211,22 +238,34 @@
     "readArticleText": "Leggi articolo",
     "articles": [
       {
-        "image": "ilsole24ore",
+        "image": {
+          "path": "common",
+          "name": "ilsole24ore"
+        },
         "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
         "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
       },
       {
-        "image": "forbes",
+        "image": {
+          "path": "common",
+          "name": "forbes"
+        },
         "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
         "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
       },
       {
-        "image": "corrieredellasera",
+        "image": {
+          "path": "common",
+          "name": "corrieredellasera"
+        },
         "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
         "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
       },
       {
-        "image": "lastampa",
+        "image": {
+          "path": "common",
+          "name": "lastampa"
+        },
         "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
         "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
       }
@@ -249,17 +288,26 @@
     "htmlText": "<h2>Interventi infermieristici tempestivi a domicilio</h2><p>Per favorire la guarigione e il benessere psico-fisico dell’assistito è di cruciale importanza <b>trovarsi in un ambiente familiare e accogliente come la propria casa</b>.</p><p>Gli interventi infermieristici domiciliari di EpiCura permettono di <b>evitare l'ospedalizzazione</b> non necessaria, mettendo a suo agio il paziente e aiutandolo nel suo processo di guarigione.</p><p>I nostri <b>infermieri esperti e certificati</b> operano 7 giorni su 7 per aiutare chi ne ha bisogno a sentirsi sempre al sicuro.</p>",
     "cards": [
       {
-        "image": "comodita-casa",
+        "image": {
+          "path": "common",
+          "name": "comodita-casa"
+        },
         "title": "Quando e dove vuoi",
         "text": "I nostri infermieri sono disponibili 24 ore su 24, 7 giorni su 7, per assistere chi ne ha bisogno. EpiCura mette a disposizione personale competente e coperto da assicurazione per aiutarti ovunque tu voglia."
       },
       {
-        "image": "percorsi-personalizzati",
+        "image": {
+          "path": "common",
+          "name": "percorsi-personalizzati"
+        },
         "title": "Senza attese",
         "text": "Sappiamo quanto possa essere frustrante dover attendere l’intervento quando ce n’è bisogno. Noi di EpiCura garantiamo gli interventi infermieristici senza lista d’attesa, anche in orari serali per farti sentire sempre al sicuro."
       },
       {
-        "image": "interventi-tempestivi",
+        "image": {
+          "path": "common",
+          "name": "interventi-tempestivi"
+        },
         "title": "Assistenza personalizzata",
         "text": " Ogni paziente ha le sue esigenze. Per questo offriamo interventi o percorsi personalizzati creati su misura. I nostri professionisti ti affiancheranno nel tuo percorso offrendoti i trattamenti adatti al tuo specifico caso. Vuoi risolvere il tuo problema? Chiamaci subito al 051 0185233."
       }
@@ -271,17 +319,26 @@
     "htmlText": "<h2>Interventi infermieristici tempestivi a domicilio</h2><p>Per favorire la guarigione, la guarigione e il benessere psico-fisico dell’assistito è importante trovarsi in un ambiente familiare e accogliente come la propria casa. </br>Gli interventi infermieristici permettono di evitare l’ospedalizzazione non necessaria, mettendo a proprio agio il paziente e aiutandolo nel processo di guarigione.",
     "cards": [
       {
-        "image": "comodita-casa",
+        "image": {
+          "path": "common",
+          "name": "comodita-casa"
+        },
         "title": "Quando e dove vuoi",
         "text": "Pensiamo a tutto noi. I nostri specialisti ti raggiungono a casa o in ufficio, ovunque tu voglia, con tutto il necessario per eseguire la prestazione."
       },
       {
-        "image": "percorsi-personalizzati",
+        "image": {
+          "path": "common",
+          "name": "percorsi-personalizzati"
+        },
         "title": "Percorsi personalizzati",
         "text": "I nostri professionisti ti accompagneranno in un percorso creato su misura per te, offrendoti i trattamenti corretti sulla base delle tue esigenze, dove vuoi tu e quando vuoi tu."
       },
       {
-        "image": "interventi-tempestivi",
+        "image": {
+          "path": "common",
+          "name": "interventi-tempestivi"
+        },
         "title": "Interventi tempestivi",
         "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
       }

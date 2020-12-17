@@ -33,17 +33,26 @@
     "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 700 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Genova e zone di periferia grazie a 3 semplici passaggi:",
     "cards": [
       {
-        "image": "scegli-soluzione",
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
         "title": "Scegli la soluzione",
         "text": "EpiCura offre un’ampia scelta di servizi per permettere al paziente di trovare esattamente ciò di cui ha bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
       },
       {
-        "image": "prenota-seduta",
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
         "title": "Prenota la seduta",
         "text": "Contattaci o prenota direttamente online e troveremo il miglior specialista per il tuo caso che ti guiderà nel tuo percorso terapeutico. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
       },
       {
-        "image": "migliora-salute",
+        "image": {
+          "path": "common",
+          "name": "migliora-salute"
+        },
         "title": "Mettiti comodo",
         "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua, in videoconsulto o in studio. Ti affiancheremo nel tuo percorso. Potrai contattarci per qualunque esigenza."
       }
@@ -54,17 +63,26 @@
     "text": "EpiCura, con oltre 800 figure, è il primo poliambulatorio digitale in Italia. Abbiamo creato un sistema rapido per evitare disorganizzazione, disagi e attese ai nostri pazienti. Ecco come funziona:",
     "cards": [
       {
-        "image": "scegli-soluzione",
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
         "title": "Scegli la soluzione",
         "text": "Spiegaci la tua situazione, ascoltiamo i tuoi bisogni e ti aiutiamo a scegliere la migliore soluzione per te. Ogni persona è differente e ogni perccorso unico."
       },
       {
-        "image": "prenota-seduta",
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
         "title": "Prenota la seduta",
         "text": "Richiedi informazioni o prenota direttamente online. Ti mettiamo in contatto con il miglior specialista per te in breve tempo, senza alcuna lista d’attesa e con la massima comodità."
       },
       {
-        "image": "migliora-salute",
+        "image": {
+          "path": "common",
+          "name": "migliora-salute"
+        },
         "title": "Migliora la tua salute",
         "text": "All’orario e nel giorno concordato incontrerai il tuo psicologo online, in studio o a domicilio. Potrai rivolgerti a noi per qualunque esigenza. Comincia subito il tuo percorso anche in videoconsulto"
       }
@@ -149,17 +167,26 @@
     "allReviewsText": "Tutte le recensioni",
     "cards": [
       {
-        "image": "male",
+        "image": {
+          "path": "common",
+          "name": "male"
+        },
         "title": "Federico",
         "text": "Mi è stata inviata una persona seria, competente e molto gentile. E' stata di grande sostegno in un momento molto difficile."
       },
       {
-        "image": "female",
+        "image": {
+          "path": "common",
+          "name": "female"
+        },
         "title": "Nora",
         "text": "Affidabili, puntuali e soprattutto gentili, cosa che accade sempre più raramente nel mondo medico. Altamente consigliati"
       },
       {
-        "image": "female",
+        "image": {
+          "path": "common",
+          "name": "female"
+        },
         "title": "Carla",
         "text": "Ho avuto bisogno di un professionista per affrontare un momento particolare della mia vita, non conoscendo nessuno ho cercato su internet, ho provato questo servizio e ne sono rimasta colpita: gentilezza, ascolto e professionalità!"
       }
@@ -239,22 +266,34 @@
     "readArticleText": "Leggi articolo",
     "articles": [
       {
-        "image": "ilsole24ore",
+        "image": {
+          "path": "common",
+          "name": "ilsole24ore"
+        },
         "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
         "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
       },
       {
-        "image": "forbes",
+        "image": {
+          "path": "common",
+          "name": "forbes"
+        },
         "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
         "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
       },
       {
-        "image": "corrieredellasera",
+        "image": {
+          "path": "common",
+          "name": "corrieredellasera"
+        },
         "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
         "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
       },
       {
-        "image": "lastampa",
+        "image": {
+          "path": "common",
+          "name": "lastampa"
+        },
         "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
         "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
       }
@@ -279,17 +318,26 @@
     "htmlText": "<h2>Riscoprire l’equilibrio mentale</h2><p>È sempre più comune, ad oggi, imbattersi in problemi limitanti e situazioni che compromettono l’equilibrio psicologico causando ansie e stress.</p> <p>Nella nostra vita ci troviamo ad affrontare momenti in cui il supporto di un esperto può fare la differenza per assicurare serenità e vivere un cambiamento equilibrato. </br>Lo psicologo aiuta i pazienti a fronteggiare e risolvere:</p> <p><ul><li>Ansia</li><li>Stress</li><li>Depressione</li><li>Disturbi alimentari</li><li>Paure e fobie</li><li>Dipendenze</li><li>Disturbi psicosomatici</li></ul></p> <p>Per aiutare il paziente a ritrovare l’equilibrio i nostri professionisti strutturano dei percorsi personalizzati e creati su misura per le esigenze specifiche del caso. </br>I nostri specialisti si concentrano sull’ascoltare e comprendere le condizioni che stanno manifestando il disagio nel paziente, per poi affrontarle direttamente per attenuare o eliminare il problema. </br>In questo modo il paziente può ritrovare le energie per superare i blocchi psicologici eliminando stress, ansia e paura. </br>Per offrire il miglior supporto, il primo incontro con il professionista avverrà tramite video consulto.",
     "cards": [
       {
-        "image": "comodita-casa",
+        "image": {
+          "path": "common",
+          "name": "comodita-casa"
+        },
         "title": "Dove e quando vuoi",
         "text": "I nostri professionisti certificati erogano sedute di psicologia dove preferisci, a casa, in studio o in videoconsulto, 7 giorni su 7, anche in orari serali per riequilibrare la mente come e dove vuoi."
       },
       {
-        "image": "percorsi-personalizzati",
+        "image": {
+          "path": "common",
+          "name": "percorsi-personalizzati"
+        },
         "title": "Percorsi personalizzati",
         "text": "Ogni paziente ha le sue esigenze. Per questo offriamo percorsi personalizzati. I nostri professionisti ti affiancheranno nel tuo percorso offrendoti il supporto giusto negli orari e giorni che preferisci."
       },
       {
-        "image": "interventi-tempestivi",
+        "image": {
+          "path": "common",
+          "name": "interventi-tempestivi"
+        },
         "title": "Assistenza costante",
         "text": "Sentirsi sicuri e sereni è alla base del benessere psichico. Noi di EpiCura ci teniamo a far sentire il paziente seguito costantemente in tutte le sue esigenze. Vuoi parlare con un esperto? Chiamaci allo 051 0185233."
       }
@@ -301,17 +349,26 @@
     "htmlText": "<h2>Riscoprire il benessere emotivo</h2><p> Nella nostra vita ci troviamo ad affrontare momenti in cui il supporto di un esperto può fare la differenza per assicurare serenità e per poter vivere un cambiamento costante ed equilibrato. </br>Ritmi di vita frenetici, traumi pregressi, ansia e stress possono minare il nostro benessere emotivo. Per questo lo psicologo o lo psicoterapeuta online o in presenza rappresentano l’aiuto professionale per curare la salute non solo fisica, ma anche psicologica ed emotiva. </br></br>Psicologi e psicoterapeuti online e in presenza aiutano chiunque a fronteggiare e risolvere:</p> <p><ul><li>Ansia</li><li>Stress</li><li>Depressione</li><li>Disturbi alimentari</li><li>Paure e fobie</li><li>Dipendenze</li><li>Disturbi psicosomatici</li></ul></p></br> Vuoi iniziare il percorso di terapia online? Puoi richiedere che la prima seduta avvenga in video o teleconsulto: conoscerai il terapeuta che analizzerà la tua situazione e sceglierà il percorso da seguire per arrivare a raggiungere i tuoi obiettivi e il tuo benessere psicofisico.",
     "cards": [
       {
-        "image": "comodita-casa",
+        "image": {
+          "path": "common",
+          "name": "comodita-casa"
+        },
         "title": "Quando e dove vuoi",
         "text": "I nostri psicologi e psicoterapeuti sono disponibili in studio, a domicilio o in video consulto online, 7 giorni su 7, anche in orari serali."
       },
       {
-        "image": "percorsi-personalizzati",
+        "image": {
+          "path": "common",
+          "name": "percorsi-personalizzati"
+        },
         "title": "Percorsi personalizzati",
         "text": "I nostri professionisti ti accompagneranno in un percorso creato su misura per te, offrendoti supporto e ascolto psicologico professionale."
       },
       {
-        "image": "interventi-tempestivi",
+        "image": {
+          "path": "common",
+          "name": "interventi-tempestivi"
+        },
         "title": "Ti ascoltiamo",
         "text": "Non sai a chi rivolgerti? Ti aiutiamo a identificare il miglior specialista per la tua situazione. Potrai contattarci in qualunque momento."
       }
