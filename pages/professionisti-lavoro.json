@@ -146,5 +146,47 @@
       "title": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
       "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
     }
+  ],
+  "active-provinces": [
+    {
+      "option-link": "/torino/",
+      "option-label": "Torino"
+    },
+    {
+      "option-link": "/milano/",
+      "option-label": "Milano"
+    },
+    {
+      "option-link": "/roma/",
+      "option-label": "Roma"
+    },
+    {
+      "option-link": "/bologna/",
+      "option-label": "Bologna"
+    },
+    {
+      "option-link": "/verona/",
+      "option-label": "Verona"
+    },
+    {
+      "option-link": "/brescia/",
+      "option-label": "Brescia"
+    },
+    {
+      "option-link": "/catania/",
+      "option-label": "Catania"
+    },
+    {
+      "option-link": "/genova/",
+      "option-label": "Genova"
+    },
+    {
+      "option-link": "/firenze/",
+      "option-label": "Firenze"
+    },
+    {
+      "option-link": "/napoli/",
+      "option-label": "Napoli"
+    }
   ]
 }
