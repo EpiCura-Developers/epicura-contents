@@ -3,12 +3,12 @@
         "title": "EpiCura",
         "description": "Siamo il primo poliambulatorio digitale in Italia."
     },
-    "site-who-we-are-header-title": "Chi siamo",
-    "site-who-we-are-header-subtitle": "Sognatori, creativi e appassionati: vogliamo semplificare la sanità e renderla migliore per tutti.",
+    "site-who-we-are-header-title": "Il primo poliambulatorio digitale in Italia",
+    "site-who-we-are-header-subtitle": "Rendiamo la sanità più semplice, rapida e attenta ai bisogni delle persone.",
     "site-who-we-are-header-img": "",
     "site-who-we-are-header-color": "#CEF5F2",
     "site-who-we-are-description-title": "Siamo il primo poliambulatorio digitale in Italia",
-    "site-who-we-are-description-text": "Immaginiamo un mondo in cui tutti quanti possano prendersi cura della propria salute in modo semplice e veloce, senza lunghe attese e infiniti iter burocratici. Vogliamo erogare servizi sanitari e socio assistenziali di altissimo livello e solo con personale qualificato e selezionato, attraverso l'utilizzo della tecnologia per semplificare la vita dei nostri pazienti e dei loro familiari.",
+    "site-who-we-are-description-text": "Utilizziamo la tecnologia per rendere più accessibili i servizi sanitari e socio-assistenziali, con la missione di semplificare la vita delle persone. </br> Vogliamo migliorare un settore caratterizzato da lunghe attese e grandi scomodità e lo stiamo facendo costruendo un servizio che si basa sulla tempestività, sulla flessibilità e sulla vicinanza ai nostri pazienti.",
     "site-who-we-are-description-img": "",
     "site-who-we-are-relation-work": {
         "title": "Come funziona?",
@@ -38,50 +38,45 @@
     "site-who-we-are-statistics": [
         {
             "site-who-we-are-statistic-value": "2017",
-            "site-who-we-are-statistic-label": "Anno di nascita"
+            "site-who-we-are-statistic-label": "L'anno di nascita del nostro progetto."
         },
         {
-            "site-who-we-are-statistic-value": "3M",
-            "site-who-we-are-statistic-label": "Finanziamenti"
+            "site-who-we-are-statistic-value": "+3 Milioni",
+            "site-who-we-are-statistic-label": "I finanziamenti di chi ha creduto in noi."
         },
         {
-            "site-who-we-are-statistic-value": "5.000",
-            "site-who-we-are-statistic-label": "Interventi erogati"
+            "site-who-we-are-statistic-value": "+800",
+            "site-who-we-are-statistic-label": "I professionisti attivi nella nostra rete."
         },
         {
-            "site-who-we-are-statistic-value": "+3000",
-            "site-who-we-are-statistic-label": "Pazienti aiutati"
+            "site-who-we-are-statistic-value": "+4000",
+            "site-who-we-are-statistic-label": "Le famiglie che ci hanno scelto."
         }
     ],
     "site-who-we-are-our-values-title": "Cosa ci rende speciali",
-    "site-who-we-are-our-values-share-text": "Condividi i nostri valori e hai qualcosa di speciale da portare in EpiCura? Scopri chi stiamo cercando.",
+    "site-who-we-are-our-values-share-text": "Condividi i nostri valori e ami le sfide? </br> Scopri le posizioni aperte e unisciti alla rivoluzione EpiCura!",
     "site-who-we-are-our-values-btn-text": "Entra nel team",
     "site-who-we-are-our-values-link": "/",
     "site-who-we-are-our-values": [
         {
             "site-who-we-are-our-value-image": "",
-            "site-who-we-are-our-value-title": "Le persone al centro",
-            "site-who-we-are-our-value-subtitle": "Progettiamo e sviluppiamo servizi su misura dei nostri pazienti. È per questo che abbiamo recensioni che fanno invidia."
+            "site-who-we-are-our-value-title": "Le persone prima di tutto",
+            "site-who-we-are-our-value-subtitle": "Le tue esigenze sono al primo posto: l'ascolto è per noi fondamentale per offrirti soluzioni su misura."
+        },
+        {
+            "site-who-we-are-our-value-image": "",
+            "site-who-we-are-our-value-title": "Professionisti di valore",
+            "site-who-we-are-our-value-subtitle": "Lavoriamo solo con professionisti qualificati e certificati per garantirti un servizio di alta qualità."
+        },
+        {
+            "site-who-we-are-our-value-image": "",
+            "site-who-we-are-our-value-title": "Un servizio comodo, veloce, flessibile",
+            "site-who-we-are-our-value-subtitle": "Dimentica le liste d'attesa e gli scomodi spostamenti: prenditi cura della tua salute dove e quando vuoi."
         },
         {
             "site-who-we-are-our-value-image": "",
             "site-who-we-are-our-value-title": "Un grande obiettivo condiviso",
-            "site-who-we-are-our-value-subtitle": "Non abbiamo la pretesa di andare sulla luna, vogliamo solo rivoluzionare il sistema della salute e del benessere."
-        },
-        {
-            "site-who-we-are-our-value-image": "",
-            "site-who-we-are-our-value-title": "Agili, flessibili e veloci",
-            "site-who-we-are-our-value-subtitle": "Non facciamo in tempo ad elaborare un’idea che ci stiamo già lavorando sopra: è il nostro miglior modo per capire se funzionerà."
-        },
-        {
-            "site-who-we-are-our-value-image": "",
-            "site-who-we-are-our-value-title": "Menti brillanti e determinate",
-            "site-who-we-are-our-value-subtitle": "Ci piace il pezzo di carta, ma puntiamo molto a qualità che non si imparano sui libri. Nessuno è stato maltrattato durante la selezione."
-        },
-        {
-            "site-who-we-are-our-value-image": "",
-            "site-who-we-are-our-value-title": "Collaborazione e crescita continua",
-            "site-who-we-are-our-value-subtitle": "Non riusciamo a vederci come semplici colleghi. Ognuno di noi ha qualcosa da insegnare o imparare dall'altro, molto umilmente."
+            "site-who-we-are-our-value-subtitle": "Decine di investitori hanno creduto in EpiCura, permettendoci di offrire un servizio sempre migliore."
         }
     ],
     "site-who-we-are-contact": "Vuoi metterti in contatto con noi?",
@@ -94,7 +89,7 @@
         },
         {
             "site-who-we-are-contact-img": "",
-            "site-who-we-are-contact-text": "Per professionisti che vogliono collaborare"
+            "site-who-we-are-contact-text": "Per medici, professionisti sanitari e socio-assistenziali"
         }
     ]
 }
