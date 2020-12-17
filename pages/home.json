@@ -4,8 +4,8 @@
         "description": "Medici, infermieri, veterinari, badanti e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7."
     },
     "site-relation-search-header": {
-        "site-search-header-title": "Prenota online una visita, ovunque <br> tu voglia, senza liste d'attesa",
-        "site-search-header-subtitle": "Medici, infermieri, assistenti domiciliari e professionisti della salute a domicilio, <br> in studio o in videoconsulto, 7 giorni su 7.",
+        "site-search-header-title": "Prenota online una visita, ovunque tu voglia, senza liste d'attesa",
+        "site-search-header-subtitle": "Medici, infermieri, assistenti domiciliari e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7.",
         "site-search-header-img": {
             "path": "common",
             "name": "header_home"
@@ -189,7 +189,7 @@
     "site-landing-page-relation-section": [
         {
             "site-discipline-section-title": "Per prendersi cura di anziani, malati e disabili*",
-            "site-discipline-section-description": "Servizi pensati per le esigenze di persone autosufficienti e non autosufficienti <br> con differenti bisogni di assistenza e cura. <br> Affida la salute dei tuoi cari a personale qualificato con EpiCura.",
+            "site-discipline-section-description": "Servizi pensati per le esigenze di persone autosufficienti e non autosufficienti con differenti bisogni di assistenza e cura. </br> Affida la salute dei tuoi cari a personale qualificato con EpiCura.",
             "site-discipline-placeholder-image": {},
             "site-discipline-placeholder-image-width": 0,
             "site-discipline-bkg-color": "#FFFCF8",
@@ -206,7 +206,7 @@
         },
         {
             "site-discipline-section-title": "Consulti specialistici da remoto",
-            "site-discipline-section-description": "Parla con uno specialista dove e quando vuoi, evitando scomodi spostamenti. <br> Collegati da pc, smartphone o tablet e prenditi cura della tua salute in tempo reale. <br> Il nostro servizio è disponibile 7 giorni su 7 e strutturato a completa garanzia della tua privacy.",
+            "site-discipline-section-description": "Parla con uno specialista dove e quando vuoi, evitando scomodi spostamenti. </br> Collegati da pc, smartphone o tablet e prenditi cura della tua salute in tempo reale. </br> Il nostro servizio è disponibile 7 giorni su 7 e strutturato a completa garanzia della tua privacy.",
             "site-discipline-placeholder-image": {
                 "path": "common",
                 "name": "old-lady"
@@ -221,7 +221,7 @@
         },
         {
             "site-discipline-section-title": "Per prevenire e curare i dolori muscolo-scheletrici",
-            "site-discipline-section-description": "Mal di schiena, cervicalgia, tensione muscolare: per dire addio al dolore (anche cronico) possono bastare <br> poche sedute. <br> Ritrova flessibilità nei movimenti, educando il tuo corpo a una corretta postura e sciogliendo le contratture.",
+            "site-discipline-section-description": "Mal di schiena, cervicalgia, tensione muscolare: per dire addio al dolore (anche cronico) possono bastare poche sedute. </br> Ritrova flessibilità nei movimenti, educando il tuo corpo a una corretta postura e sciogliendo le contratture.",
             "site-discipline-placeholder-image": {},
             "site-discipline-placeholder-image-width": 0,
             "site-discipline-bkg-color": "#F5F8FF",
@@ -234,7 +234,7 @@
         },
         {
             "site-discipline-section-title": "Per il benessere di corpo e mente",
-            "site-discipline-section-description": "Il benessere mentale ha un importante impatto sul nostro corpo e viceversa. <br> Ritrova il tuo equilibrio psico-fisico, dedicando del tempo alla tua salute fisica e mentale: i nostri professionisti <br> ascolteranno le tue esigenze e ti guideranno verso uno stile di vita più felice, sereno e in salute.",
+            "site-discipline-section-description": "Il benessere mentale ha un importante impatto sul nostro corpo e viceversa. </br> Ritrova il tuo equilibrio psico-fisico, dedicando del tempo alla tua salute fisica e mentale: i nostri professionisti ascolteranno le tue esigenze e ti guideranno verso uno stile di vita più felice, sereno e in salute.",
             "site-discipline-placeholder-image": {},
             "site-discipline-placeholder-image-width": 0,
             "site-discipline-bkg-color": "#FFF",
@@ -247,7 +247,7 @@
         },
         {
             "site-discipline-section-title": "Per la salute degli animali domestici",
-            "site-discipline-section-description": "I nostri amici animali hanno bisogno di particolari cure e attenzioni. <br> Con i servizi veterinari EpiCura potrai prenderti cura del tuo amico a quattro zampe <br> nel comfort di casa, senza stress per te e il tuo animale domestico. ",
+            "site-discipline-section-description": "I nostri amici animali hanno bisogno di particolari cure e attenzioni. </br> Con i servizi veterinari EpiCura potrai prenderti cura del tuo amico a quattro zampe <br> nel comfort di casa, senza stress per te e il tuo animale domestico. ",
             "site-discipline-placeholder-image": {
                 "path": "common",
                 "name": "veterinary-office"
@@ -271,7 +271,7 @@
     "site-landing-cta-card-list": [
         {
             "site-cta-card-title": "I nostri professionisti",
-            "site-cta-card-description": "Lavoriamo solo con personale qualificato e certificato, capace di rispondere a precisi criteri di selezione. <br> Il nostro obiettivo è garantirti un servizio con elevati standard di qualità. <br><br> Con EpiCura la tua salute è nelle mani dei migliori professionisti!.",
+            "site-cta-card-description": "Lavoriamo solo con personale qualificato e certificato, capace di rispondere a precisi criteri di selezione. </br> Il nostro obiettivo è garantirti un servizio con elevati standard di qualità. </br></br> Con EpiCura la tua salute è nelle mani dei migliori professionisti!.",
             "site-cta-card-btn-title": "Sei un professionista?",
             "site-cta-card-btn-text": "Lavora con noi",
             "site-cta-card-btn-action": "/professionisti/",
@@ -283,7 +283,7 @@
             }
         }
     ],
-    "site-landing-page-slogan": "Vogliamo rendere la sanità <br> più semplice, rapida e su misura.",
+    "site-landing-page-slogan": "Vogliamo rendere la sanità </br> più semplice, rapida e su misura.",
     "site-landing-feedaty": {
         "feedaty-score": 4.7,
         "feedaty-review-score": "Ottimo",
@@ -292,17 +292,17 @@
             {
                 "feedaty-feedback-author-sex": "Maschio",
                 "feedaty-feedback-author": "Maurizio",
-                "feedaty-feedback-text": "Davvero un ottimo servizio! <br> Stavo male e avevo bisogno di un intervento tempestivo. <br> Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!"
+                "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male e avevo bisogno di un intervento tempestivo. </br> Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!"
             },
             {
                 "feedaty-feedback-author-sex": "Femmina",
                 "feedaty-feedback-author": "Anna",
-                "feedaty-feedback-text": "Le prenotazioni per gli interventi sono veloci e hanno coperto tutti i problemi e le esigenze fino ad ora incontrate. <br> Il servizio infermieristico è ineccepibile: personale molto preparato e gentile."
+                "feedaty-feedback-text": "Le prenotazioni per gli interventi sono veloci e hanno coperto tutti i problemi e le esigenze fino ad ora incontrate. </br> Il servizio infermieristico è ineccepibile: personale molto preparato e gentile."
             },
             {
                 "feedaty-feedback-author-sex": "Femmina",
                 "feedaty-feedback-author": "Federica",
-                "feedaty-feedback-text": "Vi siete presi cura di mio padre, in un momento molto difficile per lui. <br> Vi ringrazio per la vostra professionalità, efficienza e disponibilità. Veramente un servizio ottimo, molto consigliato."
+                "feedaty-feedback-text": "Vi siete presi cura di mio padre, in un momento molto difficile per lui. </br> Vi ringrazio per la vostra professionalità, efficienza e disponibilità. Veramente un servizio ottimo, molto consigliato."
             }
         ],
         "feedaty-male-image": {
