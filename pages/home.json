@@ -191,7 +191,6 @@
             "site-discipline-section-title": "Per prendersi cura di anziani, malati e disabili*",
             "site-discipline-section-description": "Servizi pensati per le esigenze di persone autosufficienti e non autosufficienti con differenti bisogni di assistenza e cura. </br> Affida la salute dei tuoi cari a personale qualificato con EpiCura.",
             "site-discipline-placeholder-image": {},
-            "site-discipline-placeholder-image-width": 0,
             "site-discipline-bkg-color": "#FFFCF8",
             "site-discipline-section-list": [
                 "assistente-domiciliare",
@@ -211,7 +210,6 @@
                 "path": "common",
                 "name": "old-lady"
             },
-            "site-discipline-placeholder-image-width": 1,
             "site-discipline-bkg-color": "#FFF",
             "site-discipline-section-list": [
                 "videoconsulti",
@@ -223,7 +221,6 @@
             "site-discipline-section-title": "Per prevenire e curare i dolori muscolo-scheletrici",
             "site-discipline-section-description": "Mal di schiena, cervicalgia, tensione muscolare: per dire addio al dolore (anche cronico) possono bastare poche sedute. </br> Ritrova flessibilità nei movimenti, educando il tuo corpo a una corretta postura e sciogliendo le contratture.",
             "site-discipline-placeholder-image": {},
-            "site-discipline-placeholder-image-width": 0,
             "site-discipline-bkg-color": "#F5F8FF",
             "site-discipline-section-list": [
                 "fisioterapista",
@@ -236,7 +233,6 @@
             "site-discipline-section-title": "Per il benessere di corpo e mente",
             "site-discipline-section-description": "Il benessere mentale ha un importante impatto sul nostro corpo e viceversa. </br> Ritrova il tuo equilibrio psico-fisico, dedicando del tempo alla tua salute fisica e mentale: i nostri professionisti ascolteranno le tue esigenze e ti guideranno verso uno stile di vita più felice, sereno e in salute.",
             "site-discipline-placeholder-image": {},
-            "site-discipline-placeholder-image-width": 0,
             "site-discipline-bkg-color": "#FFF",
             "site-discipline-section-list": [
                 "psicologo",
@@ -252,7 +248,6 @@
                 "path": "common",
                 "name": "veterinary-office"
             },
-            "site-discipline-placeholder-image-width": 0,
             "site-discipline-bkg-color": "#F5F8FF",
             "site-discipline-section-list": [
                 "veterinario"
