@@ -196,7 +196,11 @@
             "site-discipline-section-list": [
                 "assistente-domiciliare",
                 "infermiere",
-                "fisioterapista"
+                "fisioterapista",
+                "videoconsulti",
+                "psicologo-videoconsulto",
+                "fisioterapista",
+                "osteopata"
             ],
             "site-discipline-notes": "*Il servizio di badanti è attivo in tutta Italia."
         },
