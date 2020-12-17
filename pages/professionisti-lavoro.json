@@ -131,8 +131,18 @@
       }
     ]
   },
-  "faqs-section": {
-    "title": "Domande e risposte",
-    "faqs-link": ""
-  }
+  "faqs-section": [
+    {
+      "title": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
+      "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+    },
+    {
+      "title": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
+      "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+    },
+    {
+      "title": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
+      "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+    }
+  ]
 }
