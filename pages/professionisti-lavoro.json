@@ -1,139 +1,138 @@
 {
-    "metaDescription": {
-        "title": "EpiCura",
-        "description": "Lavora con EpiCura"
-    },
-    "search-bck-img": "",
-    "pro-alarm": "",
-    "pro-pointer": "",
-    "pro-hands": "",
-    "pro-docs": "",
-    "pro-medical-records": "",
-    "pro-calendar": "",
-    "pro-with-phone": "",
-    "pro-phone": "",
-    "pro-heart": "",
-    "pro-speak": "",
-    "pro-muscle": "",
-    "pro-clock": "",
-    "pro-lightbulb": "",
-    "header": {
-      "title": "Diventa parte del primo poliambulatorio digitale in Italia.",
-      "subtitle": "Entra nella rete di professionisti EpiCura e costruisci con noi il futuro della sanità.",
-      "background-image": "specialist"
-    },
-    "first-section": {
-      "title": "Perché conviene?",
-      "card-list": [
-        {
-          "title": "Il mondo EpiCura in un'app",
-          "content": "Scopri le richieste di intervento nella tua città, prendi in carico la prestazione e gestisci tutto comodamente da smartphone.",
-          "image": "pro-alarm"
-        },
-        {
-          "title": "Scegli tu quando lavorare",
-          "content": "Con EpiCura sei tu a scegliere le prestazioni da prendere in carico: decidi tu come, dove e quando lavorare.",
-          "image": "pro-pointer"
-        },
-        {
-          "title": "Pagamenti chiari e puntuali",
-          "content": "La trasparenza è il nostro punto di forza: ricevi con puntualità il pagamento delle tue prestazioni, senza commissioni o costi nascosti!",
-          "image": "pro-hands"
-        },
-        {
-          "title": "Dimentica la burocrazia!",
-          "content": "Con EpiCura la gestione fiscale e contrattuale è totalmente a carico nostro: pensa solo al tuo lavoro, del resto ci occupiamo noi!",
-          "image": "pro-docs"
-        }
-      ]
-    },
-    "second-section": {
-      "title": "Gestisci tutto tramite App",
-      "subtitle": "La nostra applicazione è progettata per rendere il tuo lavoro semplice, comodo e accessibile. </br> Con EpiCura puoi visualizzare, gestire e prendere in carico le richieste d'intervento ovunque tu sia: basta un tocco dal tuo smartphone.",
-      "background-image": "pro-phone"
-    },
-    "third-section": {
-      "title": "Come funziona",
-      "subtitle": "Lavoriamo ogni giorno per rendere la sanità più semplice, veloce e accessibile per tutti. </br> Ecco come funziona il servizio per i nostri professionisti:",
-      "card-list": [
-        {
-          "title": "Ricevi le richieste",
-          "content": "Ricevi le richieste degli utenti nella tua zona di competenza, comodamente in app e via e-mail. In ogni richiesta sono specificati i dettagli dell'intervento, come luogo e orario.",
-          "image": "pro-medical-records"
-        },
-        {
-          "title": "Prendi in carico la prestazione",
-          "content": "Con EpiCura non hai vincoli: puoi prendere in carico solo le richieste d'intervento che si conciliano con i tuoi impegni personali e lavorativi.",
-          "image": "pro-calendar"
-        },
-        {
-          "title": "Esegui l'intervento",
-          "content": "Presa in carico la richiesta, non dovrai fare altro che eseguire la prestazione con professionalità. A intervento concluso riceverai il tuo corrispettivo senza commissioni o costi nascosti!",
-          "image": "pro-with-phone"
-        }
-      ]
-    },
-    "fourth-section": {
-      "title": "Requisiti per collaborare con noi",
-      "subtitle": "Collaboriamo solo con professionisti qualificati e certificati per garantire i migliori standard di qualità. </br> Vuoi entrare a far parte di EpiCura? </br> Scopri i requisiti richiesti per collaborare con noi:",
-      "tab-list": [
-        {
-          "tab-name": "Medici e professionisti",
-          "title": "Cosa è richiesto",
-          "requirement-list": [
-            "Almeno 1 anno di esperienza",
-            "Certificato di laurea",
-            "Tesserino di iscrizione all'Albo Professionale (se richiesto)",
-            "Assicurazione di responsabilità professionale",
-            "Partita IVA e regime forfettario",
-            "Dimestichezza con i principali strumenti digitali (mail, agenda, app di conference call)"
-          ]
-        },
-        {
-          "tab-name": "Assistenti domiciliari",
-          "title": "Cosa è richiesto",
-          "requirement-list": [
-            "Almeno 1 anno di esperienza",
-            "Carta di identità (se cittadino extracomunitario)",
-            "Permesso di soggiorno",
-            "Eventuale certificato abilitante (richiesta per OSS)"
-          ]
-        }
-      ]
-    },
-    "fifth-section": {
-      "title": "I valori di un professionista EpiCura",
-      "card-list": [
-        {
-          "title": "Puntualità e serietà",
-          "content": "Arrivi sempre in orario e prendi con serietà il tuo impegno con il paziente.",
-          "image": "pro-clock"
-        },
-        {
-          "title": "Gestione degli imprevisti",
-          "content": "Sai gestire le situazioni inattese e prendi decisioni in autonomia.",
-          "image": "pro-lightbulb"
-        },
-        {
-          "title": "Attenzione alla persona",
-          "content": "Ti prendi cura di chi hai di fronte con empatia e cerchi sempre la soluzione migliore al suo caso.",
-          "image": "pro-heart"
-        },
-        {
-          "title": "Comunicazione trasparente",
-          "content": "Dai informazioni in modo semplice e chiaro, facendo sentire il paziente a proprio agio.",
-          "image": "pro-speak"
-        },
-        {
-          "title": "Passione per il proprio lavoro",
-          "content": "Svolgi il tuo lavoro con dedizione e presti cura e attenzione alle richieste dei pazienti.",
-          "image": "pro-muscle"
-        }
-      ]
-    },
-    "faqs-section": {
-      "title": "Domande e risposte",
-      "faqs-link": ""
-    }
+  "metaDescription": {
+    "title": "EpiCura",
+    "description": "Lavora con EpiCura"
+  },
+  "search-bck-img": { "path": "common", "name": "header_home" },
+  "pro-alarm": { "path": "common", "name": "pro-alarm" },
+  "pro-pointer": { "path": "common", "name": "pro-pointer" },
+  "pro-hands": { "path": "common", "name": "pro-hands" },
+  "pro-docs": { "path": "common", "name": "pro-docs" },
+  "pro-medical-records": { "path": "common", "name": "pro-medical-records" },
+  "pro-calendar": { "path": "common", "name": "pro-calendar" },
+  "pro-with-phones": { "path": "common", "name": "pro-with-phones" },
+  "pro-phone": { "path": "common", "name": "pro-phone" },
+  "pro-heart": { "path": "common", "name": "pro-heart" },
+  "pro-speak": { "path": "common", "name": "pro-speak" },
+  "pro-muscle": { "path": "common", "name": "pro-muscle" },
+  "pro-clock": { "path": "common", "name": "pro-clock" },
+  "pro-lightbulb": { "path": "common", "name": "pro-lightbulb" },
+  "header": {
+    "title": "Diventa parte del primo poliambulatorio digitale in Italia.",
+    "subtitle": "Entra nella rete di professionisti EpiCura e costruisci con noi il futuro della sanità.",
+    "background-image": "specialist"
+  },
+  "first-section": {
+    "title": "Perché conviene?",
+    "card-list": [
+      {
+        "title": "Il mondo EpiCura in un'app",
+        "content": "Scopri le richieste di intervento nella tua città, prendi in carico la prestazione e gestisci tutto comodamente da smartphone.",
+        "image": "pro-alarm"
+      },
+      {
+        "title": "Scegli tu quando lavorare",
+        "content": "Con EpiCura sei tu a scegliere le prestazioni da prendere in carico: decidi tu come, dove e quando lavorare.",
+        "image": "pro-pointer"
+      },
+      {
+        "title": "Pagamenti chiari e puntuali",
+        "content": "La trasparenza è il nostro punto di forza: ricevi con puntualità il pagamento delle tue prestazioni, senza commissioni o costi nascosti!",
+        "image": "pro-hands"
+      },
+      {
+        "title": "Dimentica la burocrazia!",
+        "content": "Con EpiCura la gestione fiscale e contrattuale è totalmente a carico nostro: pensa solo al tuo lavoro, del resto ci occupiamo noi!",
+        "image": "pro-docs"
+      }
+    ]
+  },
+  "second-section": {
+    "title": "Gestisci tutto tramite App",
+    "subtitle": "La nostra applicazione è progettata per rendere il tuo lavoro semplice, comodo e accessibile. </br> Con EpiCura puoi visualizzare, gestire e prendere in carico le richieste d'intervento ovunque tu sia: basta un tocco dal tuo smartphone.",
+    "background-image": "pro-phone"
+  },
+  "third-section": {
+    "title": "Come funziona",
+    "subtitle": "Lavoriamo ogni giorno per rendere la sanità più semplice, veloce e accessibile per tutti. </br> Ecco come funziona il servizio per i nostri professionisti:",
+    "card-list": [
+      {
+        "title": "Ricevi le richieste",
+        "content": "Ricevi le richieste degli utenti nella tua zona di competenza, comodamente in app e via e-mail. In ogni richiesta sono specificati i dettagli dell'intervento, come luogo e orario.",
+        "image": "pro-medical-records"
+      },
+      {
+        "title": "Prendi in carico la prestazione",
+        "content": "Con EpiCura non hai vincoli: puoi prendere in carico solo le richieste d'intervento che si conciliano con i tuoi impegni personali e lavorativi.",
+        "image": "pro-calendar"
+      },
+      {
+        "title": "Esegui l'intervento",
+        "content": "Presa in carico la richiesta, non dovrai fare altro che eseguire la prestazione con professionalità. A intervento concluso riceverai il tuo corrispettivo senza commissioni o costi nascosti!",
+        "image": "pro-with-phones"
+      }
+    ]
+  },
+  "fourth-section": {
+    "title": "Requisiti per collaborare con noi",
+    "subtitle": "Collaboriamo solo con professionisti qualificati e certificati per garantire i migliori standard di qualità. </br> Vuoi entrare a far parte di EpiCura? </br> Scopri i requisiti richiesti per collaborare con noi:",
+    "tab-list": [
+      {
+        "tab-name": "Medici e professionisti",
+        "title": "Cosa è richiesto",
+        "requirement-list": [
+          "Almeno 1 anno di esperienza",
+          "Certificato di laurea",
+          "Tesserino di iscrizione all'Albo Professionale (se richiesto)",
+          "Assicurazione di responsabilità professionale",
+          "Partita IVA e regime forfettario",
+          "Dimestichezza con i principali strumenti digitali (mail, agenda, app di conference call)"
+        ]
+      },
+      {
+        "tab-name": "Assistenti domiciliari",
+        "title": "Cosa è richiesto",
+        "requirement-list": [
+          "Almeno 1 anno di esperienza",
+          "Carta di identità (se cittadino extracomunitario)",
+          "Permesso di soggiorno",
+          "Eventuale certificato abilitante (richiesta per OSS)"
+        ]
+      }
+    ]
+  },
+  "fifth-section": {
+    "title": "I valori di un professionista EpiCura",
+    "card-list": [
+      {
+        "title": "Puntualità e serietà",
+        "content": "Arrivi sempre in orario e prendi con serietà il tuo impegno con il paziente.",
+        "image": "pro-clock"
+      },
+      {
+        "title": "Gestione degli imprevisti",
+        "content": "Sai gestire le situazioni inattese e prendi decisioni in autonomia.",
+        "image": "pro-lightbulb"
+      },
+      {
+        "title": "Attenzione alla persona",
+        "content": "Ti prendi cura di chi hai di fronte con empatia e cerchi sempre la soluzione migliore al suo caso.",
+        "image": "pro-heart"
+      },
+      {
+        "title": "Comunicazione trasparente",
+        "content": "Dai informazioni in modo semplice e chiaro, facendo sentire il paziente a proprio agio.",
+        "image": "pro-speak"
+      },
+      {
+        "title": "Passione per il proprio lavoro",
+        "content": "Svolgi il tuo lavoro con dedizione e presti cura e attenzione alle richieste dei pazienti.",
+        "image": "pro-muscle"
+      }
+    ]
+  },
+  "faqs-section": {
+    "title": "Domande e risposte",
+    "faqs-link": ""
   }
-  
+}
