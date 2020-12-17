@@ -1,6 +1,6 @@
 {
   "metaDescription": {
-    "title": "Videoconsulti e consulti medici online",
+    "title": "Videoconsulti online con medici, veterinari, psicologi e altri professionisti della salute",
     "description": "Consulti per richiedere pareri specialistici ai migliori professionisti sanitari. Veloce, comodo e semplice. Il professionista sul tuo telefono!"
   },
   "faq": {
@@ -34,14 +34,14 @@
   },
   "header": {
     "title": "Videoconsulto specialistico",
-    "subtitle": "Consulti online con esperti a 25€",
-    "dropdownLabel": "Seleziona specialità",
-    "dropdownPlaceholder": "Seleziona specialità",
+    "subtitle": "Consulti online 7 giorni su 7 a soli 25€",
+    "dropdownLabel": "Seleziona disciplina",
+    "dropdownPlaceholder": "Seleziona disciplina",
     "bkgColor": "linear-gradient(315deg, rgba(129,184,235,1) 0%, rgba(220,246,250,1) 100%)",
     "textColor": "dark"
   },
   "body": {
-    "htmlContent": "<h3>Dove e quando vuoi, senza liste di attesa.</h3><p>Se devi intraprendere un percorso specialistico per la prima volta, oppure vuoi ricevere un altro parere professionale su una diagnosi o una terapia prescritta, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.*</p><p style='color: #008075'>*Il servizio ha una durata di 20 minuti.</p>"
+    "htmlContent": "<h3>Dove e quando vuoi, senza liste di attesa.</h3><p>Se devi intraprendere un percorso specialistico per la prima volta, oppure vuoi ricevere un altro parere professionale su una diagnosi o una terapia prescritta, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.*</p><p style='color: #008075'>*Il servizio ha una durata indicativa di 20 minuti.</p>"
   },
   "carousel": {
     "bkgColor": "#F5F8FF",
@@ -81,7 +81,7 @@
   },
   "come_funziona": {
     "title": "Come funziona",
-    "text": "Videoconsulti e consulti online per avere la sicurezza di pareri specialistici, la semplicità e la comodità di un servizio tempestivo e sempre a portata di click!",
+    "text": "Con i videoconsulti online di EpiCura puoi ricevere pareri specialistici in modo semplice e rapido. </br> Prenditi cura della tua salute con un servizio a portata di smartphone!",
     "cards": [
       {
         "image": {
@@ -89,20 +89,20 @@
           "name": "scegli-soluzione"
         },
         "title": "Scegli la disciplina",
-        "text": "Offriamo un’ampia scelta di servizi sanitari per rispondere esattamente a ciò di cui hai bisogno. Se hai un problema e non sai a chi rivolgerti, il nostro team di esperti ti aiuterà ad individuare la soluzione più adatta a te."
+        "text": "Offriamo un’ampia scelta di servizi sanitari per rispondere a tutte le tue esigenze. Se hai un problema e non sai a chi rivolgerti, il nostro team di esperti ti aiuterà ad individuare la soluzione più adatta a te."
       },
       {
         "image": {
           "path": "common",
           "name": "prenota-seduta"
         },
-        "title": "Paga comodamente",
-        "text": "Paga comodamente online e ti metteremo in contatto con lo specialista che fa al caso tuo. Nessuna lista di attesa o scomodi spostamenti, avrai tutto il supporto di cui hai bisogno direttamente sul tuo telefono."
+        "title": "Prenota il videoconsulto",
+        "text": "Prenota il consulto comodamente online, nel giorno e nell'ora che preferisci. Troveremo per te il miglior professionista capace di rispondere alle tue esigenze. A prenotazione avvenuta, riceverai una mail di conferma con tutti i dettagli."
       },
       {
         "image": "videoconsultation",
         "title": "Parla con lo specialista",
-        "text": "Rilassati e prenditi cura della tua salute o quella del tuo animale, a tutto il resto pensiamo noi. I nostri esperti sono disponibili 7 giorni su 7, anche in orario serale."
+        "text": "Prenditi cura della tua salute o quella del tuo animale domestico comodamente da smartphone, tablet o pc! I nostri professionisti sono a tua disposizione 7 giorni su 7, anche in orario serale."
       }
     ]
   },
