@@ -105,7 +105,10 @@
         "text": "Prenota il consulto comodamente online, nel giorno e nell'ora che preferisci. Troveremo per te il miglior professionista capace di rispondere alle tue esigenze. A prenotazione avvenuta, riceverai una mail di conferma con tutti i dettagli."
       },
       {
-        "image": "videoconsultation",
+        "image": {
+          "path": "common",
+          "name": "pro-with-phones"
+        },
         "title": "Parla con lo specialista",
         "text": "Prenditi cura della tua salute o quella del tuo animale domestico comodamente da smartphone, tablet o pc! I nostri professionisti sono a tua disposizione 7 giorni su 7, anche in orario serale."
       }
