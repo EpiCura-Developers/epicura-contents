@@ -51,12 +51,12 @@
   },
   "second-section": {
     "title": "Gestisci tutto tramite App",
-    "subtitle": "La nostra applicazione è progettata per rendere il tuo lavoro semplice, comodo e accessibile. </br> Con EpiCura puoi visualizzare, gestire e prendere in carico le richieste d'intervento ovunque tu sia: basta un tocco dal tuo smartphone.",
+    "subtitle": "La nostra applicazione è progettata per rendere il tuo lavoro semplice, comodo e accessibile. <br /> Con EpiCura puoi visualizzare, gestire e prendere in carico le richieste d'intervento ovunque tu sia: basta un tocco dal tuo smartphone.",
     "background-image": "pro-phone"
   },
   "third-section": {
     "title": "Come funziona",
-    "subtitle": "Lavoriamo ogni giorno per rendere la sanità più semplice, veloce e accessibile per tutti. </br> Ecco come funziona il servizio per i nostri professionisti:",
+    "subtitle": "Lavoriamo ogni giorno per rendere la sanità più semplice, veloce e accessibile per tutti. <br /> Ecco come funziona il servizio per i nostri professionisti:",
     "card-list": [
       {
         "title": "Ricevi le richieste",
@@ -77,7 +77,7 @@
   },
   "fourth-section": {
     "title": "Requisiti per collaborare con noi",
-    "subtitle": "Collaboriamo solo con professionisti qualificati e certificati per garantire i migliori standard di qualità. </br> Vuoi entrare a far parte di EpiCura? </br> Scopri i requisiti richiesti per collaborare con noi:",
+    "subtitle": "Collaboriamo solo con professionisti qualificati e certificati per garantire i migliori standard di qualità. <br /> Vuoi entrare a far parte di EpiCura? <br /> Scopri i requisiti richiesti per collaborare con noi:",
     "tab-list": [
       {
         "tab-name": "Medici e professionisti",
