@@ -9,7 +9,7 @@
   "site-who-we-are-header-color": "#CEF5F2",
   "site-who-we-are-description-title": "Siamo il primo poliambulatorio digitale in Italia",
   "site-who-we-are-description-text": "Utilizziamo la tecnologia per rendere più accessibili i servizi sanitari e socio-assistenziali, con la missione di semplificare la vita delle persone. <br /> Vogliamo migliorare un settore caratterizzato da lunghe attese e grandi scomodità e lo stiamo facendo costruendo un servizio che si basa sulla tempestività, sulla flessibilità e sulla vicinanza ai nostri pazienti.",
-  "site-who-we-are-description-img": "",
+  "site-who-we-are-description-img": { "path": "common", "name": "lamp" },
   "site-who-we-are-relation-work": {
     "title": "Come funziona?",
     "content": "Abbiamo una rete nazionale che oggi conta 700 professionisti attivi, tra medici, personale sanitario e assistenti domiciliari in 10 delle principali città italiane. <span class='green'><strong>Il nostro servizio è attivo 7 giorni su 7, dalle 8 alle 21.</strong></span>",
@@ -59,22 +59,22 @@
   "site-who-we-are-our-values-link": "/",
   "site-who-we-are-our-values": [
     {
-      "site-who-we-are-our-value-image": "",
+      "site-who-we-are-our-value-image": { "path": "common", "name": "people-before-all" },
       "site-who-we-are-our-value-title": "Le persone prima di tutto",
       "site-who-we-are-our-value-subtitle": "Le tue esigenze sono al primo posto: l'ascolto è per noi fondamentale per offrirti soluzioni su misura."
     },
     {
-      "site-who-we-are-our-value-image": "",
+      "site-who-we-are-our-value-image": { "path": "common", "name": "amazing-brain" },
       "site-who-we-are-our-value-title": "Professionisti di valore",
       "site-who-we-are-our-value-subtitle": "Lavoriamo solo con professionisti qualificati e certificati per garantirti un servizio di alta qualità."
     },
     {
-      "site-who-we-are-our-value-image": "",
+      "site-who-we-are-our-value-image": { "path": "common", "name": "rocket" },
       "site-who-we-are-our-value-title": "Un servizio comodo, veloce, flessibile",
       "site-who-we-are-our-value-subtitle": "Dimentica le liste d'attesa e gli scomodi spostamenti: prenditi cura della tua salute dove e quando vuoi."
     },
     {
-      "site-who-we-are-our-value-image": "",
+      "site-who-we-are-our-value-image": { "path": "common", "name": "great-goal" },
       "site-who-we-are-our-value-title": "Un grande obiettivo condiviso",
       "site-who-we-are-our-value-subtitle": "Decine di investitori hanno creduto in EpiCura, permettendoci di offrire un servizio sempre migliore."
     }
@@ -82,13 +82,13 @@
   "site-who-we-are-contact": "Vuoi metterti in contatto con noi?",
   "site-who-we-are-contact-list": [
     {
-      "site-who-we-are-contact-img": "",
+      "site-who-we-are-contact-img": { "path": "common", "name": "card-1" },
       "site-who-we-are-contact-text": "Per enti, aziende e privati",
       "site-who-we-are-contact-phone": "800909209",
       "site-who-we-are-contact-email": "informazioni@epicuramed.it"
     },
     {
-      "site-who-we-are-contact-img": "",
+      "site-who-we-are-contact-img": { "path": "common", "name": "card-2" },
       "site-who-we-are-contact-text": "Per medici, professionisti sanitari e socio-assistenziali"
     }
   ]

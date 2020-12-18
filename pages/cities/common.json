@@ -145,6 +145,10 @@
       "url": "/termini-e-condizioni/"
     }
   },
+  "magazine": {
+    "title": "Ultimi articoli dal nostro Magazine",
+    "continueBtnText": "Continua"
+  },
   "header_links": {
     "prices": "Prezzi",
     "newsletter": "Newsletter",
