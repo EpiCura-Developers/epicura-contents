@@ -8,7 +8,7 @@
   "site-who-we-are-header-img": { "path": "common", "name": "site-who-we-are-header-img" },
   "site-who-we-are-header-color": "#CEF5F2",
   "site-who-we-are-description-title": "Siamo il primo poliambulatorio digitale in Italia",
-  "site-who-we-are-description-text": "Utilizziamo la tecnologia per rendere più accessibili i servizi sanitari e socio-assistenziali, con la missione di semplificare la vita delle persone. </br> Vogliamo migliorare un settore caratterizzato da lunghe attese e grandi scomodità e lo stiamo facendo costruendo un servizio che si basa sulla tempestività, sulla flessibilità e sulla vicinanza ai nostri pazienti.",
+  "site-who-we-are-description-text": "Utilizziamo la tecnologia per rendere più accessibili i servizi sanitari e socio-assistenziali, con la missione di semplificare la vita delle persone. <br /> Vogliamo migliorare un settore caratterizzato da lunghe attese e grandi scomodità e lo stiamo facendo costruendo un servizio che si basa sulla tempestività, sulla flessibilità e sulla vicinanza ai nostri pazienti.",
   "site-who-we-are-description-img": "",
   "site-who-we-are-relation-work": {
     "title": "Come funziona?",
@@ -54,7 +54,7 @@
     }
   ],
   "site-who-we-are-our-values-title": "Cosa ci rende speciali",
-  "site-who-we-are-our-values-share-text": "Condividi i nostri valori e ami le sfide? </br> Scopri le posizioni aperte e unisciti alla rivoluzione EpiCura!",
+  "site-who-we-are-our-values-share-text": "Condividi i nostri valori e ami le sfide? <br /> Scopri le posizioni aperte e unisciti alla rivoluzione EpiCura!",
   "site-who-we-are-our-values-btn-text": "Entra nel team",
   "site-who-we-are-our-values-link": "/",
   "site-who-we-are-our-values": [
