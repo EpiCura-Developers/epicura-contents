@@ -186,40 +186,6 @@
       }
     ]
   },
-  "magazine": {
-    "title": "Ultimi articoli dal nostro Magazine",
-    "continueBtnText": "Continua",
-    "magazinesBig": [
-      {
-        "image": "sintomi-fisici-della-depressione",
-        "title": "Quali sono i sintomi fisici della depressione?",
-        "text": "Secondo recenti statistiche, i sintomi fisici della depressione si manifestano nel 99% dei pazienti che soffrono di questo disturbo. Saperli riconoscere è il primo passo per accelerare la diagnosi e iniziare un percorso terapeutico cucito su misura delle proprie esigenze.",
-        "url": "https://www.epicuramed.it/blog/psicologia/sintomi-fisici-della-depressione/"
-      },
-      {
-        "image": "i-sensi-di-colpa",
-        "title": "I sensi di colpa: liberarsi dalla frustrazione e dall’ansia",
-        "text": "Esistono emozioni, come l’amore, la paura, la sicurezza, l’istinto di protezione, che sono insite in noi, che nascono insieme a noi. Poi ve ne sono altre, tra cui i sensi di colpa, che vengono prodotti dalla società e dagli educatori (genitori, insegnanti, religione, etc).",
-        "url": "https://www.epicuramed.it/blog/psicologia/i-sensi-di-colpa/"
-      }
-    ],
-    "magazinesSmall": [
-      {
-        "image": "sindrome-da-affaticamento-cronico-cfs",
-        "title": "CFS, la sindrome da affaticamento cronico: cause, sintomi e rimedi.",
-        "text": "sindrome CFS/psicologia",
-        "url": "https://www.epicuramed.it/blog/psicologia/sindrome-da-affaticamento-cronico-cfs/",
-        "minutes": "5"
-      },
-      {
-        "image": "bambini-che-non-vogliono-fare-i-compiti-aiuto-compiti",
-        "title": "Quarantena Bambini. Come comportarsi con bambini che non vogliono fare i compiti?",
-        "text": "bambini/psicologia",
-        "url": "https://www.epicuramed.it/blog/psicologia/bambini-che-non-vogliono-fare-i-compiti-aiuto-compiti/",
-        "minutes": "5"
-      }
-    ]
-  },
   "latest_articles": {
     "title": "Ultimi articoli su di noi",
     "titleFbAdw": "Parlano di noi",

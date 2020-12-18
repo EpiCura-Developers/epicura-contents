@@ -48,32 +48,37 @@
     "title": "È utile per",
     "slides": [
       {
-        "icon": "/videoconsultation/carousel-icon",
+        "icon": { "path": "videoconsultation", "name": "consulenza" },
         "title": "Consulenza su patologia già accertata",
         "description": "Se hai bisogno di un altro parere specialistico o di maggiori informazioni su una diagnosi poco chiara."
       },
       {
-        "icon": "/videoconsultation/carousel-icon",
+        "icon": { "path": "videoconsultation", "name": "diagnosi" },
         "title": "Definire una diagnosi adeguata",
         "description": "Se vuoi inquadrare meglio una condizione clinica per intraprendere il percorso specialistico più adeguato per il tuo caso."
       },
       {
-        "icon": "/videoconsultation/carousel-icon",
+        "icon": { "path": "videoconsultation", "name": "sintomi" },
+        "title": "Valutazione sintomi clinici",
+        "description": "Se vuoi inquadrare meglio una condizione clinica per intraprendere il percorso specialistico più adeguato per il tuo caso."
+      },
+      {
+        "icon": { "path": "videoconsultation", "name": "prescrizione" },
         "title": "Consulenza su prescrizione medica",
         "description": "Se necessiti di indicazioni più dettagliate su una prescrizione medica già emessa da un altro professionista."
       },
       {
-        "icon": "/videoconsultation/carousel-icon",
+        "icon": { "path": "videoconsultation", "name": "valutazione-sintomi" },
         "title": "Valutazione specialistica su segni clinici e sintomi ",
         "description": "Se non vuoi aspettare e preferisci ricevere una valutazione specialistica immediata, saltando attese e liste infinite."
       },
       {
-        "icon": "/videoconsultation/carousel-icon",
+        "icon": { "path": "videoconsultation", "name": "trattamento" },
         "title": "Parere su trattamento già prescritto",
         "description": "Se vuoi confrontarti con uno specialista su un trattamento e/o un piano terapeutico prescritto da un altro professionista."
       },
       {
-        "icon": "/videoconsultation/carousel-icon",
+        "icon": { "path": "videoconsultation", "name": "accertamenti" },
         "title": "Informazioni su accertamenti diagnostici",
         "description": "Se ti hanno prescritto esami strumentali o accertamenti diagnostici e vuoi approfondire su come prepararti al meglio."
       }
@@ -100,7 +105,10 @@
         "text": "Prenota il consulto comodamente online, nel giorno e nell'ora che preferisci. Troveremo per te il miglior professionista capace di rispondere alle tue esigenze. A prenotazione avvenuta, riceverai una mail di conferma con tutti i dettagli."
       },
       {
-        "image": "videoconsultation",
+        "image": {
+          "path": "common",
+          "name": "pro-with-phones"
+        },
         "title": "Parla con lo specialista",
         "text": "Prenditi cura della tua salute o quella del tuo animale domestico comodamente da smartphone, tablet o pc! I nostri professionisti sono a tua disposizione 7 giorni su 7, anche in orario serale."
       }

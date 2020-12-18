@@ -152,40 +152,6 @@
       }
     ]
   },
-  "magazine": {
-    "title": "Ultimi articoli dal nostro Magazine",
-    "continueBtnText": "Continua",
-    "magazinesBig": [
-      {
-        "image": "dislessia-ereditaria-adulti-bambini",
-        "title": "Dislessia ereditaria? La dislessia negli adulti e nei bambini",
-        "text": "La Dislessia ereditaria è presente e riconosciuta da diversi studi. Non è però l’unico fattore. Ecco cosa sappiamo della dislessia negli adulti e nei bambini.",
-        "url": "https://www.epicuramed.it/blog/pediatria/dislessia-ereditaria-adulti-bambini/"
-      },
-      {
-        "image": "bambini-che-non-vogliono-fare-i-compiti-aiuto-compiti",
-        "title": "Quarantena e bambini: come comportarsi con bambini che non vogliono fare i compiti?",
-        "text": "Fare i compiti? Il delicato momento in cui ci troviamo, con le scuole chiuse e l’impossibilità di portare i bambini a giocare fuori, può creare qualche tensione in casa.",
-        "url": "https://www.epicuramed.it/blog/psicologia/bambini-che-non-vogliono-fare-i-compiti-aiuto-compiti/"
-      }
-    ],
-    "magazinesSmall": [
-      {
-        "image": "quando-chiamare-il-pediatra-a-domicilio",
-        "title": "Quando chiamare il pediatra a domicilio",
-        "text": "pediatra a domicilio/pediatria",
-        "url": "https://www.epicuramed.it/blog/pediatria/quando-chiamare-il-pediatra-a-domicilio/",
-        "minutes": "5"
-      },
-      {
-        "image": "logopestista-significato-logopedista-cosa-fa",
-        "title": "Cosa fa il logopedista?",
-        "text": "logopedista cosa fa/pediatria",
-        "url": "https://www.epicuramed.it/blog/pediatria/logopestista-significato-logopedista-cosa-fa/",
-        "minutes": "5"
-      }
-    ]
-  },
   "latest_articles": {
     "title": "Ultimi articoli su di noi",
     "titleFbAdw": "Parlano di noi",

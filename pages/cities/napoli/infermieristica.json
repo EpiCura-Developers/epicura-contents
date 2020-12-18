@@ -182,54 +182,6 @@
       }
     ]
   },
-  "magazine": {
-    "title": "Ultimi articoli dal nostro Magazine",
-    "continueBtnText": "Continua",
-    "magazinesBig": [
-      {
-        "image": "10-interventi-che-un-infermiere-a-domicilio",
-        "title": "10 interventi che un infermiere a domicilio può fare per te",
-        "text": "L’assistenza a domicilio è uno di quei servizi che la maggior parte dei pazienti allettati, dei disabili e degli anziani con problemi di deambulazione benedicono.",
-        "url": "https://www.epicuramed.it/blog/infermiere/10-interventi-che-un-infermiere-a-domicilio-puo-fare-per-te/"
-      },
-      {
-        "image": "demenza-senile-negli-anziani",
-        "title": "Come trattare gli anziani affetti da demenza senile",
-        "text": "Quando parliamo di demenza senile ci riferiamo in realtà a un termine abbastanza vago, che contiene al suo interno una serie di patologie neurodegenerative tipiche dell’età avanzata.",
-        "url": "https://www.epicuramed.it/blog/infermiere/demenza-senile-negli-anziani/"
-      }
-    ],
-    "magazinesSmall": [
-      {
-        "image": "somministrazione-farmaci-a-domicilio",
-        "title": "Somministrazione farmaci a domicilio, quando richiedere l’intervento di un infermiere professionista",
-        "text": "somministrazione farmaci/infermieristica",
-        "url": "https://www.epicuramed.it/blog/senza-categoria/somministrazione-farmaci-a-domicilio-quando-richiedere-lintervento-di-un-infermiere-professionista/",
-        "minutes": "5"
-      },
-      {
-        "image": "primi-sintomi-del-parkinson",
-        "title": "I sintomi iniziali morbo di Parkinson: ecco come riconoscerli",
-        "text": "sintomi parkinson/infermieristica",
-        "url": "https://www.epicuramed.it/blog/infermiere/primi-sintomi-del-parkinson-sintomi-iniziali-morbo-di-parkinson/",
-        "minutes": "5"
-      },
-      {
-        "image": "cose-il-cateterismo-vescicale",
-        "title": "Cos’è il Cateterismo vescicale e quando è necessario",
-        "text": "cateterismo vescicale/infermieristica",
-        "url": "https://www.epicuramed.it/blog/infermiere/cose-il-cateterismo-vescicale/",
-        "minutes": "5"
-      },
-      {
-        "image": "sintomi-della-polmonite-polmonite-atipica",
-        "title": "Quali sono i sintomi della Polmonite?",
-        "text": "sintomi polmonite/infermieristica",
-        "url": "https://www.epicuramed.it/blog/infermiere/sintomi-della-polmonite-polmonite-atipica/",
-        "minutes": "5"
-      }
-    ]
-  },
   "latest_articles": {
     "title": "Ultimi articoli su di noi",
     "titleFbAdw": "Parlano di noi",

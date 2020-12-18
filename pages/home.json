@@ -213,6 +213,7 @@
             "site-discipline-bkg-color": "#FFF",
             "site-discipline-section-list": [
                 "videoconsulti",
+                "psicologo-videoconsulto",
                 "psicologo-videoconsulto"
             ],
             "site-discipline-notes": ""
@@ -223,9 +224,7 @@
             "site-discipline-placeholder-image": {},
             "site-discipline-bkg-color": "#F5F8FF",
             "site-discipline-section-list": [
-                "fisioterapista",
-                "osteopata",
-                "massaggiatore-professionale"
+                "fisioterapista"
             ],
             "site-discipline-notes": ""
         },

@@ -182,40 +182,6 @@
       }
     ]
   },
-  "magazine": {
-    "title": "Ultimi articoli dal nostro Magazine",
-    "continueBtnText": "Continua",
-    "magazinesBig": [
-      {
-        "image": "qual-e-la-differenza-tra-dietologo-e-nutrizionista",
-        "title": "Qual è la differenza tra dietologo e nutrizionista?",
-        "text": "Perchè è importante capire qual è la differenza tra dietologo e nutrizionista? Per una scelta ponderata e consapevole, ciascun paziente ha il diritto di sapere se il professionista al quale ha deciso di rivolgersi è un medico o meno.",
-        "url": "https://www.epicuramed.it/blog/nutrizionista/qual-e-la-differenza-tra-dietologo-e-nutrizionista/"
-      },
-      {
-        "image": "un-popolo-di-nutrizioniste",
-        "title": "Dieta digiuno intermittente, dieta pegan, dieta dell’avocado.. 10 tendenze in fatto di diete",
-        "text": "Analizziamo una tendenza, quello delle diete nutrizioniste, che ha radici psicologiche importanti ma anche tanti conflitti fra scienza e mito.",
-        "url": "https://www.epicuramed.it/blog/nutrizionista/un-popolo-di-nutrizioniste-dieta-digiuno-intermittente-dieta-pegan-dieta-dellavocado-10-tendenze-in-fatto-di-diete/"
-      }
-    ],
-    "magazinesSmall": [
-      {
-        "image": "paleodieta-menu",
-        "title": "Cos'è la Paleodieta?",
-        "text": "paleodieta/nutrizione",
-        "url": "https://www.epicuramed.it/blog/nutrizionista/paleodieta-menu/",
-        "minutes": "5"
-      },
-      {
-        "image": "dieta-mima-digiuno",
-        "title": "Cos'è la dieta mima?",
-        "text": "dieta mima/nutrizione",
-        "url": "https://www.epicuramed.it/blog/nutrizionista/dieta-mima-digiuno/",
-        "minutes": "5"
-      }
-    ]
-  },
   "latest_articles": {
     "title": "Ultimi articoli su di noi",
     "titleFbAdw": "Parlano di noi",
