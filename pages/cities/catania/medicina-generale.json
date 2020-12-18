@@ -182,54 +182,6 @@
       }
     ]
   },
-  "magazine": {
-    "title": "Ultimi articoli dal nostro Magazine",
-    "continueBtnText": "Continua",
-    "magazinesBig": [
-      {
-        "image": "fuoco-sant-antonio-herpes-zoster",
-        "title": "Fuoco di Sant’Antonio, Herpes Zoster – Sintomi e cure di un male contagioso",
-        "text": "Fuoco di sant Antonio, cos’è? si tratta di una variante del Herpes Zoster, detto fuoco di sant’Antonio. Vediamo quali sintomi il fuoco di sant’Antonio porta con se, le cure per il fuoco di sant’Antonio ed il contagio.",
-        "url": "https://www.epicuramed.it/blog/medicina-generale/fuoco-sant-antonio-herpes-zoster/"
-      },
-      {
-        "image": "reflusso-gastroesofageo-e-cause-ernia-iatale",
-        "title": "Reflusso gastroesofageo ed ernia iatale, riconoscere i sintomi e le cause",
-        "text": "Acidità, bruciore di stomaco e rigurgito: ecco i sintomi più frequenti del reflusso gastroesofageo, un disturbo tanto diffuso quanto trascurato.",
-        "url": "https://www.epicuramed.it/blog/medicina-generale/reflusso-gastroesofageo-e-cause-ernia-iatale/"
-      }
-    ],
-    "magazinesSmall": [
-      {
-        "image": "cosa-sono-ernie",
-        "title": "Cosa sono le ernie, come si riconoscono e come si trattano",
-        "text": "ernie/medicina generale",
-        "url": "https://www.epicuramed.it/blog/medicina-generale/cosa-sono-ernie-come-si-riconoscono-ernie-e-come-si-trattano-ernie/",
-        "minutes": "5"
-      },
-      {
-        "image": "insufficienza-renale-cronica-cosa-e-come-si-cura",
-        "title": "Insufficienza renale cronica, cos’è e come si cura",
-        "text": "insufficienza renale/medicina generale",
-        "url": "https://www.epicuramed.it/blog/medicina-generale/insufficienza-renale-cronica-cosa-e-come-si-cura/",
-        "minutes": "5"
-      },
-      {
-        "image": "alzeheimer-diagnosi-precoce",
-        "title": "Alzheimer Diagnosi precoce, a che punto siamo e quali sono le speranze?",
-        "text": "diagnosi alzheimer/medicina generale",
-        "url": "https://www.epicuramed.it/blog/medicina-generale/alzeheimer-diagnosi-precoce/",
-        "minutes": "5"
-      },
-      {
-        "image": "cure-per-la-fibromialgia",
-        "title": "Cure per la Fibromialgia? Cosa sono i Tender Points? Esistono cure naturali?",
-        "text": "fibromialgia/medicina generale",
-        "url": "https://www.epicuramed.it/blog/medicina-generale/cure-per-la-fibromialgia/",
-        "minutes": "5"
-      }
-    ]
-  },
   "latest_articles": {
     "title": "Ultimi articoli su di noi",
     "titleFbAdw": "Parlano di noi",

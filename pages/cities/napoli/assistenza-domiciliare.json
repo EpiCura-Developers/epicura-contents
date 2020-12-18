@@ -182,54 +182,6 @@
       }
     ]
   },
-  "magazine": {
-    "title": "Ultimi articoli dal nostro Magazine",
-    "continueBtnText": "Continua",
-    "magazinesBig": [
-      {
-        "image": "i-sintomi-della-demenza-senile",
-        "title": "I sintomi della demenza senile",
-        "text": "Ad oggi, sono state individuate diverse tipologie di demenza senile. Se le cause di questa malattia restano ancora poco chiare, sono perfettamente noti i sintomi della demenza senile, che annoverano una vasta gamma di problemi capaci di gravare su ogni aspetto dell'esistenza.",
-        "url": "https://www.epicuramed.it/blog/iii-eta/i-sintomi-della-demenza-senile/"
-      },
-      {
-        "image": "frattura-femore-anziano",
-        "title": "Frattura femore anziano, un vademecum per le cure a casa",
-        "text": "La frattura del femore nell’anziano è uno dei momenti più difficili per l’assistenza a domicilio. In questi casi sarà necessario concepire correttamente la sua assistenza a casa e le pratiche di cura.",
-        "url": "https://www.epicuramed.it/blog/oss-operatore-socio-sanitario/frattura-femore-anziano/"
-      }
-    ],
-    "magazinesSmall": [
-      {
-        "image": "trattamento-insonnia-anziani",
-        "title": "Trattamento insonnia anziani: come aiutare gli anziani nella gestione del riposo",
-        "text": "insonnia anziani/assistenza",
-        "url": "https://www.epicuramed.it/blog/iii-eta/trattamento-insonnia-anziani/",
-        "minutes": "5"
-      },
-      {
-        "image": "migliorare-la-memoria-anziano-tecniche-e-strumenti-utili",
-        "title": "Migliorare la memoria dell’Anziano, tecniche e strumenti utili",
-        "text": "memoria anziani/assistenza",
-        "url": "https://www.epicuramed.it/blog/homecare/migliorare-la-memoria-anziano-tecniche-e-strumenti-utili/",
-        "minutes": "5"
-      },
-      {
-        "image": "come-scegliere-un-oss-per-assistenza-a-domicilio",
-        "title": "Come scegliere un OSS per assistenza a domicilio: 10 suggerimenti utili",
-        "text": "assistenza domiciliare/assistenza",
-        "url": "https://www.epicuramed.it/blog/homecare/come-scegliere-un-oss-per-assistenza-a-domicilio-10-suggerimenti-utili/",
-        "minutes": "5"
-      },
-      {
-        "image": "come-gestire-genitori-anziani",
-        "title": "Come gestire i Genitori Anziani Lontani",
-        "text": "gestione anziani/assistenza",
-        "url": "https://www.epicuramed.it/blog/homecare/come-gestire-genitori-anziani-lontani/",
-        "minutes": "5"
-      }
-    ]
-  },
   "latest_articles": {
     "title": "Ultimi articoli su di noi",
     "titleFbAdw": "Parlano di noi",

@@ -287,54 +287,6 @@
       }
     ]
   },
-  "magazine": {
-    "title": "Ultimi articoli dal nostro Magazine",
-    "continueBtnText": "Continua",
-    "magazinesBig": [
-      {
-        "image": "assistenza",
-        "title": "I sintomi della demenza senile",
-        "text": "Ad oggi, sono state individuate diverse tipologie di demenza senile. Se le cause di questa malattia restano ancora poco chiare, sono perfettamente noti i sintomi della demenza senile, che annoverano una vasta gamma di problemi capaci di gravare su ogni aspetto dell'esistenza.",
-        "url": "https://www.epicuramed.it/blog/iii-eta/i-sintomi-della-demenza-senile/"
-      },
-      {
-        "image": "veterinaria",
-        "title": "5 cose da fare quando prendete un cucciolo",
-        "text": "Le cure veterinarie sono necessarie durante tutto il corso della vita del vostro animale, tuttavia sono particolarmente importanti soprattutto nelle prime settimane. Vi sono infatti degli accorgimenti che devono essere eseguiti sui cuccioli per assicurargli una sicura e tranquilla crescita. ",
-        "url": "https://www.epicuramed.it/blog/veterinaria/prima-notte-cucciolo-5-cose-da-fare/"
-      }
-    ],
-    "magazinesSmall": [
-      {
-        "image": "nutrizione",
-        "title": "Qual è la differenza tra dietologo e nutrizionista",
-        "text": "nutrizionista e dietologo/nutrizione",
-        "url": "https://www.epicuramed.it/blog/nutrizionista/qual-e-la-differenza-tra-dietologo-e-nutrizionista/",
-        "minutes": "5"
-      },
-      {
-        "image": "psico",
-        "title": "Quali sono i sintomi fisici della depressione",
-        "text": "depressione/psicologia",
-        "url": "https://www.epicuramed.it/blog/psicologia/sintomi-fisici-della-depressione/",
-        "minutes": "5"
-      },
-      {
-        "image": "fisioterapia",
-        "title": "Gambe gonfie e doloranti: Ecco cos’è il linfodrenaggio, 10 cose da sapere",
-        "text": "gambe gonfie e linfodrenaggio/fisioterapia",
-        "url": "https://www.epicuramed.it/blog/fisioterapia/gambe-gonfie-e-doloranti-cose-il-linfodrenaggio/",
-        "minutes": "5"
-      },
-      {
-        "image": "medicina",
-        "title": "Reflusso gastroesofageo ed ernia iatale, riconoscere i sintomi e le cause",
-        "text": "reflusso gastrico/medicina",
-        "url": "https://www.epicuramed.it/blog/medicina-generale/reflusso-gastroesofageo-e-cause-ernia-iatale/",
-        "minutes": "5"
-      }
-    ]
-  },
   "latest_articles": {
     "title": "Ultimi articoli su di noi",
     "titleFbAdw": "Parlano di noi",

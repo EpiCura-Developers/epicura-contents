@@ -182,40 +182,6 @@
       }
     ]
   },
-  "magazine": {
-    "title": "Ultimi articoli dal nostro Magazine",
-    "continueBtnText": "Continua",
-    "magazinesBig": [
-      {
-        "image": "osteopata-o-fisioterapista",
-        "title": "Osteopata o fisioterapista?",
-        "text": "Nonostante vengano spesso confusi tra loro, osteopata o fisioterapista non sono figure sovrapponibili, né interscambiabili.",
-        "url": "https://www.epicuramed.it/blog/fisioterapia/osteopata-o-fisioterapista/"
-      },
-      {
-        "image": "cose-osteopatia-neonatale",
-        "title": "Cos’è l’Osteopatia Neonatale",
-        "text": "Grazie alla non invasività e all’assenza di effetti collaterali, la terapia osteopatica è una pratica particolarmente indicata per i soggetti più delicati, come appunto i neonati, anche prematuri.",
-        "url": "https://www.epicuramed.it/blog/lesperto-risponde/cose-osteopatia-neonatale/"
-      }
-    ],
-    "magazinesSmall": [
-      {
-        "image": "la-prevenzione-osteopatica",
-        "title": "La prevenzione osteopatica per migliorare le condizioni di vita generali",
-        "text": "prevenzione osteopatica/osteopatia",
-        "url": "https://www.epicuramed.it/blog/osteopatia/la-prevenzione-osteopatica-per-migliorare-le-condizioni-di-vita-generali/",
-        "minutes": "5"
-      },
-      {
-        "image": "osteopatia-funziona",
-        "title": "L’Osteopatia Funziona? Ecco cos’è l’osteopatia ed in cosa si differenzia rispetto ad altre discipline",
-        "text": "cos'è osteopatia/osteopatia",
-        "url": "https://www.epicuramed.it/blog/osteopatia/osteopatia-funziona-ecco-cosa-e-osteopatia-ed-in-cosa-si-differenzia-rispetto-ad-altre-discipline/",
-        "minutes": "5"
-      }
-    ]
-  },
   "latest_articles": {
     "title": "Ultimi articoli su di noi",
     "titleFbAdw": "Parlano di noi",

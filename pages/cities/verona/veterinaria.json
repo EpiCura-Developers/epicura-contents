@@ -182,54 +182,6 @@
       }
     ]
   },
-  "magazine": {
-    "title": "Ultimi articoli dal nostro Magazine",
-    "continueBtnText": "Continua",
-    "magazinesBig": [
-      {
-        "image": "big1",
-        "title": "I 10 interventi più richiesti ad un veterinario",
-        "text": "Il veterinario a domicilio è un'ottimo supporto soprattutto quando si parla di animali in situazioni più delicate: come per i cuccioli, cani e gatti anziani o malati. Ecco cosa può fare un veterinario a domicilio.",
-        "url": "https://www.epicuramed.it/blog/veterinaria/interventi-piu-richiesti-ad-un-veterinario/"
-      },
-      {
-        "image": "big2",
-        "title": "Tumore Cane: quali sono i sintomi e i rimedi?",
-        "text": "Se il cane presenta soltanto uno dei seguenti sintomi, è bene correre immediatamente ai ripari e contattare un veterinario che possa offrire indicazioni al riguardo. In molti casi, la diagnosi precoce è una possibilità di salvezza concreta per l’animale.",
-        "url": "https://www.epicuramed.it/blog/veterinaria/tumore-cane/"
-      }
-    ],
-    "magazinesSmall": [
-      {
-        "image": "small1",
-        "title": "Epilessia nel cane – sintomi e cure",
-        "text": "epilessia cane/veterinaria",
-        "url": "https://www.epicuramed.it/blog/veterinaria/epilessia-nel-cane-sintomi-e-cure/",
-        "minutes": "5"
-      },
-      {
-        "image": "small2",
-        "title": "Sterilizzare la Gatta: cosa succede al suo corpo e come alimentarla",
-        "text": "alimentazione per gatta sterilizzata/veterinaria",
-        "url": "https://www.epicuramed.it/blog/veterinaria/sterilizzare-la-gatta-cosa-succede-al-suo-corpo-e-come-alimentarla/",
-        "minutes": "5"
-      },
-      {
-        "image": "small3",
-        "title": "Prima Notte Cucciolo – 5 cose da fare quando prendete un cucciolo",
-        "text": "cuccioli/veterinaria",
-        "url": "https://www.epicuramed.it/blog/veterinaria/prima-notte-cucciolo-5-cose-da-fare/",
-        "minutes": "5"
-      },
-      {
-        "image": "small4",
-        "title": "Incontinenza urinaria nel cane: sintomi e rimedi",
-        "text": "incontinenza animale/veterinaria",
-        "url": "https://www.epicuramed.it/blog/veterinaria/incontinenza-urinaria-nel-cane-cosa-ne-sappiamo-sintomi-e-rimedi/",
-        "minutes": "5"
-      }
-    ]
-  },
   "latest_articles": {
     "title": "Ultimi articoli su di noi",
     "titleFbAdw": "Parlano di noi",
