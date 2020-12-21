@@ -1,74 +1,63 @@
 [
-    {
-        "metaDescription": {
-            "title": "EpiCura",
-            "description": "I professionisti di EpiCura. Medici, infermieri, badanti e professionisti della salute a domicilio, 7 giorni su 7."
-        },
-        "site-specialist-profile-page-name": "Annalisa Grasso",
-        "site-specialist-profile-page-link-name": "/annalisa-grasso/",
-        "site-specialist-profile-page-disciplines": [
-            "fisioterapista"
-        ],
-        "site-specialist-profile-img": {
-            "path": "specialist",
-            "name": "annalisa-grasso"
-          },
-        "site-specialist-profile-score": 5,
-        "site-specialist-profile-total-review": 10,
-        "site-specialist-profile-cv": "<p>Curriculum html</p>",
-        "site-specialist-profile-videoconsultation": true,
-        "site-specialist-profile-at-home": true,
-        "site-specialist-profile-at-office": false,
-        "site-specialist-profile-city-list": [
-            "Torino"
-        ],
-        "site-specialist-profile-address-marker-list": []
+  {
+    "metaDescription": {
+      "title": "EpiCura",
+      "description": "I professionisti di EpiCura. Medici, infermieri, badanti e professionisti della salute a domicilio, 7 giorni su 7."
     },
-    {
-        "metaDescription": {
-            "title": "EpiCura",
-            "description": "Siamo il primo poliambulatorio digitale in Italia."
-        },
-        "site-specialist-profile-page-name": "Nicolò Giordano",
-        "site-specialist-profile-page-link-name": "/nicolo-giordano/",
-        "site-specialist-profile-page-disciplines": [
-            "fisioterapista",
-            "osteopata"
-        ],
-        "site-specialist-profile-img": {
-            "path": "specialist",
-            "name": "nicolo-giordano"
-          },
-        "site-specialist-profile-score": 5,
-        "site-specialist-profile-total-review": 10,
-        "site-specialist-profile-cv": "<p>Curriculum html</p>",
-        "site-specialist-profile-videoconsultation": true,
-        "site-specialist-profile-at-home": true,
-        "site-specialist-profile-at-office": false,
-        "site-specialist-profile-city-list": [
-            "Torino",
-            "Milano",
-            "Roma"
-        ],
-        "site-specialist-profile-address-marker-list": [
-            {
-                "site-specialist-profile-marker-city": "Torino",
-                "site-specialist-profile-marker-latitude": 45.0585774,
-                "site-specialist-profile-marker-longitude": 7.6750991,
-                "site-specialist-profile-marker-name": "Studio Giordano - Via Nizza 12 Torino"
-            },
-            {
-                "site-specialist-profile-marker-city": "Torino",
-                "site-specialist-profile-marker-latitude": 45.0647992,
-                "site-specialist-profile-marker-longitude": 7.6930788,
-                "site-specialist-profile-marker-name": "Studio Vittorio - Piazza Vittorio"
-            },
-            {
-                "site-specialist-profile-marker-city": "Milano",
-                "site-specialist-profile-marker-latitude": 45.4781236,
-                "site-specialist-profile-marker-longitude": 9.1217733,
-                "site-specialist-profile-marker-name": "Studio San Siro"
-            }
-        ]
-    }
+    "site-specialist-profile-page-name": "Valentina Perucca",
+    "site-specialist-profile-page-link-name": "/valentina-perucca/",
+    "site-specialist-profile-page-disciplines": ["fisioterapista"],
+    "site-specialist-profile-img": {
+      "path": "specialists",
+      "name": "valentina-perucca"
+    },
+    "site-specialist-profile-score": 5,
+    "site-specialist-profile-total-review": 10,
+    "site-specialist-profile-cv": "<p>Curriculum html</p>",
+    "site-specialist-profile-videoconsultation": true,
+    "site-specialist-profile-at-home": true,
+    "site-specialist-profile-at-office": false,
+    "site-specialist-profile-city-list": ["Torino"],
+    "site-specialist-profile-address-marker-list": []
+  },
+  {
+    "metaDescription": {
+      "title": "EpiCura",
+      "description": "Siamo il primo poliambulatorio digitale in Italia."
+    },
+    "site-specialist-profile-page-name": "Nicolò Giordano",
+    "site-specialist-profile-page-link-name": "/nicolo-giordano/",
+    "site-specialist-profile-page-disciplines": ["fisioterapista", "osteopata"],
+    "site-specialist-profile-img": {
+      "path": "specialists",
+      "name": "nicolo-giordano"
+    },
+    "site-specialist-profile-score": 5,
+    "site-specialist-profile-total-review": 10,
+    "site-specialist-profile-cv": "<p>Curriculum html</p>",
+    "site-specialist-profile-videoconsultation": true,
+    "site-specialist-profile-at-home": true,
+    "site-specialist-profile-at-office": false,
+    "site-specialist-profile-city-list": ["Torino", "Milano", "Roma"],
+    "site-specialist-profile-address-marker-list": [
+      {
+        "site-specialist-profile-marker-city": "Torino",
+        "site-specialist-profile-marker-latitude": 45.0585774,
+        "site-specialist-profile-marker-longitude": 7.6750991,
+        "site-specialist-profile-marker-name": "Studio Giordano - Via Nizza 12 Torino"
+      },
+      {
+        "site-specialist-profile-marker-city": "Torino",
+        "site-specialist-profile-marker-latitude": 45.0647992,
+        "site-specialist-profile-marker-longitude": 7.6930788,
+        "site-specialist-profile-marker-name": "Studio Vittorio - Piazza Vittorio"
+      },
+      {
+        "site-specialist-profile-marker-city": "Milano",
+        "site-specialist-profile-marker-latitude": 45.4781236,
+        "site-specialist-profile-marker-longitude": 9.1217733,
+        "site-specialist-profile-marker-name": "Studio San Siro"
+      }
+    ]
+  }
 ]
