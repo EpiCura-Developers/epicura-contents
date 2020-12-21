@@ -28,28 +28,31 @@
     "text": "Prenota ora",
     "link": "/prenota/?d=physiotherapy"
   },
-  "problems": [
-    {
-      "title": "Malattie neurologiche",
-      "content": "Sindrome del tunnel carpale, morbo di Parkinson, Alzheimer, sclerosi multipla e le altre patologie che colpiscono la capacità di equilibrio e di movimento"
-    },
-    {
-      "title": "Traumi post-operatori",
-      "content": "Stiramenti, distorsioni, contusioni, tendinopatie, lombalgia (mal di schiena), lombosciatalgia, cervicalgia, patologie dolorose della spalla e altri disturbi"
-    },
-    {
-      "title": "Dismorfismi ortopedici e dolori muscolo-scheletrici",
-      "content": "ginocchia varo o valgo, piede piatto, scoliosi, ecc"
-    },
-    {
-      "title": "Disturbi reumatici",
-      "content": "artrosi, artrite reumatoide, fibromialgia ecc"
-    },
-    {
-      "title": "Edemi",
-      "content": "lipedemi (cellulite), linfedemi, flebedemi e in generale situazioni di accumulo di liquidi che causano problemi alla circolazione e al sistema linfatico"
-    }
-  ],
+  "problems": {
+    "title": "Problemi che puoi risolvere con la fisioterapia",
+    "list": [
+      {
+        "title": "Malattie neurologiche",
+        "content": "Sindrome del tunnel carpale, morbo di Parkinson, Alzheimer, sclerosi multipla e le altre patologie che colpiscono la capacità di equilibrio e di movimento"
+      },
+      {
+        "title": "Traumi post-operatori",
+        "content": "Stiramenti, distorsioni, contusioni, tendinopatie, lombalgia (mal di schiena), lombosciatalgia, cervicalgia, patologie dolorose della spalla e altri disturbi"
+      },
+      {
+        "title": "Dismorfismi ortopedici e dolori muscolo-scheletrici",
+        "content": "ginocchia varo o valgo, piede piatto, scoliosi, ecc"
+      },
+      {
+        "title": "Disturbi reumatici",
+        "content": "artrosi, artrite reumatoide, fibromialgia ecc"
+      },
+      {
+        "title": "Edemi",
+        "content": "lipedemi (cellulite), linfedemi, flebedemi e in generale situazioni di accumulo di liquidi che causano problemi alla circolazione e al sistema linfatico"
+      }
+    ]
+  },
   "bundles": [
     {
       "uri": "pacchetto-10",
@@ -120,47 +123,5 @@
       "name": "female"
     }
   },
-  "active-cities-title": "In quali province è attivo il servizio",
-  "active-cities": [
-    {
-      "option-link": "/torino/",
-      "option-label": "Torino"
-    },
-    {
-      "option-link": "/milano/",
-      "option-label": "Milano"
-    },
-    {
-      "option-link": "/roma/",
-      "option-label": "Roma"
-    },
-    {
-      "option-link": "/bologna/",
-      "option-label": "Bologna"
-    },
-    {
-      "option-link": "/verona/",
-      "option-label": "Verona"
-    },
-    {
-      "option-link": "/brescia/",
-      "option-label": "Brescia"
-    },
-    {
-      "option-link": "/catania/",
-      "option-label": "Catania"
-    },
-    {
-      "option-link": "/genova/",
-      "option-label": "Genova"
-    },
-    {
-      "option-link": "/firenze/",
-      "option-label": "Firenze"
-    },
-    {
-      "option-link": "/napoli/",
-      "option-label": "Napoli"
-    }
-  ]
+  "active-cities-title": "In quali province è attivo il servizio"
 }
