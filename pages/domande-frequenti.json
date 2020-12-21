@@ -12,7 +12,7 @@
   "site-faqs-page-color": "#CEF5F2",
   "faqs-with-category": [
     {
-      "category": "category 1",
+      "category": "Chi siamo",
       "faqs": [
         {
           "title": "Cos’è EpiCura?",
@@ -26,7 +26,7 @@
     },
 
     {
-      "category": "category 2",
+      "category": "Prenotare una visita",
       "faqs": [
         {
           "title": "Non voglio prenotare ma vorrei solo un consulto, è possibile?",
@@ -40,7 +40,7 @@
     },
 
     {
-      "category": "category 3",
+      "category": "Erogazione del servizio",
       "faqs": [
         {
           "title": "Cosa succede quando invio una richiesta di prenotazione?",
@@ -54,7 +54,7 @@
     },
 
     {
-      "category": "category 4",
+      "category": "Modifiche alla prenotazione",
       "faqs": [
         {
           "title": "Se il professionista che si è candidato non mi sembra adatto?",
@@ -68,7 +68,7 @@
     },
 
     {
-      "category": "category 5",
+      "category": "Detrazioni e rimborsi",
       "faqs": [
         {
           "title": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
