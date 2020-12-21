@@ -7,12 +7,18 @@
   "header": {
     "title": "Psicologo",
     "subtitle": "A partire da 30€",
-    "background-image": "physiotherapist"
+    "background-image": {
+      "path": "psychology",
+      "name": "psychology"
+    }
   },
   "subheader": {
     "title": "Perché è importante?",
     "content": "Quando abbiamo un dolore o un indolenzimento in una parte del nostro corpo tendiamo a trascurarlo e a non curarcene troppo. Non dare importanza ai segnali che il nostro corpo ci invia, molte volte, porta alla cronicizzazione del problema rendendo faticoso e difficile uscirne. La fisioterapia permette di prevenire tutto ciò e di ritrovare l’armonia con il proprio corpo facendo riscoprire sensazioni di confort che molto probabilmente avevamo dimenticato.",
-    "background-image": "physiotherapist_subheader"
+    "background-image": {
+      "path": "psychology",
+      "name": "psychology_subheader"
+    }
   },
   "cta1": {
     "text": "Richiedi informazioni",
@@ -50,7 +56,10 @@
       "title": "Pacchetto 10",
       "description": "Dedicati un momento per distendere le tensioni muscolari.",
       "specification": "fisioterapia",
-      "image": "img-package-10",
+      "image": {
+        "path": "common",
+        "name": "bundle-10"
+      },
       "background-color": "gradient-rose",
       "price": "600",
       "discount": "570"
@@ -60,7 +69,10 @@
       "title": "Pacchetto 3",
       "description": "Dedicati un momento per distendere le tensioni muscolari.",
       "specification": "fisioterapia",
-      "image": "img-package-3",
+      "image": {
+        "path": "common",
+        "name": "bundle-3"
+      },
       "background-color": "gradient-green",
       "price": "150",
       "discount": ""
@@ -98,7 +110,56 @@
         "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
       }
     ],
-    "feedaty-male-image": "",
-    "feedaty-female-image": ""
-  }
+   "feedaty-male-image": {
+      "path": "common",
+      "name": "male"
+    },
+    "feedaty-female-image": {
+      "path": "common",
+      "name": "female"
+    }
+  },
+  "active-cities-title": "In quali province è attivo il servizio",
+  "active-cities": [
+    {
+      "option-link": "/torino/",
+      "option-label": "Torino"
+    },
+    {
+      "option-link": "/milano/",
+      "option-label": "Milano"
+    },
+    {
+      "option-link": "/roma/",
+      "option-label": "Roma"
+    },
+    {
+      "option-link": "/bologna/",
+      "option-label": "Bologna"
+    },
+    {
+      "option-link": "/verona/",
+      "option-label": "Verona"
+    },
+    {
+      "option-link": "/brescia/",
+      "option-label": "Brescia"
+    },
+    {
+      "option-link": "/catania/",
+      "option-label": "Catania"
+    },
+    {
+      "option-link": "/genova/",
+      "option-label": "Genova"
+    },
+    {
+      "option-link": "/firenze/",
+      "option-label": "Firenze"
+    },
+    {
+      "option-link": "/napoli/",
+      "option-label": "Napoli"
+    }
+  ]
 }
