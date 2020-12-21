@@ -18,7 +18,14 @@
     "site-specialist-profile-at-home": true,
     "site-specialist-profile-at-office": false,
     "site-specialist-profile-city-list": ["Torino"],
-    "site-specialist-profile-address-marker-list": []
+    "site-specialist-profile-address-marker-list": [
+      {
+        "site-specialist-profile-marker-city": "Torino",
+        "site-specialist-profile-marker-latitude": 45.0647992,
+        "site-specialist-profile-marker-longitude": 7.6930788,
+        "site-specialist-profile-marker-name": "Studio Vittorio - Piazza Vittorio"
+      }
+    ]
   },
   {
     "metaDescription": {
