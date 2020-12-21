@@ -7,12 +7,18 @@
   "header": {
     "title": "Fisioterapista",
     "subtitle": "A partire da 30€",
-    "background-image": "physiotherapist"
+    "background-image": {
+      "path": "physiotherapy",
+      "name": "physiotherapy"
+    }
   },
   "subheader": {
     "title": "Perché è importante?",
     "content": "Quando abbiamo un dolore o un indolenzimento in una parte del nostro corpo tendiamo a trascurarlo e a non curarcene troppo. Non dare importanza ai segnali che il nostro corpo ci invia, molte volte, porta alla cronicizzazione del problema rendendo faticoso e difficile uscirne. La fisioterapia permette di prevenire tutto ciò e di ritrovare l’armonia con il proprio corpo facendo riscoprire sensazioni di confort che molto probabilmente avevamo dimenticato.",
-    "background-image": "physiotherapist_subheader"
+    "background-image": {
+      "path": "physiotherapy",
+      "name": "physiotherapist_subheader"
+    }
   },
   "cta1": {
     "text": "Richiedi informazioni",
@@ -50,7 +56,10 @@
       "title": "Pacchetto 10",
       "description": "Dedicati un momento per distendere le tensioni muscolari.",
       "specification": "fisioterapia",
-      "image": "img-package-10",
+      "image": {
+        "path": "common",
+        "name": "bundle-10"
+      },
       "background-color": "gradient-rose",
       "price": "600",
       "discount": "570"
@@ -60,45 +69,98 @@
       "title": "Pacchetto 3",
       "description": "Dedicati un momento per distendere le tensioni muscolari.",
       "specification": "fisioterapia",
-      "image": "img-package-3",
+      "image": {
+        "path": "common",
+        "name": "bundle-3"
+      },
       "background-color": "gradient-green",
       "price": "150",
       "discount": ""
     }
   ],
   "hint-card": {
-    "title": "Indeciso? Fatti consigliare da un fisioterapista",
-    "content": "Se è la prima volta, ti consigliamo di iniziare con un teleconsulto con uno dei nostri esperti per individuare correttamente il problema e il percorso migliore per te.",
+    "title": "Hai un dubbio? Chiedi al fisioterapista",
+    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "price": "Costo fisso 25€",
-    "bkg-color": "",
-    "image": "#F5F8FF",
-    "button-text": "Button",
+    "bkg-color": "#F5F8FF",
+    "image": {
+      "path": "videoconsultation",
+      "name": "videoconsultation"
+    },
+    "button-text": "Scopri di più",
     "button-link": "/teleconsulting/?discipline=physiotherapy"
   },
-  "site-landing-feedaty": {
-    "title": "Oltre 3000 famiglie soddisfatte",
-    "subtitle": "Le recensioni di chi ci ha scelto",
+  "feedaty": {
     "feedaty-score": 4.7,
     "feedaty-review-score": "Ottimo",
-    "feedaty-text": "Più di 300 recensioni",
+    "feedaty-text": "Oltre 400 recensioni verificate",
     "feedaty-feedback-list": [
       {
         "feedaty-feedback-author-sex": "Maschio",
         "feedaty-feedback-author": "Maurizio",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+        "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male e avevo bisogno di un intervento tempestivo. <br /> Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!"
       },
       {
         "feedaty-feedback-author-sex": "Femmina",
         "feedaty-feedback-author": "Anna",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+        "feedaty-feedback-text": "Le prenotazioni per gli interventi sono veloci e hanno coperto tutti i problemi e le esigenze fino ad ora incontrate. <br /> Il servizio infermieristico è ineccepibile: personale molto preparato e gentile."
       },
       {
         "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Maria",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+        "feedaty-feedback-author": "Federica",
+        "feedaty-feedback-text": "Vi siete presi cura di mio padre, in un momento molto difficile per lui. <br /> Vi ringrazio per la vostra professionalità, efficienza e disponibilità. Veramente un servizio ottimo, molto consigliato."
       }
     ],
-    "feedaty-male-image": "",
-    "feedaty-female-image": ""
-  }
+    "feedaty-male-image": {
+      "path": "common",
+      "name": "male"
+    },
+    "feedaty-female-image": {
+      "path": "common",
+      "name": "female"
+    }
+  },
+  "active-cities-title": "In quali province è attivo il servizio",
+  "active-cities": [
+    {
+      "option-link": "/torino/",
+      "option-label": "Torino"
+    },
+    {
+      "option-link": "/milano/",
+      "option-label": "Milano"
+    },
+    {
+      "option-link": "/roma/",
+      "option-label": "Roma"
+    },
+    {
+      "option-link": "/bologna/",
+      "option-label": "Bologna"
+    },
+    {
+      "option-link": "/verona/",
+      "option-label": "Verona"
+    },
+    {
+      "option-link": "/brescia/",
+      "option-label": "Brescia"
+    },
+    {
+      "option-link": "/catania/",
+      "option-label": "Catania"
+    },
+    {
+      "option-link": "/genova/",
+      "option-label": "Genova"
+    },
+    {
+      "option-link": "/firenze/",
+      "option-label": "Firenze"
+    },
+    {
+      "option-link": "/napoli/",
+      "option-label": "Napoli"
+    }
+  ]
 }
