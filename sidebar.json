@@ -10,28 +10,6 @@
         }
     },
     {
-        "option-link": "/registrazione/",
-        "option-label": "Registrati",
-        "option-is-complex": true,
-        "option-is-amp": false,
-        "option-style-object-like": {
-            "font-weight": "bold",
-            "margin-top": "5px",
-            "font-size": "1.25rem"
-        }
-    },
-    {
-        "option-link": "/professionisti/",
-        "option-label": "I nostri professionisti",
-        "option-is-complex": true,
-        "option-is-amp": false,
-        "option-style-object-like": {
-            "font-weight": "bold",
-            "margin-top": "5px",
-            "font-size": "1.25rem"
-        }
-    },
-    {
         "option-link": "/professionisti-lavoro/",
         "option-label": "Sei un professionista?",
         "option-is-complex": true,
