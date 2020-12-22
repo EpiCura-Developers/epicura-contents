@@ -1,6 +1,6 @@
 [
     {
-        "option-link": "/chi-siamo/",
+        "option-link": "/chi-siamo",
         "option-label": "Chi siamo",
         "option-is-complex": true,
         "option-is-amp": true,
@@ -10,7 +10,7 @@
         }
     },
     {
-        "option-link": "/professionisti-lavoro/",
+        "option-link": "/professionisti-lavoro",
         "option-label": "Sei un professionista?",
         "option-is-complex": true,
         "option-is-amp": false,
@@ -21,7 +21,7 @@
         }
     },
     {
-        "option-link": "/blog/",
+        "option-link": "/blog",
         "option-label": "Leggi il magazine",
         "option-is-complex": true,
         "option-is-amp": false,
@@ -31,7 +31,7 @@
         }
     },
     {
-        "option-link": "/domande-frequenti/",
+        "option-link": "/domande-frequenti",
         "option-label": "Domande frequenti",
         "option-is-complex": true,
         "option-is-amp": false,
@@ -51,7 +51,7 @@
         }
     },
     {
-        "option-link": "/rassegna-stampa/",
+        "option-link": "/rassegna-stampa",
         "option-label": "Rassegna stampa",
         "option-is-complex": true,
         "option-is-amp": true,
@@ -61,7 +61,7 @@
         }
     },
     {
-        "option-link": "/contattaci/",
+        "option-link": "/contattaci",
         "option-label": "Richiedi informazioni",
         "option-is-complex": true,
         "option-is-amp": false,
@@ -71,7 +71,7 @@
         }
     },
     {
-        "option-link": "/privacy-policy/",
+        "option-link": "/privacy-policy",
         "option-label": "Privacy Policy",
         "option-is-complex": true,
         "option-is-amp": false,
@@ -81,7 +81,7 @@
         }
     },
     {
-        "option-link": "/termini-e-condizioni/",
+        "option-link": "/termini-e-condizioni",
         "option-label": "Termini e Condizioni",
         "option-is-complex": true,
         "option-is-amp": false,

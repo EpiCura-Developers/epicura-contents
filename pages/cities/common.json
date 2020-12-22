@@ -8,28 +8,28 @@
     "title": "Le nostre community social",
     "blockFb1": {
       "title": "Forum Salute",
-      "url": "https://www.facebook.com/groups/Epicura.ForumSalute/",
+      "url": "https://www.facebook.com/groups/Epicura.ForumSalute",
       "urlText": "Entra nel gruppo",
       "text": "Partecipa al forum di discussione aperto a tutti per confrontarsi e trovare risposte su salute e benessere."
     },
     "blockFb2": {
       "title": "Forum Animali",
-      "url": "https://www.facebook.com/groups/Epicura.AmiciAnimali/",
+      "url": "https://www.facebook.com/groups/Epicura.AmiciAnimali",
       "urlText": "Entra nel gruppo",
       "text": "Entra nel gruppo dedicato ai possessori di animali, confrontati e trova risposte sui temi del benessere e della salute dei nostri amici a quattro zampe."
     },
     "blockIg": {
       "title": "EpiCura",
-      "url": "https://www.instagram.com/Epicura/",
+      "url": "https://www.instagram.com/Epicura",
       "urlText": "Segui la pagina",
       "text": "Segui la pagina di EpiCura anche su Instagram, tanti consigli e curiosità sul mondo del benessere e della salute."
     }
   },
   "footer": {
     "callUsText": "Chiamaci",
-    "fbLink": "https://www.facebook.com/EpiCuraMed/",
-    "igLink": "https://www.instagram.com/Epicura/",
-    "linkedinLink": "https://www.linkedin.com/company/epicuramed/",
+    "fbLink": "https://www.facebook.com/EpiCuraMed",
+    "igLink": "https://www.instagram.com/Epicura",
+    "linkedinLink": "https://www.linkedin.com/company/epicuramed",
     "youtubeLink": "https://www.youtube.com/channel/UC1ibdsGsslcFBLxH2tkyZOw",
     "twitterLink": "https://twitter.com/EpiCuraMed",
     "copyright": "Epicura S.r.l. - Corso Carlo e Nello Rosselli 91, 10129 Torino (TO) - P.Iva 11744440014 - © 2020 - Tutti i diritti riservati",
@@ -40,15 +40,15 @@
         "links": [
           {
             "title": "Chi siamo",
-            "url": "/chi-siamo/"
+            "url": "/chi-siamo"
           },
           {
             "title": "Lavora con noi",
-            "url": "/professionisti-lavoro/"
+            "url": "/professionisti-lavoro"
           },
           {
             "title": "Contattaci",
-            "url": "/contattaci/"
+            "url": "/contattaci"
           }
         ]
       },
@@ -61,15 +61,15 @@
           },
           {
             "title": "Dicono di noi",
-            "url": "/rassegna-stampa/"
+            "url": "/rassegna-stampa"
           },
           {
             "title": "Domande frequenti",
-            "url": "/domande-frequenti/"
+            "url": "/domande-frequenti"
           },
           {
             "title": "Magazine",
-            "url": "/blog/"
+            "url": "/blog"
           }
         ]
       },
@@ -78,15 +78,15 @@
         "links": [
           {
             "title": "Termini e condizioni",
-            "url": "/termini-e-condizioni/"
+            "url": "/termini-e-condizioni"
           },
           {
             "title": "Privacy policy",
-            "url": "/privacy-policy/"
+            "url": "/privacy-policy"
           },
           {
             "title": "Cookie policy",
-            "url": "/cookie-policy/"
+            "url": "/cookie-policy"
           }
         ]
       }
@@ -100,15 +100,15 @@
     "links": [
       {
         "title": "Termini e condizioni",
-        "url": "/termini-e-condizioni/"
+        "url": "/termini-e-condizioni"
       },
       {
         "title": "Privacy policy",
-        "url": "/privacy-policy/"
+        "url": "/privacy-policy"
       },
       {
         "title": "Cookie policy",
-        "url": "/cookie-policy/"
+        "url": "/cookie-policy"
       }
     ]
   },
@@ -130,19 +130,19 @@
     "askInfoText": "Richiedi informazioni",
     "seiProfessionista": {
       "title": "Sei un professionista?",
-      "url": "/professionisti-lavoro/"
+      "url": "/professionisti-lavoro"
     },
     "magazine": {
       "title": "Magazine",
-      "url": "https://www.epicuramed.it/blog/"
+      "url": "https://www.epicuramed.it/blog"
     },
     "privacy": {
       "title": "Privacy policy",
-      "url": "/privacy-policy/"
+      "url": "/privacy-policy"
     },
     "terminiCondizioni": {
       "title": "Termini e condizioni",
-      "url": "/termini-e-condizioni/"
+      "url": "/termini-e-condizioni"
     }
   },
   "magazine": {

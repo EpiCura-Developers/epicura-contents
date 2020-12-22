@@ -56,7 +56,7 @@
   "site-who-we-are-our-values-title": "Cosa ci rende speciali",
   "site-who-we-are-our-values-share-text": "Condividi i nostri valori e ami le sfide? <br /> Scopri le posizioni aperte e unisciti alla rivoluzione EpiCura!",
   "site-who-we-are-our-values-btn-text": "Entra nel team",
-  "site-who-we-are-our-values-link": "/",
+  "site-who-we-are-our-values-link": "",
   "site-who-we-are-our-values": [
     {
       "site-who-we-are-our-value-image": { "path": "common", "name": "people-before-all" },
