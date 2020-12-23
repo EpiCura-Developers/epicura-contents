@@ -268,7 +268,7 @@
     "title": "Oltre 3000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "average": "media recensioni",
-    "vote": "4,7",
+    "vote": "4.7",
     "voteLiteral": "Ottimo",
     "howManyReviews": "Più di 300 recensioni",
     "logo": "feedaty",
@@ -426,7 +426,7 @@
     "mapCenter": "45.066667,7.7",
     "markers": [
       {
-        "location": "45.069034,7.650593",
+        "location": "45.069034.7.650593",
         "name": "Cenisia"
       },
       {
@@ -518,7 +518,7 @@
         "name": "Campidoglio"
       },
       {
-        "location": "45.0734,7.6616",
+        "location": "45.0734.7.6616",
         "name": "Cit Turin"
       },
       {
@@ -582,7 +582,7 @@
         "name": "Sassi"
       },
       {
-        "location": "45.0174,7.6295",
+        "location": "45.0174.7.6295",
         "name": "Mirafiori Sud"
       },
       {
@@ -594,7 +594,7 @@
         "name": "Moncalieri"
       },
       {
-        "location": "44.9954,7.6466",
+        "location": "44.9954.7.6466",
         "name": "Nichelino"
       },
       {
@@ -622,7 +622,7 @@
         "name": "Vanchiglietta"
       },
       {
-        "location": "45.032764,7.514623",
+        "location": "45.032764.7.514623",
         "name": "Rivalta di Torino"
       },
       {
@@ -638,7 +638,7 @@
         "name": "Savonera"
       },
       {
-        "location": "45.046194,7.644444",
+        "location": "45.046194.7.644444",
         "name": "Santa Rita"
       },
       {
@@ -654,7 +654,7 @@
         "name": "Orbassano"
       },
       {
-        "location": "45.067394,7.813576",
+        "location": "45.067394.7.813576",
         "name": "Baldissero Torinese"
       },
       {
