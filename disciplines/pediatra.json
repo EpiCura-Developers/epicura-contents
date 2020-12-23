@@ -7,7 +7,7 @@
     },
     "discipline-description": "Visite, terapie e cure specialistiche per i più piccoli, a domicilio.",
     "discipline-background-color": "#F2EAFF",
-    "discipline-link": "/pediatra",
+    "discipline-link": "/pediatra/",
     "discipline-specialities": [
         "Massaggio"
     ]

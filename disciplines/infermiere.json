@@ -7,7 +7,7 @@
     },
     "discipline-description": "Medicazioni, terapie e iniezioni.",
     "discipline-background-color": "#D3EEF0",
-    "discipline-link": "/infermiere",
+    "discipline-link": "/infermiere/",
     "discipline-specialities": [
         "Sede di somministrazione farmaco",
         "Gestione del farmaco nelle 24 ore",

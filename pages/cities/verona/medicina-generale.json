@@ -68,7 +68,7 @@
     "prenotaOnlineText": "Prenota online",
     "textColor": "light",
     "professionistaText": "Sei un professionista?",
-    "professionistaUrl": "/professionisti-lavoro",
+    "professionistaUrl": "/professionisti-lavoro/",
     "titleBig": "Medici generici a domicilio a Verona",
     "subtitleBig": "Per chi ricerca un supporto affidabile, sicuro e senza attesa.",
     "description1": "Per sentirsi sereni e sicuri 7 giorni su 7, 24 ore su 24.",
@@ -79,7 +79,7 @@
     "prenotaOnlineText": "Prenota online",
     "textColor": "dark",
     "professionistaText": "",
-    "professionistaUrl": "/professionisti-lavoro",
+    "professionistaUrl": "/professionisti-lavoro/",
     "titleBig": "Medici generici a domicilio a Verona",
     "subtitleBig": "Ci prendiamo cura di te",
     "description1": "Senza liste di attesa, 7 giorni su 7",
@@ -185,7 +185,7 @@
   "latest_articles": {
     "title": "Ultimi articoli su di noi",
     "titleFbAdw": "Parlano di noi",
-    "allArticlesLink": "/rassegna-stampa",
+    "allArticlesLink": "/rassegna-stampa/",
     "allArticlesText": "Tutti gli articoli",
     "readArticleText": "Leggi articolo",
     "articles": [
@@ -203,7 +203,7 @@
           "name": "forbes"
         },
         "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
-        "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30"
+        "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
       },
       {
         "image": {

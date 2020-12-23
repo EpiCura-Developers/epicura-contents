@@ -5,7 +5,7 @@
       "description": "I professionisti di EpiCura. Medici, infermieri, badanti e professionisti della salute a domicilio, 7 giorni su 7."
     },
     "site-specialist-profile-page-name": "Valentina Perucca",
-    "site-specialist-profile-page-link-name": "/valentina-perucca",
+    "site-specialist-profile-page-link-name": "/valentina-perucca/",
     "site-specialist-profile-page-disciplines": ["fisioterapista"],
     "site-specialist-profile-img": {
       "path": "specialists",
@@ -33,7 +33,7 @@
       "description": "Siamo il primo poliambulatorio digitale in Italia."
     },
     "site-specialist-profile-page-name": "Nicolò Giordano",
-    "site-specialist-profile-page-link-name": "/nicolo-giordano",
+    "site-specialist-profile-page-link-name": "/nicolo-giordano/",
     "site-specialist-profile-page-disciplines": ["fisioterapista", "osteopata"],
     "site-specialist-profile-img": {
       "path": "specialists",

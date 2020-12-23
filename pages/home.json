@@ -17,13 +17,13 @@
                 "section-title": "Assistenza domiciliare",
                 "section-options": [
                     {
-                        "option-link": "/italia/badante",
+                        "option-link": "/italia/badante/",
                         "option-label": "Badanti",
                         "option-style-object-like": "",
                         "option-is-new": false
                     },
                     {
-                        "option-link": "/assistente-domiciliare",
+                        "option-link": "/assistente-domiciliare/",
                         "option-label": "Assistenti ad ore",
                         "option-style-object-like": "",
                         "option-is-new": false
@@ -34,7 +34,7 @@
                 "section-title": "Videoconsulti",
                 "section-options": [
                     {
-                        "option-link": "/videoconsulti",
+                        "option-link": "/videoconsulti/",
                         "option-label": "Scopri il servizio",
                         "option-style-object-like": {
                             "color": "#909090"
@@ -43,56 +43,56 @@
                         "option-is-amp": true
                     },
                     {
-                        "option-link": "/fisioterapista-videoconsulto",
+                        "option-link": "/fisioterapista-videoconsulto/",
                         "option-label": "Fisioterapista",
                         "option-style-object-like": "",
                         "option-is-new": true,
                         "option-is-amp": true
                     },
                     {
-                        "option-link": "/osteopata-videoconsulto",
+                        "option-link": "/osteopata-videoconsulto/",
                         "option-label": "Osteopata",
                         "option-style-object-like": "",
                         "option-is-new": true,
                         "option-is-amp": true
                     },
                     {
-                        "option-link": "/veterinario-videoconsulto",
+                        "option-link": "/veterinario-videoconsulto/",
                         "option-label": "Veterinario",
                         "option-style-object-like": "",
                         "option-is-new": true,
                         "option-is-amp": true
                     },
                     {
-                        "option-link": "/pediatra-videoconsulto",
+                        "option-link": "/pediatra-videoconsulto/",
                         "option-label": "Pediatra",
                         "option-style-object-like": "",
                         "option-is-new": true,
                         "option-is-amp": true
                     },
                     {
-                        "option-link": "/medico-di-base-videoconsulto",
+                        "option-link": "/medico-di-base-videoconsulto/",
                         "option-label": "Medico di base",
                         "option-style-object-like": "",
                         "option-is-new": true,
                         "option-is-amp": true
                     },
                     {
-                        "option-link": "/infermiere-videoconsulto",
+                        "option-link": "/infermiere-videoconsulto/",
                         "option-label": "Infermiere",
                         "option-style-object-like": "",
                         "option-is-new": true,
                         "option-is-amp": true
                     },
                     {
-                        "option-link": "/psicologo-videoconsulto",
+                        "option-link": "/psicologo-videoconsulto/",
                         "option-label": "Psicologo",
                         "option-style-object-like": "",
                         "option-is-new": true,
                         "option-is-amp": true
                     },
                     {
-                        "option-link": "/nutrizionista-videoconsulto",
+                        "option-link": "/nutrizionista-videoconsulto/",
                         "option-label": "Nutrizionista",
                         "option-style-object-like": "",
                         "option-is-new": true,
@@ -104,13 +104,13 @@
                 "section-title": "Riabilitazione motoria",
                 "section-options": [
                     {
-                        "option-link": "/fisioterapista",
+                        "option-link": "/fisioterapista/",
                         "option-label": "Fisioterapista",
                         "option-style-object-like": "",
                         "option-is-new": false
                     },
                     {
-                        "option-link": "/osteopata",
+                        "option-link": "/osteopata/",
                         "option-label": "Osteopata",
                         "option-style-object-like": "",
                         "option-is-new": false
@@ -121,19 +121,19 @@
                 "section-title": "Cura e terapie",
                 "section-options": [
                     {
-                        "option-link": "/medico-di-base",
+                        "option-link": "/medico-di-base/",
                         "option-label": "Medico generico",
                         "option-style-object-like": "",
                         "option-is-new": false
                     },
                     {
-                        "option-link": "/infermiere",
+                        "option-link": "/infermiere/",
                         "option-label": "Infermiere",
                         "option-style-object-like": "",
                         "option-is-new": false
                     },
                     {
-                        "option-link": "/pediatra",
+                        "option-link": "/pediatra/",
                         "option-label": "Pediatra",
                         "option-style-object-like": "",
                         "option-is-new": false
@@ -144,25 +144,25 @@
                 "section-title": "Benessere psico-fisico",
                 "section-options": [
                     {
-                        "option-link": "/nutrizionista",
+                        "option-link": "/nutrizionista/",
                         "option-label": "Nutrizionista",
                         "option-style-object-like": "",
                         "option-is-new": false
                     },
                     {
-                        "option-link": "/massaggiatore-professionale",
+                        "option-link": "/massaggiatore-professionale/",
                         "option-label": "Massoterapista",
                         "option-style-object-like": "",
                         "option-is-new": false
                     },
                     {
-                        "option-link": "/psicologo",
+                        "option-link": "/psicologo/",
                         "option-label": "Psicologo",
                         "option-style-object-like": "",
                         "option-is-new": false
                     },
                     {
-                        "option-link": "/psicoterapeuta",
+                        "option-link": "/psicoterapeuta/",
                         "option-label": "Psicoterapeuta",
                         "option-style-object-like": "",
                         "option-is-new": false
@@ -173,7 +173,7 @@
                 "section-title": "Cani e gatti",
                 "section-options": [
                     {
-                        "option-link": "/veterinario",
+                        "option-link": "/veterinario/",
                         "option-label": "Veterinario",
                         "option-style-object-like": "",
                         "option-is-new": false
@@ -256,7 +256,7 @@
     ],
     "site-landing-cta-btn-list": [
         {
-            "site-cta-btn-action": "",
+            "site-cta-btn-action": "/",
             "site-cta-button-text": "20% di sconto sulla prima visita",
             "site-cta-button-color": "#FFE66D"
         }
@@ -268,8 +268,8 @@
             "site-cta-card-description": "Lavoriamo solo con personale qualificato e certificato, capace di rispondere a precisi criteri di selezione. <br /> Il nostro obiettivo è garantirti un servizio con elevati standard di qualità. <br /><br /> Con EpiCura la tua salute è nelle mani dei migliori professionisti!.",
             "site-cta-card-btn-title": "Sei un professionista?",
             "site-cta-card-btn-text": "Lavora con noi",
-            "site-cta-card-btn-action": "/professionisti-lavoro",
-            "site-cta-card-btn-action-collaboration": "/professionisti-lavoro",
+            "site-cta-card-btn-action": "/professionisti-lavoro/",
+            "site-cta-card-btn-action-collaboration": "/professionisti-lavoro/",
             "site-cta-card-bkg-color": "#F5F5F7",
             "site-cta-card-img-bkg": {
                 "path": "common",
@@ -315,43 +315,43 @@
     },
     "site-landing-active-cities": [
         {
-            "option-link": "/torino",
+            "option-link": "/torino/",
             "option-label": "Torino"
         },
         {
-            "option-link": "/milano",
+            "option-link": "/milano/",
             "option-label": "Milano"
         },
         {
-            "option-link": "/roma",
+            "option-link": "/roma/",
             "option-label": "Roma"
         },
         {
-            "option-link": "/bologna",
+            "option-link": "/bologna/",
             "option-label": "Bologna"
         },
         {
-            "option-link": "/verona",
+            "option-link": "/verona/",
             "option-label": "Verona"
         },
         {
-            "option-link": "/brescia",
+            "option-link": "/brescia/",
             "option-label": "Brescia"
         },
         {
-            "option-link": "/catania",
+            "option-link": "/catania/",
             "option-label": "Catania"
         },
         {
-            "option-link": "/genova",
+            "option-link": "/genova/",
             "option-label": "Genova"
         },
         {
-            "option-link": "/firenze",
+            "option-link": "/firenze/",
             "option-label": "Firenze"
         },
         {
-            "option-link": "/napoli",
+            "option-link": "/napoli/",
             "option-label": "Napoli"
         }
     ],
