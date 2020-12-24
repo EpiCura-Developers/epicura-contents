@@ -5,7 +5,7 @@
   },
   "title-color": "#002E4D",
   "header": {
-    "title": "Psicologo",
+    "title": "Psicologo e psicoterapeuta",
     "subtitle": "A partire da 30€",
     "background-image": {
       "path": "psychology",
@@ -13,8 +13,8 @@
     }
   },
   "subheader": {
-    "title": "Perché è importante?",
-    "content": "Quando abbiamo un dolore o un indolenzimento in una parte del nostro corpo tendiamo a trascurarlo e a non curarcene troppo. Non dare importanza ai segnali che il nostro corpo ci invia, molte volte, porta alla cronicizzazione del problema rendendo faticoso e difficile uscirne. La fisioterapia permette di prevenire tutto ciò e di ritrovare l’armonia con il proprio corpo facendo riscoprire sensazioni di confort che molto probabilmente avevamo dimenticato.",
+    "title": "I benefici della terapia psicologica e psicoterapeutica",
+    "content": "La salute di mente e corpo va di pari passo: sono numerosi, infatti, i disturbi fisici che nascono da disagi psicologici derivanti ad esempio da ansia, stress o stati depressivi.<br />Se stai affrontando un momento complicato nella tua vita e senti le emozioni sopraffare i tuoi pensieri, la terapia psicologica o psicoterapeutica può guidarti verso un maggiore stato di benessere, facendoti guadagnare fiducia, consapevolezza e soprattutto serenità.<br />Gli psicologi e gli psicoterapeuti EpiCura sono disponibili 7 giorni su 7 in studio, a domicilio (in casi di impossibilità negli spostamenti) o tramite <b>video-sedute da svolgersi comodamente online su smartphone, tablet o pc.</b>",
     "background-image": {
       "path": "psychology",
       "name": "psychology_subheader"
@@ -29,27 +29,31 @@
     "link": "/prenota/?d=psychology"
   },
   "problems": {
-    "title": "Problemi che puoi risolvere con la fisioterapia",
+    "title": "Problemi che puoi risolvere con lo psicologo",
     "list": [
       {
-        "title": "Malattie neurologiche",
-        "content": "Sindrome del tunnel carpale, morbo di Parkinson, Alzheimer, sclerosi multipla e le altre patologie che colpiscono la capacità di equilibrio e di movimento"
+        "title": "Ascolto e sostegno psicologico",
+        "content": "Percorso di sostegno tramite un rapporto di ascolto attivo con il terapeuta, che aiuta a risolvere situazioni di disagio legate a circostanze di abbandono, lutto, crescita, problemi lavorativi, ecc.."
       },
       {
-        "title": "Traumi post-operatori",
-        "content": "Stiramenti, distorsioni, contusioni, tendinopatie, lombalgia (mal di schiena), lombosciatalgia, cervicalgia, patologie dolorose della spalla e altri disturbi"
+        "title": "Psicoanalisi",
+        "content": "Percorsi per il trattamento dei disturbi d'ansia, isteria, nervosismi eccessivi o ossessivi, fobie, distorsioni del carattere e anomalie sessuali."
       },
       {
-        "title": "Dismorfismi ortopedici e dolori muscolo-scheletrici",
-        "content": "ginocchia varo o valgo, piede piatto, scoliosi, ecc"
+        "title": "Psicoterapia sistemica-familiare",
+        "content": "Lo psicoterapeuta analizza i sintomi non come individuali, ma come manifestazione di problemi all’interno dei contesti di interazione, in primis la famiglia. Per questo è particolarmente adatta a terapie di coppia o terapie familiari, oltre che individuali."
       },
       {
-        "title": "Disturbi reumatici",
-        "content": "artrosi, artrite reumatoide, fibromialgia ecc"
+        "title": "Psicoterapia psicodinamica",
+        "content": "Percorsi con esperti per migliorare le condizioni psichiche del paziente, attraverso l'esplorazione dei diversi aspetti del Sé, finalizzati allo sviluppo delle risorse personali."
       },
       {
-        "title": "Edemi",
-        "content": "lipedemi (cellulite), linfedemi, flebedemi e in generale situazioni di accumulo di liquidi che causano problemi alla circolazione e al sistema linfatico"
+        "title": "Psicoterapia cognitiva-costruttivista",
+        "content": "Percorso per sviluppare consapevolezza su credenze, convinzioni e abitudini, e per rimuovere i blocchi emotivi e psicologici che limitano durante la vita quotidiana."
+      },
+      {
+        "title": "Video-consulto psicoterapeutico",
+        "content": "Sedute online, efficaci quanto quelle in presenza, in totale sicurezza. Sono utili in particolare in situazioni di ritiro sociale, lontananza territoriale o inconciliabilità con gli orari di lavoro."
       }
     ]
   },
@@ -82,7 +86,7 @@
     }
   ],
   "hint-card": {
-    "title": "Hai un dubbio? Chiedi al fisioterapista",
+    "title": "Hai un dubbio? Chiedi allo psicologo",
     "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "price": "Costo fisso 25€",
     "bkg-color": "#F5F8FF",
@@ -91,32 +95,32 @@
       "name": "videoconsultation"
     },
     "button-text": "Scopri di più",
-    "button-link": "/teleconsulting/?discipline=physiotherapy"
+    "button-link": "/teleconsulting/?discipline=psychology"
   },
   "feedaty": {
     "title": "Oltre 3000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "feedaty-score": 4.7,
     "feedaty-review-score": "Ottimo",
-    "feedaty-text": "Più di 300 recensioni",
+    "feedaty-text": "Più di 400 recensioni",
     "feedaty-feedback-list": [
       {
         "feedaty-feedback-author-sex": "Maschio",
-        "feedaty-feedback-author": "Maurizio",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+        "feedaty-feedback-author": "Marcello",
+        "feedaty-feedback-text": "Davvero un ottimo servizio! Avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Psicologo preparato e di grande empatia! Consigliatissimo!"
       },
       {
         "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Anna",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+        "feedaty-feedback-author": "Carolina",
+        "feedaty-feedback-text": "Sì, mi sono trovata bene, perché Epicura mi ha fornito un veloce e valido aiuto in un momento di improvvisa e grave difficoltà."
       },
       {
         "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Maria",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+        "feedaty-feedback-author": "Angela",
+        "feedaty-feedback-text": "Sono rimasta molto favorevolmente impressionata dalla disponibilità, professionalità e cordialità degli operatori al telefono. Il servizio reso è stato eccellente. I costi sono competitivi e il risultato è anche migliore di quello sperato."
       }
     ],
-   "feedaty-male-image": {
+    "feedaty-male-image": {
       "path": "common",
       "name": "male"
     },

@@ -5,7 +5,7 @@
   },
   "title-color": "#002E4D",
   "header": {
-    "title": "Infermiere",
+    "title": "Infermiere a domicilio",
     "subtitle": "A partire da 30€",
     "background-image": {
       "path": "nursing",
@@ -13,8 +13,8 @@
     }
   },
   "subheader": {
-    "title": "Perché è importante?",
-    "content": "Quando abbiamo un dolore o un indolenzimento in una parte del nostro corpo tendiamo a trascurarlo e a non curarcene troppo. Non dare importanza ai segnali che il nostro corpo ci invia, molte volte, porta alla cronicizzazione del problema rendendo faticoso e difficile uscirne. La fisioterapia permette di prevenire tutto ciò e di ritrovare l’armonia con il proprio corpo facendo riscoprire sensazioni di confort che molto probabilmente avevamo dimenticato.",
+    "title": "I benefici dell'infermiere a domicilio",
+    "content": "L’assistenza infermieristica domiciliare permette di gestire numerosi interventi, come medicazioni, iniezioni e cateterismi comodamente a casa, evitando scomodi spostamenti e ospedalizzazioni non necessarie.<br />Indicata in presenza di condizioni di salute croniche o in casi di persone allettate, gli interventi infermieristici a domicilio permettono una ripresa più rapida ed efficace grazie al contesto familiare e confortevole di casa propria.<br />Con EpiCura sei tu a decidere giorno e ora dell'intervento: i migliori professionisti della salute arrivano comodamente a casa tua, 7 giorni su 7, senza liste d’attesa.",
     "background-image": {
       "path": "nursing",
       "name": "nursing_subheader"
@@ -29,28 +29,37 @@
     "link": "/prenota/?d=nursing"
   },
   "problems": {
-    "title": "Problemi che puoi risolvere con l'infermiere",
+    "title": "Problemi che puoi risolvere con l’infermiere",
     "list": [
       {
-        "title": "Malattie neurologiche",
-        "content": "Sindrome del tunnel carpale, morbo di Parkinson, Alzheimer, sclerosi multipla e le altre patologie che colpiscono la capacità di equilibrio e di movimento"
+        "title": "Iniezioni",
+        "content": "Intervento per somministrazione sottocutanea o intramuscolare di farmaci."
       },
       {
-        "title": "Traumi post-operatori",
-        "content": "Stiramenti, distorsioni, contusioni, tendinopatie, lombalgia (mal di schiena), lombosciatalgia, cervicalgia, patologie dolorose della spalla e altri disturbi"
+        "title": "Clistere",
+        "content": "Pratica sicura di somministrazione di liquido nell'ampolla rettale."
       },
       {
-        "title": "Dismorfismi ortopedici e dolori muscolo-scheletrici",
-        "content": "ginocchia varo o valgo, piede piatto, scoliosi, ecc"
+        "title": "Gestione stomie",
+        "content": "Intervento di pulizia, cura e detersione delle stomie post chirurgia."
       },
       {
-        "title": "Disturbi reumatici",
-        "content": "artrosi, artrite reumatoide, fibromialgia ecc"
+        "title": "Cateterismi",
+        "content": "Intervento per l'inserimento di una cannula di gomma (o altro materiale) all'interno di una cavità corporea per favorirne il drenaggio, per introdurre medicamenti o a scopo diagnostico."
       },
       {
-        "title": "Edemi",
-        "content": "lipedemi (cellulite), linfedemi, flebedemi e in generale situazioni di accumulo di liquidi che causano problemi alla circolazione e al sistema linfatico"
+        "title": "Rimozione punti di sutura",
+        "content": "Intervento sicuro e indolore di rimozione dei punti di sutura in seguito ad intervento chirurgico."
+      },
+      {
+        "title": "Somministrazione terapie",
+        "content": "Intervento di somministrazione sottocutanea, intramuscolare o endovenosa di terapie farmacologiche prescritte dal medico curante."
+      },
+      {
+        "title": "Rilevazione parametri vitali",
+        "content": "Intervento di misurazione della pressione sanguigna, della frequenza cardiaca, della frequenza respiratoria e della frequenza respiratoria."
       }
+      
     ]
   },
   "bundles": [
@@ -82,7 +91,7 @@
     }
   ],
   "hint-card": {
-    "title": "Hai un dubbio? Chiedi al fisioterapista",
+    "title": "Hai un dubbio? Chiedi all'infermiere",
     "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "price": "Costo fisso 25€",
     "bkg-color": "#F5F8FF",
@@ -90,30 +99,30 @@
       "path": "videoconsultation",
       "name": "videoconsultation"
     },
-    "button-text": "Scopri di più",
-    "button-link": "/teleconsulting/?discipline=physiotherapy"
+    "button-text": "PRENOTA ORA",
+    "button-link": "/teleconsulting/?discipline=nursing"
   },
   "feedaty": {
     "title": "Oltre 3000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "feedaty-score": 4.7,
     "feedaty-review-score": "Ottimo",
-    "feedaty-text": "Più di 300 recensioni",
+    "feedaty-text": "Più di 400 recensioni",
     "feedaty-feedback-list": [
       {
         "feedaty-feedback-author-sex": "Maschio",
-        "feedaty-feedback-author": "Maurizio",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+        "feedaty-feedback-author": "Michele",
+        "feedaty-feedback-text": "Davvero un ottimo servizio! Avevo bisogno con una certa urgenza della somministrazione della mia consueta terapia e con Epicura ho risolto in fretta. Prenotato al mattino ed usufruito la sera stessa. Infermiere preparato e gentile, una mano santa! Prenotare è stato facilissimo."
       },
       {
         "feedaty-feedback-author-sex": "Femmina",
         "feedaty-feedback-author": "Anna",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+        "feedaty-feedback-text": "Servizio innovativo che ho scoperto grazie alla mia amica Angela. Tutto il personale è stato gentilissimo, mi sono sentita seguita in ogni aspetto. Ho prenotato un intervento di infermieristica e tre sedute di fisioterapia. Nessun problema da segnalare, bravi!"
       },
       {
         "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Maria",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+        "feedaty-feedback-author": "Marcella",
+        "feedaty-feedback-text": "Ho prenotato per mio papà che non poteva muoversi da casa. Una bella scoperta, servizio e personale molto gentile e preparato. Grazie, cinque stelle!"
       }
     ],
     "feedaty-male-image": {

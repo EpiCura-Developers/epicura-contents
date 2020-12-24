@@ -4,8 +4,8 @@
         "description": "Medici, infermieri, veterinari, badanti e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7."
     },
     "site-relation-search-header": {
-        "site-search-header-title": "Prenota online una visita, ovunque tu voglia, senza liste d'attesa",
-        "site-search-header-subtitle": "Medici, infermieri, assistenti domiciliari e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7.",
+        "site-search-header-title": "Vicini alla tua salute, senza liste d'attesa.",
+        "site-search-header-subtitle": "Prenota online medici, infermieri, terapisti e assistenti domiciliari,  a domicilio, in studio o in videoconsulto, 7 giorni su 7.",
         "site-search-header-img": {
             "path": "common",
             "name": "header_home"
@@ -169,7 +169,7 @@
                     }
                 ]
             },
-            {   
+            {
                 "section-title": "Cani e gatti",
                 "section-options": [
                     {
@@ -190,30 +190,25 @@
         {
             "site-discipline-section-title": "Per prendersi cura di anziani, malati e disabili*",
             "site-discipline-section-description": "Servizi pensati per le esigenze di persone autosufficienti e non autosufficienti con differenti bisogni di assistenza e cura. <br /> Affida la salute dei tuoi cari a personale qualificato con EpiCura.",
-            "site-discipline-placeholder-image": {},
+            "site-discipline-placeholder-image": {
+                "path": "common",
+                "name": "old-lady"
+            },
             "site-discipline-bkg-color": "#FFFCF8",
             "site-discipline-section-list": [
                 "assistente-domiciliare",
                 "infermiere",
                 "fisioterapista",
-                "videoconsulti",
-                "psicologo-videoconsulto",
-                "fisioterapista",
-                "osteopata"
             ],
             "site-discipline-notes": "*Il servizio di badanti è attivo in tutta Italia."
         },
         {
             "site-discipline-section-title": "Consulti specialistici da remoto",
             "site-discipline-section-description": "Parla con uno specialista dove e quando vuoi, evitando scomodi spostamenti. <br /> Collegati da pc, smartphone o tablet e prenditi cura della tua salute in tempo reale. <br /> Il nostro servizio è disponibile 7 giorni su 7 e strutturato a completa garanzia della tua privacy.",
-            "site-discipline-placeholder-image": {
-                "path": "common",
-                "name": "old-lady"
-            },
+            "site-discipline-placeholder-image": {},
             "site-discipline-bkg-color": "#FFF",
             "site-discipline-section-list": [
                 "videoconsulti",
-                "psicologo-videoconsulto",
                 "psicologo-videoconsulto"
             ],
             "site-discipline-notes": ""
@@ -221,10 +216,15 @@
         {
             "site-discipline-section-title": "Per prevenire e curare i dolori muscolo-scheletrici",
             "site-discipline-section-description": "Mal di schiena, cervicalgia, tensione muscolare: per dire addio al dolore (anche cronico) possono bastare poche sedute. <br /> Ritrova flessibilità nei movimenti, educando il tuo corpo a una corretta postura e sciogliendo le contratture.",
-            "site-discipline-placeholder-image": {},
+            "site-discipline-placeholder-image": {
+                "path": "common",
+                "name": "pilates-girl"
+            },
             "site-discipline-bkg-color": "#F5F8FF",
             "site-discipline-section-list": [
                 "fisioterapista"
+                "osteopata"
+                "massaggiatore-professionale"
             ],
             "site-discipline-notes": ""
         },
@@ -265,7 +265,7 @@
     "site-landing-cta-card-list": [
         {
             "site-cta-card-title": "I nostri professionisti",
-            "site-cta-card-description": "Lavoriamo solo con personale qualificato e certificato, capace di rispondere a precisi criteri di selezione. <br /> Il nostro obiettivo è garantirti un servizio con elevati standard di qualità. <br /><br /> Con EpiCura la tua salute è nelle mani dei migliori professionisti!.",
+            "site-cta-card-description": "Lavoriamo solo con personale qualificato e certificato, capace di rispondere a precisi criteri di selezione. <br /> Il nostro obiettivo è garantirti un servizio con elevati standard di qualità. <br /><br /> Con EpiCura la tua salute è nelle mani dei migliori professionisti!",
             "site-cta-card-btn-title": "Sei un professionista?",
             "site-cta-card-btn-text": "Lavora con noi",
             "site-cta-card-btn-action": "/professionisti-lavoro/",

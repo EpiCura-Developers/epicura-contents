@@ -5,7 +5,7 @@
   },
   "title-color": "#F96D81",
   "header": {
-    "title": "Fisioterapista",
+    "title": "Fisioterapista a domicilio",
     "subtitle": "A partire da 30€",
     "background-image": {
       "path": "physiotherapy",
@@ -13,8 +13,8 @@
     }
   },
   "subheader": {
-    "title": "Perché è importante?",
-    "content": "Quando abbiamo un dolore o un indolenzimento in una parte del nostro corpo tendiamo a trascurarlo e a non curarcene troppo. Non dare importanza ai segnali che il nostro corpo ci invia, molte volte, porta alla cronicizzazione del problema rendendo faticoso e difficile uscirne. La fisioterapia permette di prevenire tutto ciò e di ritrovare l’armonia con il proprio corpo facendo riscoprire sensazioni di confort che molto probabilmente avevamo dimenticato.",
+    "title": "I benefici della fisioterapia a domicilio",
+    "content": "La fisioterapia è un'antica disciplina medica, particolarmente utile nella cura del dolore muscolo-scheletrico e nella prevenzione di traumi e infortuni.<br />La manipolazione fisioterapica, infatti, ha importanti benefici sul corpo: agisce sul dolore, migliora la mobilità, previene e cura disfunzioni scheletriche e muscolari, patologie neurologiche e disturbi viscerali. La fisioterapia a domicilio, oltre a evitare scomodi spostamenti, permette una ripresa più rapida ed efficace grazie al contesto familiare e confortevole di casa propria.<br />Con EpiCura sei tu a decidere giorno e ora della tua seduta: i migliori professionisti della salute arrivano comodamente a casa tua, 7 giorni su 7, senza liste d’attesa.",
     "background-image": {
       "path": "physiotherapy",
       "name": "physiotherapist_subheader"
@@ -101,17 +101,17 @@
       {
         "feedaty-feedback-author-sex": "Maschio",
         "feedaty-feedback-author": "Maurizio",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male e avevo bisogno di un intervento tempestivo. <br /> Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!"
+        "feedaty-feedback-text": "Ottimo il servizio di fisioterapia! Avevo bisogno di un intervento tempestivo e così è stato. <br /> Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!"
       },
       {
         "feedaty-feedback-author-sex": "Femmina",
         "feedaty-feedback-author": "Anna",
-        "feedaty-feedback-text": "Le prenotazioni per gli interventi sono veloci e hanno coperto tutti i problemi e le esigenze fino ad ora incontrate. <br /> Il servizio infermieristico è ineccepibile: personale molto preparato e gentile."
+        "feedaty-feedback-text": "Le prenotazioni per gli interventi sono veloci e hanno coperto tutti i problemi e le esigenze fino ad ora incontrate. <br /> Il servizio di fisioterapia è ineccepibile: personale molto preparato e gentile."
       },
       {
         "feedaty-feedback-author-sex": "Femmina",
         "feedaty-feedback-author": "Federica",
-        "feedaty-feedback-text": "Vi siete presi cura di mio padre, in un momento molto difficile per lui. <br /> Vi ringrazio per la vostra professionalità, efficienza e disponibilità. Veramente un servizio ottimo, molto consigliato."
+        "feedaty-feedback-text": "Vi siete presi cura di mio padre, in un momento molto difficile per lui. <br /> Vi ringrazio per la vostra professionalità, efficienza e disponibilità."
       }
     ],
     "feedaty-male-image": {
