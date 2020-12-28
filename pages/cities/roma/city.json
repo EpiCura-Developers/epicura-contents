@@ -196,6 +196,19 @@
           "Terapie fisiche"
         ],
         "description": "Massaggi professionali a domicilio per il benessere di tutto il corpo e l'eliminazione di stress e ansie. Richiedi subito un professionista certificato."
+      },
+      "servizio-ricerca-badanti": {
+        "title": "Servizio ricerca badanti",
+        "textColor": "light",
+        "image": "ricerca-badanti",
+        "prestazioni": [
+          "Igiene personale, bagno assistito, vestizione",
+          "Assistenza a ore o continuativa",
+          "Sostituzione badante",
+          "Assistenza notturna",
+          "Assistenza in ospedale"
+        ],
+        "description": "Ti aiutiamo a trovare la badante ideale per le necessità della tua famiglia. Verrai seguito in tutti gli aspetti di selezione e burocratici per trovare una persona esperta che stia al fianco dei tuoi cari."
       }
     }
   },
@@ -217,12 +230,7 @@
       {
         "name": "Denise Albanese",
         "disciplina": "Veterinaria",
-        "prestazioni": [
-          "Visita generica",
-          "Sverminazione",
-          "Vaccini",
-          "Alimentazione animale"
-        ],
+        "prestazioni": ["Visita generica", "Sverminazione", "Vaccini", "Alimentazione animale"],
         "avatar": "denise-albanese"
       },
       {

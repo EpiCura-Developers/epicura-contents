@@ -124,7 +124,6 @@
         "title": "Servizio ricerca badanti",
         "textColor": "light",
         "image": "ricerca-badanti",
-        "price": "0€",
         "prestazioni": [
           "Igiene personale, bagno assistito, vestizione",
           "Assistenza a ore o continuativa",
@@ -231,12 +230,7 @@
       {
         "name": "Denise Albanese",
         "disciplina": "Veterinaria",
-        "prestazioni": [
-          "Visita generica",
-          "Sverminazione",
-          "Vaccini",
-          "Alimentazione animale"
-        ],
+        "prestazioni": ["Visita generica", "Sverminazione", "Vaccini", "Alimentazione animale"],
         "avatar": "denise-albanese"
       },
       {

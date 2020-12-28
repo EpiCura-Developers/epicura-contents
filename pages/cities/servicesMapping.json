@@ -42,5 +42,9 @@
   "nutrizione": {
     "fullName": "Nutrizione",
     "specialists": "Nutrizionisti a domicilio"
+  },
+  "servizio-ricerca-badanti": {
+    "fullName": "Servizio Ricerca Badanti",
+    "specialists": "Badanti"
   }
 }
