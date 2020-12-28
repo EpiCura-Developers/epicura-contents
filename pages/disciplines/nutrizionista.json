@@ -88,7 +88,7 @@
     "bkg-color": "#F5F8FF",
     "image": {
       "path": "videoconsultation",
-      "name": "videoconsultation"
+      "name": "videoconsultation-banner"
     },
     "button-text": "PRENOTA ORA",
     "button-link": "/teleconsulting/?discipline=nutrition"

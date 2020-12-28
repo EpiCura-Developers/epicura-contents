@@ -88,7 +88,7 @@
     "bkg-color": "#F5F8FF",
     "image": {
       "path": "videoconsultation",
-      "name": "videoconsultation"
+      "name": "videoconsultation-banner"
     },
     "button-text": "Scopri di più",
     "button-link": "/teleconsulting/?discipline=physiotherapy"
