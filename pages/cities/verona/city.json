@@ -120,6 +120,20 @@
         ],
         "description": "Assistenza domiciliare o in ospedale, diurna e notturna per anziani malati disabili, 7 giorni su 7, curata da personale con esperienza. Percorsi personalizzati per avere sempre qualcuno al proprio fianco."
       },
+      "servizio-ricerca-badanti": {
+        "title": "Servizio ricerca badanti",
+        "textColor": "light",
+        "image": "ricerca-badanti",
+        "price": "682€",
+        "prestazioni": [
+          "Igiene personale, bagno assistito, vestizione",
+          "Assistenza a ore o continuativa",
+          "Sostituzione badante",
+          "Assistenza notturna",
+          "Assistenza in ospedale"
+        ],
+        "description": "Ti aiutiamo a trovare la badante ideale per le necessità della tua famiglia. Verrai seguito in tutti gli aspetti di selezione e burocratici per trovare una persona esperta che stia al fianco dei tuoi cari."
+      },
       "fisioterapia": {
         "title": "Fisioterapia",
         "textColor": "dark",
@@ -181,12 +195,7 @@
       {
         "name": "Denise Albanese",
         "disciplina": "Veterinaria",
-        "prestazioni": [
-          "Visita generica",
-          "Sverminazione",
-          "Vaccini",
-          "Alimentazione animale"
-        ],
+        "prestazioni": ["Visita generica", "Sverminazione", "Vaccini", "Alimentazione animale"],
         "avatar": "denise-albanese"
       },
       {
