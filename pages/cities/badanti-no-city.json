@@ -40,7 +40,7 @@
       {
         "image": {
           "path": "caregiver",
-          "name": "badante-convivente"
+          "name": "badante-full-time"
         },
         "title": "Badante convivente giorno e notte",
         "text": "Presta assistenza costante trasferendosi in casa della persona assistita. L’assistenza è erogabile a partire da un minimo di 2 mesi. ",
@@ -49,7 +49,7 @@
       {
         "image": {
           "path": "caregiver",
-          "name": "badante-full-time"
+          "name": "badante-part-time"
         },
         "title": "Badante diurno",
         "text": "Presta assistenza part-time alla persona durante il giorno. ",
@@ -58,7 +58,7 @@
       {
         "image": {
           "path": "caregiver",
-          "name": "badante-part-time"
+          "name": "badante-convivente"
         },
         "title": "Badante notturno",
         "text": "Presta assistenza a tempo pieno alla persona durante la notte.",
