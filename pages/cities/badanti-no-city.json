@@ -40,29 +40,29 @@
       {
         "image": {
           "path": "caregiver",
-          "name": "badante-part-time"
+          "name": "badante-full-time"
         },
-        "title": "Badante part-time",
-        "text": "Assiste la persona per un numero limitato di ore settimanali. Serve nei casi in cui la famiglia necessita di assistenza solamente in alcune fasce orarie.",
-        "price": ""
+        "title": "Badante convivente giorno e notte",
+        "text": "Presta assistenza costante trasferendosi in casa della persona assistita. L’assistenza è erogabile a partire da un minimo di 2 mesi. ",
+        "price": "1030€"
       },
       {
         "image": {
           "path": "caregiver",
-          "name": "badante-full-time"
+          "name": "badante-part-time"
         },
-        "title": "Badante full-time non convivente",
-        "text": "Presta assistenza a tempo pieno alla persona durante il giorno, ma non si ferma durante la notte.",
-        "price": ""
+        "title": "Badante diurno",
+        "text": "Presta assistenza part-time alla persona durante il giorno. ",
+        "price": "682€"
       },
       {
         "image": {
           "path": "caregiver",
           "name": "badante-convivente"
         },
-        "title": "Badante convivente",
-        "text": "Si occupa di assistenza costante. Si trasferisce a casa della persona assistita per garantire presenza e cure a tempo pieno. L'assistenza è erogabile a partire da un minimo di 2 mesi.",
-        "price": ""
+        "title": "Badante notturno",
+        "text": "Presta assistenza a tempo pieno alla persona durante la notte.",
+        "price": "1122€"
       }
     ]
   },
