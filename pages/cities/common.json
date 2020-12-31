@@ -36,14 +36,14 @@
     "belowCopyright": "Made with love in Turin ❤️",
     "sections": [
       {
-        "title": "Epicura",
+        "title": "EpiCura",
         "links": [
           {
             "title": "Chi siamo",
             "url": "/chi-siamo/"
           },
           {
-            "title": "Lavora con noi",
+            "title": "Sei un professionista?",
             "url": "/professionisti-lavoro/"
           },
           {
@@ -53,10 +53,10 @@
         ]
       },
       {
-        "title": "Rimani aggiornato",
+        "title": "Scopri di più",
         "links": [
           {
-            "title": "Recensioni",
+            "title": "Tutte le recensioni",
             "url": "https://www.feedaty.com/feedaty/reviews/epicuramed"
           },
           {
@@ -77,12 +77,12 @@
         "title": "Aspetti legali",
         "links": [
           {
-            "title": "Termini e condizioni",
-            "url": "/termini-e-condizioni/"
-          },
-          {
             "title": "Privacy policy",
             "url": "/privacy-policy/"
+          },
+          {
+            "title": "Termini e condizioni",
+            "url": "/termini-e-condizioni/"
           },
           {
             "title": "Cookie policy",
