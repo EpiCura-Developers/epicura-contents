@@ -20,7 +20,8 @@
             "option-link": "/italia/badante/",
             "option-label": "Badanti",
             "option-style-object-like": "",
-            "option-is-new": false
+            "option-is-new": false,
+            "option-is-amp": true
           },
           {
             "option-link": "/assistente-domiciliare/",
