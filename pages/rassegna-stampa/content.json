@@ -1,7 +1,7 @@
 {
   "metaDescription": {
-    "title": "Assistente domiciliare a Firenze",
-    "description": "Assistenti domiciliari con assicurazione a Firenze e area metropolitana. Assistenze diurne e notturne, assistenza in ospedale o a casa, 7 giorni su 7, nessuna lista d'attesa"
+    "title": "Rassegna stampa",
+    "description": "Rassegna stampa EpiCura"
   },
   "site-press-bkg": { "path": "common", "name": "press-bkg" },
   "site-press-contact-us-img": { "path": "common", "name": "press-manitto" },
