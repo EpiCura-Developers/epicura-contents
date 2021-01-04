@@ -10,12 +10,12 @@
   "site-press-contact-us-mail": "gianluca.manitto@epicuramed.it",
   "site-press-content-carousel-articles": [
     {
-      "img": "",
+      "img": { "path": "common", "name": "lastampa" },
       "description": "«Epicura ha guadagnato in poche settimane la fiducia di 183 investitori interessati alla crescita del poliambulatorio digitale su scala nazionale»",
       "link": "https://www.lastampa.it/tecnologia/news/2020/03/24/news/emergenza-coronavirus-epicura-potenzia-il-servizio-di-tele-e-video-consulto-1.38632546"
     },
     {
-      "img": "",
+      "img": { "path": "common", "name": "ilsole24ore" },
       "description": "«Epicura ha guadagnato in poche settimane la fiducia di 183 investitori interessati alla crescita del poliambulatorio digitale su scala nazionale»",
       "link": "https://www.lastampa.it/tecnologia/news/2020/03/24/news/emergenza-coronavirus-epicura-potenzia-il-servizio-di-tele-e-video-consulto-1.38632546"
     }
