@@ -6,7 +6,7 @@
   "prezzi_title": "I prezzi di Psicoterapia a Torino",
   "come_funziona": {
     "title": "Come funziona",
-    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 700 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Torino e zone di periferia grazie a 3 semplici passaggi:",
+    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Torino e zone di periferia grazie a 3 semplici passaggi:",
     "cards": [
       {
         "image": {
@@ -93,33 +93,25 @@
       {
         "name": "Alessandro Longo",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia cognitiva ad orientamento costruttivista ed evolutivo"
-        ],
+        "prestazioni": ["Psicoterapia cognitiva ad orientamento costruttivista ed evolutivo"],
         "avatar": "alessandro-longo"
       },
       {
         "name": "Giovanni Stornaiuolo",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia psicoanalitico, individuale e di gruppo"
-        ],
+        "prestazioni": ["Psicoterapia psicoanalitico, individuale e di gruppo"],
         "avatar": "giovanni-stornaiuolo"
       },
       {
         "name": "Francesca Monoli",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia psicodinamica adleriana"
-        ],
+        "prestazioni": ["Psicoterapia psicodinamica adleriana"],
         "avatar": "francesca-monoli"
       },
       {
         "name": "Chiara Bergese",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia psicoanalitica"
-        ],
+        "prestazioni": ["Psicoterapia psicoanalitica"],
         "avatar": "chiara-bergese"
       }
     ]
