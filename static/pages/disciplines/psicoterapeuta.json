@@ -17,7 +17,7 @@
     "content": "La salute di mente e corpo va di pari passo: sono numerosi, infatti, i disturbi fisici che nascono da disagi psicologici derivanti ad esempio da ansia, stress o stati depressivi.<br />Se stai affrontando un momento complicato nella tua vita e senti le emozioni sopraffare i tuoi pensieri, la terapia psicoterapeutica può guidarti verso un maggiore stato di benessere, facendoti guadagnare fiducia, consapevolezza e soprattutto serenità.<br />Gli psicologi e gli psicoterapeuti EpiCura sono disponibili 7 giorni su 7 in studio, a domicilio (in casi di impossibilità negli spostamenti).",
     "background-image": {
       "path": "psychotherapy",
-      "name": "psychoteraphy_subheader"
+      "name": "psychotherapy_subheader"
     }
   },
   "cta1": {
@@ -32,55 +32,43 @@
     "title": "Problemi che puoi risolvere con lo psicoterapeuta",
     "list": [
       {
-        "title": "Ascolto e sostegno psicoterapeutico",
-        "content": "Percorso psicoterapeutico con professionisti esperti per rimuovere blocchi psicologici, ansie ed eccessivo stress. Riscopri l’equilibrio psichico grazie ad un sostegno personalizzato."
+        "title": "Ascolto e sostegno psicologico",
+        "content": "Percorso di sostegno tramite un rapporto di ascolto attivo con il terapeuta, che aiuta a risolvere situazioni di disagio legate a circostanze di abbandono, lutto, crescita, problemi lavorativi, ecc.."
       },
       {
         "title": "Psicoanalisi",
-        "content": "Percorsi di Psicoanalisi con professionisti esperti per trattare disturbi d'ansia, isteria, nervosismi eccessivi o ossessivi, fobie, distorsioni del carattere e anomalie sessuali."
+        "content": "Percorsi per il trattamento dei disturbi d'ansia, isteria, nervosismi eccessivi o ossessivi, fobie, distorsioni del carattere e anomalie sessuali."
       },
       {
         "title": "Psicoterapia sistemica-familiare",
-        "content": "Percorso di Psicoterapia basato sulle interazioni famigliari per migliorare il rapporto tra di essi. Rendi il rapporto familiare più sereno, tranquillo e appagante grazie all’aiuto di professionisti esperti."
+        "content": "Lo psicoterapeuta analizza i sintomi non come individuali, ma come manifestazione di problemi all’interno dei contesti di interazione, in primis la famiglia. Per questo è particolarmente adatta a terapie di coppia o terapie familiari, oltre che individuali."
       },
       {
         "title": "Psicoterapia psicodinamica",
-        "content": "Percorsi di Psicoterapia Psicodinamica con professionisti esperti per migliorare le condizioni psichiche del paziente e al tempo stesso sviluppare le proprie risorse personali."
+        "content": "Percorsi con esperti per migliorare le condizioni psichiche del paziente, attraverso l'esplorazione dei diversi aspetti del Sé, finalizzati allo sviluppo delle risorse personali."
       },
       {
         "title": "Psicoterapia cognitiva-costruttivista",
-        "content": "Percorso di Psicoterapia per portare alla consapevolezza del paziente le credenze, convinzioni e abitudini che lo limitano nella vita quotidiana. Rimuovi i blocchi emotivi e psicologici grazie all’aiuto di professionisti esperti."
+        "content": "Percorso per sviluppare consapevolezza su credenze, convinzioni e abitudini, e per rimuovere i blocchi emotivi e psicologici che limitano durante la vita quotidiana."
+      },
+      {
+        "title": "Videoconsulto psicoterapeutico",
+        "content": "Sedute online, efficaci quanto quelle in presenza, in totale sicurezza. Sono utili in particolare in situazioni di ritiro sociale, lontananza territoriale o inconciliabilità con gli orari di lavoro."
       }
     ]
   },
-  "bundles": [
-    {
-      "uri": "pacchetto-10",
-      "title": "Pacchetto 10",
-      "description": "Dedicati un momento per distendere le tensioni muscolari.",
-      "specification": "fisioterapia",
-      "image": {
-        "path": "common",
-        "name": "bundle-10"
-      },
-      "background-color": "gradient-rose",
-      "price": "600",
-      "discount": "570"
+  "hint-card": {
+    "title": "Hai un dubbio? Chiedi allo psicuterapeuta",
+    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "price": "Costo fisso 25€",
+    "bkg-color": "#F5F8FF",
+    "image": {
+      "path": "videoconsultation",
+      "name": "videoconsultation"
     },
-    {
-      "uri": "pacchetto-3",
-      "title": "Pacchetto 3",
-      "description": "Dedicati un momento per distendere le tensioni muscolari.",
-      "specification": "fisioterapia",
-      "image": {
-        "path": "common",
-        "name": "bundle-3"
-      },
-      "background-color": "gradient-green",
-      "price": "150",
-      "discount": ""
-    }
-  ],
+    "button-text": "Scopri di più",
+    "button-link": "/teleconsulting/?discipline=psychotherapy"
+  },
   "feedaty": {
     "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
     "subtitle": "Ecco alcune recensioni di chi si è affidato ai servizi EpiCura.",

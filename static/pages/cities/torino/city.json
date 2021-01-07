@@ -38,7 +38,7 @@
     "textColor": "dark",
     "professionistaText": "Sei un professionista?",
     "professionistaUrl": "/professionisti-lavoro/",
-    "titleBig": "La salute a Torino con Epicura",
+    "titleBig": "La salute a Torino con EpiCura",
     "subtitleBig": "Il primo poliambulatorio digitale in Italia",
     "description1": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
     "description2": "Scopri i servizi che offriamo o richiedi informazioni per capire come possiamo soddisfare le tue necessità.",
@@ -260,7 +260,7 @@
   "feedaty": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "title": "Oltre 3000 famiglie soddisfatte",
+    "title": "Oltre 4000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "average": "media recensioni",
     "vote": 4.7,
@@ -455,10 +455,6 @@
       {
         "location": "45.082075,7.664153",
         "name": "San Donato"
-      },
-      {
-        "location": "45.068549,7.625880",
-        "name": "Pozzo Strada"
       },
       {
         "location": "45.083056,7.688056",
@@ -661,10 +657,6 @@
         "name": "Pino Torinese"
       },
       {
-        "location": "45.101752,7.765272",
-        "name": "San Mauro"
-      },
-      {
         "location": "45.092173,7.524226",
         "name": "Alpignano"
       },
@@ -679,7 +671,7 @@
     ],
     "cardPhone": {
       "title": "Chiamaci",
-      "text": "Numero attivo 7 su 7, dalle 8.30 alle 19.30.",
+      "text": "Numero attivo 7 giorni su 7, dalle 8:30 alle 19:30.",
       "image": "phone-card"
     },
     "cardContact": {
