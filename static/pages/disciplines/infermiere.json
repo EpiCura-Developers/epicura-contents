@@ -1,0 +1,138 @@
+{
+  "metaDescription": {
+    "title": "EpiCura",
+    "description": "Siamo il primo poliambulatorio digitale in Italia."
+  },
+  "title-color": "#002E4D",
+  "header": {
+    "title": "Infermiere a domicilio",
+    "subtitle": "A partire da 30€",
+    "background-image": {
+      "path": "nursing",
+      "name": "nursing"
+    }
+  },
+  "subheader": {
+    "title": "I benefici dell'infermiere a domicilio",
+    "content": "L’assistenza infermieristica domiciliare permette di gestire numerosi interventi, come medicazioni, iniezioni e cateterismi comodamente a casa, evitando scomodi spostamenti e ospedalizzazioni non necessarie.<br />Indicata in presenza di condizioni di salute croniche o in casi di persone allettate, gli interventi infermieristici a domicilio permettono una ripresa più rapida ed efficace grazie al contesto familiare e confortevole di casa propria.<br />Con EpiCura sei tu a decidere giorno e ora dell'intervento: i migliori professionisti della salute arrivano comodamente a casa tua, 7 giorni su 7, senza liste d’attesa.",
+    "background-image": {
+      "path": "nursing",
+      "name": "nursing_subheader"
+    }
+  },
+  "cta1": {
+    "text": "Richiedi informazioni",
+    "link": "/contattaci/"
+  },
+  "cta2": {
+    "text": "Prenota ora",
+    "link": "/prenota/?d=nursing"
+  },
+  "problems": {
+    "title": "Problemi che puoi risolvere con l’infermiere",
+    "list": [
+      {
+        "title": "Iniezioni",
+        "content": "Intervento per somministrazione sottocutanea o intramuscolare di farmaci."
+      },
+      {
+        "title": "Clistere",
+        "content": "Pratica sicura di somministrazione di liquido nell'ampolla rettale."
+      },
+      {
+        "title": "Gestione stomie",
+        "content": "Intervento di pulizia, cura e detersione delle stomie post chirurgia."
+      },
+      {
+        "title": "Cateterismi",
+        "content": "Intervento per l'inserimento di una cannula di gomma (o altro materiale) all'interno di una cavità corporea per favorirne il drenaggio, per introdurre medicamenti o a scopo diagnostico."
+      },
+      {
+        "title": "Rimozione punti di sutura",
+        "content": "Intervento sicuro e indolore di rimozione dei punti di sutura in seguito ad intervento chirurgico."
+      },
+      {
+        "title": "Somministrazione terapie",
+        "content": "Intervento di somministrazione sottocutanea, intramuscolare o endovenosa di terapie farmacologiche prescritte dal medico curante."
+      },
+      {
+        "title": "Rilevazione parametri vitali",
+        "content": "Intervento di misurazione della pressione sanguigna, della frequenza cardiaca, della frequenza respiratoria e della frequenza respiratoria."
+      }
+      
+    ]
+  },
+  "bundles": [
+    {
+      "uri": "pacchetto-10",
+      "title": "Pacchetto 10",
+      "description": "Dedicati un momento per distendere le tensioni muscolari.",
+      "specification": "fisioterapia",
+      "image": {
+        "path": "common",
+        "name": "bundle-10"
+      },
+      "background-color": "gradient-rose",
+      "price": "600",
+      "discount": "570"
+    },
+    {
+      "uri": "pacchetto-3",
+      "title": "Pacchetto 3",
+      "description": "Dedicati un momento per distendere le tensioni muscolari.",
+      "specification": "fisioterapia",
+      "image": {
+        "path": "common",
+        "name": "bundle-3"
+      },
+      "background-color": "gradient-green",
+      "price": "150",
+      "discount": ""
+    }
+  ],
+  "hint-card": {
+    "title": "Hai un dubbio? Chiedi all'infermiere",
+    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "price": "Costo fisso 25€",
+    "bkg-color": "#F5F8FF",
+    "image": {
+      "path": "videoconsultation",
+      "name": "videoconsultation-banner"
+    },
+    "button-text": "PRENOTA ORA",
+    "button-link": "/teleconsulting/?discipline=nursing"
+  },
+  "feedaty": {
+    "title": "Oltre 3000 famiglie soddisfatte",
+    "subtitle": "Le recensioni di chi ci ha scelto",
+    "feedaty-score": 4.7,
+    "feedaty-review-score": "Ottimo",
+    "feedaty-text": "Più di 400 recensioni",
+    "feedaty-feedback-list": [
+      {
+        "feedaty-feedback-author-sex": "Maschio",
+        "feedaty-feedback-author": "Michele",
+        "feedaty-feedback-text": "Davvero un ottimo servizio! Avevo bisogno con una certa urgenza della somministrazione della mia consueta terapia e con Epicura ho risolto in fretta. Prenotato al mattino ed usufruito la sera stessa. Infermiere preparato e gentile, una mano santa! Prenotare è stato facilissimo."
+      },
+      {
+        "feedaty-feedback-author-sex": "Femmina",
+        "feedaty-feedback-author": "Anna",
+        "feedaty-feedback-text": "Servizio innovativo che ho scoperto grazie alla mia amica Angela. Tutto il personale è stato gentilissimo, mi sono sentita seguita in ogni aspetto. Ho prenotato un intervento di infermieristica e tre sedute di fisioterapia. Nessun problema da segnalare, bravi!"
+      },
+      {
+        "feedaty-feedback-author-sex": "Femmina",
+        "feedaty-feedback-author": "Marcella",
+        "feedaty-feedback-text": "Ho prenotato per mio papà che non poteva muoversi da casa. Una bella scoperta, servizio e personale molto gentile e preparato. Grazie, cinque stelle!"
+      }
+    ],
+    "feedaty-male-image": {
+      "path": "common",
+      "name": "male"
+    },
+    "feedaty-female-image": {
+      "path": "common",
+      "name": "female"
+    }
+  },
+  "active-cities-title": "In quali province è attivo il servizio"
+}

@@ -1,0 +1,52 @@
+{
+  "disciplines": [
+    {
+      "reservationUrl": "/teleconsulting/?discipline=physiotherapy",
+      "discipline": "fisioterapia",
+      "specialist": "fisioterapista",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=osteopathy",
+      "discipline": "osteopatia",
+      "specialist": "osteopata",
+      "company": "epicura"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=veterinary",
+      "discipline": "veterinaria",
+      "specialist": "veterinario",
+      "company": "epicura"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=pediatrics",
+      "discipline": "pediatria",
+      "specialist": "pediatra",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=generalMedicine",
+      "discipline": "medicina-generale",
+      "specialist": "medico-di-base",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=nursing",
+      "discipline": "infermieristica",
+      "specialist": "infermiere",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=psychology",
+      "discipline": "psicologia",
+      "specialist": "psicologo",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=nutrition",
+      "discipline": "nutrizione",
+      "specialist": "nutrizionista",
+      "company": "laginestra"
+    }
+  ]
+}

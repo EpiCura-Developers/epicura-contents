@@ -1,0 +1,352 @@
+{
+  "metaDescription": {
+    "title": "Fisioterapista a Napoli",
+    "description": "Fisioterapisti esperti a domicilio a Napoli e area metropolitana. Riabilitazione a domicilio, linfodrenaggio, sedute fisioterapiche a casa, 7 giorni su 7, senza liste d'attesa."
+  },
+  "prezzi_title": "I prezzi di Fisioterapia a Napoli",
+  "come_funziona": {
+    "title": "Come funziona",
+    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno rende la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Napoli e area metropolitana grazie a 3 semplici passaggi:",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
+        "title": "Scegli la soluzione",
+        "text": "EpiCura offre un’ampia scelta di servizi per permettere al paziente di trovare esattamente ciò di cui ha bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
+        "title": "Prenota la seduta",
+        "text": "Contattaci telefonicamente o prenota direttamente online, troveremo il miglior specialista che ti guiderà nel percorso terapeutico. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "migliora-salute"
+        },
+        "title": "Migliora la tua salute",
+        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo corpo. Potrai contattarci per qualunque esigenza."
+      }
+    ]
+  },
+  "come_funzionaFbAdw": {
+    "title": "Come funziona",
+    "text": "EpiCura, con oltre 800 professionisti, è il primo poliambulatorio digitale in Italia. Abbiamo creato un sistema rapido per <b>evitare disorganizzazione, disagi e attese</b> ai nostri pazienti. Ecco come funziona:",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
+        "title": "Scegli la soluzione",
+        "text": "Trova il servizio adatto alle tue necessità oppure spiegaci la tua situazione. Ascolteremo i tuoi bisogni e ti aiuteremo a scegliere la migliore soluzione per te."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
+        "title": "Prenota la seduta",
+        "text": "Chiamaci o prenota direttamente online. Troveremo il miglior specialista per te e potrai ricevere il servizio entro 24 ore, senza alcuna lista d’attesa e con la massima comodità."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "migliora-salute"
+        },
+        "title": "Migliora la tua salute",
+        "text": "Preparati a ricevere a casa tua il nostro specialista, ti affiancherà nel tuo percorso di cura. Per qualsiasi dubbio o necessità, potrai chiamarci in ogni momento."
+      }
+    ]
+  },
+  "subheader": {
+    "prenotaOnlineText": "Prenota online",
+    "textColor": "dark",
+    "professionistaText": "Sei un professionista?",
+    "professionistaUrl": "/professionisti-lavoro/",
+    "titleBig": "Fisioterapisti a domicilio a Napoli",
+    "subtitleBig": "Per chi ha a cuore la salute del proprio corpo",
+    "description1": "Migliora la tua salute 7 giorni su 7, senza alcuna lista d’attesa.",
+    "description2": "EpiCura porta sedute fisioterapiche a domicilio ovunque ce ne sia bisogno, in tutta Napoli e area metropolitana, in qualunque giorno e orario tu voglia.",
+    "askInfoButtonText": "Richiedi informazioni"
+  },
+  "subheaderFbAdw": {
+    "prenotaOnlineText": "Prenota online",
+    "textColor": "dark",
+    "professionistaText": "",
+    "professionistaUrl": "/professionisti-lavoro/",
+    "titleBig": "Fisioterapia a domicilio a Napoli",
+    "subtitleBig": "Ci prendiamo cura di te",
+    "description1": "Senza liste d'attesa, 7 giorni su 7.",
+    "description2": "Con EpiCura puoi prenotare sedute di fisioterapia a domicilio ovunque tu sia, in tutta Napoli e area metropolitana, in qualunque giorno e orario tu voglia.",
+    "askInfoButtonText": "Richiedi informazioni"
+  },
+  "nostri_professionisti": {
+    "title": "I nostri professionisti",
+    "text": "",
+    "professionisti": [
+      {
+        "name": "Nicolò Giordano",
+        "disciplina": "Fisioterapista",
+        "prestazioni": [],
+        "avatar": "nicolo-giordano"
+      },
+      {
+        "name": "Marianna Olivero",
+        "disciplina": "Fisioterapista",
+        "prestazioni": [],
+        "avatar": "marianna-olivero"
+      },
+      {
+        "name": "Camilla Calosso",
+        "disciplina": "Fisioterapista",
+        "prestazioni": [],
+        "avatar": "camilla-calosso"
+      },
+      {
+        "name": "Eugenio Rossi",
+        "disciplina": "Fisioterapista",
+        "prestazioni": [],
+        "avatar": "eugenio-rossi"
+      }
+    ]
+  },
+  "feedaty": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "title": "Oltre 3000 famiglie soddisfatte",
+    "subtitle": "Le recensioni di chi ci ha scelto",
+    "average": "media recensioni",
+    "vote": 4.7,
+    "voteLiteral": "Ottimo",
+    "howManyReviews": "Più di 400 recensioni",
+    "logo": "feedaty",
+    "allReviewsText": "Tutte le recensioni",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "male"
+        },
+        "title": "Giulio",
+        "text": "È stata un'esperienza molto positiva. Ringrazio per la professionalità sia di EpiCura che della fisioterapista. La mia mamma di 83 anni è stata coccolata ma seguita con molta professionalità Grazie!"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "female"
+        },
+        "title": "Giorgia",
+        "text": "La risposta è stata immediata, con spiegazioni chiare. Buona la gestione del pagamento e fattura. Servizio professionale ed eccellente."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "female"
+        },
+        "title": "Federica",
+        "text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+      }
+    ]
+  },
+  "prenotazione": {
+    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
+    "subtitle": "Inizia subito il tuo percorso di fisioterapia con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
+    "ctaCall": "Vuoi prenotare telefonicamente?"
+  },
+  "faqs": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "title": "Domande frequenti",
+    "list": [
+      {
+        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
+        "answer": "Sì, tutte le prestazioni sanitarie sono detraibili dalla dichiarazione dei redditi. Per farlo basterà utilizzare la fattura che riceverai da EpiCura dopo il pagamento delle prestazioni."
+      },
+      {
+        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
+        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
+      },
+      {
+        "question": "Avete un centro o uno studio dove avvengono le prestazioni?",
+        "answer": "Non abbiamo un nostro centro sul territorio, ma ci appoggiamo agli studi privati dei professionisti che collaborano con noi."
+      },
+      {
+        "question": "Cosa succede se non mi trovo bene con il professionista?",
+        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra professionista e paziente, per questo motivo se non ti trovi bene basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
+      }
+    ]
+  },
+  "latest_articles": {
+    "title": "Ultimi articoli su di noi",
+    "titleFbAdw": "Parlano di noi",
+    "allArticlesLink": "/rassegna-stampa/",
+    "allArticlesText": "Tutti gli articoli",
+    "readArticleText": "Leggi articolo",
+    "articles": [
+      {
+        "image": {
+          "path": "common",
+          "name": "ilsole24ore"
+        },
+        "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
+        "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "forbes"
+        },
+        "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
+        "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "corrieredellasera"
+        },
+        "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
+        "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "lastampa"
+        },
+        "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
+        "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
+      }
+    ]
+  },
+  "servizi_piu_richiesti": {
+    "title": "I servizi più richiesti",
+    "list": [
+      "Riabilitazione motoria a Napoli",
+      "Linfodrenaggio a Napoli",
+      "Fisioterapia a Napoli",
+      "Ginnastica posturale a Napoli",
+      "Riabilitazione respisratoria a Napoli",
+      "Riabilitazione geriatrica a Napoli",
+      "Fisioterapia sportiva a Napoli",
+      "Riabilitazione post intervento a Napoli",
+      "Riabilitazione post traumatica a Napoli",
+      "Massoterapia a Napoli"
+    ]
+  },
+  "descrizione_servizio": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "htmlText": "<h2>La fisioterapia a casa tua</h2><p>Le attese in sala di aspetto, gli appuntamenti fissati a giorni di distanza e la poca flessibilità di orari sono all’ordine del giorno quando si decide di prenotare una seduta fisioterapica.</p> <p>Ci siamo impegnati a rivoluzionare questa scomoda realtà con cui la maggior parte delle persone che intraprende percorsi di fisioterapia si deve confrontare.</p> <p>EpiCura offre servizi a domicilio in tutta Napoli e area metropolitana, senza liste di attesa per rendere la fisioterapia un’esperienza gradevole e soprattutto rigenerante. </p>I nostri professionisti certificati e coperti da assicurazione strutturano percorsi personalizzati per le tue specifiche esigenze. Porteranno con loro tutto quello di cui hanno bisogno per farti beneficiare a pieno del tuo percorso fisioterapico direttamente nel comfort di casa tua. <p>La fisioterapia è in grado di risolvere, problematiche ormai molto comuni come: <ul><li>Malattie neurologiche: sindrome del tunnel carpale, morbo di Parkinson, Alzheimer, sclerosi multipla e le altre patologie che colpiscono la capacità di equilibrio e di movimento;</li><li>Traumi post-operatori: stiramenti, distorsioni, contusioni, tendinopatie, lombalgia (mal di schiena), lombosciatalgia, cervicalgia, patologie dolorose della spalla e altri disturbi;</li><li>Dismorfismi ortopedici e dolori muscolo-scheletrici: ginocchia varo o valgo, piede piatto, scoliosi, ecc;</li><li>Disturbi reumatici: artrosi, artrite reumatoide, fibromialgia ecc;</li><li>Edemi: lipedemi (cellulite), linfedemi, flebedemi e in generale situazioni di accumulo di liquidi che causano problemi alla circolazione e al sistema linfatico.</li></ul></p>",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "comodita-casa"
+        },
+        "title": " La comodità di casa",
+        "text": "I nostri specialisti ti raggiungono a casa o in ufficio, ovunque tu voglia, con tutto il necessario per eseguire la prestazione. <p> Pensiamo a tutto noi. Potrai rimettere il tuo corpo in salute senza doverti spostare da casa tua. </p>"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "percorsi-personalizzati"
+        },
+        "title": "Percorsi personalizzati",
+        "text": "Ogni persona ha le sue esigenze. Per questo offriamo percorsi creati su misura. I nostri professionisti ti affiancheranno nel tuo percorso, offrendoti i trattamenti giusti, dove vuoi tu e quando vuoi tu."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "interventi-tempestivi"
+        },
+        "title": "Interventi tempestivi",
+        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria seduta. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali. Vuoi risolvere il tuo problema? Chiamaci subito allo 081 181 87652."
+      }
+    ]
+  },
+  "descrizione_servizioFbAdw": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "htmlText": "<h2>La fisioterapia a casa tua</h2><p>I nostri professionisti <b>certificati e coperti da assicurazione</b> sono in grado di strutturare <b>percorsi personalizzati</b> studiati per le tue esigenze.</p><p>Porteranno con loro tutto il necessario per farti beneficiare a pieno del tuo percorso fisioterapico direttamente <b>nel comfort di casa tua</b>.</p><p>La fisioterapia è in grado di risolvere, problematiche ormai molto comuni come: <ul><li>Malattie neurologiche (Parkinson, Sclerosi)</li><li>Traumi post-operatori (stiramenti, contusioni, lombalgia, sciatalgia)</li><li>Dismorfismi ortopedici e dolori muscolo-scheletrici (piede piatto, scoliosi, ginocchio valgo)</li><li>Disturbi reumatici (artrosi, fibromialgia, artrite)</li><li>Edemi (cellulite, linfedemi)</li></ul></p>",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "comodita-casa"
+        },
+        "title": " La comodità di casa",
+        "text": "Pensiamo a tutto noi. I nostri specialisti ti raggiungono a casa o in ufficio, ovunque tu voglia, con tutto il necessario per eseguire la prestazione."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "percorsi-personalizzati"
+        },
+        "title": "Percorsi personalizzati",
+        "text": "I nostri professionisti ti accompagneranno in un percorso creato su misura per te. Ti offriranno i trattamenti corretti sulla base delle tue esigenze, dove vuoi tu e quando vuoi tu."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "interventi-tempestivi"
+        },
+        "title": "Interventi tempestivi",
+        "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, entro 24 ore, anche in orari serali."
+      }
+    ]
+  },
+  "trattamenti": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "sectionTitle": "",
+    "showAllText": "Mostra tutti",
+    "hideAllText": "Mostra meno",
+    "title": "Percorsi di fisioterapia e riabilitazione a Napoli",
+    "textColor": "dark",
+    "description": "La prima visita comprende la valutazione funzionale",
+    "tags": [],
+    "list": [
+      {
+        "title": "Linfodrenaggio manuale",
+        "description": "Sedute di linfodrenaggio con metodo Vodder e metodo Leduc per drenare i liquidi in eccesso (come nel caso di cellulite o disturbi come edemi) accumulati nei tessuti del corpo. Migliora la circolazione e il tuo sistema immunitario senza alcun dolore provocato dalla terapia."
+      },
+      {
+        "title": "Riabilitazione geriatrica",
+        "description": "Sedute di fisioterapia riabilitativa erogate da professionisti che diagnosticano e curano l’anziano seguendolo a pieno nella guarigione. Un percorso di riabilitazione assistita a 360 gradi per riscoprire la salute."
+      },
+      {
+        "title": "Riabilitazione neurologica",
+        "description": "Percorso di fisioterapia riabilitativa a seguito di un danno neurologico provocato da malattie come il morbo di Parkinson. Sedute per il riacquisto di forza muscolare, equilibrio, comprensione cognitiva e controllo del dolore."
+      },
+      {
+        "title": "Riabilitazione ortopedica",
+        "description": "Sedute riabilitative ortopediche erogate da esperti, per permettere al paziente di ripristinare le proprie capacità e funzioni motorie perse o limitate da malattie o traumi."
+      },
+      {
+        "title": "Riabilitazione respiratoria",
+        "description": "Percorso riabilitativo per contrastare le patologie dell’apparato respiratorio. Migliora la resistenza e qualità fisica potenziando le capacità respiratorie e recuperando serenità nel quotidiano."
+      },
+      {
+        "title": "Ginnastica posturale",
+        "description": "Sedute di ginnastica posturale per riallineare il proprio corpo. Alleggerisci il carico sulla spina dorsale, diminuisci i dolori articolari e allenta le tensioni grazie ad esercizi mirati al riassetto della postura."
+      },
+      {
+        "title": "Riabilitazione post operatoria",
+        "description": "Sedute di fisioterapia per ripristinare la normale flessibilità e mobilità a seguito di un’operazione chirurgica o di un forte trauma. Percorso personalizzato strutturato su misura al caso specifico per la massima efficacia."
+      },
+      {
+        "title": "Terapie manuali",
+        "description": "Sedute di terapia manuale con valutazione dell’apparato locomotore e trattamenti mirati alla sua mobilizzazione. Percorsi di esercizi terapeutici funzionali a rendere più fluido il movimento."
+      },
+      {
+        "title": "Chinesiterapia",
+        "description": "Sedute di fisioterapia in cui il movimento del paziente viene utilizzato per trattare problematiche neuro-muscolo-scheletriche. Riacquista le normali funzionalità motorie grazie alla naturale azione del movimento, guidato da uno specialista."
+      }
+    ]
+  }
+}

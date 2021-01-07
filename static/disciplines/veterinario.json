@@ -1,0 +1,17 @@
+{
+    "discipline-specialist": "Veterinario",
+    "discipline-text-with-price": "A partire da 30€",
+    "discipline-image": {
+        "path": "veterinary",
+        "name": "veterinary"
+    },
+    "discipline-description": "Trattamenti e cure per i nostri amici a quattro zampe.",
+    "discipline-background-color": "#D8F0EF",
+    "discipline-link": "/veterinario/",
+    "discipline-specialities": [
+        "Punture e morsi",
+        "Bagno assistito",
+        "Vestizione",
+        "Assistenza notturna"
+    ]
+}

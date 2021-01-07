@@ -1,0 +1,129 @@
+{
+  "metaDescription": {
+    "title": "EpiCura",
+    "description": "Siamo il primo poliambulatorio digitale in Italia."
+  },
+  "title-color": "#002E4D",
+  "header": {
+    "title": "Nutrizionista a domicilio",
+    "subtitle": "A partire da 30€",
+    "background-image": {
+      "path": "nutrition",
+      "name": "nutrition"
+    }
+  },
+  "subheader": {
+    "title": "I benefici del nutrizionista a domicilio",
+    "content": "Gli attuali ritmi di vita, spesso frenetici, fanno sì che la cura della nostra alimentazione passi in secondo piano.<br />Eppure, mangiare bene è fondamentale per mantenere un buono stato di salute e prevenire numerose patologie, anche croniche.<br />Il nutrizionista è la figura professionale che si occupa di educare a un'alimentazione più sana senza rinunciare al piacere della tavola, elaborando diete su misura per ogni esigenza e aiutando a ritrovare il proprio benessere.<br />I nutrizionisti EpiCura sono disponibili 7 giorni su 7 in studio, a domicilio (in casi di impossibilità negli spostamenti) o tramite video-sedute da svolgersi comodamente online su smartphone, tablet o pc. ",
+    "background-image": {
+      "path": "nutrition",
+      "name": "nutrition_subheader"
+    }
+  },
+  "cta1": {
+    "text": "Richiedi informazioni",
+    "link": "/contattaci/"
+  },
+  "cta2": {
+    "text": "Prenota ora",
+    "link": "/prenota/?d=nutrition"
+  },
+  "problems": {
+    "title": "Problemi che puoi risolvere con il nutrizionista",
+    "list": [
+      {
+        "title": "Valutazione apporto alimentare",
+        "content": "Visita nutrizionistica per il calcolo e la valutazione dell’apporto alimentare ideale per raggiungere lo stato di forma e di salute. Migliora la qualità della tua alimentazione grazie ai consigli dei nostri esperti nutrizionisti."
+      },
+      {
+        "title": "Monitoraggio dei valori nutrizionali",
+        "content": "Percorso nutrizionistico per il monitoraggio dei valori nutrizionali e per il controllo costante del cibo assunto."
+      },
+      {
+        "title": "Misurazione adipometrica",
+        "content": "Visita nutrizionistica per la misurazione della composizione corporea e l’analisi dello stato di forma."
+      },
+      {
+        "title": "Misurazione con plicometro",
+        "content": "Visita nutrizionistica per la misurazione della massa grassa con il plicometro: per niente invasivo e con ottima precisione."
+      },
+      {
+        "title": "Educazione alimentare",
+        "content": "Valutazione del corretto apporto energetico dei cibi a casa tua oppure in videoconsulto. Non comprende la strutturazione di una dieta, ma una consulenza su consigli e comportamenti corretti per migliorare il proprio stato di salute e la qualità della vita."
+      }
+    ]
+  },
+  "bundles": [
+    {
+      "uri": "pacchetto-10",
+      "title": "Pacchetto 10",
+      "description": "Dedicati un momento per distendere le tensioni muscolari.",
+      "specification": "fisioterapia",
+      "image": {
+        "path": "common",
+        "name": "bundle-10"
+      },
+      "background-color": "gradient-rose",
+      "price": "600",
+      "discount": "570"
+    },
+    {
+      "uri": "pacchetto-3",
+      "title": "Pacchetto 3",
+      "description": "Dedicati un momento per distendere le tensioni muscolari.",
+      "specification": "fisioterapia",
+      "image": {
+        "path": "common",
+        "name": "bundle-3"
+      },
+      "background-color": "gradient-green",
+      "price": "150",
+      "discount": ""
+    }
+  ],
+  "hint-card": {
+    "title": "Hai un dubbio? Chiedi al nutrizionista",
+    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "price": "Costo fisso 25€",
+    "bkg-color": "#F5F8FF",
+    "image": {
+      "path": "videoconsultation",
+      "name": "videoconsultation-banner"
+    },
+    "button-text": "PRENOTA ORA",
+    "button-link": "/teleconsulting/?discipline=nutrition"
+  },
+  "feedaty": {
+    "title": "Oltre 3000 famiglie soddisfatte",
+    "subtitle": "Le recensioni di chi ci ha scelto",
+    "feedaty-score": 4.7,
+    "feedaty-review-score": "Ottimo",
+    "feedaty-text": "Più di 400 recensioni",
+    "feedaty-feedback-list": [
+      {
+        "feedaty-feedback-author-sex": "Maschio",
+        "feedaty-feedback-author": "Michelangelo",
+        "feedaty-feedback-text": "Davvero un ottimo servizio! Prenotato al mattino ed usufruito la sera stessa. Nutrizionista preparato e molto disponibile a seguirmi anche su altri aspetti del mio stile di vita!"
+      },
+      {
+        "feedaty-feedback-author-sex": "Femmina",
+        "feedaty-feedback-author": "Chiara",
+        "feedaty-feedback-text": "Ho provato il videoconsulto, è stato molto interessante sperimentare questa nuova modalità. Ho provato molte diete, ma questa volta mi sento incoraggiata anche emotivamente!"
+      },
+      {
+        "feedaty-feedback-author-sex": "Femmina",
+        "feedaty-feedback-author": "Francesca",
+        "feedaty-feedback-text": "Inizialmente un po' diffidente, ma mi sono ricreduta in fretta. Epicura che bella scoperta, tutti molto gentili! Ho prenotato anche 3 sedute di osteopatia, vi farò sapere come andrà."
+      }
+    ],
+   "feedaty-male-image": {
+      "path": "common",
+      "name": "male"
+    },
+    "feedaty-female-image": {
+      "path": "common",
+      "name": "female"
+    }
+  },
+  "active-cities-title": "In quali province è attivo il servizio"
+}
