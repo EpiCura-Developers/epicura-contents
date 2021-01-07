@@ -304,16 +304,8 @@
     "hideAllText": "Mostra meno",
     "title": "Massaggi professionali a Verona",
     "textColor": "dark",
-    "description": "",
-    "tags": [
-      "Mal di schiena",
-      "Cefalee",
-      "Dolori articolari o muscolari",
-      "Problemi digestivi",
-      "Lombalgia",
-      "Sciatalgia",
-      "Nevralgie"
-    ],
+    "description": "La prima prestazione comprende la valutazione funzionale",
+    "tags": [],
     "list": [
       {
         "title": "Massaggio svedese (massaggio benessere classico)",
