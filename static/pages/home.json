@@ -5,7 +5,7 @@
   },
   "site-relation-search-header": {
     "site-search-header-title": "Vicini alla tua salute, senza liste d'attesa.",
-    "site-search-header-subtitle": "Prenota online medici, infermieri, terapisti e assistenti domiciliari,  a domicilio, in studio o in videoconsulto, 7 giorni su 7.",
+    "site-search-header-subtitle": "Prenota online medici, assistenti domiciliari, infermieri e terapisti,  a domicilio, in studio o in videoconsulto, 7 giorni su 7.",
     "site-search-header-img": {
       "path": "common",
       "name": "header_home"
@@ -142,7 +142,7 @@
         ]
       },
       {
-        "section-title": "Benessere psico-fisico",
+        "section-title": "Benessere psicofisico",
         "section-options": [
           {
             "option-link": "/nutrizionista/",
@@ -228,7 +228,7 @@
     },
     {
       "site-discipline-section-title": "Per il benessere di corpo e mente",
-      "site-discipline-section-description": "Il benessere mentale ha un importante impatto sul nostro corpo e viceversa. <br /> Ritrova il tuo equilibrio psico-fisico, dedicando del tempo alla tua salute fisica e mentale: i nostri professionisti ascolteranno le tue esigenze e ti guideranno verso uno stile di vita più felice, sereno e in salute.",
+      "site-discipline-section-description": "Il benessere mentale ha un importante impatto sul nostro corpo e viceversa. <br /> Ritrova il tuo equilibrio psicofisico, dedicando del tempo alla tua salute fisica e mentale: i nostri professionisti ascolteranno le tue esigenze e ti guideranno verso uno stile di vita più felice, sereno e in salute.",
       "site-discipline-placeholder-image": {},
       "site-discipline-bkg-color": "#FFF",
       "site-discipline-section-list": [

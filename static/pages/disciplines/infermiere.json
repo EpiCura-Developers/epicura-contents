@@ -14,7 +14,7 @@
   },
   "subheader": {
     "title": "I benefici dell'infermiere a domicilio",
-    "content": "L’assistenza infermieristica domiciliare permette di gestire numerosi interventi, come medicazioni, iniezioni e cateterismi comodamente a casa, evitando scomodi spostamenti e ospedalizzazioni non necessarie.<br />Indicata in presenza di condizioni di salute croniche o in casi di persone allettate, gli interventi infermieristici a domicilio permettono una ripresa più rapida ed efficace grazie al contesto familiare e confortevole di casa propria.<br />Con EpiCura sei tu a decidere giorno e ora dell'intervento: i migliori professionisti della salute arrivano comodamente a casa tua, 7 giorni su 7, senza liste d’attesa.",
+    "content": "L’assistenza infermieristica domiciliare permette di gestire numerosi interventi, come medicazioni, iniezioni e cateterismi comodamente a casa, evitando scomodi spostamenti e ospedalizzazioni non necessarie.<br />Indicati in presenza di condizioni di salute croniche o in casi di persone allettate, gli interventi infermieristici a domicilio permettono una ripresa più rapida ed efficace grazie al contesto familiare e confortevole di casa propria.<br />Con EpiCura sei tu a decidere giorno e ora dell'intervento: i migliori professionisti della salute arrivano comodamente a casa tua, 7 giorni su 7, senza liste d’attesa.",
     "background-image": {
       "path": "nursing",
       "name": "nursing_subheader"
@@ -57,9 +57,8 @@
       },
       {
         "title": "Rilevazione parametri vitali",
-        "content": "Intervento di misurazione della pressione sanguigna, della frequenza cardiaca, della frequenza respiratoria e della frequenza respiratoria."
+        "content": "Intervento di misurazione della pressione sanguigna, della frequenza cardiaca e della frequenza respiratoria."
       }
-      
     ]
   },
   "bundles": [
