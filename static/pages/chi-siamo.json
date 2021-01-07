@@ -15,17 +15,17 @@
     "content": "Abbiamo una rete nazionale che oggi conta 700 professionisti attivi, tra medici, personale sanitario e assistenti domiciliari in 10 delle principali città italiane. <span class='green'><strong>Il nostro servizio è attivo 7 giorni su 7, dalle 8 alle 21.</strong></span>",
     "cards": [
       {
-        "image": { "path": "common", "name": "scegli-soluzione-icon" },
+        "image": { "path": "common", "name": "scegli-soluzione" },
         "title": "Scegli la soluzione",
         "text": "Offriamo un’ampia scelta di servizi sanitari per rispondere esattamente a ciò di cui hai bisogno. Se hai un problema e non sai a chi rivolgerti, il nostro team di esperti ti aiuterà ad individuare la soluzione più adatta a te."
       },
       {
-        "image": { "path": "common", "name": "prenota-seduta-icon" },
+        "image": { "path": "common", "name": "prenota-seduta" },
         "title": "Prenota la seduta",
         "text": "Contattaci o prenota direttamente online. Noi troveremo per te il miglior professionista che faccia al caso tuo che ti guiderà durante l’intero percorso terapeutico. Riceverai il servizio direttamente a casa, senza liste d’attesa."
       },
       {
-        "image": { "path": "common", "name": "migliora-salute-icon" },
+        "image": { "path": "common", "name": "migliora-salute" },
         "title": "Migliora la tua salute",
         "text": "Rilassati e prenditi cura della tua salute o quella del tuo animale, a tutto il resto pensiamo noi. Ti affiancheremo durante tutto il percorso di cura, con un team di esperti disponibile 7 giorni su 7, anche in orario serale."
       }
