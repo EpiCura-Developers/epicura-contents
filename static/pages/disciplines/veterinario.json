@@ -106,8 +106,8 @@
         "name": "bundle-veterinary"
       },
       "background-color": "gradient-blue",
-      "price": "570",
-      "discount": "600"
+      "price": "600",
+      "discount": "570"
     }
   ],
   "hint-card": {
