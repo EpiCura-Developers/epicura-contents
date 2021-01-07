@@ -122,10 +122,7 @@
       {
         "name": "Anna De Micco",
         "disciplina": "Psicologa",
-        "prestazioni": [
-          "Supporto psicologico adulti",
-          "Video consulti e supporto a distanza"
-        ],
+        "prestazioni": ["Supporto psicologico adulti", "Video consulti e supporto a distanza"],
         "avatar": "anna-demicco"
       }
     ]
@@ -281,7 +278,7 @@
           "name": "interventi-tempestivi"
         },
         "title": "Assistenza costante",
-        "text": "Sentirsi sicuri e sereni è alla base del benessere psichico. Noi di EpiCura ci teniamo a far sentire il paziente seguito costantemente in tutte le sue esigenze. Vuoi parlare con un esperto? Chiamaci allo 051 0185233."
+        "text": "Sentirsi sicuri e sereni è alla base del benessere psichico. Noi di EpiCura ci teniamo a far sentire il paziente seguito costantemente in tutte le sue esigenze."
       }
     ]
   },

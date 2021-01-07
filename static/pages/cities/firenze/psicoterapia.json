@@ -93,33 +93,25 @@
       {
         "name": "Alessandro Longo",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia cognitiva ad orientamento costruttivista ed evolutivo"
-        ],
+        "prestazioni": ["Psicoterapia cognitiva ad orientamento costruttivista ed evolutivo"],
         "avatar": "alessandro-longo"
       },
       {
         "name": "Giovanni Stornaiuolo",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia psicoanalitico, individuale e di gruppo"
-        ],
+        "prestazioni": ["Psicoterapia psicoanalitico, individuale e di gruppo"],
         "avatar": "giovanni-stornaiuolo"
       },
       {
         "name": "Francesca Monoli",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia psicodinamica adleriana"
-        ],
+        "prestazioni": ["Psicoterapia psicodinamica adleriana"],
         "avatar": "francesca-monoli"
       },
       {
         "name": "Chiara Bergese",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia psicoanalitica"
-        ],
+        "prestazioni": ["Psicoterapia psicoanalitica"],
         "avatar": "chiara-bergese"
       }
     ]
@@ -268,7 +260,7 @@
           "name": "interventi-tempestivi"
         },
         "title": "Assistenza costante",
-        "text": "Sentirsi sicuri e sereni è alla base del benessere psichico. Noi di EpiCura ci teniamo a far sentire il paziente seguito costantemente in tutte le sue esigenze. Vuoi parlare con un esperto? Chiamaci allo 055 098 1667."
+        "text": "Sentirsi sicuri e sereni è alla base del benessere psichico. Noi di EpiCura ci teniamo a far sentire il paziente seguito costantemente in tutte le sue esigenze."
       }
     ]
   },
@@ -299,7 +291,7 @@
           "name": "interventi-tempestivi"
         },
         "title": "Assistenza costante",
-        "text": "Noi di EpiCura ci teniamo a far sentire il paziente seguito costantemente in tutte le sue esigenze. Vuoi parlare con un esperto? Chiamaci allo 055 098 1667."
+        "text": "Noi di EpiCura ci teniamo a far sentire il paziente seguito costantemente in tutte le sue esigenze."
       }
     ]
   },
