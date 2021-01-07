@@ -233,7 +233,7 @@
   "feedaty": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "title": "Oltre 3000 famiglie soddisfatte",
+    "title": "Oltre 4000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "average": "media recensioni",
     "vote": 4.7,
@@ -556,7 +556,7 @@
     ],
     "cardPhone": {
       "title": "Chiamaci",
-      "text": "Numero attivo 7 su 7, dalle 8.30 alle 19.30.",
+      "text": "Numero attivo 7 giorni su 7, dalle 8:30 alle 19:30.",
       "image": "phone-card"
     },
     "cardContact": {
