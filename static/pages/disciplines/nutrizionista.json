@@ -1,7 +1,7 @@
 {
   "metaDescription": {
-    "title": "EpiCura",
-    "description": "Siamo il primo poliambulatorio digitale in Italia."
+    "title": "EpiCura - Nutrizionista",
+    "description": "Nutrizionisti a domicilio. Valutazione nutrizionale, monitoraggio e pianificazione diete a casa, 7 giorni su 7, nessuna lista d'attesa."
   },
   "title-color": "#002E4D",
   "header": {
@@ -94,8 +94,8 @@
     "button-link": "/teleconsulting/?discipline=nutrition"
   },
   "feedaty": {
-    "title": "Oltre 3000 famiglie soddisfatte",
-    "subtitle": "Le recensioni di chi ci ha scelto",
+    "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
+    "subtitle": "Ecco alcune recensioni di chi si è affidato ai servizi EpiCura.",
     "feedaty-score": 4.7,
     "feedaty-review-score": "Ottimo",
     "feedaty-text": "Più di 400 recensioni",

@@ -1,7 +1,7 @@
 {
   "metaDescription": {
-    "title": "Assistente domiciliare a Firenze",
-    "description": "Assistenti domiciliari con assicurazione a Firenze e area metropolitana. Assistenze diurne e notturne, assistenza in ospedale o a casa, 7 giorni su 7, nessuna lista d'attesa"
+    "title": "Rassegna stampa",
+    "description": "Rassegna stampa EpiCura"
   },
   "site-press-bkg": { "path": "common", "name": "press-bkg" },
   "site-press-contact-us-img": { "path": "common", "name": "press-manitto" },
@@ -10,14 +10,19 @@
   "site-press-contact-us-mail": "gianluca.manitto@epicuramed.it",
   "site-press-content-carousel-articles": [
     {
-      "img": "",
-      "description": "«Epicura ha guadagnato in poche settimane la fiducia di 183 investitori interessati alla crescita del poliambulatorio digitale su scala nazionale»",
+      "img": { "path": "common", "name": "lastampa" },
+      "description": "«Emergenza coronavirus, Epicura potenzia il servizio di tele e video-consulto»",
       "link": "https://www.lastampa.it/tecnologia/news/2020/03/24/news/emergenza-coronavirus-epicura-potenzia-il-servizio-di-tele-e-video-consulto-1.38632546"
     },
     {
-      "img": "",
-      "description": "«Epicura ha guadagnato in poche settimane la fiducia di 183 investitori interessati alla crescita del poliambulatorio digitale su scala nazionale»",
-      "link": "https://www.lastampa.it/tecnologia/news/2020/03/24/news/emergenza-coronavirus-epicura-potenzia-il-servizio-di-tele-e-video-consulto-1.38632546"
+      "img": { "path": "common", "name": "adnkronos-logo" },
+      "description": "«Estate, 10 app sostenibili per sopravvivere ad agosto»",
+      "link": "https://www.adnkronos.com/sostenibilita/tendenze/2020/08/10/estate-app-sostenibili-per-sopravvivere-agosto_ewuWBFTmAXH4XXUhebFgKJ.html"
+    },
+    {
+      "img": { "path": "common", "name": "ilsole24ore" },
+      "description": "«Così due ragazzi hanno creato il primo poliambulatorio digitale d’Italia»",
+      "link": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
     }
   ]
 }

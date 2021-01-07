@@ -1,7 +1,7 @@
 {
   "metaDescription": {
-    "title": "EpiCura",
-    "description": "Siamo il primo poliambulatorio digitale in Italia."
+    "title": "EpiCura - Fisioterapista",
+    "description": "Fisioterapisti esperti a domicilio. Riabilitazione a domicilio, linfodrenaggio, sedute fisioterapiche a casa, 7 giorni su 7, senza liste d'attesa."
   },
   "title-color": "#F96D81",
   "header": {
@@ -94,6 +94,8 @@
     "button-link": "/teleconsulting/?discipline=physiotherapy"
   },
   "feedaty": {
+    "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
+    "subtitle": "Ecco alcune recensioni di chi si è affidato ai servizi EpiCura.",
     "feedaty-score": 4.7,
     "feedaty-review-score": "Ottimo",
     "feedaty-text": "Oltre 400 recensioni verificate",

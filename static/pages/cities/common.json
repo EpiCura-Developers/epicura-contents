@@ -134,7 +134,7 @@
     },
     "magazine": {
       "title": "Magazine",
-      "url": "https://www.epicuramed.it/blog/"
+      "url": "/blog/"
     },
     "privacy": {
       "title": "Privacy policy",
