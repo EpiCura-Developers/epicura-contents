@@ -84,12 +84,14 @@
     {
       "site-who-we-are-contact-img": { "path": "common", "name": "card-1" },
       "site-who-we-are-contact-text": "Per enti, aziende e privati",
-      "site-who-we-are-contact-phone": "800909209",
-      "site-who-we-are-contact-email": "informazioni@epicuramed.it"
+      "site-who-we-are-contact-email": "informazioni@epicuramed.it",
+      "site-who-we-are-contact-btn-text": "Parliamoci"
     },
     {
       "site-who-we-are-contact-img": { "path": "common", "name": "card-2" },
-      "site-who-we-are-contact-text": "Per medici e professionisti<br />sanitari"
+      "site-who-we-are-contact-text": "Per medici, professionisti sanitari e socio-assistenziali",
+      "site-who-we-are-contact-btn-text": "Collaboriamo",
+      "site-who-we-are-contact-link": "/professionisti-lavoro/"
     }
   ]
 }
