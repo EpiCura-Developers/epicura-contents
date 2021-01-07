@@ -14,7 +14,7 @@
   },
   "subheader": {
     "title": "I benefici della terapia psicoterapeutica",
-    "content": "La salute di mente e corpo va di pari passo: sono numerosi, infatti, i disturbi fisici che nascono da disagi psicologici derivanti ad esempio da ansia, stress o stati depressivi.<br />Se stai affrontando un momento complicato nella tua vita e senti le emozioni sopraffare i tuoi pensieri, la terapia psicoterapeutica può guidarti verso un maggiore stato di benessere, facendoti guadagnare fiducia, consapevolezza e soprattutto serenità.<br />Gli psicoterapeuti EpiCura sono disponibili 7 giorni su 7 in studio, a domicilio (in casi di impossibilità negli spostamenti) o tramite <b>video-sedute da svolgersi comodamente online su smartphone, tablet o pc.</b>",
+    "content": "La salute di mente e corpo va di pari passo: sono numerosi, infatti, i disturbi fisici che nascono da disagi psicologici derivanti ad esempio da ansia, stress o stati depressivi.<br />Se stai affrontando un momento complicato nella tua vita e senti le emozioni sopraffare i tuoi pensieri, la terapia psicoterapeutica può guidarti verso un maggiore stato di benessere, facendoti guadagnare fiducia, consapevolezza e soprattutto serenità.<br />Gli psicologi e gli psicoterapeuti EpiCura sono disponibili 7 giorni su 7 in studio, a domicilio (in casi di impossibilità negli spostamenti).",
     "background-image": {
       "path": "psychotherapy",
       "name": "psychotherapy_subheader"
@@ -52,7 +52,7 @@
         "content": "Percorso per sviluppare consapevolezza su credenze, convinzioni e abitudini, e per rimuovere i blocchi emotivi e psicologici che limitano durante la vita quotidiana."
       },
       {
-        "title": "Video-consulto psicoterapeutico",
+        "title": "Videoconsulto psicoterapeutico",
         "content": "Sedute online, efficaci quanto quelle in presenza, in totale sicurezza. Sono utili in particolare in situazioni di ritiro sociale, lontananza territoriale o inconciliabilità con gli orari di lavoro."
       }
     ]
