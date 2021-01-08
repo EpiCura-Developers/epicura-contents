@@ -44,7 +44,7 @@
       "faqs": [
         {
           "title": "Cosa succede quando invio una richiesta di prenotazione?",
-          "content": "Una volta raccolte tutte le informazioni necessarie, invieremo la richiesta a tutta la **rete di specialisti** attivi nella tua zona e comunicheremo loro il/i **giorno/i** e le **fasce orarie** da te prescelti. Il primo professionista che si renderà disponibile prenderà in carico la tua richiesta. Successivamente, ti invieremo un messaggio con il **riepilogo della prenotazione** e i **dati dello specialista**, cosicché tu possa contattarlo in caso di bisogno."
+          "content": "Una volta raccolte tutte le informazioni necessarie, invieremo la richiesta a tutta la **rete di specialisti** attivi nella tua zona e comunicheremo loro il **giorno** (o i giorni) e le **fasce orarie** prescelti. Il primo professionista che si renderà disponibile prenderà in carico la tua richiesta. Successivamente, ti invieremo un messaggio con il **riepilogo della prenotazione** e i **dati dello specialista**, cosicché tu possa contattarlo in caso di bisogno."
         },
         {
           "title": "Posso scegliere io il professionista?",
