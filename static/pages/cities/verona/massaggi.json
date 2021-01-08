@@ -261,7 +261,7 @@
           "name": "interventi-tempestivi"
         },
         "title": "Interventi tempestivi",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria seduta. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali. Vuoi risolvere il tuo problema? Chiamaci subito allo 045 853 1913."
+        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria seduta. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
       }
     ]
   },
@@ -304,16 +304,8 @@
     "hideAllText": "Mostra meno",
     "title": "Massaggi professionali a Verona",
     "textColor": "dark",
-    "description": "",
-    "tags": [
-      "Mal di schiena",
-      "Cefalee",
-      "Dolori articolari o muscolari",
-      "Problemi digestivi",
-      "Lombalgia",
-      "Sciatalgia",
-      "Nevralgie"
-    ],
+    "description": "La prima prestazione comprende la valutazione funzionale",
+    "tags": [],
     "list": [
       {
         "title": "Massaggio svedese (massaggio benessere classico)",
@@ -329,7 +321,7 @@
       },
       {
         "title": "Massoterapia (o massaggio terapeutico)",
-        "description": "Trattamenti massoterapici a domicilio per alleviare disagi e sensazioni di disconfort causati da cattive posture, stress e traumi. Manipolazioni manuali eseguite 7 giorni su 7, anche in orari serali, in tutta Verona e area metropolitana"
+        "description": "Trattamenti massoterapici a domicilio per alleviare disagi e sensazioni di disconfort causati da cattive posture, stress e traumi. Manipolazioni manuali eseguite 7 giorni su 7, anche in orari serali, in tutta Verona e area metropolitana."
       },
       {
         "title": "Massaggio connettivale",
