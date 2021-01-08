@@ -230,14 +230,14 @@
       "title": "Pacchetto Cucciolo Cane e Gatto",
       "qty": "",
       "price": "155€",
-      "text": "Comprende tutti i trattamenti, obbligatori e non, per garantire il benessere del tuo cucciolo in un momento fondamentale per la propria crescita. Il pacchetto prevede: prima visita veterinaria generale, vaccinazioni, microchip e sverminazione."
+      "text": "Comprende tutti i trattamenti, obbligatori e non, per garantire il benessere del tuo cucciolo. Il pacchetto prevede: prima visita veterinaria generale, vaccinazioni, microchip e sverminazione."
     },
     "pacchetto2": {
       "title": "Pacchetto Pet Care Dog e Pet Care Cat",
       "qty": "",
       "price": "245€",
       "oldPrice": "",
-      "text": "Comprende tutti i trattamenti, obbligatori e non, per mantenere la salute e il benessere del tuo cane o gatto. Il pacchetto prevede: visita, richiami vaccinazioni, esami feci, urine e sangue, esami specifici per cane e gatto."
+      "text": "Comprende tutti i trattamenti, obbligatori e non, per mantenere la salute e il benessere del tuo cane o gatto. Il pacchetto prevede: visita, richiami vaccinazioni, esami feci, urine e sangue, esami specifici per cane e gatto (es. esame leishmaniosi o filaria)."
     },
     "teleconsulto": {
       "bgImage": "teleconsulto-bg",
