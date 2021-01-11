@@ -90,8 +90,8 @@
       "path": "videoconsultation",
       "name": "videoconsultation-banner"
     },
-    "button-text": "PRENOTA ORA",
-    "button-link": "/teleconsulting/?discipline=nutrition"
+    "button-text": "Scopri il servizio",
+    "button-link": "/videoconsulti/"
   },
   "feedaty": {
     "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",

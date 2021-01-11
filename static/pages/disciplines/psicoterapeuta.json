@@ -57,18 +57,6 @@
       }
     ]
   },
-  "hint-card": {
-    "title": "Hai un dubbio? Chiedi allo psicuterapeuta",
-    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
-    "price": "Costo fisso 25€",
-    "bkg-color": "#F5F8FF",
-    "image": {
-      "path": "videoconsultation",
-      "name": "videoconsultation"
-    },
-    "button-text": "Scopri di più",
-    "button-link": "/teleconsulting/?discipline=psychotherapy"
-  },
   "feedaty": {
     "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
     "subtitle": "Ecco alcune recensioni di chi si è affidato ai servizi EpiCura.",

@@ -119,8 +119,8 @@
       "path": "videoconsultation",
       "name": "videoconsultation-banner"
     },
-    "button-text": "Scopri di più",
-    "button-link": "/teleconsulting/?discipline=veterinary"
+    "button-text": "Scopri il servizio",
+    "button-link": "/videoconsulti/"
   },
   "feedaty": {
     "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
