@@ -59,8 +59,8 @@
       },
       {
         "icon": { "path": "videoconsultation", "name": "sintomi" },
-        "title": "Valutazione sintomi clinici",
-        "description": "Se vuoi inquadrare meglio una condizione clinica per intraprendere il percorso specialistico più adeguato per il tuo caso."
+        "title": "Valutare sintomi clinici",
+        "description": "Se non vuoi aspettare e preferisci ricevere una valutazione specialistica immediata, saltando attese e liste infinite."
       },
       {
         "icon": { "path": "videoconsultation", "name": "prescrizione" },
