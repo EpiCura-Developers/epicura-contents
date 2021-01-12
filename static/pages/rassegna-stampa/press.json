@@ -9,7 +9,7 @@
     "logo": { "path": "common", "name": "wall-street-italia" },
     "title": "Wall Street Italia – Il poliambulatorio diventa digitale",
     "date": "7 Luglio 2020",
-    "link": "https://contents.epicuramed.it/development/press/wall-street-italia7-lug-20.pdf"
+    "link": "https://contents-staging.epicuramed.it/documents/press/wall-street-italia7-lug-20.pdf"
   },
   {
     "logo": { "path": "common", "name": "radio-number-one-logo" },
@@ -135,7 +135,7 @@
     "logo": { "path": "common", "name": "corrieredellasera" },
     "title": "Corriere della Sera – Dal Poker all'assistenza sanitaria. EpiCura fa il pieno di capitali",
     "date": "20 Aprile 2019",
-    "link": "https://contents.epicuramed.it/development/press/articolo-corriere-epicura.pdf"
+    "link": "https://contents-staging.epicuramed.it/documents/press/articolo-corriere-epicura.pdf"
   },
   {
     "logo": { "path": "common", "name": "wired-logo" },
@@ -153,7 +153,7 @@
     "logo": { "path": "common", "name": "forbes" },
     "title": "Forbes Under 30 2019",
     "date": "28 marzo 2019",
-    "link": "https://contents.epicuramed.it/development/press/forbes-under30ita.pdf"
+    "link": "https://contents-staging.epicuramed.it/documents/press/forbes-under30ita.pdf"
   },
   {
     "logo": { "path": "common", "name": "lastampa" },
