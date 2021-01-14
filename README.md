@@ -18,3 +18,5 @@ In forse ci sono:
 
 In pages/home/home.json
 site-discipline-section-relation: 'xxx' xxx.json è il file in public-site/content/disciplines/xxx.json da prendere
+
+I file nel path "production" sono temporanei e saranno rimossi quando Alphega avrà completato la migrazione (ultimo update: 08/01/2021).

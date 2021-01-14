@@ -6,57 +6,57 @@
       {
         "discipline": "assistenza-domiciliare",
         "specialist": "assistente-domiciliare",
-        "reservation": "/form-what-homecare?province=MI"
+        "reservation": "/prenota/?d=homecare&province=MI"
       },
       {
         "discipline": "infermieristica",
         "specialist": "infermiere",
-        "reservation": "/form-what-nursing?province=MI"
+        "reservation": "/prenota/?d=nursing&province=MI"
       },
       {
         "discipline": "fisioterapia",
         "specialist": "fisioterapista",
-        "reservation": "/form-what-physiotherapy?province=MI"
+        "reservation": "/prenota/?d=physiotherapy&province=MI"
       },
       {
         "discipline": "psicologia",
         "specialist": "psicologo",
-        "reservation": "/form-what-psychology?province=MI"
+        "reservation": "/prenota/?d=psychology&province=MI"
       },
       {
         "discipline": "psicoterapia",
         "specialist": "psicoterapeuta",
-        "reservation": "/form-what-psychotherapy?province=MI"
+        "reservation": "/prenota/?d=psychotherapy&province=MI"
       },
       {
         "discipline": "nutrizione",
         "specialist": "nutrizionista",
-        "reservation": "/form-what-nutrition?province=MI"
+        "reservation": "/prenota/?d=nutrition&province=MI"
       },
       {
         "discipline": "osteopatia",
         "specialist": "osteopata",
-        "reservation": "/form-what-osteopathy?province=MI"
+        "reservation": "/prenota/?d=osteopathy&province=MI"
       },
       {
         "discipline": "veterinaria",
         "specialist": "veterinario",
-        "reservation": "/form-what-veterinary?province=MI"
+        "reservation": "/prenota/?d=veterinary&province=MI"
       },
       {
         "discipline": "medicina-generale",
         "specialist": "medico-di-base",
-        "reservation": "/form-what-generalMedicine?province=MI"
+        "reservation": "/prenota/?d=generalMedicine&province=MI"
       },
       {
         "discipline": "pediatria",
         "specialist": "pediatra",
-        "reservation": "/form-what-pediatrics?province=MI"
+        "reservation": "/prenota/?d=pediatrics&province=MI"
       },
       {
         "discipline": "massaggi",
         "specialist": "massaggiatore-professionale",
-        "reservation": "/form-what-massages?province=MI"
+        "reservation": "/prenota/?d=massages&province=MI"
       }
     ]
   },
@@ -67,57 +67,57 @@
       {
         "discipline": "assistenza-domiciliare",
         "specialist": "assistente-domiciliare",
-        "reservation": "/form-what-homecare?province=RM"
+        "reservation": "/prenota/?d=homecare&province=RM"
       },
       {
         "discipline": "infermieristica",
         "specialist": "infermiere",
-        "reservation": "/form-what-nursing?province=RM"
+        "reservation": "/prenota/?d=nursing&province=RM"
       },
       {
         "discipline": "fisioterapia",
         "specialist": "fisioterapista",
-        "reservation": "/form-what-physiotherapy?province=RM"
+        "reservation": "/prenota/?d=physiotherapy&province=RM"
       },
       {
         "discipline": "psicologia",
         "specialist": "psicologo",
-        "reservation": "/form-what-psychology?province=RM"
+        "reservation": "/prenota/?d=psychology&province=RM"
       },
       {
         "discipline": "psicoterapia",
         "specialist": "psicoterapeuta",
-        "reservation": "/form-what-psychotherapy?province=RM"
+        "reservation": "/prenota/?d=psychotherapy&province=RM"
       },
       {
         "discipline": "nutrizione",
         "specialist": "nutrizionista",
-        "reservation": "/form-what-nutrition?province=RM"
+        "reservation": "/prenota/?d=nutrition&province=RM"
       },
       {
         "discipline": "osteopatia",
         "specialist": "osteopata",
-        "reservation": "/form-what-osteopathy?province=RM"
+        "reservation": "/prenota/?d=osteopathy&province=RM"
       },
       {
         "discipline": "veterinaria",
         "specialist": "veterinario",
-        "reservation": "/form-what-veterinary?province=RM"
+        "reservation": "/prenota/?d=veterinary&province=RM"
       },
       {
         "discipline": "medicina-generale",
         "specialist": "medico-di-base",
-        "reservation": "/form-what-generalMedicine?province=RM"
+        "reservation": "/prenota/?d=generalMedicine&province=RM"
       },
       {
         "discipline": "pediatria",
         "specialist": "pediatra",
-        "reservation": "/form-what-pediatrics?province=RM"
+        "reservation": "/prenota/?d=pediatrics&province=RM"
       },
       {
         "discipline": "massaggi",
         "specialist": "massaggiatore-professionale",
-        "reservation": "/form-what-massages?province=RM"
+        "reservation": "/prenota/?d=massages&province=RM"
       }
     ]
   },
@@ -128,57 +128,57 @@
       {
         "discipline": "assistenza-domiciliare",
         "specialist": "assistente-domiciliare",
-        "reservation": "/form-what-homecare?province=TO"
+        "reservation": "/prenota/?d=homecare&province=TO"
       },
       {
         "discipline": "infermieristica",
         "specialist": "infermiere",
-        "reservation": "/form-what-nursing?province=TO"
+        "reservation": "/prenota/?d=nursing&province=TO"
       },
       {
         "discipline": "fisioterapia",
         "specialist": "fisioterapista",
-        "reservation": "/form-what-physiotherapy?province=TO"
+        "reservation": "/prenota/?d=physiotherapy&province=TO"
       },
       {
         "discipline": "psicologia",
         "specialist": "psicologo",
-        "reservation": "/form-what-psychology?province=TO"
+        "reservation": "/prenota/?d=psychology&province=TO"
       },
       {
         "discipline": "psicoterapia",
         "specialist": "psicoterapeuta",
-        "reservation": "/form-what-psychotherapy?province=TO"
+        "reservation": "/prenota/?d=psychotherapy&province=TO"
       },
       {
         "discipline": "nutrizione",
         "specialist": "nutrizionista",
-        "reservation": "/form-what-nutrition?province=TO"
+        "reservation": "/prenota/?d=nutrition&province=TO"
       },
       {
         "discipline": "osteopatia",
         "specialist": "osteopata",
-        "reservation": "/form-what-osteopathy?province=TO"
+        "reservation": "/prenota/?d=osteopathy&province=TO"
       },
       {
         "discipline": "veterinaria",
         "specialist": "veterinario",
-        "reservation": "/form-what-veterinary?province=TO"
+        "reservation": "/prenota/?d=veterinary&province=TO"
       },
       {
         "discipline": "medicina-generale",
         "specialist": "medico-di-base",
-        "reservation": "/form-what-generalMedicine?province=TO"
+        "reservation": "/prenota/?d=generalMedicine&province=TO"
       },
       {
         "discipline": "pediatria",
         "specialist": "pediatra",
-        "reservation": "/form-what-pediatrics?province=TO"
+        "reservation": "/prenota/?d=pediatrics&province=TO"
       },
       {
         "discipline": "massaggi",
         "specialist": "massaggiatore-professionale",
-        "reservation": "/form-what-massages?province=TO"
+        "reservation": "/prenota/?d=massages&province=TO"
       }
     ]
   },
@@ -189,37 +189,37 @@
       {
         "discipline": "assistenza-domiciliare",
         "specialist": "assistente-domiciliare",
-        "reservation": "/form-what-homecare?province=NA"
+        "reservation": "/prenota/?d=homecare&province=NA"
       },
       {
         "discipline": "infermieristica",
         "specialist": "infermiere",
-        "reservation": "/form-what-nursing?province=NA"
+        "reservation": "/prenota/?d=nursing&province=NA"
       },
       {
         "discipline": "fisioterapia",
         "specialist": "fisioterapista",
-        "reservation": "/form-what-physiotherapy?province=NA"
+        "reservation": "/prenota/?d=physiotherapy&province=NA"
       },
       {
         "discipline": "nutrizione",
         "specialist": "nutrizionista",
-        "reservation": "/form-what-nutrition?province=NA"
+        "reservation": "/prenota/?d=nutrition&province=NA"
       },
       {
         "discipline": "osteopatia",
         "specialist": "osteopata",
-        "reservation": "/form-what-osteopathy?province=NA"
+        "reservation": "/prenota/?d=osteopathy&province=NA"
       },
       {
         "discipline": "veterinaria",
         "specialist": "veterinario",
-        "reservation": "/form-what-veterinary?province=NA"
+        "reservation": "/prenota/?d=veterinary&province=NA"
       },
       {
         "discipline": "medicina-generale",
         "specialist": "medico-di-base",
-        "reservation": "/form-what-generalMedicine?province=NA"
+        "reservation": "/prenota/?d=generalMedicine&province=NA"
       }
     ]
   },
@@ -230,47 +230,47 @@
       {
         "discipline": "assistenza-domiciliare",
         "specialist": "assistente-domiciliare",
-        "reservation": "/form-what-homecare?province=BO"
+        "reservation": "/prenota/?d=homecare&province=BO"
       },
       {
         "discipline": "infermieristica",
         "specialist": "infermiere",
-        "reservation": "/form-what-nursing?province=BO"
+        "reservation": "/prenota/?d=nursing&province=BO"
       },
       {
         "discipline": "fisioterapia",
         "specialist": "fisioterapista",
-        "reservation": "/form-what-physiotherapy?province=BO"
+        "reservation": "/prenota/?d=physiotherapy&province=BO"
       },
       {
         "discipline": "psicologia",
         "specialist": "psicologo",
-        "reservation": "/form-what-psychology?province=BO"
+        "reservation": "/prenota/?d=psychology&province=BO"
       },
       {
         "discipline": "psicoterapia",
         "specialist": "psicoterapeuta",
-        "reservation": "/form-what-psychotherapy?province=BO"
+        "reservation": "/prenota/?d=psychotherapy&province=BO"
       },
       {
         "discipline": "nutrizione",
         "specialist": "nutrizionista",
-        "reservation": "/form-what-nutrition?province=BO"
+        "reservation": "/prenota/?d=nutrition&province=BO"
       },
       {
         "discipline": "osteopatia",
         "specialist": "osteopata",
-        "reservation": "/form-what-osteopathy?province=BO"
+        "reservation": "/prenota/?d=osteopathy&province=BO"
       },
       {
         "discipline": "veterinaria",
         "specialist": "veterinario",
-        "reservation": "/form-what-veterinary?province=BO"
+        "reservation": "/prenota/?d=veterinary&province=BO"
       },
       {
         "discipline": "medicina-generale",
         "specialist": "medico-di-base",
-        "reservation": "/form-what-generalMedicine?province=BO"
+        "reservation": "/prenota/?d=generalMedicine&province=BO"
       }
     ]
   },
@@ -281,32 +281,32 @@
       {
         "discipline": "assistenza-domiciliare",
         "specialist": "assistente-domiciliare",
-        "reservation": "/form-what-homecare?province=CT"
+        "reservation": "/prenota/?d=homecare&province=CT"
       },
       {
         "discipline": "infermieristica",
         "specialist": "infermiere",
-        "reservation": "/form-what-nursing?province=CT"
+        "reservation": "/prenota/?d=nursing&province=CT"
       },
       {
         "discipline": "fisioterapia",
         "specialist": "fisioterapista",
-        "reservation": "/form-what-physiotherapy?province=CT"
+        "reservation": "/prenota/?d=physiotherapy&province=CT"
       },
       {
         "discipline": "osteopatia",
         "specialist": "osteopata",
-        "reservation": "/form-what-osteopathy?province=CT"
+        "reservation": "/prenota/?d=osteopathy&province=CT"
       },
       {
         "discipline": "veterinaria",
         "specialist": "veterinario",
-        "reservation": "/form-what-veterinary?province=CT"
+        "reservation": "/prenota/?d=veterinary&province=CT"
       },
       {
         "discipline": "medicina-generale",
         "specialist": "medico-di-base",
-        "reservation": "/form-what-generalMedicine?province=CT"
+        "reservation": "/prenota/?d=generalMedicine&province=CT"
       }
     ]
   },
@@ -317,47 +317,47 @@
       {
         "discipline": "assistenza-domiciliare",
         "specialist": "assistente-domiciliare",
-        "reservation": "/form-what-homecare?province=FI"
+        "reservation": "/prenota/?d=homecare&province=FI"
       },
       {
         "discipline": "infermieristica",
         "specialist": "infermiere",
-        "reservation": "/form-what-nursing?province=FI"
+        "reservation": "/prenota/?d=nursing&province=FI"
       },
       {
         "discipline": "fisioterapia",
         "specialist": "fisioterapista",
-        "reservation": "/form-what-physiotherapy?province=FI"
+        "reservation": "/prenota/?d=physiotherapy&province=FI"
       },
       {
         "discipline": "psicologia",
         "specialist": "psicologo",
-        "reservation": "/form-what-psychology?province=FI"
+        "reservation": "/prenota/?d=psychology&province=FI"
       },
       {
         "discipline": "psicoterapia",
         "specialist": "psicoterapeuta",
-        "reservation": "/form-what-psychotherapy?province=FI"
+        "reservation": "/prenota/?d=psychotherapy&province=FI"
       },
       {
         "discipline": "nutrizione",
         "specialist": "nutrizionista",
-        "reservation": "/form-what-nutrition?province=FI"
+        "reservation": "/prenota/?d=nutrition&province=FI"
       },
       {
         "discipline": "osteopatia",
         "specialist": "osteopata",
-        "reservation": "/form-what-osteopathy?province=FI"
+        "reservation": "/prenota/?d=osteopathy&province=FI"
       },
       {
         "discipline": "veterinaria",
         "specialist": "veterinario",
-        "reservation": "/form-what-veterinary?province=FI"
+        "reservation": "/prenota/?d=veterinary&province=FI"
       },
       {
         "discipline": "medicina-generale",
         "specialist": "medico-di-base",
-        "reservation": "/form-what-generalMedicine?province=FI"
+        "reservation": "/prenota/?d=generalMedicine&province=FI"
       }
     ]
   },
@@ -368,42 +368,42 @@
       {
         "discipline": "assistenza-domiciliare",
         "specialist": "assistente-domiciliare",
-        "reservation": "/form-what-homecare?province=GE"
+        "reservation": "/prenota/?d=homecare&province=GE"
       },
       {
         "discipline": "infermieristica",
         "specialist": "infermiere",
-        "reservation": "/form-what-nursing?province=GE"
+        "reservation": "/prenota/?d=nursing&province=GE"
       },
       {
         "discipline": "fisioterapia",
         "specialist": "fisioterapista",
-        "reservation": "/form-what-physiotherapy?province=GE"
+        "reservation": "/prenota/?d=physiotherapy&province=GE"
       },
       {
         "discipline": "psicologia",
         "specialist": "psicologo",
-        "reservation": "/form-what-psychology?province=GE"
+        "reservation": "/prenota/?d=psychology&province=GE"
       },
       {
         "discipline": "psicoterapia",
         "specialist": "psicoterapeuta",
-        "reservation": "/form-what-psychotherapy?province=GE"
+        "reservation": "/prenota/?d=psychotherapy&province=GE"
       },
       {
         "discipline": "nutrizione",
         "specialist": "nutrizionista",
-        "reservation": "/form-what-nutrition?province=GE"
+        "reservation": "/prenota/?d=nutrition&province=GE"
       },
       {
         "discipline": "osteopatia",
         "specialist": "osteopata",
-        "reservation": "/form-what-osteopathy?province=GE"
+        "reservation": "/prenota/?d=osteopathy&province=GE"
       },
       {
         "discipline": "veterinaria",
         "specialist": "veterinario",
-        "reservation": "/form-what-veterinary?province=GE"
+        "reservation": "/prenota/?d=veterinary&province=GE"
       }
     ]
   },
@@ -414,42 +414,42 @@
       {
         "discipline": "assistenza-domiciliare",
         "specialist": "assistente-domiciliare",
-        "reservation": "/form-what-homecare?province=VR"
+        "reservation": "/prenota/?d=homecare&province=VR"
       },
       {
         "discipline": "infermieristica",
         "specialist": "infermiere",
-        "reservation": "/form-what-nursing?province=VR"
+        "reservation": "/prenota/?d=nursing&province=VR"
       },
       {
         "discipline": "fisioterapia",
         "specialist": "fisioterapista",
-        "reservation": "/form-what-physiotherapy?province=VR"
+        "reservation": "/prenota/?d=physiotherapy&province=VR"
       },
       {
         "discipline": "psicoterapia",
         "specialist": "psicoterapeuta",
-        "reservation": "/form-what-psychotherapy?province=VR"
+        "reservation": "/prenota/?d=psychotherapy&province=VR"
       },
       {
         "discipline": "osteopatia",
         "specialist": "osteopata",
-        "reservation": "/form-what-osteopathy?province=VR"
+        "reservation": "/prenota/?d=osteopathy&province=VR"
       },
       {
         "discipline": "veterinaria",
         "specialist": "veterinario",
-        "reservation": "/form-what-veterinary?province=VR"
+        "reservation": "/prenota/?d=veterinary&province=VR"
       },
       {
         "discipline": "medicina-generale",
         "specialist": "medico-di-base",
-        "reservation": "/form-what-generalMedicine?province=VR"
+        "reservation": "/prenota/?d=generalMedicine&province=VR"
       },
       {
         "discipline": "massaggi",
         "specialist": "massaggiatore-professionale",
-        "reservation": "/form-what-massages?province=VR"
+        "reservation": "/prenota/?d=massages&province=VR"
       }
     ]
   },
@@ -460,27 +460,27 @@
       {
         "discipline": "assistenza-domiciliare",
         "specialist": "assistente-domiciliare",
-        "reservation": "/form-what-homecare?province=BS"
+        "reservation": "/prenota/?d=homecare&province=BS"
       },
       {
         "discipline": "infermieristica",
         "specialist": "infermiere",
-        "reservation": "/form-what-nursing?province=BS"
+        "reservation": "/prenota/?d=nursing&province=BS"
       },
       {
         "discipline": "fisioterapia",
         "specialist": "fisioterapista",
-        "reservation": "/form-what-physiotherapy?province=BS"
+        "reservation": "/prenota/?d=physiotherapy&province=BS"
       },
       {
         "discipline": "osteopatia",
         "specialist": "osteopata",
-        "reservation": "/form-what-osteopathy?province=BS"
+        "reservation": "/prenota/?d=osteopathy&province=BS"
       },
       {
         "discipline": "veterinaria",
         "specialist": "veterinario",
-        "reservation": "/form-what-veterinary?province=BS"
+        "reservation": "/prenota/?d=veterinary&province=BS"
       }
     ]
   }

@@ -6,7 +6,7 @@
   "prezzi_title": "I prezzi dei Massaggi professionali a Roma",
   "come_funziona": {
     "title": "Come funziona",
-    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 700 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Roma e zone di periferia grazie a 3 semplici passaggi:",
+    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Roma e area metropolitana grazie a 3 semplici passaggi:",
     "cards": [
       {
         "image": {
@@ -119,7 +119,7 @@
   "feedaty": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "title": "Oltre 3000 famiglie soddisfatte",
+    "title": "Oltre 4000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "average": "media recensioni",
     "vote": 4.7,
@@ -261,7 +261,7 @@
           "name": "interventi-tempestivi"
         },
         "title": "Interventi tempestivi",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria seduta. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali. Vuoi risolvere il tuo problema? Chiamaci subito allo 06 8715 5269."
+        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria seduta. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
       }
     ]
   },
@@ -321,7 +321,7 @@
       },
       {
         "title": "Massoterapia (o massaggio terapeutico)",
-        "description": "Trattamenti massoterapici a domicilio per alleviare disagi e sensazioni di disconfort causati da cattive posture, stress e traumi. Manipolazioni manuali eseguite 7 giorni su 7, anche in orari serali, in tutta Roma e area metropolitana"
+        "description": "Trattamenti massoterapici a domicilio per alleviare disagi e sensazioni di disconfort causati da cattive posture, stress e traumi. Manipolazioni manuali eseguite 7 giorni su 7, anche in orari serali, in tutta Roma e area metropolitana."
       },
       {
         "title": "Massaggio connettivale",
@@ -329,7 +329,7 @@
       },
       {
         "title": "Terapie fisiche",
-        "description": "Terapie fisiche a domicilio per recuperare la normale elasticità e mobilità del proprio corpo con trattamenti che operano direttamente tra i muscoli e le fasce che li riveste. Trattamenti 7 giorni su 7, anche in orari serali."
+        "description": "Terapie fisiche a domicilio per recuperare la normale elasticità e mobilità del proprio corpo con trattamenti che operano direttamente tra i muscoli e le fasce che li rivestono. Trattamenti 7 giorni su 7, anche in orari serali."
       },
       {
         "title": "Massaggio linfodrenante",

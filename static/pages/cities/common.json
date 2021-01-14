@@ -8,19 +8,19 @@
     "title": "Le nostre community social",
     "blockFb1": {
       "title": "Forum Salute",
-      "url": "https://www.facebook.com/groups/Epicura.ForumSalute/",
+      "url": "https://www.facebook.com/groups/EpiCura.ForumSalute/",
       "urlText": "Entra nel gruppo",
       "text": "Partecipa al forum di discussione aperto a tutti per confrontarsi e trovare risposte su salute e benessere."
     },
     "blockFb2": {
       "title": "Forum Animali",
-      "url": "https://www.facebook.com/groups/Epicura.AmiciAnimali/",
+      "url": "https://www.facebook.com/groups/EpiCura.AmiciAnimali/",
       "urlText": "Entra nel gruppo",
       "text": "Entra nel gruppo dedicato ai possessori di animali, confrontati e trova risposte sui temi del benessere e della salute dei nostri amici a quattro zampe."
     },
     "blockIg": {
       "title": "EpiCura",
-      "url": "https://www.instagram.com/Epicura/",
+      "url": "https://www.instagram.com/EpiCura/",
       "urlText": "Segui la pagina",
       "text": "Segui la pagina di EpiCura anche su Instagram, tanti consigli e curiosità sul mondo del benessere e della salute."
     }
@@ -28,11 +28,11 @@
   "footer": {
     "callUsText": "Chiamaci",
     "fbLink": "https://www.facebook.com/EpiCuraMed/",
-    "igLink": "https://www.instagram.com/Epicura/",
+    "igLink": "https://www.instagram.com/EpiCura/",
     "linkedinLink": "https://www.linkedin.com/company/epicuramed/",
     "youtubeLink": "https://www.youtube.com/channel/UC1ibdsGsslcFBLxH2tkyZOw",
     "twitterLink": "https://twitter.com/EpiCuraMed",
-    "copyright": "Epicura S.r.l. - Corso Carlo e Nello Rosselli 91, 10129 Torino (TO) - P.Iva 11744440014 - © 2020 - Tutti i diritti riservati",
+    "copyright": "EpiCura S.r.l. - Corso Carlo e Nello Rosselli 91, 10129 Torino (TO) - P.Iva 11744440014 - © 2020 - Tutti i diritti riservati",
     "belowCopyright": "Made with love in Turin ❤️",
     "sections": [
       {
@@ -47,7 +47,7 @@
             "url": "/professionisti-lavoro/"
           },
           {
-            "title": "Contattaci",
+            "title": "Richiedi informazioni",
             "url": "/contattaci/"
           }
         ]
@@ -60,7 +60,7 @@
             "url": "https://www.feedaty.com/feedaty/reviews/epicuramed"
           },
           {
-            "title": "Dicono di noi",
+            "title": "Rassegna stampa",
             "url": "/rassegna-stampa/"
           },
           {
@@ -94,8 +94,13 @@
   },
   "footerFbAdw": {
     "callUsText": "Chiamaci",
-    "copyright": "Epicura S.r.l. - Corso Carlo e Nello Rosselli 91, 10129 Torino (TO) - P.Iva 11744440014 - © 2020 - Tutti i diritti riservati",
+    "copyright": "EpiCura S.r.l. - Corso Carlo e Nello Rosselli 91, 10129 Torino (TO) - P.Iva 11744440014 - © 2020 - Tutti i diritti riservati",
     "belowCopyright": "Made with love in Turin ❤️",
+    "fbLink": "https://www.facebook.com/EpiCuraMed/",
+    "igLink": "https://www.instagram.com/EpiCura/",
+    "linkedinLink": "https://www.linkedin.com/company/epicuramed/",
+    "youtubeLink": "https://www.youtube.com/channel/UC1ibdsGsslcFBLxH2tkyZOw",
+    "twitterLink": "https://twitter.com/EpiCuraMed",
     "image": "logo_epicura_2color",
     "links": [
       {

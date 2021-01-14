@@ -72,7 +72,7 @@
     "titleBig": "Assistenti domiciliari a Napoli",
     "subtitleBig": "Per chi ricerca un supporto completo e personalizzato.",
     "description1": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
-    "description2": "Epicura porta l’assistenza domiciliare, in ospedale e ovunque tu ne abbia bisogno, in tutta Napoli e area metropolitana, in qualunque giorno e orario tu voglia. Per respirare serenità e sicurezza 7 giorni su 7, 24 ore su 24.",
+    "description2": "EpiCura porta l’assistenza domiciliare, in ospedale e ovunque tu ne abbia bisogno, in tutta Napoli e area metropolitana, in qualunque giorno e orario tu voglia. Per respirare serenità e sicurezza 7 giorni su 7, 24 ore su 24.",
     "askInfoButtonText": "Richiedi informazioni"
   },
   "subheaderFbAdw": {
@@ -119,7 +119,7 @@
   "feedaty": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "title": "Oltre 3000 famiglie soddisfatte",
+    "title": "Oltre 4000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "average": "media recensioni",
     "vote": 4.7,
@@ -236,7 +236,7 @@
   "descrizione_servizio": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "htmlText": "<h2>Regalagli la serenità che merita</h2><p>Con il passare del tempo e dell’età, spesso, ci si ritrova ad affrontare problemi con il proprio corpo o la propria salute. Questo però non deve essere un motivo per lasciar andare la serenità, la sicurezza e la capacità di vivere a pieno la propria vita. Affidarsi ad assistenti professionisti, con esperienza nell’aiutare anziani, malati o disabili che hanno bisogno di una mano, permette di far riacquisire un senso di sicurezza e sollievo all’assistito e a tutta la sua famiglia. </p><p>Il servizio di assistenza aiuta a:<ul><li>Curare l’igiene personale dell’assistito tramite bagni e vestizione</li><li>Nutrirsi, con un supporto nell’assunzione dei pasti</li><li>Prendersi cura del malato in ospedale durante notte e giorno</li><li>Avere un supporto a seguito di un’operazione</li><li>Avere qualcuno che supporti in maniera continuativa chi ne ha bisogno e che lo accompagni in eventuali visite, esami o, anche, passeggiate</li></ul></p><p>Al giorno d’oggi sempre più famiglie hanno difficoltà a prendersi cura dei propri cari per mancanza di tempo e per il continuo sopraggiungere di impegni. Per questo il nostro servizio di assistenza è personalizzato e creato su misura alle esigenze del paziente e della sua famiglia. Per favorire la riabilitazione, la guarigione e il benessere psico-fisico dell’assistito è di vitale importanza trovarsi in un ambiente familiare e accogliente come la propria casa. L’assistenza domiciliare permette di evitare l’ospedalizzazione riuscendo, così, a non sradicare abitudini e usi quotidiani che favoriscono la guarigione del malato facendolo sentire a suo agio.</p>",
+    "htmlText": "<h2>Regalagli la serenità che merita</h2><p>Con il passare del tempo e dell’età, spesso, ci si ritrova ad affrontare problemi con il proprio corpo o la propria salute. Questo però non deve essere un motivo per lasciar andare la serenità, la sicurezza e la capacità di vivere a pieno la propria vita. Affidarsi ad assistenti professionisti, con esperienza nell’aiutare anziani, malati o disabili che hanno bisogno di una mano, permette di far riacquisire un senso di sicurezza e sollievo all’assistito e a tutta la sua famiglia. </p><p>Il servizio di assistenza aiuta a:<ul><li>Curare l’igiene personale dell’assistito tramite bagni e vestizione</li><li>Nutrirsi, con un supporto nell’assunzione dei pasti</li><li>Prendersi cura del malato in ospedale durante notte e giorno</li><li>Avere un supporto a seguito di un’operazione</li><li>Avere qualcuno che supporti in maniera continuativa chi ne ha bisogno e che lo accompagni in eventuali visite, esami o, anche, passeggiate</li></ul></p><p>Al giorno d’oggi sempre più famiglie hanno difficoltà a prendersi cura dei propri cari per mancanza di tempo e per il continuo sopraggiungere di impegni. Per questo il nostro servizio di assistenza è personalizzato e creato su misura alle esigenze del paziente e della sua famiglia. Per favorire la riabilitazione, la guarigione e il benessere psicofisico dell’assistito è di vitale importanza trovarsi in un ambiente familiare e accogliente come la propria casa. L’assistenza domiciliare permette di evitare l’ospedalizzazione riuscendo, così, a non sradicare abitudini e usi quotidiani che favoriscono la guarigione del malato facendolo sentire a suo agio.</p>",
     "cards": [
       {
         "image": {
@@ -260,14 +260,14 @@
           "name": "interventi-tempestivi"
         },
         "title": "Assistenza costante",
-        "text": "Sentirsi sicuri e sereni è alla base del benessere psico-fisico. Noi di EpiCura ci teniamo a far sentire l’anziano o il malato seguito costantemente in tutte le sue esigenze. Per creare il tuo programma di assistenza personalizzata e costante chiamaci allo 081 181 87652."
+        "text": "Sentirsi sicuri e sereni è alla base del benessere psicofisico. Noi di EpiCura ci teniamo a far sentire l’anziano o il malato seguito costantemente in tutte le sue esigenze."
       }
     ]
   },
   "descrizione_servizioFbAdw": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "htmlText": "<h2>Regalagli la serenità che merita</h2><p>Per favorire la riabilitazione, la guarigione e il benessere psico-fisico dell’assistito è di vitale importanza <b>trovarsi in un ambiente familiare e accogliente come la propria casa</b>. L’assistenza domiciliare permette di evitare l’ospedalizzazione riuscendo, così, a <b>non sradicare abitudini e usi quotidiani che favoriscono la guarigione</b> del malato facendolo sentire a suo agio.",
+    "htmlText": "<h2>Regalagli la serenità che merita</h2><p>Per favorire la riabilitazione, la guarigione e il benessere psicofisico dell’assistito è di vitale importanza <b>trovarsi in un ambiente familiare e accogliente come la propria casa</b>. L’assistenza domiciliare permette di evitare l’ospedalizzazione riuscendo, così, a <b>non sradicare abitudini e usi quotidiani che favoriscono la guarigione</b> del malato facendolo sentire a suo agio.",
     "cards": [
       {
         "image": {

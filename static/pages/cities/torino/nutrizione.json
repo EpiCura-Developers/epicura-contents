@@ -6,7 +6,7 @@
   "prezzi_title": "I prezzi di Nutrizione a Torino",
   "come_funziona": {
     "title": "Come funziona",
-    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 700 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Torino e zone di periferia grazie a 3 semplici passaggi:",
+    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Torino e area metropolitana grazie a 3 semplici passaggi:",
     "cards": [
       {
         "image": {
@@ -119,7 +119,7 @@
   "feedaty": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "title": "Oltre 3000 famiglie soddisfatte",
+    "title": "Oltre 4000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "average": "media recensioni",
     "vote": 4.7,
@@ -237,7 +237,7 @@
   "descrizione_servizio": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "htmlText": "<h2>Curare l’alimentazione</h2><p>Molte persone, ad oggi, sono prese dalla loro vita frenetica e dai loro impegni non riuscendo a prestare attenzione alla propria alimentazione. La disattenzione e la non curanza verso ciò che mangiamo porta degli scompensi alla nostra salute causando problemi, malesseri e malattie.</p><p>Il nutrizionista si occupa di aiutare la persona a migliorare la propria nutrizione strutturando diete specifiche e accompagnandola nel suo percorso di miglioramento della salute alimentare.<br />I professionisti di EpiCura si occupano di strutturare percorsi per:<ul><li>Aiutare persone in sovrappeso a ritrovare la linea</li><li>Aiutare anziani a mantenere la salute grazie all’alimentazione</li><li>Aiutare bambini a crescere in forma</li><li>Aiutare sportivi a migliorare le proprie prestazioni atletiche</li><li>Aiutare madri in gravidanza a nutrire sé stesse e il futuro nascituro</li></ul></p><p>Abbiamo a che fare con il cibo tutti i giorni, più volte al giorno. È il nostro carburante che ci permette di vivere la nostra vita. Proprio per questo la nutrizione va curata in modo dettagliato e personalizzato. Per aiutare il paziente a trovare la propria salute alimentare i nostri nutrizionisti strutturano dei programmi su misura al caso specifico dando supporto 7 giorni su 7, in studio, a domicilio o in videoconsulto. Un supporto completo e personalizzato permette al professionista di comprendere a pieno le abitudini del paziente e aiutarlo a raggiungere i suoi obiettivi di salute.</p>",
+    "htmlText": "<h2>Curare l’alimentazione</h2><p>Molte persone, ad oggi, sono prese dalla loro vita frenetica e dai loro impegni non riuscendo a prestare attenzione alla propria alimentazione. La disattenzione e la non curanza verso ciò che mangiamo porta degli scompensi alla nostra salute causando problemi, malesseri e malattie.</p><p>Il nutrizionista si occupa di aiutare la persona a migliorare la propria nutrizione strutturando diete specifiche e accompagnandola nel suo percorso di miglioramento della salute alimentare.<br />I professionisti di EpiCura si occupano di strutturare percorsi per:<ul><li>Aiutare persone in sovrappeso a ritrovare la linea</li><li>Aiutare anziani a mantenere la salute grazie all’alimentazione</li><li>Aiutare bambini a crescere in forma</li><li>Aiutare sportivi a migliorare le proprie prestazioni atletiche</li><li>Aiutare madri in gravidanza a nutrire sé stesse e il nascituro</li></ul></p><p>Abbiamo a che fare con il cibo tutti i giorni, più volte al giorno. È il nostro carburante che ci permette di vivere la nostra vita. Proprio per questo la nutrizione va curata in modo dettagliato e personalizzato. Per aiutare il paziente a trovare la propria salute alimentare i nostri nutrizionisti strutturano dei programmi su misura al caso specifico dando supporto 7 giorni su 7, in studio, a domicilio o in videoconsulto. Un supporto completo e personalizzato permette al professionista di comprendere a pieno le abitudini del paziente e aiutarlo a raggiungere i suoi obiettivi di salute.</p>",
     "cards": [
       {
         "image": {
@@ -261,14 +261,14 @@
           "name": "interventi-tempestivi"
         },
         "title": "Interventi tempestivi",
-        "text": "Un’attenzione costante è alla base del miglioramento della propria alimentazione. Noi di EpiCura ci teniamo a far sentire il paziente seguito in tutte le sue esigenze. Vuoi parlare con un esperto? Chiamaci allo 011 0243215."
+        "text": "Un’attenzione costante è alla base del miglioramento della propria alimentazione. Noi di EpiCura ci teniamo a far sentire il paziente seguito in tutte le sue esigenze."
       }
     ]
   },
   "descrizione_servizioFbAdw": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "htmlText": "<h2>Cura la tua alimentazione</h2><p>Il nutrizionista si occupa di aiutare la persona a migliorare la propria nutrizione e salute alimentare strutturando <b>diete specifiche al singolo caso</b>.<br />I nutrizionisti di EpiCura si occupano di strutturare percorsi per:<ul><li>Aiutare persone in sovrappeso a ritrovare la linea</li><li>Aiutare anziani a mantenere la salute grazie all’alimentazione</li><li>Aiutare bambini a crescere in forma</li><li>Aiutare sportivi a migliorare le proprie prestazioni atletiche</li><li>Aiutare madri in gravidanza a nutrire sé stesse e il futuro nascituro</li></ul></p>",
+    "htmlText": "<h2>Cura la tua alimentazione</h2><p>Il nutrizionista si occupa di aiutare la persona a migliorare la propria nutrizione e salute alimentare strutturando <b>diete specifiche al singolo caso</b>.<br />I nutrizionisti di EpiCura si occupano di strutturare percorsi per:<ul><li>Aiutare persone in sovrappeso a ritrovare la linea</li><li>Aiutare anziani a mantenere la salute grazie all’alimentazione</li><li>Aiutare bambini a crescere in forma</li><li>Aiutare sportivi a migliorare le proprie prestazioni atletiche</li><li>Aiutare madri in gravidanza a nutrire sé stesse e il nascituro</li></ul></p>",
     "cards": [
       {
         "image": {

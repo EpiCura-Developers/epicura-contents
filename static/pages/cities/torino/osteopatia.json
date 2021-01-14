@@ -69,7 +69,7 @@
     "textColor": "dark",
     "professionistaText": "Sei un professionista?",
     "professionistaUrl": "/professionisti-lavoro/",
-    "titleBig": "Osteopati a domicilio o in studio a Torino",
+    "titleBig": "Osteopati a domicilio a Torino",
     "subtitleBig": "Per chi vuole riallineare ed equilibrare il proprio corpo.",
     "description1": "Per aiutarti a ritrovare il benessere di corpo e mente. Interventi 7 giorni su 7, senza liste di attesa, anche in orari serali.",
     "description2": "EpiCura porta l’osteopatia ovunque tu ne abbia bisogno, in tutta Torino e area metropolitana, in qualunque giorno e orario tu voglia.",
@@ -119,7 +119,7 @@
   "feedaty": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "title": "Oltre 3000 famiglie soddisfatte",
+    "title": "Oltre 4000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "average": "media recensioni",
     "vote": 4.7,
@@ -261,7 +261,7 @@
           "name": "interventi-tempestivi"
         },
         "title": "Interventi tempestivi",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria seduta. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali. Vuoi risolvere il tuo problema? Chiamaci subito allo 011 0243215."
+        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria seduta. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
       }
     ]
   },
@@ -309,7 +309,7 @@
     "list": [
       {
         "title": "Osteopatia in gravidanza",
-        "description": "Sedute di osteopatia durante il periodo della gravidanza per supportare la naturale omeostasi del corpo a beneficio della madre e del futuro nascituro preparando la donna ad affrontare il momento del parto."
+        "description": "Sedute di osteopatia durante il periodo della gravidanza per supportare la naturale omeostasi del corpo a beneficio della madre e del nascituro preparando la donna ad affrontare il momento del parto."
       },
       {
         "title": "Osteopatia pediatrica o osteopatia neonatale",

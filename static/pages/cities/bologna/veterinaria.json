@@ -22,7 +22,7 @@
           "name": "prenota-seduta"
         },
         "title": "Prenota la seduta",
-        "text": "Contattaci o prenota direttamente online e troveremo il miglior specialista per il tuo caso che ti guiderà nel percorso terapeutico del tuo animale. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità"
+        "text": "Contattaci o prenota direttamente online e troveremo il miglior specialista per il tuo caso che ti guiderà nel percorso terapeutico del tuo animale. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
       },
       {
         "image": {
@@ -72,7 +72,7 @@
     "titleBig": "Veterinari a domicilio a Bologna",
     "subtitleBig": "Per chi tiene alla salute del proprio animale.",
     "description1": "Prenditi cura del tuo animale, interventi 7 giorni su 7, senza liste di attesa, anche in orari serali.",
-    "description2": "Epicura porta la medicina veterinaria ovunque tu ne abbia bisogno, in tutta Bologna e area metropolitana, in qualunque giorno e orario tu voglia.",
+    "description2": "EpiCura porta la medicina veterinaria ovunque tu ne abbia bisogno, in tutta Bologna e area metropolitana, in qualunque giorno e orario tu voglia.",
     "askInfoButtonText": "Richiedi informazioni"
   },
   "subheaderFbAdw": {
@@ -119,7 +119,7 @@
   "feedaty": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "title": "Oltre 3000 famiglie soddisfatte",
+    "title": "Oltre 4000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "average": "media recensioni",
     "vote": 4.7,
@@ -134,7 +134,7 @@
           "name": "male"
         },
         "title": "Giuseppe",
-        "text": "Mi sono trovata bene, perché Epicura mi ha fornito un veloce e valido aiuto in un momento di improvvisa e grave difficoltà."
+        "text": "Mi sono trovato bene, perché EpiCura mi ha fornito un veloce e valido aiuto in un momento di improvvisa e grave difficoltà."
       },
       {
         "image": {
@@ -230,14 +230,14 @@
       "title": "Pacchetto Cucciolo Cane e Gatto",
       "qty": "",
       "price": "145€",
-      "text": "Comprende tutti i trattamenti, obbligatori e non, per garantire il benessere del tuo cucciolo in un momento fondamentale per la propria crescita. Il pacchetto prevede: prima visita veterinaria generale, vaccinazioni, microchip e sverminazione."
+      "text": "Comprende tutti i trattamenti, obbligatori e non, per garantire il benessere del tuo cucciolo. Il pacchetto prevede: prima visita veterinaria generale, vaccinazioni, microchip e sverminazione."
     },
     "pacchetto2": {
       "title": "Pacchetto Pet Care Dog e Pet Care Cat",
       "qty": "",
       "price": "245€",
       "oldPrice": "",
-      "text": "Comprende tutti i trattamenti, obbligatori e non, per mantenere la salute e il benessere del tuo cane o gatto. Il pacchetto prevede: visita, richiami vaccinazioni, esami feci, urine e sangue, esami specifici per cane e gatto."
+      "text": "Comprende tutti i trattamenti, obbligatori e non, per mantenere la salute e il benessere del tuo cane o gatto. Il pacchetto prevede: visita, richiami vaccinazioni, esami feci, urine e sangue, esami specifici per cane e gatto (es. esame leishmaniosi o filaria)."
     },
     "teleconsulto": {
       "bgImage": "teleconsulto-bg",
@@ -263,7 +263,7 @@
   "descrizione_servizio": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "htmlText": "<h2>Cura la sua salute</h2><p> Da quando è un cucciolo a quando è anziano, l’animale di compagnia va curato e seguito. Questa decisione va presa in modo consapevole altrimenti si rischia di danneggiare la sua salute e il rapporto che hai con lui. Il veterinario si occupa di prendersi cura dell’animale migliorando la sua qualità di vita ed evitando sofferenze. Lo specialista si occupa di curare la salute dell’animale in vari ambiti, dall’igiene alla riproduzione. <br />Sappiamo quanto, a volte, sia difficile e scomodo il trasporto fino allo studio veterinario. Quando l'animale è anziano, malato o addirittura quando è cucciola spesso è proibitivo spostarsi. Per questo EpiCura offre interventi di veterinari professionisti a domicilio per evitare attese e scomodi spostamenti. Per dare il massimo al tuo animale e farlo sentire sempre curato e al sicuro garantiamo i servizi 7 giorni su 7 anche in orari serali e senza liste di attesa. Sei tu che decidi ora e giorno.</p>",
+    "htmlText": "<h2>Cura la sua salute</h2><p> Da quando è un cucciolo a quando è anziano, l’animale di compagnia va curato e seguito. Questa decisione va presa in modo consapevole altrimenti si rischia di danneggiare la sua salute e il rapporto che hai con lui. Il veterinario si occupa di prendersi cura dell’animale migliorando la sua qualità di vita ed evitando sofferenze. Lo specialista si occupa di curare la salute dell’animale in vari ambiti, dall’igiene alla riproduzione. <br />Sappiamo quanto, a volte, sia difficile e scomodo il trasporto fino allo studio veterinario. Quando l'animale è anziano, malato o addirittura quando è cucciolo spesso è proibitivo spostarsi. Per questo EpiCura offre interventi di veterinari professionisti a domicilio per evitare attese e scomodi spostamenti. Per dare il massimo al tuo animale e farlo sentire sempre curato e al sicuro garantiamo i servizi 7 giorni su 7 anche in orari serali e senza liste di attesa. Sei tu che decidi ora e giorno.</p>",
     "cards": [
       {
         "image": {
@@ -287,7 +287,7 @@
           "name": "interventi-tempestivi"
         },
         "title": "Interventi tempestivi",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere un intervento quando ce n’è bisogno. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali. Vuoi risolvere il problema? Chiamaci subito allo 051 0185233."
+        "text": "Sappiamo quanto possa essere frustrante dover attendere un intervento quando ce n’è bisogno. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
       }
     ]
   },
@@ -328,7 +328,7 @@
     "sectionTitle": "",
     "showAllText": "Mostra tutti",
     "hideAllText": "Mostra meno",
-    "title": "interventi veterinari a Bologna",
+    "title": "Interventi veterinari a Bologna",
     "textColor": "dark",
     "description": "",
     "tags": [],
@@ -363,11 +363,11 @@
       },
       {
         "title": "Vaccinazioni",
-        "description": "Vaccinazioni animali da veterinari professionisti e specializzati. Proteggi il tuo animale dalle malattie che potrebbero colpirlo grazie a dei vaccini specifici somministrati a domicilio, in qualsiasi giorno e orari tu voglia."
+        "description": "Vaccinazioni animali da veterinari professionisti e specializzati. Proteggi il tuo animale dalle malattie che potrebbero colpirlo grazie a dei vaccini specifici somministrati a domicilio, in qualsiasi giorno e orario tu voglia."
       },
       {
         "title": "Sverminazione",
-        "description": "Intervento veterinario a domicilio per la sverminazione del tuo animale. Assicura la sua salute grazie a professionisti che rimuovono e ostacolando la riproduzione dei vermi intestinali. Prestazioni erogate 7 giorni su 7, anche in orari serali."
+        "description": "Intervento veterinario a domicilio per la sverminazione del tuo animale. Assicura la sua salute grazie a professionisti che rimuovono e ostacolano la riproduzione dei vermi intestinali. Prestazioni erogate 7 giorni su 7, anche in orari serali."
       }
     ]
   }

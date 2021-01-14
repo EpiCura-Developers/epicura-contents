@@ -6,7 +6,7 @@
   "prezzi_title": "I prezzi di Psicoterapia a Genova",
   "come_funziona": {
     "title": "Come funziona",
-    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 700 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Genova e zone di periferia grazie a 3 semplici passaggi:",
+    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Genova e area metropolitana grazie a 3 semplici passaggi:",
     "cards": [
       {
         "image": {
@@ -93,33 +93,25 @@
       {
         "name": "Alessandro Longo",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia cognitiva ad orientamento costruttivista ed evolutivo"
-        ],
+        "prestazioni": ["Psicoterapia cognitiva ad orientamento costruttivista ed evolutivo"],
         "avatar": "alessandro-longo"
       },
       {
         "name": "Giovanni Stornaiuolo",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia psicoanalitico, individuale e di gruppo"
-        ],
+        "prestazioni": ["Psicoterapia psicoanalitico, individuale e di gruppo"],
         "avatar": "giovanni-stornaiuolo"
       },
       {
         "name": "Francesca Monoli",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia psicodinamica adleriana"
-        ],
+        "prestazioni": ["Psicoterapia psicodinamica adleriana"],
         "avatar": "francesca-monoli"
       },
       {
         "name": "Chiara Bergese",
         "disciplina": "Psicoterapeuta",
-        "prestazioni": [
-          "Psicoterapia psicoanalitica"
-        ],
+        "prestazioni": ["Psicoterapia psicoanalitica"],
         "avatar": "chiara-bergese"
       }
     ]
@@ -127,7 +119,7 @@
   "feedaty": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "title": "Oltre 3000 famiglie soddisfatte",
+    "title": "Oltre 4000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "average": "media recensioni",
     "vote": 4.7,
@@ -268,7 +260,7 @@
           "name": "interventi-tempestivi"
         },
         "title": "Assistenza costante",
-        "text": "Sentirsi sicuri e sereni è alla base del benessere psichico. Noi di EpiCura ci teniamo a far sentire il paziente seguito costantemente in tutte le sue esigenze. Vuoi parlare con un esperto? Chiamaci allo 010 807 8680."
+        "text": "Sentirsi sicuri e sereni è alla base del benessere psichico. Noi di EpiCura ci teniamo a far sentire il paziente seguito costantemente in tutte le sue esigenze."
       }
     ]
   },
@@ -299,7 +291,7 @@
           "name": "interventi-tempestivi"
         },
         "title": "Assistenza costante",
-        "text": "Noi di EpiCura ci teniamo a far sentire il paziente seguito costantemente in tutte le sue esigenze. Vuoi parlare con un esperto? Chiamaci allo 010 807 8680."
+        "text": "Noi di EpiCura ci teniamo a far sentire il paziente seguito costantemente in tutte le sue esigenze."
       }
     ]
   },

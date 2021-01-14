@@ -90,8 +90,8 @@
       "path": "videoconsultation",
       "name": "videoconsultation-banner"
     },
-    "button-text": "PRENOTA ORA",
-    "button-link": "/teleconsulting/?discipline=nutrition"
+    "button-text": "Scopri il servizio",
+    "button-link": "/videoconsulti/"
   },
   "feedaty": {
     "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
@@ -113,10 +113,10 @@
       {
         "feedaty-feedback-author-sex": "Femmina",
         "feedaty-feedback-author": "Francesca",
-        "feedaty-feedback-text": "Inizialmente un po' diffidente, ma mi sono ricreduta in fretta. Epicura che bella scoperta, tutti molto gentili! Ho prenotato anche 3 sedute di osteopatia, vi farò sapere come andrà."
+        "feedaty-feedback-text": "Inizialmente un po' diffidente, ma mi sono ricreduta in fretta. EpiCura che bella scoperta, tutti molto gentili! Ho prenotato anche 3 sedute di osteopatia, vi farò sapere come andrà."
       }
     ],
-   "feedaty-male-image": {
+    "feedaty-male-image": {
       "path": "common",
       "name": "male"
     },

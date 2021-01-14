@@ -38,7 +38,7 @@
     "textColor": "dark",
     "professionistaText": "Sei un professionista?",
     "professionistaUrl": "/professionisti-lavoro/",
-    "titleBig": "La salute a Roma con Epicura",
+    "titleBig": "La salute a Roma con EpiCura",
     "subtitleBig": "Il primo poliambulatorio digitale in Italia",
     "description1": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
     "description2": "Scopri i servizi che offriamo o richiedi informazioni per capire come possiamo soddisfare le tue necessità.",
@@ -260,7 +260,7 @@
   "feedaty": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "title": "Oltre 3000 famiglie soddisfatte",
+    "title": "Oltre 4000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "average": "media recensioni",
     "vote": 4.7,
@@ -877,12 +877,8 @@
         "name": "Flaminio"
       },
       {
-        "location": "41.920272,12.444074",
-        "name": "Balduina"
-      },
-      {
         "location": "41.876694,12.347715",
-        "name": "Casal Lombroso"
+        "name": "Casal Lumbroso"
       },
       {
         "location": "41.875672,12.355150",
@@ -1115,7 +1111,7 @@
     ],
     "cardPhone": {
       "title": "Chiamaci",
-      "text": "Numero attivo 7 su 7, dalle 8.30 alle 19.30.",
+      "text": "Numero attivo 7 giorni su 7, dalle 8:30 alle 19:30.",
       "image": "phone-card"
     },
     "cardContact": {

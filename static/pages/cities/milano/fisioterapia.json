@@ -119,7 +119,7 @@
   "feedaty": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "title": "Oltre 3000 famiglie soddisfatte",
+    "title": "Oltre 4000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "average": "media recensioni",
     "vote": 4.7,
@@ -241,7 +241,7 @@
   "descrizione_servizio": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "htmlText": "<h2>La fisioterapia a casa tua</h2><p>Le attese in sala di aspetto, gli appuntamenti fissati a giorni di distanza e la poca flessibilità di orari sono all’ordine del giorno quando si decide di prenotare una seduta fisioterapica.</p> <p>Ci siamo impegnati a rivoluzionare questa scomoda realtà con cui la maggior parte delle persone che intraprende percorsi di fisioterapia si deve confrontare.</p> <p>EpiCura offre servizi a domicilio in tutta Milano e area metropolitana, senza liste di attesa per rendere la fisioterapia un’esperienza gradevole e soprattutto rigenerante. </p>I nostri professionisti certificati e coperti da assicurazione strutturano percorsi personalizzati per le tue specifiche esigenze. Porteranno con loro tutto quello di cui hanno bisogno per farti beneficiare a pieno del tuo percorso fisioterapico direttamente nel comfort di casa tua. <p>La fisioterapia è in grado di risolvere, problematiche ormai molto comuni come: <ul><li>Malattie neurologiche: sindrome del tunnel carpale, morbo di Parkinson, Alzheimer, sclerosi multipla e le altre patologie che colpiscono la capacità di equilibrio e di movimento;</li><li>Traumi post-operatori: stiramenti, distorsioni, contusioni, tendinopatie, lombalgia (mal di schiena), lombosciatalgia, cervicalgia, patologie dolorose della spalla e altri disturbi;</li><li>Dismorfismi ortopedici e dolori muscolo-scheletrici: ginocchia varo o valgo, piede piatto, scoliosi, ecc;</li><li>Disturbi reumatici: artrosi, artrite reumatoide, fibromialgia ecc;</li><li>Edemi: lipedemi (cellulite), linfedemi, flebedemi e in generale situazioni di accumulo di liquidi che causano problemi alla circolazione e al sistema linfatico.</li></ul></p>",
+    "htmlText": "<h2>La fisioterapia a casa tua</h2><p>Le attese in sala di aspetto, gli appuntamenti fissati a giorni di distanza e la poca flessibilità di orari sono all’ordine del giorno quando si decide di prenotare una seduta fisioterapica.</p> <p>Ci siamo impegnati a rivoluzionare questa scomoda realtà con cui la maggior parte delle persone che intraprende percorsi di fisioterapia si deve confrontare.</p> <p>EpiCura offre servizi a domicilio in tutta Milano e area metropolitana, senza liste di attesa per rendere la fisioterapia un’esperienza gradevole e soprattutto rigenerante. </p>I nostri professionisti certificati e coperti da assicurazione strutturano percorsi personalizzati per le tue specifiche esigenze. Porteranno con loro tutto quello di cui hanno bisogno per farti beneficiare a pieno del tuo percorso fisioterapico direttamente nel comfort di casa tua. <p>La fisioterapia è in grado di risolvere problematiche ormai molto comuni come: <ul><li>Malattie neurologiche: sindrome del tunnel carpale, morbo di Parkinson, Alzheimer, sclerosi multipla e le altre patologie che colpiscono la capacità di equilibrio e di movimento;</li><li>Traumi post-operatori: stiramenti, distorsioni, contusioni, tendinopatie, lombalgia (mal di schiena), lombosciatalgia, cervicalgia, patologie dolorose della spalla e altri disturbi;</li><li>Dismorfismi ortopedici e dolori muscolo-scheletrici: ginocchio varo o valgo, piede piatto, scoliosi, ecc;</li><li>Disturbi reumatici: artrosi, artrite reumatoide, fibromialgia ecc;</li><li>Edemi: lipedemi (cellulite), linfedemi, flebedemi e in generale situazioni di accumulo di liquidi che causano problemi alla circolazione e al sistema linfatico.</li></ul></p>",
     "cards": [
       {
         "image": {
@@ -265,14 +265,14 @@
           "name": "interventi-tempestivi"
         },
         "title": "Interventi tempestivi",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria seduta. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali. Vuoi risolvere il tuo problema? Chiamaci subito allo 02 500 47046."
+        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria seduta. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
       }
     ]
   },
   "descrizione_servizioFbAdw": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "htmlText": "<h2>La fisioterapia a casa tua</h2><p>I nostri professionisti <b>certificati e coperti da assicurazione</b> sono in grado di strutturare <b>percorsi personalizzati</b> studiati per le tue esigenze.</p><p>Porteranno con loro tutto il necessario per farti beneficiare a pieno del tuo percorso fisioterapico direttamente <b>nel comfort di casa tua</b>.</p><p>La fisioterapia è in grado di risolvere, problematiche ormai molto comuni come: <ul><li>Malattie neurologiche (Parkinson, Sclerosi)</li><li>Traumi post-operatori (stiramenti, contusioni, lombalgia, sciatalgia)</li><li>Dismorfismi ortopedici e dolori muscolo-scheletrici (piede piatto, scoliosi, ginocchio valgo)</li><li>Disturbi reumatici (artrosi, fibromialgia, artrite)</li><li>Edemi (cellulite, linfedemi)</li></ul></p>",
+    "htmlText": "<h2>La fisioterapia a casa tua</h2><p>I nostri professionisti <b>certificati e coperti da assicurazione</b> sono in grado di strutturare <b>percorsi personalizzati</b> studiati per le tue esigenze.</p><p>Porteranno con loro tutto il necessario per farti beneficiare a pieno del tuo percorso fisioterapico direttamente <b>nel comfort di casa tua</b>.</p><p>La fisioterapia è in grado di risolvere problematiche ormai molto comuni come: <ul><li>Malattie neurologiche (Parkinson, Sclerosi)</li><li>Traumi post-operatori (stiramenti, contusioni, lombalgia, sciatalgia)</li><li>Dismorfismi ortopedici e dolori muscolo-scheletrici (piede piatto, scoliosi, ginocchio valgo)</li><li>Disturbi reumatici (artrosi, fibromialgia, artrite)</li><li>Edemi (cellulite, linfedemi)</li></ul></p>",
     "cards": [
       {
         "image": {

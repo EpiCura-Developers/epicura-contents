@@ -14,7 +14,7 @@
           "name": "scegli-soluzione"
         },
         "title": "Scegli la soluzione",
-        "text": "EpiCura offre un’ampia scelta di servizi per permettere al genitore di trovare esattamente ciò di cui il suo bambino ha bisogno. Se vuoi aiuto, spiegaci la situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
+        "text": "EpiCura offre un’ampia scelta di servizi per permettere al genitore di trovare esattamente ciò di cui il tuo bambino ha bisogno. Se vuoi aiuto, spiegaci la situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
       },
       {
         "image": {
@@ -29,7 +29,7 @@
           "path": "common",
           "name": "migliora-salute"
         },
-        "title": "Migliora la tua salute",
+        "title": "Migliora la sua salute",
         "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Affiancheremo il tuo bambino nel suo percorso di cura e di miglioramento della sua salute. Potrai contattarci per qualunque esigenza."
       }
     ]
@@ -59,7 +59,7 @@
           "path": "common",
           "name": "migliora-salute"
         },
-        "title": "Migliora la tua salute",
+        "title": "Migliora la sua salute",
         "text": "Preparati a ricevere a casa tua il nostro specialista. Affiancherà il tuo bambino nel suo percorso di cura. Potrai contattarti per qualunque esigenza."
       }
     ]
@@ -89,7 +89,7 @@
   "feedaty": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "title": "Oltre 3000 famiglie soddisfatte",
+    "title": "Oltre 4000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "average": "media recensioni",
     "vote": 4.7,
@@ -229,7 +229,7 @@
           "name": "interventi-tempestivi"
         },
         "title": "Interventi tempestivi",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria visita. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali. Vuoi risolvere il problema? Chiamaci subito allo 011 0243215."
+        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria visita. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
       }
     ]
   },

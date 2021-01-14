@@ -119,7 +119,7 @@
   "feedaty": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "title": "Oltre 3000 famiglie soddisfatte",
+    "title": "Oltre 4000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "average": "media recensioni",
     "vote": 4.7,
@@ -142,7 +142,7 @@
           "name": "female"
         },
         "title": "Maria Chiara",
-        "text": "Non posso non dare 5 stelle. Ho avuto un emergenza, ed avevo bisogno di un medico, ma siccome vivo in una città in cui non ho residenza, e non ho ancora fatto il medico provvisorio, non sapevo dove sbattere la testa (escludendo ospedale a causa del coronavirus). Mi sono messa in contatto con Epicura e dopo 2 ore la dottoressa era a casa. Molto gentile, competente, e disponibile. Anche lo staff Epicura è stato davvero molto disponibile. il mio giudizio è molto positivo. Grazie"
+        "text": "Non posso non dare 5 stelle. Ho avuto un emergenza, ed avevo bisogno di un medico, ma siccome vivo in una città in cui non ho residenza, e non ho ancora fatto il medico provvisorio, non sapevo dove sbattere la testa (escludendo ospedale a causa del coronavirus). Mi sono messa in contatto con EpiCura e dopo 2 ore la dottoressa era a casa. Molto gentile, competente, e disponibile. Anche lo staff EpiCura è stato davvero molto disponibile. il mio giudizio è molto positivo. Grazie"
       },
       {
         "image": {
@@ -234,7 +234,7 @@
   "descrizione_servizio": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "htmlText": "<h2>Quando rivolgersi ad un medico di base?</h2><p>Il medico di base (o medico di famiglia) è la figura a cui rivolgersi per la cura globale e primaria e per la prevenzione della tua salute. Il medico ti aiuterà a mantenere il controllo sul tuo stato di salute grazie alle sue competenze e la sua visione ampia in medicina. I disturbi e le malattie più comuni che il medico di base tratta sono:</p> <p><ul><li>malattie infettive (varicella, morbillo ecc.);</li><li>emicrania</li><li>ipertensione</li><li>diabete</li><li>emorroidi</li><li>cervicale</li><li>lombosciatalgia</li><li>acne</li><li>colite</li><li>gastrite</li></ul></p><p>Al giorno d’oggi le visite di medicina generale sono il sinonimo di lunghe attese e scomodità orarie. Per questo noi di EpiCura abbiamo deciso di rimuovere le liste di attesa dalle visite garantendo un intervento a domicilio 7 giorni su 7 anche in orari serali favorendo la guarigione e il benessere psico-fisico del paziente. L’ambiente familiare, al contrario di uno studio medico freddo e asettico, mette il paziente a proprio agio aiutandolo e spronandolo a collaborare al meglio per raggiunge la sua guarigione.</p>",
+    "htmlText": "<h2>Quando rivolgersi ad un medico di base?</h2><p>Il medico di base (o medico di famiglia) è la figura a cui rivolgersi per la cura globale e primaria e per la prevenzione della tua salute. Il medico ti aiuterà a mantenere il controllo sul tuo stato di salute grazie alle sue competenze e la sua visione ampia in medicina. I disturbi e le malattie più comuni che il medico di base tratta sono:</p> <p><ul><li>malattie infettive (varicella, morbillo ecc.);</li><li>emicrania</li><li>ipertensione</li><li>diabete</li><li>emorroidi</li><li>cervicale</li><li>lombosciatalgia</li><li>acne</li><li>colite</li><li>gastrite</li></ul></p><p>Al giorno d’oggi le visite di medicina generale sono il sinonimo di lunghe attese e scomodità orarie. Per questo noi di EpiCura abbiamo deciso di rimuovere le liste di attesa dalle visite garantendo un intervento a domicilio 7 giorni su 7 anche in orari serali favorendo la guarigione e il benessere psicofisico del paziente. L’ambiente familiare, al contrario di uno studio medico freddo e asettico, mette il paziente a proprio agio aiutandolo e spronandolo a collaborare al meglio per raggiunge la sua guarigione.</p>",
     "cards": [
       {
         "image": {

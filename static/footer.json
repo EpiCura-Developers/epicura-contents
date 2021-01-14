@@ -16,7 +16,7 @@
       },
       {
         "option-link": "/contattaci/",
-        "option-label": "Contattaci",
+        "option-label": "Richiedi informazioni",
         "option-is-complex": true,
         "option-is-amp": false
       }
@@ -33,7 +33,7 @@
       },
       {
         "option-link": "/rassegna-stampa/",
-        "option-label": "Dicono di noi",
+        "option-label": "Rassegna stampa",
         "option-is-complex": true,
         "option-is-amp": true
       },

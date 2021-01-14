@@ -97,17 +97,17 @@
       "discount": ""
     },
     {
-      "uri": "pacchetto-cucciola",
+      "uri": "pacchetto-cucciolo",
       "title": "Pacchetto cucciolo cane",
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod.",
+      "description": "Comprende tutti i trattamenti, obbligatori e non, per garantire il benessere del tuo cucciolo. Il pacchetto prevede: prima visita veterinaria generale, vaccinazioni, microchip e sverminazione.",
       "specification": "veterinaria",
       "image": {
         "path": "common",
         "name": "bundle-veterinary"
       },
       "background-color": "gradient-blue",
-      "price": "570",
-      "discount": "600"
+      "price": "600",
+      "discount": "570"
     }
   ],
   "hint-card": {
@@ -119,8 +119,8 @@
       "path": "videoconsultation",
       "name": "videoconsultation-banner"
     },
-    "button-text": "Scopri di più",
-    "button-link": "/teleconsulting/?discipline=physiotherapy"
+    "button-text": "Scopri il servizio",
+    "button-link": "/videoconsulti/"
   },
   "feedaty": {
     "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
@@ -130,7 +130,7 @@
     "feedaty-text": "Più di 400 recensioni",
     "feedaty-feedback-list": [
       {
-        "feedaty-feedback-author-sex": "Maurizio",
+        "feedaty-feedback-author-sex": "Maschio",
         "feedaty-feedback-author": "Maurizio",
         "feedaty-feedback-text": "Davvero un ottimo servizio! Avevo bisogno di un intervento tempestivo per il mio cucciolo, ho prenotato al mattino ed usufruito la sera stessa. Veterinario molto gentile e in sintonia con gli animali."
       },

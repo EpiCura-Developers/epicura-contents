@@ -37,7 +37,7 @@
       },
       {
         "title": "Valutazione approfondimenti specialistici",
-        "content": "Valutazione e prescrizione medica per visite specialisticahe e/o esami strumentali o di laboratorio."
+        "content": "Valutazione e prescrizione medica per visite specialistiche e/o esami strumentali o di laboratorio."
       },
       {
         "title": "Farmaci e terapie",
@@ -86,8 +86,8 @@
       "path": "videoconsultation",
       "name": "videoconsultation-banner"
     },
-    "button-text": "PRENOTA ORA",
-    "button-link": "/teleconsulting/?discipline=pediatrics"
+    "button-text": "Scopri il servizio",
+    "button-link": "/videoconsulti/"
   },
   "feedaty": {
     "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
@@ -104,7 +104,7 @@
       {
         "feedaty-feedback-author-sex": "Femmina",
         "feedaty-feedback-author": "Donatella",
-        "feedaty-feedback-text": "Avevo bisogno di un pediatra mentre il mio era in ferie e ho scoperto con piacere Epicura! Molto soddisfatti, anche mio marito che spesso è diffidente verso i servizi digitali."
+        "feedaty-feedback-text": "Avevo bisogno di un pediatra mentre il mio era in ferie e ho scoperto con piacere EpiCura! Molto soddisfatti, anche mio marito che spesso è diffidente verso i servizi digitali."
       },
       {
         "feedaty-feedback-author-sex": "Femmina",

@@ -30,7 +30,7 @@
   "prezzi_title": "I prezzi di Psicologia a Torino",
   "come_funziona": {
     "title": "Come funziona",
-    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 700 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Torino e zone di periferia grazie a 3 semplici passaggi:",
+    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Torino e area metropolitana grazie a 3 semplici passaggi:",
     "cards": [
       {
         "image": {
@@ -146,10 +146,7 @@
       {
         "name": "Anna De Micco",
         "disciplina": "Psicologa",
-        "prestazioni": [
-          "Supporto psicologico adulti",
-          "Video consulti e supporto a distanza"
-        ],
+        "prestazioni": ["Supporto psicologico adulti", "Video consulti e supporto a distanza"],
         "avatar": "anna-demicco"
       }
     ]
@@ -157,7 +154,7 @@
   "feedaty": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "title": "Oltre 3000 famiglie soddisfatte",
+    "title": "Oltre 4000 famiglie soddisfatte",
     "subtitle": "Le recensioni di chi ci ha scelto",
     "average": "media recensioni",
     "vote": 4.7,
@@ -305,7 +302,7 @@
           "name": "interventi-tempestivi"
         },
         "title": "Assistenza costante",
-        "text": "Sentirsi sicuri e sereni è alla base del benessere psichico. Noi di EpiCura ci teniamo a far sentire il paziente seguito costantemente in tutte le sue esigenze. Vuoi parlare con un esperto? Chiamaci allo 051 0185233."
+        "text": "Sentirsi sicuri e sereni è alla base del benessere psichico. Noi di EpiCura ci teniamo a far sentire il paziente seguito costantemente in tutte le sue esigenze."
       }
     ]
   },
