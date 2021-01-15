@@ -65,19 +65,19 @@
     "feedaty-text": "Più di 400 recensioni",
     "feedaty-feedback-list": [
       {
+        "feedaty-feedback-author-sex": "Femmina",
+        "feedaty-feedback-author": "Giulia",
+        "feedaty-feedback-text": "Nelle sedute con la psicologa ho riscontrato una grande professionalità e competenza. Complimenti, servizio davvero consigliato."
+      },
+      {
+        "feedaty-feedback-author-sex": "Femmina",
+        "feedaty-feedback-author": "Emanuela",
+        "feedaty-feedback-text": "Lo psicologo con cui sono stata messa in contatto è una persona seria, competente e molto gentile e soprattutto di grande sostegno in un momento molto difficile per me."
+      },
+      {
         "feedaty-feedback-author-sex": "Maschio",
-        "feedaty-feedback-author": "Marcello",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Psicologo preparato e di grande empatia! Consigliatissimo!"
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Carolina",
-        "feedaty-feedback-text": "Sì, mi sono trovata bene, perché EpiCura mi ha fornito un veloce e valido aiuto in un momento di improvvisa e grave difficoltà."
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Angela",
-        "feedaty-feedback-text": "Sono rimasta molto favorevolmente impressionata dalla disponibilità, professionalità e cordialità degli operatori al telefono. Il servizio reso è stato eccellente. I costi sono competitivi e il risultato è anche migliore di quello sperato."
+        "feedaty-feedback-author": "Carlo",
+        "feedaty-feedback-text": "Servizio di psicologia eccellente, mi ha aiutato tantissimo per quello che mi serviva, non mi aspettavo un servizio impeccabile. Grazie mille."
       }
     ],
     "feedaty-male-image": {
