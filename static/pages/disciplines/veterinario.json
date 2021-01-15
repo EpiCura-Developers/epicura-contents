@@ -14,7 +14,7 @@
   },
   "subheader": {
     "title": "I benefici del veterinario a domicilio",
-    "content": "I nostri amici animali hanno bisogno di cure e attenzioni proprio come noi.<br />Monitorare periodicamente lo stato di salute del nostro cane o gatto ci permette di garantirgli una vita lunga, sana e felice.<br />Scegliendo il servizio a domicilio di EpiCura potrai usufruire della competenza dei migliori medici veterinari comodamente a casa tua, evitando scomodi spostamenti che potrebbero essere stressanti o faticosi per il tuo amico a quattro zampe, soprattutto se è anziano o malato.<br />Con EpiCura sei tu a decidere giorno e ora della visita veterinaria, con un servizio rapido e su misura, 7 giorni su 7, senza liste d’attesa.",
+    "content": "<p>I nostri amici animali hanno bisogno di cure e attenzioni proprio come noi.<br />Monitorare periodicamente lo stato di salute del nostro cane o gatto ci permette di garantirgli una vita lunga, sana e felice.</p><p>Scegliendo il servizio a domicilio di EpiCura potrai usufruire della competenza dei migliori medici veterinari comodamente a casa tua, evitando scomodi spostamenti che potrebbero essere stressanti o faticosi per il tuo amico a quattro zampe, soprattutto se è anziano o malato.</p><p>Con EpiCura sei tu a decidere giorno e ora della visita veterinaria, con un servizio rapido e su misura, 7 giorni su 7, senza liste d’attesa.</p>",
     "background-image": {
       "path": "veterinary",
       "name": "veterinary_subheader"
@@ -112,7 +112,7 @@
   ],
   "hint-card": {
     "title": "Hai un dubbio? Chiedi al veterinario",
-    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "content": "Se il tuo animale domestico deve intraprendere un percorso terapeutico o desideri ricevere un ulteriore parere specialistico, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "price": "Costo fisso 25€",
     "bkg-color": "#F5F8FF",
     "image": {
