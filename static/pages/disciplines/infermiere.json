@@ -109,19 +109,19 @@
     "feedaty-text": "Più di 400 recensioni",
     "feedaty-feedback-list": [
       {
+        "feedaty-feedback-author-sex": "Femmina",
+        "feedaty-feedback-author": "Donatella",
+        "feedaty-feedback-text": "Le prenotazioni per gli interventi sono veloci e hanno coperto tutte le esigenze incontrate. Il servizio infermieristico è ineccepibile: personale molto preparato e gentile."
+      },
+      {
         "feedaty-feedback-author-sex": "Maschio",
-        "feedaty-feedback-author": "Michele",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Avevo bisogno con una certa urgenza della somministrazione della mia consueta terapia e con EpiCura ho risolto in fretta. Prenotato al mattino ed usufruito la sera stessa. Infermiere preparato e gentile, una mano santa! Prenotare è stato facilissimo."
+        "feedaty-feedback-author": "Angelo",
+        "feedaty-feedback-text": "Risposta cortese e immediata. L’infermiera inviata molto professionale e soprattutto di grande umanità. Consigliatissimo."
       },
       {
         "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Anna",
-        "feedaty-feedback-text": "Servizio innovativo che ho scoperto grazie alla mia amica Angela. Tutto il personale è stato gentilissimo, mi sono sentita seguita in ogni aspetto. Ho prenotato un intervento di infermieristica e tre sedute di fisioterapia. Nessun problema da segnalare, bravi!"
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Marcella",
-        "feedaty-feedback-text": "Ho prenotato per mio papà che non poteva muoversi da casa. Una bella scoperta, servizio e personale molto gentile e preparato. Grazie, cinque stelle!"
+        "feedaty-feedback-author": "Carolina",
+        "feedaty-feedback-text": "L'infermiere che ha eseguito il servizio è stato molto bravo, educato e competente. Prenoterò nuovamente da voi."
       }
     ],
     "feedaty-male-image": {
