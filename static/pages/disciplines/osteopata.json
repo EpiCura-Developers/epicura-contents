@@ -97,19 +97,19 @@
     "feedaty-text": "Più di 400 recensioni",
     "feedaty-feedback-list": [
       {
+        "feedaty-feedback-author-sex": "Femmina",
+        "feedaty-feedback-author": "Roberta",
+        "feedaty-feedback-text": "L’osteopata, oltre ad essere gentilissimo, ha lavorato con umanità e professionalità. Persone come lui oggi sono rare. Grazie."
+      },
+      {
+        "feedaty-feedback-author-sex": "Femmina",
+        "feedaty-feedback-author": "Annarita",
+        "feedaty-feedback-text": "Servizio perfetto e immediato: l’osteopata si è presentato a casa mia in meno di 24 ore. Comunicazione eccellente e completa, personale gentile e preparato."
+      },
+      {
         "feedaty-feedback-author-sex": "Maschio",
-        "feedaty-feedback-author": "Maurizio",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Osteopata preparato e gentile, una mano santa! Consigliatissimo!!"
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Anna",
-        "feedaty-feedback-text": "Ho riscontrato una cortesia e prontezza rare, sia da parte della presa in carico della mia domanda, sia dall'osteopata, che è arrivato puntualmente con tutto il necessario."
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Maria",
-        "feedaty-feedback-text": "Non mi dilungherò ma vi dico che dopo tre anni di ricerche ho trovato finalmente, grazie a EpiCura, un osteopata veramente professionale e preparato!"
+        "feedaty-feedback-author": "Franco",
+        "feedaty-feedback-text": "Osteopata gentile e preparato, soprattutto in grado di entrare in empatia con mia madre anziana."
       }
     ],
     "feedaty-male-image": {
