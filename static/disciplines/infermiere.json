@@ -9,12 +9,13 @@
     "discipline-background-color": "#D3EEF0",
     "discipline-link": "/infermiere/",
     "discipline-specialities": [
-        "Sede di somministrazione farmaco",
-        "Gestione del farmaco nelle 24 ore",
-        "Gestione degli effetti collaterali del farmaco",
-        "Consigli sui materiali da medicazione",
-        "Ferite chirurgiche",
+        "Medicazioni semplici e complesse",
+        "Flebo",
+        "Iniezioni",
+        "Clisteri",
+        "Cateterismi",
+        "Rimozione punti di sutura",
         "Gestione stomie",
-        "Gestione della PEG e nutrizione parentale"
+        "Rilevazione parametri vitali"
     ]
 }

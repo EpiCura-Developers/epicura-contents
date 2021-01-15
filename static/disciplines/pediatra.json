@@ -9,6 +9,9 @@
     "discipline-background-color": "#F2EAFF",
     "discipline-link": "/pediatra/",
     "discipline-specialities": [
-        "Massaggio"
+        "Visita generica",
+        "Prescrizione farmaci",
+        "Prescrizione esami strumentali",
+        "Valutazione specialistica"
     ]
 }

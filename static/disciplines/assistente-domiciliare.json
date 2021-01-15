@@ -12,6 +12,9 @@
         "Igiene",
         "Bagno assistito",
         "Vestizione",
-        "Assistenza notturna"
+        "Assistenza a ore o continuativa",
+        "Sostituzione badante",
+        "Assistenza notturna",
+        "Assistenza in ospedale"
     ]
 }

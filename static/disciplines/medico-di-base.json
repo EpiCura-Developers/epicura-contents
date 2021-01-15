@@ -9,7 +9,9 @@
     "discipline-background-color": "#FFC5C4",
     "discipline-link": "/medico-di-base/",
     "discipline-specialities": [
-        "Problemi alla pelle",
-        "Traumi, contusioni, scottature, ferite"
+        "Visita generica",
+        "Valutazioni specialistiche",
+        "Prescrizione di esami strumentali",
+        "Prescrizione farmaci e terapie"
     ]
 }

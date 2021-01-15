@@ -9,10 +9,14 @@
     "discipline-background-color": "#E6F3FF",
     "discipline-link": "/osteopata/",
     "discipline-specialities": [
+        "Osteopatia viscerale e strutturale",
+        "Osteopatia pediatrica e neonatale",
+        "Osteopatia in gravidanza",
         "Ernia del disco",
-        "Lombalgia, Cervicalgia, Sciatalgia",
+        "Lombalgia, cervicalgia, sciatalgia",
         "Dolori articolari",
         "Disturbi post-traumatici",
-        "Disturbi all'apparato genito-urinario"
+        "Disturbi all'apparato genito-urinario",
+        "Terapia cranio-sacrale"
     ]
 }

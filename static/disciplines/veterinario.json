@@ -9,9 +9,11 @@
     "discipline-background-color": "#D8F0EF",
     "discipline-link": "/veterinario/",
     "discipline-specialities": [
-        "Punture e morsi",
-        "Bagno assistito",
-        "Vestizione",
-        "Assistenza notturna"
+        "Visita generica",
+        "Vaccinazioni",
+        "Prelievi",
+        "Esami feci e urine",
+        "Prescrizione farmacologica",
+        "Eutanasia"
     ]
 }
