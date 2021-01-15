@@ -50,17 +50,17 @@
       {
         "icon": { "path": "videoconsultation", "name": "consulenza" },
         "title": "Consulenza su patologia già accertata",
-        "description": "Se hai bisogno di un altro parere specialistico o di maggiori informazioni su una diagnosi poco chiara."
+        "description": "Se hai bisogno di un altro parere specialistico o di maggiori informazioni su una diagnosi."
       },
       {
         "icon": { "path": "videoconsultation", "name": "diagnosi" },
         "title": "Definire una diagnosi adeguata",
-        "description": "Se vuoi inquadrare meglio una condizione clinica per intraprendere il percorso specialistico più adeguato per il tuo caso."
+        "description": "Se vuoi inquadrare meglio una condizione clinica per intraprendere il percorso specialistico più adatto."
       },
       {
         "icon": { "path": "videoconsultation", "name": "sintomi" },
         "title": "Valutare sintomi clinici",
-        "description": "Se non vuoi aspettare e preferisci ricevere una valutazione specialistica immediata, saltando attese e liste infinite."
+        "description": "Se desideri ricevere una valutazione specialistica immediata, senza liste d'attesa."
       },
       {
         "icon": { "path": "videoconsultation", "name": "prescrizione" },
@@ -68,14 +68,9 @@
         "description": "Se necessiti di indicazioni più dettagliate su una prescrizione medica già emessa da un altro professionista."
       },
       {
-        "icon": { "path": "videoconsultation", "name": "valutazione-sintomi" },
-        "title": "Valutazione specialistica su segni clinici e sintomi ",
-        "description": "Se non vuoi aspettare e preferisci ricevere una valutazione specialistica immediata, saltando attese e liste infinite."
-      },
-      {
         "icon": { "path": "videoconsultation", "name": "trattamento" },
         "title": "Parere su trattamento già prescritto",
-        "description": "Se vuoi confrontarti con uno specialista su un trattamento e/o un piano terapeutico prescritto da un altro professionista."
+        "description": "Se vuoi confrontarti con uno specialista su un trattamento e/o un piano terapeutico in corso o da iniziare."
       },
       {
         "icon": { "path": "videoconsultation", "name": "accertamenti" },
