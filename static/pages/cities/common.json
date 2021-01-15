@@ -87,6 +87,10 @@
           {
             "title": "Cookie policy",
             "url": "/cookie-policy/"
+          },
+          {
+            "title": "Avvertenza di rischio",
+            "url": "/avvertenza-di-rischio/"
           }
         ]
       }
@@ -114,6 +118,10 @@
       {
         "title": "Cookie policy",
         "url": "/cookie-policy/"
+      },
+      {
+        "title": "Avvertenza di rischio",
+        "url": "/avvertenza-di-rischio/"
       }
     ]
   },

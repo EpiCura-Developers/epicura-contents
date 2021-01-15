@@ -71,6 +71,12 @@
         "option-label": "Cookie policy",
         "option-is-complex": true,
         "option-is-amp": false
+      },
+      {
+        "option-link": "/avvertenza-di-rischio/",
+        "option-label": "Avvertenza di rischio",
+        "option-is-complex": true,
+        "option-is-amp": false
       }
     ]
   }
