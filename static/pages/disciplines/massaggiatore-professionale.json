@@ -90,19 +90,19 @@
     "feedaty-text": "Più di 400 recensioni",
     "feedaty-feedback-list": [
       {
+        "feedaty-feedback-author-sex": "Femmina",
+        "feedaty-feedback-author": "Giovanna",
+        "feedaty-feedback-text": "Mi sono trovata estremamente bene, massoterapista competente, serio, puntuale e con una lunga esperienza nel settore. Non posso altro che dare un ottimo giudizio."
+      },
+      {
         "feedaty-feedback-author-sex": "Maschio",
-        "feedaty-feedback-author": "Maurizio",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Massoterapista preparato e gentile, una mano santa! Consigliatissimo!!"
+        "feedaty-feedback-author": "Donato",
+        "feedaty-feedback-text": "Eseguito massaggio sportivo con professionista eccellente. Ottimo servizio, puntualità, cortesia e professionalità. Grazie."
       },
       {
         "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Anna",
-        "feedaty-feedback-text": "Ho utilizzato EpiCura in un momento di urgenza: servizio comodo, veloce, efficiente. Mi hanno immediatamente risolto il problema e nel giro di poche ore mi è stata effettuata una visita a domicilio. Possibile pagare comodamente online. Stra-consigliato"
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Maria",
-        "feedaty-feedback-text": "Ho riscontrato una cortesia e prontezza rare, sia da parte della presa in carico della mia domanda, sia della professionista, che è arrivata puntualmente con tutto il necessario."
+        "feedaty-feedback-author": "Lorenza",
+        "feedaty-feedback-text": "Personale altamente qualificato, gentilissimi nella fase di prenotazione, e negli orari concordati. Prezzi concorrenziali. Di meglio in giro credo che non ci sia davvero."
       }
     ],
     "feedaty-male-image": {
