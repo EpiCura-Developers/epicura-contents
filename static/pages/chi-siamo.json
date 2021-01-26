@@ -12,7 +12,7 @@
   "site-who-we-are-description-img": { "path": "common", "name": "lamp" },
   "site-who-we-are-relation-work": {
     "title": "Come funziona?",
-    "content": "Abbiamo una rete nazionale che oggi conta 800 professionisti attivi, tra medici, personale sanitario e assistenti domiciliari in 10 delle principali città italiane. <span class='green'><strong>Il nostro servizio è attivo 7 giorni su 7, dalle 8 alle 21.</strong></span>",
+    "content": "Abbiamo una rete nazionale che oggi conta 800 professionisti attivi, tra medici, personale sanitario e assistenti domiciliari in 10 delle principali città italiane. <span class='green'><strong>Il nostro servizio è attivo 7 giorni su 7, dalle 8 alle 20.</strong></span>",
     "cards": [
       {
         "image": { "path": "common", "name": "scegli-soluzione" },
