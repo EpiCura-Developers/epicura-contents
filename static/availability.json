@@ -4,11 +4,6 @@
     "zone": 44881,
     "disciplines": [
       {
-        "discipline": "assistenza-domiciliare",
-        "specialist": "assistente-domiciliare",
-        "reservation": "/prenota/?d=homecare&province=MI"
-      },
-      {
         "discipline": "infermieristica",
         "specialist": "infermiere",
         "reservation": "/prenota/?d=nursing&province=MI"
@@ -64,11 +59,6 @@
     "code": "RM",
     "zone": 41313,
     "disciplines": [
-      {
-        "discipline": "assistenza-domiciliare",
-        "specialist": "assistente-domiciliare",
-        "reservation": "/prenota/?d=homecare&province=RM"
-      },
       {
         "discipline": "infermieristica",
         "specialist": "infermiere",
@@ -126,11 +116,6 @@
     "zone": 44880,
     "disciplines": [
       {
-        "discipline": "assistenza-domiciliare",
-        "specialist": "assistente-domiciliare",
-        "reservation": "/prenota/?d=homecare&province=TO"
-      },
-      {
         "discipline": "infermieristica",
         "specialist": "infermiere",
         "reservation": "/prenota/?d=nursing&province=TO"
@@ -187,11 +172,6 @@
     "zone": 40600,
     "disciplines": [
       {
-        "discipline": "assistenza-domiciliare",
-        "specialist": "assistente-domiciliare",
-        "reservation": "/prenota/?d=homecare&province=NA"
-      },
-      {
         "discipline": "infermieristica",
         "specialist": "infermiere",
         "reservation": "/prenota/?d=nursing&province=NA"
@@ -227,11 +207,6 @@
     "code": "BO",
     "zone": 42856,
     "disciplines": [
-      {
-        "discipline": "assistenza-domiciliare",
-        "specialist": "assistente-domiciliare",
-        "reservation": "/prenota/?d=homecare&province=BO"
-      },
       {
         "discipline": "infermieristica",
         "specialist": "infermiere",
@@ -279,11 +254,6 @@
     "zone": 39181,
     "disciplines": [
       {
-        "discipline": "assistenza-domiciliare",
-        "specialist": "assistente-domiciliare",
-        "reservation": "/prenota/?d=homecare&province=CT"
-      },
-      {
         "discipline": "infermieristica",
         "specialist": "infermiere",
         "reservation": "/prenota/?d=nursing&province=CT"
@@ -314,11 +284,6 @@
     "code": "FI",
     "zone": 42472,
     "disciplines": [
-      {
-        "discipline": "assistenza-domiciliare",
-        "specialist": "assistente-domiciliare",
-        "reservation": "/prenota/?d=homecare&province=FI"
-      },
       {
         "discipline": "infermieristica",
         "specialist": "infermiere",
@@ -366,11 +331,6 @@
     "zone": 49135,
     "disciplines": [
       {
-        "discipline": "assistenza-domiciliare",
-        "specialist": "assistente-domiciliare",
-        "reservation": "/prenota/?d=homecare&province=GE"
-      },
-      {
         "discipline": "infermieristica",
         "specialist": "infermiere",
         "reservation": "/prenota/?d=nursing&province=GE"
@@ -412,11 +372,6 @@
     "zone": 44107,
     "disciplines": [
       {
-        "discipline": "assistenza-domiciliare",
-        "specialist": "assistente-domiciliare",
-        "reservation": "/prenota/?d=homecare&province=VR"
-      },
-      {
         "discipline": "infermieristica",
         "specialist": "infermiere",
         "reservation": "/prenota/?d=nursing&province=VR"
@@ -457,11 +412,6 @@
     "code": "BS",
     "zone": 44882,
     "disciplines": [
-      {
-        "discipline": "assistenza-domiciliare",
-        "specialist": "assistente-domiciliare",
-        "reservation": "/prenota/?d=homecare&province=BS"
-      },
       {
         "discipline": "infermieristica",
         "specialist": "infermiere",
