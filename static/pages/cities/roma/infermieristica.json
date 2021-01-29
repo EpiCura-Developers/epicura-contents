@@ -116,44 +116,6 @@
       }
     ]
   },
-  "feedaty": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Oltre 4000 famiglie soddisfatte",
-    "subtitle": "Le recensioni di chi ci ha scelto",
-    "average": "media recensioni",
-    "vote": 4.7,
-    "voteLiteral": "Ottimo",
-    "howManyReviews": "Più di 400 recensioni",
-    "logo": "feedaty",
-    "allReviewsText": "Tutte le recensioni",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "male"
-        },
-        "title": "Mirco",
-        "text": "Mi sono trovato molto bene, avevo un problema con i miei genitori a casa e non riuscivo a trovare un'infermiere per delle iniezioni urgenti. Hanno pensato a tutto e mi hanno fornito un servizio ottimo con dei veri professionisti. Sicuramente consigliato anche per l'umanità del personale che si occupa di organizzare gli appuntamenti, fornire informazioni dettagliate del servizio e monitorare l'andamento. Prezzi nelle media, sicuramente consigliato."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Angela",
-        "text": "Sono rimasto soddisfatto fin da subito per il trattamento ricevuto dall'operatrice che ha risposto al numero telefonico, per la sua disponibilità, gentilezza e professionalità. Avevo bisogno di un'infermiera che si è dimostrata altrettanto puntuale e professionale. Faccio i miei complimenti e ringraziamenti a tutti. Consiglierò senz'altro ai miei amici questo servizio."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Sonia",
-        "text": "Eccellente e corretti. Hanno dovuto fare un intervento a mia madre per levare punti di sutura. La prima volta che sono venuti hanno constatato che non potevano essere tolti e chiesto di verificare con dottore. Non hanno chiesto quindi il compenso anche se di diritto avrebbero avuto il diritto di chiamata. Il secondo intervento e' stato fatto 2 giorni dopo. Professionalmente bravi, puntuali negli appuntamenti, gentili nelle risposte e sopratutto correttissimi."
-      }
-    ]
-  },
   "prenotazione": {
     "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
     "subtitle": "Inizia subito il tuo percorso di cura con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",

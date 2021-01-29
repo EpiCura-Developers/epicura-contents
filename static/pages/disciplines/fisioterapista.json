@@ -93,37 +93,5 @@
     "button-text": "Scopri il servizio",
     "button-link": "/videoconsulti/"
   },
-  "feedaty": {
-    "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
-    "subtitle": "Ecco alcune recensioni di chi si è affidato ai servizi EpiCura.",
-    "feedaty-score": 4.7,
-    "feedaty-review-score": "Ottimo",
-    "feedaty-text": "Oltre 400 recensioni verificate",
-    "feedaty-feedback-list": [
-      {
-        "feedaty-feedback-author-sex": "Maschio",
-        "feedaty-feedback-author": "Maurizio",
-        "feedaty-feedback-text": "Ho usufruito del servizio di fisioterapia per risolvere un brutto dolore cervicale. Servizio impeccabile! La fisioterapista si è presa cura di me con estrema attenzione alla mia storia clinica."
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Anna",
-        "feedaty-feedback-text": "Il fisioterapista è stato bravissimo e mi sono trovata molto bene! Un vero professionista, preparato e umano nei rapporti. Grazie!"
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Maria",
-        "feedaty-feedback-text": "Esperienza più che positiva. Ottima impressione e fisioterapista eccellente. Consigliatissimo."
-      }
-    ],
-    "feedaty-male-image": {
-      "path": "common",
-      "name": "male"
-    },
-    "feedaty-female-image": {
-      "path": "common",
-      "name": "female"
-    }
-  },
   "active-cities-title": "In quali province è attivo il servizio"
 }

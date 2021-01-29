@@ -57,37 +57,5 @@
     "button-text": "Scopri il servizio",
     "button-link": "/videoconsulti/"
   },
-  "feedaty": {
-    "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
-    "subtitle": "Ecco alcune recensioni di chi si è affidato ai servizi EpiCura.",
-    "feedaty-score": 4.7,
-    "feedaty-review-score": "Ottimo",
-    "feedaty-text": "Più di 400 recensioni",
-    "feedaty-feedback-list": [
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Giulia",
-        "feedaty-feedback-text": "Nelle sedute con la psicologa ho riscontrato una grande professionalità e competenza. Complimenti, servizio davvero consigliato."
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Emanuela",
-        "feedaty-feedback-text": "Lo psicologo con cui sono stata messa in contatto è una persona seria, competente e molto gentile e soprattutto di grande sostegno in un momento molto difficile per me."
-      },
-      {
-        "feedaty-feedback-author-sex": "Maschio",
-        "feedaty-feedback-author": "Carlo",
-        "feedaty-feedback-text": "Servizio di psicologia eccellente, mi ha aiutato tantissimo per quello che mi serviva, non mi aspettavo un servizio impeccabile. Grazie mille."
-      }
-    ],
-    "feedaty-male-image": {
-      "path": "common",
-      "name": "male"
-    },
-    "feedaty-female-image": {
-      "path": "common",
-      "name": "female"
-    }
-  },
   "active-cities-title": "In quali province è attivo il servizio"
 }

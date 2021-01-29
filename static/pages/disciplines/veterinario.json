@@ -122,37 +122,5 @@
     "button-text": "Scopri il servizio",
     "button-link": "/videoconsulti/"
   },
-  "feedaty": {
-    "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
-    "subtitle": "Ecco alcune recensioni di chi si è affidato ai servizi EpiCura.",
-    "feedaty-score": 4.7,
-    "feedaty-review-score": "Ottimo",
-    "feedaty-text": "Più di 400 recensioni",
-    "feedaty-feedback-list": [
-      {
-        "feedaty-feedback-author-sex": "Maschio",
-        "feedaty-feedback-author": "Stefano",
-        "feedaty-feedback-text": "Mi sono trovato egregiamente perché Epicura mi ha fornito un veloce e valido aiuto in un momento di improvvisa e grave difficoltà per il mio cane anziano."
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Gianna",
-        "feedaty-feedback-text": "Consigliatissimo, da noi è venuta una veterinaria veramente brava e professionale, anche i prezzi sono equi. Consigliatissimo."
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Carlotta",
-        "feedaty-feedback-text": "La visita è stata effettuata puntualmente ed in modo accurato a breve distanza dal momento della richiesta. Veterinario gentile e competente."
-      }
-    ],
-    "feedaty-male-image": {
-      "path": "common",
-      "name": "male"
-    },
-    "feedaty-female-image": {
-      "path": "common",
-      "name": "female"
-    }
-  },
   "active-cities-title": "In quali province è attivo il servizio"
 }

@@ -85,37 +85,5 @@
     "button-text": "Scopri il servizio",
     "button-link": "/videoconsulti/"
   },
-  "feedaty": {
-    "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
-    "subtitle": "Ecco alcune recensioni di chi si è affidato ai servizi EpiCura.",
-    "feedaty-score": 4.7,
-    "feedaty-review-score": "Ottimo",
-    "feedaty-text": "Più di 400 recensioni",
-    "feedaty-feedback-list": [
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Cristina",
-        "feedaty-feedback-text": "In un momento di difficoltà per un problema che sto affrontando ho avuto consigli preziosi che sto seguendo, vedendo già i risultati. Ottimo servizio, medico gentile e competente."
-      },
-      {
-        "feedaty-feedback-author-sex": "Maschio",
-        "feedaty-feedback-author": "Marcello",
-        "feedaty-feedback-text": "Ho usato Epicura in un momento di urgenza: servizio comodo, veloce, efficiente. In poche ore ho effettuato una visita a domicilio con un medico esperto e molto professionale."
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Nicoletta",
-        "feedaty-feedback-text": "Il dottore molto professionale e gentile. Ho avuto la fortuna di trovare casualmente uno specialista proprio del problema che soffriva mia madre. In tempi di pandemia non è poco. Grazie."
-      }
-    ],
-    "feedaty-male-image": {
-      "path": "common",
-      "name": "male"
-    },
-    "feedaty-female-image": {
-      "path": "common",
-      "name": "female"
-    }
-  },
   "active-cities-title": "In quali province è attivo il servizio"
 }

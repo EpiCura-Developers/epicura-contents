@@ -101,37 +101,5 @@
     "button-text": "Scopri il servizio",
     "button-link": "/videoconsulti/"
   },
-  "feedaty": {
-    "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
-    "subtitle": "Ecco alcune recensioni di chi si è affidato ai servizi EpiCura.",
-    "feedaty-score": 4.7,
-    "feedaty-review-score": "Ottimo",
-    "feedaty-text": "Più di 400 recensioni",
-    "feedaty-feedback-list": [
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Donatella",
-        "feedaty-feedback-text": "Le prenotazioni per gli interventi sono veloci e hanno coperto tutte le esigenze incontrate. Il servizio infermieristico è ineccepibile: personale molto preparato e gentile."
-      },
-      {
-        "feedaty-feedback-author-sex": "Maschio",
-        "feedaty-feedback-author": "Angelo",
-        "feedaty-feedback-text": "Risposta cortese e immediata. L’infermiera inviata molto professionale e soprattutto di grande umanità. Consigliatissimo."
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Carolina",
-        "feedaty-feedback-text": "L'infermiere che ha eseguito il servizio è stato molto bravo, educato e competente. Prenoterò nuovamente da voi."
-      }
-    ],
-    "feedaty-male-image": {
-      "path": "common",
-      "name": "male"
-    },
-    "feedaty-female-image": {
-      "path": "common",
-      "name": "female"
-    }
-  },
   "active-cities-title": "In quali province è attivo il servizio"
 }

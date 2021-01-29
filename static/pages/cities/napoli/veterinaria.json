@@ -116,44 +116,6 @@
       }
     ]
   },
-  "feedaty": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Oltre 4000 famiglie soddisfatte",
-    "subtitle": "Le recensioni di chi ci ha scelto",
-    "average": "media recensioni",
-    "vote": 4.7,
-    "voteLiteral": "Ottimo",
-    "howManyReviews": "Più di 400 recensioni",
-    "logo": "feedaty",
-    "allReviewsText": "Tutte le recensioni",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "male"
-        },
-        "title": "Giuseppe",
-        "text": "Mi sono trovato bene, perché EpiCura mi ha fornito un veloce e valido aiuto in un momento di improvvisa e grave difficoltà."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Gloria",
-        "text": "La visita è stata effettuata puntualmente ed in modo accurato a breve distanza dal momento della richiesta. Il pagamento online è molto comodo."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Federica",
-        "text": "La richiesta dell'intervento è stata confermata in breve tempo. Veterinario professionale, rassicurante e dotato di umanità. Contatti con EpiCura sempre improntati alla cortesia."
-      }
-    ]
-  },
   "prenotazione": {
     "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
     "subtitle": "Prenditi subito cura del tuo animale con il miglior specialista certificato per le tue esigenze.",

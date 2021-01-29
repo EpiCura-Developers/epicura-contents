@@ -116,44 +116,6 @@
       }
     ]
   },
-  "feedaty": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Oltre 4000 famiglie soddisfatte",
-    "subtitle": "Le recensioni di chi ci ha scelto",
-    "average": "media recensioni",
-    "vote": 4.7,
-    "voteLiteral": "Ottimo",
-    "howManyReviews": "Più di 400 recensioni",
-    "logo": "feedaty",
-    "allReviewsText": "Tutte le recensioni",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "male"
-        },
-        "title": "Giacomo",
-        "text": "In EpiCura ho trovato una risposta sollecita alle mie necessità. Chi mi ha contattato è stato veloce, chiaro e disponibile. Il professionista con cui sono stata messa in contatto puntuale e gentilissimo."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Lina",
-        "text": "Servizio rapido ed efficente dalla prenotazione fino alla prestazione. Il tutto condito con gentilezza e disponibilità."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Alice",
-        "text": "Personale altamente qualificato, gentilissimi nella fase di prenotazione, e negli orari concordati. Prezzi concorrenziali. Di meglio in giro credo che non ci sia davvero."
-      }
-    ]
-  },
   "prenotazione": {
     "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
     "subtitle": "Inizia subito il tuo percorso di osteopatia con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",

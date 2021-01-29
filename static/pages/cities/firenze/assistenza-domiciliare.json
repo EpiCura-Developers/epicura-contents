@@ -116,44 +116,6 @@
       }
     ]
   },
-  "feedaty": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Chi ci ha scelto parla di noi",
-    "subtitle": "Oltre 4000 famiglie soddisfatte",
-    "average": "media recensioni",
-    "vote": 4.7,
-    "voteLiteral": "Ottimo",
-    "howManyReviews": "Più di 400 recensioni",
-    "logo": "feedaty",
-    "allReviewsText": "Tutte le recensioni",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "male"
-        },
-        "title": "Moreno",
-        "text": "Servizio eccellente, in 4 ore hanno trovato una persona per l'assistenza notturna di mia madre. Persone disponibili e preparate."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Lucia",
-        "text": "L'assistente propositiva e di grande supporto. È stata importante la sua presenza ad agosto, che ha permesso durante il ricovero di conciliare lavoro, riposo e cura."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Isabella",
-        "text": "Ho telefonato in emergenza e ho potuto avere, nonostante il periodo di crisi per il coronavirus, un'assistenza domiciliare notturna, attenta e gentile, nel giro di poche ore. Soddisfatta."
-      }
-    ]
-  },
   "prenotazione": {
     "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
     "subtitle": "Richiedi subito la tua assistenza domiciliare con il miglior specialista per le tue esigenze pronto a prendersi cura di te.",
