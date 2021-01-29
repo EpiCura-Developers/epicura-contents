@@ -81,38 +81,5 @@
       "discount": ""
     }
   ],
-
-  "feedaty": {
-    "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
-    "subtitle": "Ecco alcune recensioni di chi si è affidato ai servizi EpiCura.",
-    "feedaty-score": 4.7,
-    "feedaty-review-score": "Ottimo",
-    "feedaty-text": "Più di 400 recensioni",
-    "feedaty-feedback-list": [
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Giovanna",
-        "feedaty-feedback-text": "Mi sono trovata estremamente bene, massoterapista competente, serio, puntuale e con una lunga esperienza nel settore. Non posso altro che dare un ottimo giudizio."
-      },
-      {
-        "feedaty-feedback-author-sex": "Maschio",
-        "feedaty-feedback-author": "Donato",
-        "feedaty-feedback-text": "Eseguito massaggio sportivo con professionista eccellente. Ottimo servizio, puntualità, cortesia e professionalità. Grazie."
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Lorenza",
-        "feedaty-feedback-text": "Personale altamente qualificato, gentilissimi nella fase di prenotazione, e negli orari concordati. Prezzi concorrenziali. Di meglio in giro credo che non ci sia davvero."
-      }
-    ],
-    "feedaty-male-image": {
-      "path": "common",
-      "name": "male"
-    },
-    "feedaty-female-image": {
-      "path": "common",
-      "name": "female"
-    }
-  },
   "active-cities-title": "In quali province è attivo il servizio"
 }

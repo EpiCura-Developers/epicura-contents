@@ -57,37 +57,5 @@
       }
     ]
   },
-  "feedaty": {
-    "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
-    "subtitle": "Ecco alcune recensioni di chi si è affidato ai servizi EpiCura.",
-    "feedaty-score": 4.7,
-    "feedaty-review-score": "Ottimo",
-    "feedaty-text": "Più di 400 recensioni",
-    "feedaty-feedback-list": [
-      {
-        "feedaty-feedback-author-sex": "Maschio",
-        "feedaty-feedback-author": "Davide",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Prenotato al mattino ed usufruito la sera stessa. Psicoterapeuta preparato e gentile, consigliatissimo!"
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Erica",
-        "feedaty-feedback-text": "Un ottimo servizio, dalla fase di prenotazione con operatori gentili e disponibili allo psicoterapeuta, molto umano e professionale."
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Martina",
-        "feedaty-feedback-text": "Un servizio eccellente e piacevolmente inaspettato, di grande supporto in una fase della mia vita molto complicata."
-      }
-    ],
-    "feedaty-male-image": {
-      "path": "common",
-      "name": "male"
-    },
-    "feedaty-female-image": {
-      "path": "common",
-      "name": "female"
-    }
-  },
   "active-cities-title": "In quali province è attivo il servizio"
 }
