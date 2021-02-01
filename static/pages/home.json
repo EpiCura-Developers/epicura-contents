@@ -98,6 +98,62 @@
             "option-style-object-like": "",
             "option-is-new": true,
             "option-is-amp": true
+          },
+          {
+            "option-link": "/psichiatra-videoconsulto/",
+            "option-label": "Psichiatra",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
+          },
+          {
+            "option-link": "/senologo-videoconsulto/",
+            "option-label": "Senologo",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
+          },
+          {
+            "option-link": "/neuropsicomotricista-videoconsulto/",
+            "option-label": "Neuropsicomotricista",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
+          },
+          {
+            "option-link": "/ostetrico-videoconsulto/",
+            "option-label": "Ostetrico",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
+          },
+          {
+            "option-link": "/otorinolaringoiatra-videoconsulto/",
+            "option-label": "Otorinolaringoiatra",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
+          },
+          {
+            "option-link": "/chirurgo-generale-videoconsulto/",
+            "option-label": "Chirurgo generale",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
+          },
+          {
+            "option-link": "/neuropsicologo-videoconsulto/",
+            "option-label": "Neuropsicologo",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
+          },
+          {
+            "option-link": "/logopedista-videoconsulto/",
+            "option-label": "Logopedista",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
           }
         ]
       },
