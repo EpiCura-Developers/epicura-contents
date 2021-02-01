@@ -37,7 +37,7 @@
     "subtitle": "Consulti online 7 giorni su 7 a soli 25€",
     "dropdownLabel": "Seleziona disciplina",
     "dropdownPlaceholder": "Seleziona disciplina",
-    "bkgColor": "linear-gradient(315deg, rgba(129,184,235,1) 0%, rgba(220,246,250,1) 100%)",
+    "bkgColor": "#F5F8FF",
     "textColor": "dark"
   },
   "body": {

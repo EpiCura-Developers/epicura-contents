@@ -72,7 +72,7 @@
     "titleBig": "Nutrizionisti a domicilio a Firenze",
     "subtitleBig": "Per chi vuole curare la propria alimentazione",
     "description1": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
-    "description2": "EpiCura porta le visite nutrizionistiche a domicilio, in studio e in videoconsulto, in qualunque giorno e orario tu voglia. Per mantenere il benessere del corpo e della mente.",
+    "description2": "EpiCura porta le visite nutrizionistiche a domicilio e in videoconsulto, in qualunque giorno e orario tu voglia. Per mantenere il benessere del corpo e della mente.",
     "askInfoButtonText": "Richiedi informazioni"
   },
   "subheaderFbAdw": {
@@ -83,7 +83,7 @@
     "titleBig": "Visite nutrizionistiche a domicilio a Firenze",
     "subtitleBig": "Ci prendiamo cura di te",
     "description1": "Senza liste d'attesa, 7 giorni su 7.",
-    "description2": "Con EpiCura puoi prenotare percorsi nutrizionali a domicilio, in studio o in videoconsulto in tutta Firenze e area metropolitana, in qualunque giorno e orario tu voglia.",
+    "description2": "Con EpiCura puoi prenotare percorsi nutrizionali a domicilio o in videoconsulto in tutta Firenze e area metropolitana, in qualunque giorno e orario tu voglia.",
     "askInfoButtonText": "Richiedi informazioni"
   },
   "nostri_professionisti": {
@@ -199,7 +199,7 @@
   "descrizione_servizio": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
-    "htmlText": "<h2>Curare l’alimentazione</h2><p>Molte persone, ad oggi, sono prese dalla loro vita frenetica e dai loro impegni non riuscendo a prestare attenzione alla propria alimentazione. La disattenzione e la non curanza verso ciò che mangiamo porta degli scompensi alla nostra salute causando problemi, malesseri e malattie.</p><p>Il nutrizionista si occupa di aiutare la persona a migliorare la propria nutrizione strutturando diete specifiche e accompagnandola nel suo percorso di miglioramento della salute alimentare.<br />I professionisti di EpiCura si occupano di strutturare percorsi per:<ul><li>Aiutare persone in sovrappeso a ritrovare la linea</li><li>Aiutare anziani a mantenere la salute grazie all’alimentazione</li><li>Aiutare bambini a crescere in forma</li><li>Aiutare sportivi a migliorare le proprie prestazioni atletiche</li><li>Aiutare madri in gravidanza a nutrire sé stesse e il nascituro</li></ul></p><p>Abbiamo a che fare con il cibo tutti i giorni, più volte al giorno. È il nostro carburante che ci permette di vivere la nostra vita. Proprio per questo la nutrizione va curata in modo dettagliato e personalizzato. Per aiutare il paziente a trovare la propria salute alimentare i nostri nutrizionisti strutturano dei programmi su misura al caso specifico dando supporto 7 giorni su 7, in studio, a domicilio o in videoconsulto. Un supporto completo e personalizzato permette al professionista di comprendere a pieno le abitudini del paziente e aiutarlo a raggiungere i suoi obiettivi di salute.</p>",
+    "htmlText": "<h2>Curare l’alimentazione</h2><p>Molte persone, ad oggi, sono prese dalla loro vita frenetica e dai loro impegni non riuscendo a prestare attenzione alla propria alimentazione. La disattenzione e la non curanza verso ciò che mangiamo porta degli scompensi alla nostra salute causando problemi, malesseri e malattie.</p><p>Il nutrizionista si occupa di aiutare la persona a migliorare la propria nutrizione strutturando diete specifiche e accompagnandola nel suo percorso di miglioramento della salute alimentare.<br />I professionisti di EpiCura si occupano di strutturare percorsi per:<ul><li>Aiutare persone in sovrappeso a ritrovare la linea</li><li>Aiutare anziani a mantenere la salute grazie all’alimentazione</li><li>Aiutare bambini a crescere in forma</li><li>Aiutare sportivi a migliorare le proprie prestazioni atletiche</li><li>Aiutare madri in gravidanza a nutrire sé stesse e il nascituro</li></ul></p><p>Abbiamo a che fare con il cibo tutti i giorni, più volte al giorno. È il nostro carburante che ci permette di vivere la nostra vita. Proprio per questo la nutrizione va curata in modo dettagliato e personalizzato. Per aiutare il paziente a trovare la propria salute alimentare i nostri nutrizionisti strutturano dei programmi su misura al caso specifico dando supporto 7 giorni su 7, a domicilio o in videoconsulto. Un supporto completo e personalizzato permette al professionista di comprendere a pieno le abitudini del paziente e aiutarlo a raggiungere i suoi obiettivi di salute.</p>",
     "cards": [
       {
         "image": {
@@ -207,7 +207,7 @@
           "name": "comodita-casa"
         },
         "title": "Dove e quando vuoi",
-        "text": "I nostri professionisti certificati erogano visite nutrizionistiche dove preferisci, a casa, in studio o in videoconsulto, 7 giorni su 7, anche in orari serali per aiutare a migliorare l’alimentazione."
+        "text": "I nostri professionisti certificati erogano visite nutrizionistiche dove preferisci, a casa o in videoconsulto, 7 giorni su 7, anche in orari serali per aiutare a migliorare l’alimentazione."
       },
       {
         "image": {
