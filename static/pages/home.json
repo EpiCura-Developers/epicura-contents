@@ -98,6 +98,62 @@
             "option-style-object-like": "",
             "option-is-new": true,
             "option-is-amp": true
+          },
+          {
+            "option-link": "/psichiatra-videoconsulto/",
+            "option-label": "Psichiatra",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
+          },
+          {
+            "option-link": "/senologo-videoconsulto/",
+            "option-label": "Senologo",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
+          },
+          {
+            "option-link": "/neuropsicomotricista-videoconsulto/",
+            "option-label": "Neuropsicomotricista",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
+          },
+          {
+            "option-link": "/ostetrico-videoconsulto/",
+            "option-label": "Ostetrico",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
+          },
+          {
+            "option-link": "/otorinolaringoiatra-videoconsulto/",
+            "option-label": "Otorinolaringoiatra",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
+          },
+          {
+            "option-link": "/chirurgo-generale-videoconsulto/",
+            "option-label": "Chirurgo generale",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
+          },
+          {
+            "option-link": "/neuropsicologo-videoconsulto/",
+            "option-label": "Neuropsicologo",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
+          },
+          {
+            "option-link": "/logopedista-videoconsulto/",
+            "option-label": "Logopedista",
+            "option-style-object-like": "",
+            "option-is-new": true,
+            "option-is-amp": true
           }
         ]
       },
@@ -274,38 +330,6 @@
     }
   ],
   "site-landing-page-slogan": "Vogliamo rendere la sanità <br /> più semplice, rapida e su misura.",
-  "site-landing-feedaty": {
-    "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
-    "subtitle": "Ecco alcune recensioni di chi si è affidato ai servizi EpiCura.",
-    "feedaty-score": 4.7,
-    "feedaty-review-score": "Ottimo",
-    "feedaty-text": "Oltre 400 recensioni verificate",
-    "feedaty-feedback-list": [
-      {
-        "feedaty-feedback-author-sex": "Maschio",
-        "feedaty-feedback-author": "Maurizio",
-        "feedaty-feedback-text": "Davvero un ottimo servizio! Stavo male e avevo bisogno di un intervento tempestivo. <br /> Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!"
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Anna",
-        "feedaty-feedback-text": "Le prenotazioni per gli interventi sono veloci e hanno coperto tutti i problemi e le esigenze fino ad ora incontrate. <br /> Il servizio infermieristico è ineccepibile: personale molto preparato e gentile."
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Federica",
-        "feedaty-feedback-text": "Vi siete presi cura di mio padre, in un momento molto difficile per lui. <br /> Vi ringrazio per la vostra professionalità, efficienza e disponibilità. Veramente un servizio ottimo, molto consigliato."
-      }
-    ],
-    "feedaty-male-image": {
-      "path": "common",
-      "name": "male"
-    },
-    "feedaty-female-image": {
-      "path": "common",
-      "name": "female"
-    }
-  },
   "site-landing-active-cities-title": "Ecco le città in cui siamo attivi*",
   "site-landing-newsletter-img": {
     "path": "common",

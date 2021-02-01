@@ -86,44 +86,6 @@
     "description2": "Con EpiCura puoi prenotare visite pediatriche a domicilio in tutta Milano e area metropolitana, in qualunque giorno e orario tu voglia.",
     "askInfoButtonText": "Richiedi informazioni"
   },
-  "feedaty": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Oltre 4000 famiglie soddisfatte",
-    "subtitle": "Le recensioni di chi ci ha scelto",
-    "average": "media recensioni",
-    "vote": 4.7,
-    "voteLiteral": "Ottimo",
-    "howManyReviews": "Più di 400 recensioni",
-    "logo": "feedaty",
-    "allReviewsText": "Tutte le recensioni",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "male"
-        },
-        "title": "Dario",
-        "text": "Competenza e rapidità dell’intervento. Il dottore si è dimostrato preparato ed assolutamente “umano” nell’approcciarsi al bambino. Un servizio eccellente."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Loretta",
-        "text": "Feedback ottimo. Medico estremamente professionale e scrupoloso. Consiglio vivamente EpiCura a chiunque abbia bisogno di una visita pediatrica."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Carla",
-        "text": "Personale altamente qualificato, gentilissimi nella fase di prenotazione e negli orari concordati. Prezzi concorrenziali. Di meglio in giro credo che non ci sia davvero."
-      }
-    ]
-  },
   "prenotazione": {
     "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
     "subtitle": "Richiedi subito una visita pediatrica con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",

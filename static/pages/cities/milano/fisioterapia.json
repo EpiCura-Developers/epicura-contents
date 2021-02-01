@@ -116,44 +116,6 @@
       }
     ]
   },
-  "feedaty": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Oltre 4000 famiglie soddisfatte",
-    "subtitle": "Le recensioni di chi ci ha scelto",
-    "average": "media recensioni",
-    "vote": 4.7,
-    "voteLiteral": "Ottimo",
-    "howManyReviews": "Più di 400 recensioni",
-    "logo": "feedaty",
-    "allReviewsText": "Tutte le recensioni",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "male"
-        },
-        "title": "Giulio",
-        "text": "È stata un'esperienza molto positiva. Ringrazio per la professionalità sia di EpiCura che della fisioterapista. La mia mamma di 83 anni è stata coccolata ma seguita con molta professionalità Grazie!"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Giorgia",
-        "text": "La risposta è stata immediata, con spiegazioni chiare. Buona la gestione del pagamento e fattura. Servizio professionale ed eccellente."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Federica",
-        "text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
-      }
-    ]
-  },
   "prenotazione": {
     "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
     "subtitle": "Inizia subito il tuo percorso di fisioterapia con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",

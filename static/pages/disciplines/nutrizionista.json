@@ -14,7 +14,7 @@
   },
   "subheader": {
     "title": "I benefici del nutrizionista a domicilio",
-    "content": "<p>Gli attuali ritmi di vita, spesso frenetici, fanno sì che la cura della nostra alimentazione passi in secondo piano.</p><p>Eppure, mangiare bene è fondamentale per mantenere un buono stato di salute e prevenire numerose patologie, anche croniche.<br />Il nutrizionista è la figura professionale che si occupa di educare a un'alimentazione più sana senza rinunciare al piacere della tavola, elaborando diete su misura per ogni esigenza e aiutando a ritrovare il proprio benessere.</p><p>I nutrizionisti EpiCura sono disponibili 7 giorni su 7 in studio, a domicilio (in casi di impossibilità negli spostamenti) o tramite video-sedute da svolgersi comodamente online su smartphone, tablet o pc.</p>",
+    "content": "<p>Gli attuali ritmi di vita, spesso frenetici, fanno sì che la cura della nostra alimentazione passi in secondo piano.</p><p>Eppure, mangiare bene è fondamentale per mantenere un buono stato di salute e prevenire numerose patologie, anche croniche.<br />Il nutrizionista è la figura professionale che si occupa di educare a un'alimentazione più sana senza rinunciare al piacere della tavola, elaborando diete su misura per ogni esigenza e aiutando a ritrovare il proprio benessere.</p><p>I nutrizionisti EpiCura sono disponibili 7 giorni su 7, a domicilio o tramite video-sedute da svolgersi comodamente online su smartphone, tablet o pc.</p>",
     "background-image": {
       "path": "nutrition",
       "name": "nutrition_subheader"
@@ -92,38 +92,6 @@
     },
     "button-text": "Scopri il servizio",
     "button-link": "/videoconsulti/"
-  },
-  "feedaty": {
-    "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
-    "subtitle": "Ecco alcune recensioni di chi si è affidato ai servizi EpiCura.",
-    "feedaty-score": 4.7,
-    "feedaty-review-score": "Ottimo",
-    "feedaty-text": "Più di 400 recensioni",
-    "feedaty-feedback-list": [
-      {
-        "feedaty-feedback-author-sex": "Maschio",
-        "feedaty-feedback-author": "Umberto",
-        "feedaty-feedback-text": "Il nutrizionista che mi segue si è dimostrato preparato e disponibile, dandomi preziosi consigli. Vedo già i primi risultati. Che dire, servizio eccellente."
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Giorgia",
-        "feedaty-feedback-text": "Feedback ottimo, nutrizionista estremamente professionale e scrupolosa che mostra grande empatia e attenzione al mio percorso. Consiglio vivamente Epicura."
-      },
-      {
-        "feedaty-feedback-author-sex": "Femmina",
-        "feedaty-feedback-author": "Dora",
-        "feedaty-feedback-text": "EpiCura è stata una bella scoperta! Nutrizionista gentile, umano e disponibile. Ho provato molte diete, ma questa volta mi sento incoraggiata anche emotivamente!"
-      }
-    ],
-    "feedaty-male-image": {
-      "path": "common",
-      "name": "male"
-    },
-    "feedaty-female-image": {
-      "path": "common",
-      "name": "female"
-    }
   },
   "active-cities-title": "In quali province è attivo il servizio"
 }

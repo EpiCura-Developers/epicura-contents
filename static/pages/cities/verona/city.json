@@ -221,44 +221,6 @@
       }
     ]
   },
-  "feedaty": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Oltre 4000 famiglie soddisfatte",
-    "subtitle": "Le recensioni di chi ci ha scelto",
-    "average": "media recensioni",
-    "vote": 4.7,
-    "voteLiteral": "Ottimo",
-    "howManyReviews": "Più di 400 recensioni",
-    "logo": "feedaty",
-    "allReviewsText": "Tutte le recensioni",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "male"
-        },
-        "title": "Maurizio",
-        "text": "Davvero un ottimo servizio! Stavo male ed avevo bisogno di un intervento tempestivo che difficilmente avrei potuto ottenere in altro modo. Prenotato al mattino ed usufruito la sera stessa. Fisioterapista preparato e gentile, una mano santa! Consigliatissimo!!"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Anna",
-        "text": "Una novità incredibile. Ottima organizzazione e professionalità. Bastano pochi messaggi per organizzare un appuntamento e la visita a domicilio. Il dottore cortese e in gamba! La fattura mi è Arrivata qualche giorno dopo tramite e-mail. Servizio eccellente!"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Federica",
-        "text": "Personale altamente qualificato, gentilissimi nella fase di prenotazione, e negli orari concordati. Prezzi concorrenziali. Di meglio in giro credo che non ci sia davvero."
-      }
-    ]
-  },
   "prenotazione": {
     "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
     "subtitle": "Inizia subito a stare meglio con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",

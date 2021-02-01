@@ -151,44 +151,6 @@
       }
     ]
   },
-  "feedaty": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Oltre 4000 famiglie soddisfatte",
-    "subtitle": "Le recensioni di chi ci ha scelto",
-    "average": "media recensioni",
-    "vote": 4.7,
-    "voteLiteral": "Ottimo",
-    "howManyReviews": "Più di 400 recensioni",
-    "logo": "feedaty",
-    "allReviewsText": "Tutte le recensioni",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "male"
-        },
-        "title": "Federico",
-        "text": "Mi è stata inviata una persona seria, competente e molto gentile. E' stata di grande sostegno in un momento molto difficile."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Nora",
-        "text": "Affidabili, puntuali e soprattutto gentili, cosa che accade sempre più raramente nel mondo medico. Altamente consigliati"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Carla",
-        "text": "Ho avuto bisogno di un professionista per affrontare un momento particolare della mia vita, non conoscendo nessuno ho cercato su internet, ho provato questo servizio e ne sono rimasta colpita: gentilezza, ascolto e professionalità!"
-      }
-    ]
-  },
   "prenotazione": {
     "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
     "subtitle": "Inizia subito il tuo percorso psicologico con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",

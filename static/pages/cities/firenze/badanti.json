@@ -134,44 +134,6 @@
     "description2": "EpiCura si prende cura dei tuoi cari in casa, in ospedale e ovunque tu voglia 7 giorni su 7. Sviluppiamo insieme piani di assistenza personalizzati: <b>dalle badanti per assistenza notturna, all’assistenza continuativa o alle badanti conviventi.</b>",
     "askInfoButtonText": "Richiedi informazioni"
   },
-  "feedaty": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Oltre 4000 famiglie soddisfatte",
-    "subtitle": "Le recensioni di chi ci ha scelto",
-    "average": "media recensioni",
-    "vote": 4.7,
-    "voteLiteral": "Ottimo",
-    "howManyReviews": "Più di 400 recensioni",
-    "logo": "feedaty",
-    "allReviewsText": "Tutte le recensioni",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Marta",
-        "text": "Vi siete presi cura di mio padre, in un momento molto difficile per lui. Vi ringrazio per la vostra professionalità, efficienza e disponibilità. Veramente un servizio ottimo, molto consigliato."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "male"
-        },
-        "title": "Pietro",
-        "text": "Gentili, professionali e soprattutto umani!! Abbiamo richiesto una badante per mia madre non autosufficiente, mi hanno proposto le 3 alternative da loro selezionate e scelto la migliore per noi."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "female"
-        },
-        "title": "Federica",
-        "text": "Un servizio ottimo! Il family tutor segue tutto il processo di selezione, interfacciandosi costantemente con la famiglia e ascoltando qualunque esigenza. Una presenza costante e rassicurante, grazie!"
-      }
-    ]
-  },
   "faqs": {
     "askInfoText": "Richiedi informazioni",
     "prenotaText": "Prenota online",
