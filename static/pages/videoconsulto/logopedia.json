@@ -6,7 +6,7 @@
   "header": {
     "title": "Videoconsulto di Logopedia",
     "subtitle": "Servizio garantito entro 24 ore, 7 giorni su 7. Consulti online con logopedisti certificati e con esperienza",
-    "bkgColor": "linear-gradient(315deg, rgba(129,184,235,1) 0%, rgba(220,246,250,1) 100%)",
+    "bkgColor": "#F5F8FF",
     "textColor": "dark"
   },
   "card": {
