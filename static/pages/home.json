@@ -377,5 +377,37 @@
       "option-label": "Napoli"
     }
   ],
-  "site-landing-active-cities-notes": "*Il servizio di badanti è attivo in tutta Italia."
+  "site-landing-active-cities-notes": "*Il servizio di badanti è attivo in tutta Italia.",
+  "site-landing-carousel": [
+    {
+      "title": "Paghi comodamente online con la carta o bonifico*",
+      "description": "Accettiamo Carte di Debito, di Credito, prepagate.  <br />*É possibile pagare con Bonifico solo per spese superiori a 150€.  <br /><small>Si applicano 5€ per i costi di gestione della pratica.</small>",
+      "cta-text": "Prenota ora",
+      "cta-link": "/prenota/",
+      "image": {
+        "path": "common",
+        "name": "payment-with-card"
+      }
+    },
+    {
+      "title": "Siamo convenzionati con Fondi Assicurativi privati",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "cta-text": "Prenota ora",
+      "cta-link": "/prenota/",
+      "image": {
+        "path": "common",
+        "name": "insurance"
+      }
+    },
+    {
+      "title": "Puoi usufruire delle detrazioni fiscali*",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "cta-text": "Prenota ora",
+      "cta-link": "/prenota/",
+      "image": {
+        "path": "common",
+        "name": "tax-deductions"
+      }
+    }
+  ]
 }
