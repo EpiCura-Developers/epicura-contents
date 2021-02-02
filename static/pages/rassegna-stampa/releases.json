@@ -1,14 +1,44 @@
 [
   {
     "logo": { "path": "common", "name": "logo_epicura_2color" },
+    "title": "Comunicato stampa 28 ottobre 2020",
+    "date": "28 ottobre 2020",
+    "link": "/press/CS_Epicura_Anziani_281020.pdf"
+  },
+  {
+    "logo": { "path": "common", "name": "logo_epicura_2color" },
+    "title": "Comunicato stampa 22 ottobre 2020",
+    "date": "22 ottobre 2020",
+    "link": "/press/CS_Epicura_Veterinario_ 221020.pdf"
+  },
+  {
+    "logo": { "path": "common", "name": "logo_epicura_2color" },
+    "title": "Comunicato stampa 8 ottobre 2020",
+    "date": "8 ottobre 2020",
+    "link": "/press/CS_Epicura_ NUOVI_FINANZIAMENTI_08_10_2020.pdf"
+  },
+  {
+    "logo": { "path": "common", "name": "logo_epicura_2color" },
+    "title": "Comunicato stampa 11 maggio 2020",
+    "date": "11 maggio 2020",
+    "link": "/press/CS_Epicura_Assistenza_anziani_e_teleconsulto_11maggio2020.pdf"
+  },
+  {
+    "logo": { "path": "common", "name": "logo_epicura_2color" },
     "title": "Comunicato stampa 24 marzo 2020",
     "date": "24 marzo 2020",
     "link": "/press/CS_Epicura_TELECONSULTI _20200304.pdf"
   },
   {
     "logo": { "path": "common", "name": "logo_epicura_2color" },
+    "title": "Comunicato stampa 13 gennaio 2020",
+    "date": "13 gennaio 2020",
+    "link": "/press/CS_Epicura_TELECONSULTI _13Gennaio2020.pdf"
+  },
+  {
+    "logo": { "path": "common", "name": "logo_epicura_2color" },
     "title": "Comunicato stampa 2 aprile 2019",
     "date": "2 aprile 2019",
-    "link": "/press/comunicatoStampaEpicura20190405.pdf"
+    "link": "/press/CS_Epicura_20190405.pdf"
   }
 ]
