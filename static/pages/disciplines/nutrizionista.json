@@ -1,0 +1,97 @@
+{
+  "metaDescription": {
+    "title": "EpiCura - Nutrizionista",
+    "description": "Nutrizionisti a domicilio. Valutazione nutrizionale, monitoraggio e pianificazione diete a casa, 7 giorni su 7, nessuna lista d'attesa."
+  },
+  "title-color": "#002E4D",
+  "header": {
+    "title": "Nutrizionista a domicilio",
+    "subtitle": "",
+    "background-image": {
+      "path": "nutrition",
+      "name": "nutrition"
+    }
+  },
+  "subheader": {
+    "title": "I benefici del nutrizionista a domicilio",
+    "content": "<p>Gli attuali ritmi di vita, spesso frenetici, fanno sì che la cura della nostra alimentazione passi in secondo piano.</p><p>Eppure, mangiare bene è fondamentale per mantenere un buono stato di salute e prevenire numerose patologie, anche croniche.<br />Il nutrizionista è la figura professionale che si occupa di educare a un'alimentazione più sana senza rinunciare al piacere della tavola, elaborando diete su misura per ogni esigenza e aiutando a ritrovare il proprio benessere.</p><p>I nutrizionisti EpiCura sono disponibili 7 giorni su 7, a domicilio o tramite video-sedute da svolgersi comodamente online su smartphone, tablet o pc.</p>",
+    "background-image": {
+      "path": "nutrition",
+      "name": "nutrition_subheader"
+    }
+  },
+  "cta1": {
+    "text": "Richiedi informazioni",
+    "link": "/contattaci/"
+  },
+  "cta2": {
+    "text": "Prenota ora",
+    "link": "/prenota/?d=nutrition"
+  },
+  "problems": {
+    "title": "Problemi che puoi risolvere con il nutrizionista",
+    "list": [
+      {
+        "title": "Valutazione apporto alimentare",
+        "content": "Visita nutrizionistica per il calcolo e la valutazione dell’apporto alimentare ideale per raggiungere lo stato di forma e di salute. Migliora la qualità della tua alimentazione grazie ai consigli dei nostri esperti nutrizionisti."
+      },
+      {
+        "title": "Monitoraggio dei valori nutrizionali",
+        "content": "Percorso nutrizionistico per il monitoraggio dei valori nutrizionali e per il controllo costante del cibo assunto."
+      },
+      {
+        "title": "Misurazione adipometrica",
+        "content": "Visita nutrizionistica per la misurazione della composizione corporea e l’analisi dello stato di forma."
+      },
+      {
+        "title": "Misurazione con plicometro",
+        "content": "Visita nutrizionistica per la misurazione della massa grassa con il plicometro: per niente invasivo e con ottima precisione."
+      },
+      {
+        "title": "Educazione alimentare",
+        "content": "Valutazione del corretto apporto energetico dei cibi a casa tua oppure in videoconsulto. Non comprende la strutturazione di una dieta, ma una consulenza su consigli e comportamenti corretti per migliorare il proprio stato di salute e la qualità della vita."
+      }
+    ]
+  },
+  "bundles": [
+    {
+      "uri": "pacchetto-10",
+      "title": "Pacchetto 10",
+      "description": "Dedicati un momento per distendere le tensioni muscolari.",
+      "specification": "fisioterapia",
+      "image": {
+        "path": "common",
+        "name": "bundle-10"
+      },
+      "background-color": "gradient-rose",
+      "price": "600",
+      "discount": "570"
+    },
+    {
+      "uri": "pacchetto-3",
+      "title": "Pacchetto 3",
+      "description": "Dedicati un momento per distendere le tensioni muscolari.",
+      "specification": "fisioterapia",
+      "image": {
+        "path": "common",
+        "name": "bundle-3"
+      },
+      "background-color": "gradient-green",
+      "price": "150",
+      "discount": ""
+    }
+  ],
+  "hint-card": {
+    "title": "Hai un dubbio? Chiedi al nutrizionista",
+    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "price": "Costo fisso 25€",
+    "bkg-color": "#F5F8FF",
+    "image": {
+      "path": "videoconsultation",
+      "name": "videoconsultation-banner"
+    },
+    "button-text": "Scopri il servizio",
+    "button-link": "/videoconsulti/"
+  },
+  "active-cities-title": "In quali province è attivo il servizio"
+}

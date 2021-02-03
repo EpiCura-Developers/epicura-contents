@@ -1,0 +1,503 @@
+{
+  "metaDescription": {
+    "title": "EpiCura - Verona",
+    "description": "Cura la tua salute e quella di chi ami a Verona e area metropolitana con EpiCura, primo poliambulatorio digitale in Italia. Servizi medici, sanitari e assistenziali 7 giorni su 7, anche in orari serali, senza liste d'attesa."
+  },
+  "come_funziona": {
+    "title": "Come funziona",
+    "text": "Il settore della sanità è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno, rende l'accesso alle cure efficace, comodo e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Verona e area metropolitana grazie a 3 semplici passaggi:",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
+        "title": "Scegli la soluzione",
+        "text": "EpiCura offre un’ampia scelta di servizi per permettere al paziente di trovare esattamente ciò di cui ha bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
+        "title": "Prenota la seduta",
+        "text": "Contattaci telefonicamente o prenota direttamente online, troveremo il miglior specialista che ti guiderà nel percorso terapeutico. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "migliora-salute"
+        },
+        "title": "Migliora la tua salute",
+        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo corpo. Potrai contattarci per qualunque esigenza."
+      }
+    ]
+  },
+  "subheader": {
+    "prenotaOnlineText": "Prenota online",
+    "textColor": "dark",
+    "professionistaText": "Sei un professionista?",
+    "professionistaUrl": "/professionisti-lavoro/",
+    "titleBig": "La salute a Verona con EpiCura",
+    "subtitleBig": "Il primo poliambulatorio digitale in Italia",
+    "description1": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
+    "description2": "Scopri i servizi che offriamo o richiedi informazioni per capire come possiamo soddisfare le tue necessità.",
+    "askInfoButtonText": "Richiedi informazioni"
+  },
+  "nostri_servizi": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "title": "I nostri servizi",
+    "startingFromText": "Interventi a partire da",
+    "list": {
+      "medicina-generale": {
+        "title": "Medicina generale",
+        "textColor": "light",
+        "image": "medicina-generale",
+        "price": "100€",
+        "prestazioni": [
+          "Visita generica",
+          "Certificati medici",
+          "Prescrizione esami strumentali e visite specialistiche",
+          "Prescrizione farmaci"
+        ],
+        "description": "Visite mediche a domicilio, senza alcuna lista d’attesa e anche nel weekend. I nostri medici offrono comodità oraria, 7 giorni su 7, per avere la sicurezza di uno specialista in qualsiasi momento."
+      },
+      "veterinaria": {
+        "title": "Veterinaria",
+        "textColor": "dark",
+        "image": "veterinaria",
+        "price": "15€",
+        "prestazioni": [
+          "Visita generica",
+          "Vaccini",
+          "Prelievi ed esami feci e urine",
+          "Prescrizione farmaci",
+          "Eutanasia"
+        ],
+        "description": "Interventi di medicina veterinaria rapidi e senza attesa direttamente a casa tua. Qualunque giorno della settimana e in orari serali per regalare al tuo animale la migliore salute possibile."
+      },
+      "osteopatia": {
+        "title": "Osteopatia",
+        "textColor": "dark",
+        "image": "osteopatia",
+        "price": "240€",
+        "prestazioni": [
+          "Osteopatia viscerale e strutturale",
+          "Osteopatia pediatrica e in gravidanza",
+          "Terapia cranio-sacrale",
+          "Trattamento osteopatico neonatale"
+        ],
+        "description": "Sedute di osteopatia a domicilio e in studio con i nostri professionisti certificati disponibili 7 giorni alla settimana. Per permettere al tuo corpo di tornare in forma e in equilibrio."
+      },
+      "infermieristica": {
+        "title": "Infermieristica",
+        "textColor": "dark",
+        "image": "infermieristica",
+        "price": "20€",
+        "prestazioni": [
+          "Medicazioni semplici e complesse",
+          "Flebo",
+          "Iniezioni",
+          "Clisteri",
+          "Rimozione punti di sutura",
+          "Cateterismi",
+          "Rilevazione parametri vitali"
+        ],
+        "description": "Interventi infermieristici a domicilio garantiti in 24 ore, 7 giorni alla settimana. I nostri infermieri professionisti operano senza alcuna lista di attesa per fornire un intervento repentino, sicuro ed efficace."
+      },
+      "assistenza-domiciliare": {
+        "title": "Assistenza domiciliare",
+        "textColor": "dark",
+        "image": "assistenza-domiciliare",
+        "price": "14€",
+        "prestazioni": [
+          "Igiene, bagno assistito, vestizione",
+          "Assistenza a ore o continuativa",
+          "Sostituzione badante",
+          "Assistenza notturna",
+          "Assistenza in ospedale"
+        ],
+        "description": "Assistenza domiciliare o in ospedale, diurna e notturna per anziani malati disabili, 7 giorni su 7, curata da personale con esperienza. Percorsi personalizzati per avere sempre qualcuno al proprio fianco."
+      },
+      "servizio-ricerca-badanti": {
+        "title": "Servizio ricerca badanti",
+        "textColor": "light",
+        "image": "ricerca-badanti",
+        "price": "682€",
+        "prestazioni": [
+          "Igiene personale, bagno assistito, vestizione",
+          "Assistenza a ore o continuativa",
+          "Sostituzione badante",
+          "Assistenza notturna",
+          "Assistenza in ospedale"
+        ],
+        "description": "Ti aiutiamo a trovare la badante ideale per le necessità della tua famiglia. Verrai seguito in tutti gli aspetti di selezione e burocratici per trovare una persona esperta che stia al fianco dei tuoi cari."
+      },
+      "fisioterapia": {
+        "title": "Fisioterapia",
+        "textColor": "dark",
+        "image": "fisioterapia",
+        "price": "150€",
+        "prestazioni": [
+          "Riabilitazione ortopedica",
+          "Linfodrenaggio",
+          "Rieducazione posturale",
+          "Riabilitazione respiratoria",
+          "Terapia manuale e massoterapia"
+        ],
+        "description": "Servizi di fisioterapia a domicilio o in studio, 7 giorni su 7, anche in orari serali con professionisti certificati. Per migliorare la salute del tuo corpo nella massima comodità e senza dover aspettare."
+      },
+      "psicoterapia": {
+        "title": "Psicoterapia",
+        "textColor": "dark",
+        "price": "50€",
+        "prestazioni": [
+          "Psicoanalisi",
+          "Psicoterapia cognitiva-costuttivista",
+          "Psicoterapia psicodinamica",
+          "Psicoterapia sistemica-familiare"
+        ],
+        "description": "Sedute di psicoterapia per un supporto fornito da specialisti che comprendono la situazione e aiutano il paziente a ritrovare il suo equilibrio. Sedute in studio, a domicilio o in videoconsulto."
+      },
+      "massaggi": {
+        "title": "Massaggi",
+        "textColor": "dark",
+        "image": "massaggi",
+        "price": "65€",
+        "prestazioni": [
+          "Massaggio sportivo",
+          "Massaggio svedese",
+          "Massaggio terapeutico",
+          "Massaggio linfodrenante",
+          "Massaggio connettivale",
+          "Terapie fisiche"
+        ],
+        "description": "Massaggi professionali a domicilio per il benessere di tutto il corpo e l'eliminazione di stress e ansie. Richiedi subito un professionista certificato."
+      }
+    }
+  },
+  "nostri_professionisti": {
+    "title": "I nostri professionisti",
+    "text": "",
+    "professionisti": [
+      {
+        "name": "Nicolò Giordano",
+        "disciplina": "Fisioterapista",
+        "prestazioni": [
+          "Riabilitazione posturale",
+          "Riabilitazione ortopedica",
+          "Linfodreanggio",
+          "Terapia Manuale"
+        ],
+        "avatar": "nicolo-giordano"
+      },
+      {
+        "name": "Denise Albanese",
+        "disciplina": "Veterinaria",
+        "prestazioni": ["Visita generica", "Sverminazione", "Vaccini", "Alimentazione animale"],
+        "avatar": "denise-albanese"
+      },
+      {
+        "name": "Giuditta Seassaro",
+        "disciplina": "Psicologa",
+        "prestazioni": [
+          "Psicologia infantile",
+          "Psicologia dell'età evolutiva",
+          "Psicologa per DSA",
+          "Psicologia giovane età adulta"
+        ],
+        "avatar": "giuditta-seassaro"
+      },
+      {
+        "name": "Cristian Valeri",
+        "disciplina": "Infermiere",
+        "prestazioni": [
+          "Iniezioni",
+          "Assistenza infermieristica",
+          "Medicazioni semplici e complesse"
+        ],
+        "avatar": "cristian-valeri"
+      }
+    ]
+  },
+  "prenotazione": {
+    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
+    "subtitle": "Inizia subito a stare meglio con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
+    "ctaCall": "Vuoi prenotare telefonicamente?"
+  },
+  "faqs": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "title": "Domande frequenti",
+    "list": [
+      {
+        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
+        "answer": "Sì, tutte le prestazioni sanitarie sono detraibili dalla dichiarazione dei redditi. Per farlo basterà utilizzare la fattura che riceverai da EpiCura dopo il pagamento dell'intervento."
+      },
+      {
+        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
+        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
+      },
+      {
+        "question": "Avete un centro o uno studio dove avvengono le prestazioni?",
+        "answer": "Non abbiamo un nostro centro sul territorio, ma ci appoggiamo agli studi privati dei professionisti che collaborano con noi."
+      },
+      {
+        "question": "Cosa succede se non mi trovo bene con il professionista?",
+        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra professionista e paziente, per questo motivo se non ti trovi bene con lo specialista basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
+      }
+    ]
+  },
+  "latest_articles": {
+    "title": "Ultimi articoli su di noi",
+    "titleFbAdw": "Parlano di noi",
+    "allArticlesLink": "/rassegna-stampa/",
+    "allArticlesText": "Tutti gli articoli",
+    "readArticleText": "Leggi articolo",
+    "articles": [
+      {
+        "image": {
+          "path": "common",
+          "name": "ilsole24ore"
+        },
+        "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
+        "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "forbes"
+        },
+        "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
+        "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "corrieredellasera"
+        },
+        "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
+        "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "lastampa"
+        },
+        "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
+        "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
+      }
+    ]
+  },
+  "servizi_piu_richiesti": {
+    "title": "I servizi più richiesti",
+    "list": [
+      {
+        "title": "Assistente domiciliare a Verona",
+        "url": "/assistente-domiciliare"
+      },
+      {
+        "title": "Fisioterapista a Verona",
+        "url": "/fisioterapista"
+      },
+      {
+        "title": "Medico Generico a Verona",
+        "url": "/medico-di-base"
+      },
+      {
+        "title": "Veterinario a Verona",
+        "url": "/veterinario"
+      },
+      {
+        "title": "Infermiere a Verona",
+        "url": "/infermiere"
+      },
+      {
+        "title": "Osteopata a Verona",
+        "url": "/osteopata"
+      },
+      {
+        "title": "Psicoterapeuta a Verona",
+        "url": "/psicoterapeuta"
+      }
+    ]
+  },
+  "map": {
+    "showAllText": "Mostra tutti",
+    "hideAllText": "Mostra meno",
+    "doveCiTroviText": "I professionisti di EpiCura sono disponibili in tutta Verona",
+    "quartieriText": "Controlla qui i comuni coperti dal servizio",
+    "mapCenter": "45.438158,10.993742",
+    "markers": [
+      {
+        "location": "45.441976,10.996594",
+        "name": "Città antica"
+      },
+      {
+        "location": "45.443503,10.963868",
+        "name": "Borgo Milano"
+      },
+      {
+        "location": "45.435373,10.970436",
+        "name": "Stadio"
+      },
+      {
+        "location": "45.420998,10.981018",
+        "name": "Zona Fiere"
+      },
+      {
+        "location": "45.464244,11.007202",
+        "name": "Torricelle"
+      },
+      {
+        "location": "45.457222,10.946111",
+        "name": "Chievo"
+      },
+      {
+        "location": "45.452126,10.893190",
+        "name": "Bassone"
+      },
+      {
+        "location": "45.382702,11.000026",
+        "name": "Cadidavid"
+      },
+      {
+        "location": "45.415471,11.058497",
+        "name": "Castiglione"
+      },
+      {
+        "location": "45.472099,11.018290",
+        "name": "Poiano"
+      },
+      {
+        "location": "45.455802,10.983793",
+        "name": "Pindemonte"
+      },
+      {
+        "location": "45.436525,10.991101",
+        "name": "Cittadella"
+      },
+      {
+        "location": "45.442523,10.978788",
+        "name": "San Zeno"
+      },
+      {
+        "location": "45.443343,11.006290",
+        "name": "Veronetta"
+      },
+      {
+        "location": "45.446994,10.987824",
+        "name": "Borgo Trento"
+      },
+      {
+        "location": "45.455182,11.004274",
+        "name": "Valdonega"
+      },
+      {
+        "location": "45.439968,11.021456",
+        "name": "Borgo Venezia"
+      },
+      {
+        "location": "45.439584,11.026134",
+        "name": "Borgo Trieste"
+      },
+      {
+        "location": "45.433846,11.018737",
+        "name": "Porto San Pancrazio"
+      },
+      {
+        "location": "45.414709,10.993725",
+        "name": "Borgo Roma"
+      },
+      {
+        "location": "45.501092,10.821053",
+        "name": "Santa Lucia"
+      },
+      {
+        "location": "45.448351,10.958246",
+        "name": "Borgo Nuovo"
+      },
+      {
+        "location": "45.419845,10.966990",
+        "name": "Golosine"
+      },
+      {
+        "location": "45.460005,10.978839",
+        "name": "Ponte Crencano"
+      },
+      {
+        "location": "45.449890,11.026218",
+        "name": "Santa Croce"
+      },
+      {
+        "location": "45.470764,10.988491",
+        "name": "Avesa"
+      },
+      {
+        "location": "45.493866,11.016250",
+        "name": "Quinto"
+      },
+      {
+        "location": "45.471276,10.974189",
+        "name": "Quinzano"
+      },
+      {
+        "location": "45.460092,11.064559",
+        "name": "Montorio"
+      },
+      {
+        "location": "45.434511,11.044993",
+        "name": "San Michele"
+      },
+      {
+        "location": "45.439369,10.948108",
+        "name": "San Massimo"
+      },
+      {
+        "location": "45.477136,10.944089",
+        "name": "Parona"
+      },
+      {
+        "location": "45.415525,10.942108",
+        "name": "Bonizzati-fonte Madonna"
+      },
+      {
+        "location": "45.406468,10.930723",
+        "name": "Madonna di Dossobuono"
+      },
+      {
+        "location": "45.437192,10.960844",
+        "name": "Sogare"
+      },
+      {
+        "location": "45.428914,10.917750",
+        "name": "Casone"
+      },
+      {
+        "location": "45.356484,10.956575",
+        "name": "Castel d'Azzano"
+      },
+      {
+        "location": "45.433356,10.884280",
+        "name": "Lugagnano"
+      }
+    ],
+    "cardPhone": {
+      "title": "Chiamaci",
+      "text": "Numero attivo 7 giorni su 7, dalle 8:30 alle 19:30.",
+      "image": "phone-card"
+    },
+    "cardContact": {
+      "title": "Scrivici un messaggio",
+      "text": "Ti rispondiamo subito, o se lo desideri ti ricontattiamo quando vuoi tu.",
+      "buttonText": "Scrivici",
+      "image": "contact-card"
+    }
+  },
+  "phone_number": {
+    "full": "0458531913",
+    "display": "045 8531913",
+    "format": "XXX%20XXXXXXX"
+  }
+}

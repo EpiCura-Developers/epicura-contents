@@ -1,0 +1,293 @@
+{
+  "metaDescription": {
+    "title": "Assistente domiciliare a Brescia",
+    "description": "Assistenti domiciliari con assicurazione a Brescia e area metropolitana. Assistenze diurne e notturne, assistenza in ospedale o a casa, 7 giorni su 7, nessuna lista d'attesa"
+  },
+  "prezzi_title": "I prezzi di Assistenza domiciliare a Brescia",
+  "come_funziona": {
+    "title": "Come funziona",
+    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno rende la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Brescia e area metropolitana grazie a 3 semplici passaggi:",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
+        "title": "Scegli la soluzione",
+        "text": "EpiCura offre un’ampia scelta di servizi per permettere al paziente di trovare esattamente ciò di cui ha bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta al tuo caso."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
+        "title": "Prenota la seduta",
+        "text": "Contattaci telefonicamente o prenota direttamente online, troveremo il miglior specialista che ti guiderà nel percorso terapeutico. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "migliora-salute"
+        },
+        "title": "Migliora la tua salute",
+        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo corpo. Potrai contattarci per qualunque esigenza."
+      }
+    ]
+  },
+  "come_funzionaFbAdw": {
+    "title": "Come funziona",
+    "text": "EpiCura, con oltre 800 figure, è il primo poliambulatorio digitale in Italia. Abbiamo creato un sistema rapido per <b>evitare disorganizzazione, disagi e attese</b> ai nostri pazienti. Ecco come funziona:",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
+        "title": "Scegli la soluzione",
+        "text": "Trova il servizio adatto alle tue necessità oppure spiegaci la tua situazione. Ascolteremo i tuoi bisogni e ti aiuteremo a scegliere la migliore soluzione per te."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
+        "title": "Prenota la seduta",
+        "text": "Chiamaci o prenota direttamente online. Troveremo il miglior specialista per te e potrai ricevere il servizio in tempi brevi, senza alcuna lista d’attesa e con la massima comodità."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "migliora-salute"
+        },
+        "title": "Migliora la tua salute",
+        "text": "Preparati a ricevere a casa tua il nostro specialista. Ti affiancherà in modo professionale nel migliorare la tua salute. Per qualsiasi dubbio o necessità, potrai chiamarci in ogni momento."
+      }
+    ]
+  },
+  "subheader": {
+    "prenotaOnlineText": "Prenota online",
+    "textColor": "dark",
+    "professionistaText": "Sei un professionista?",
+    "professionistaUrl": "/professionisti-lavoro/",
+    "titleBig": "Assistenti domiciliari a Brescia",
+    "subtitleBig": "Per chi ricerca un supporto completo e personalizzato.",
+    "description1": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
+    "description2": "EpiCura porta l’assistenza domiciliare, in ospedale e ovunque tu ne abbia bisogno, in tutta Brescia e area metropolitana, in qualunque giorno e orario tu voglia. Per respirare serenità e sicurezza 7 giorni su 7, 24 ore su 24.",
+    "askInfoButtonText": "Richiedi informazioni"
+  },
+  "subheaderFbAdw": {
+    "prenotaOnlineText": "Prenota online",
+    "textColor": "dark",
+    "professionistaText": "",
+    "professionistaUrl": "/professionisti-lavoro/",
+    "titleBig": "Assistenti domiciliari a Brescia",
+    "subtitleBig": "Ci prendiamo cura di te",
+    "description1": "Senza liste d'attesa, 7 giorni su 7.",
+    "description2": "Con EpiCura puoi prenotare assistenze domiciliari in tutta Brescia e area metropolitana, in qualunque giorno e orario tu voglia.",
+    "askInfoButtonText": "Richiedi informazioni"
+  },
+  "nostri_professionisti": {
+    "title": "I nostri professionisti",
+    "text": "",
+    "professionisti": [
+      {
+        "name": "Maria Mendoca",
+        "disciplina": "Assistente domiciliare",
+        "prestazioni": [],
+        "avatar": "maria-mendoca"
+      },
+      {
+        "name": "Maria Sarnicola",
+        "disciplina": "Assistente domiciliare",
+        "prestazioni": [],
+        "avatar": "maria-sarnicola"
+      },
+      {
+        "name": "Antonio Esposito",
+        "disciplina": "Assistente domiciliare",
+        "prestazioni": [],
+        "avatar": "antonio-esposito"
+      },
+      {
+        "name": "Lauraine Koassou",
+        "disciplina": "Assistente domiciliare",
+        "prestazioni": [],
+        "avatar": "lauraine-koassou"
+      }
+    ]
+  },
+  "prenotazione": {
+    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
+    "subtitle": "Richiedi subito la tua assistenza domiciliare con il miglior specialista per le tue esigenze pronto a prendersi cura di te.",
+    "ctaCall": "Vuoi prenotare telefonicamente?"
+  },
+  "faqs": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "title": "Domande frequenti",
+    "list": [
+      {
+        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
+        "answer": "Dipende. EpiCura garantisce la detraibilità di tutte le spese riconosciute come sanitarie, proprio come un qualsiasi poliambulatorio o centro medico. Per farlo basterà utilizzare la fattura che riceverai dopo il pagamento delle prestazioni. Tuttavia alcuni costi, ad esempio quelli relativi all'Assistenza Domiciliare (per approfondire clicca  <a href='https://www.fiscoetasse.com/approfondimenti/13065-spese-per-addetti-all-assistenza-personale-le-regole-di-detrazione-.html' target='_blank' rel='noopener'>qui</a>), sono detraibili solo entro certi limiti e a seconda delle caratteristiche del contribuente."
+      },
+      {
+        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
+        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
+      },
+      {
+        "question": "Avete un centro o uno studio dove avvengono le prestazioni?",
+        "answer": "Non abbiamo un nostro centro sul territorio, ma ci appoggiamo agli studi privati dei professionisti che collaborano con noi."
+      },
+      {
+        "question": "Cosa succede se non mi trovo bene con il professionista?",
+        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra professionista e paziente, per questo motivo se non ti trovi bene basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
+      }
+    ]
+  },
+  "latest_articles": {
+    "title": "Ultimi articoli su di noi",
+    "titleFbAdw": "Parlano di noi",
+    "allArticlesLink": "/rassegna-stampa/",
+    "allArticlesText": "Tutti gli articoli",
+    "readArticleText": "Leggi articolo",
+    "articles": [
+      {
+        "image": {
+          "path": "common",
+          "name": "ilsole24ore"
+        },
+        "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
+        "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "forbes"
+        },
+        "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
+        "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "corrieredellasera"
+        },
+        "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
+        "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "lastampa"
+        },
+        "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
+        "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
+      }
+    ]
+  },
+  "servizi_piu_richiesti": {
+    "title": "I servizi più richiesti",
+    "list": [
+      "Assistenza notturna a Brescia",
+      "Assistenza per Igiene e vestizione a Brescia",
+      "Assistenza preparazione pasti a Brescia",
+      "Assistenza in ospedale a Brescia",
+      "Sostituzione badante a Brescia"
+    ]
+  },
+  "descrizione_servizio": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "htmlText": "<h2>Regalagli la serenità che merita</h2><p>Con il passare del tempo e dell’età, spesso, ci si ritrova ad affrontare problemi con il proprio corpo o la propria salute. Questo però non deve essere un motivo per lasciar andare la serenità, la sicurezza e la capacità di vivere a pieno la propria vita. Affidarsi ad assistenti professionisti, con esperienza nell’aiutare anziani, malati o disabili che hanno bisogno di una mano, permette di far riacquisire un senso di sicurezza e sollievo all’assistito e a tutta la sua famiglia. </p><p>Il servizio di assistenza aiuta a:<ul><li>Curare l’igiene personale dell’assistito tramite bagni e vestizione</li><li>Nutrirsi, con un supporto nell’assunzione dei pasti</li><li>Prendersi cura del malato in ospedale durante notte e giorno</li><li>Avere un supporto a seguito di un’operazione</li><li>Avere qualcuno che supporti in maniera continuativa chi ne ha bisogno e che lo accompagni in eventuali visite, esami o, anche, passeggiate</li></ul></p><p>Al giorno d’oggi sempre più famiglie hanno difficoltà a prendersi cura dei propri cari per mancanza di tempo e per il continuo sopraggiungere di impegni. Per questo il nostro servizio di assistenza è personalizzato e creato su misura alle esigenze del paziente e della sua famiglia. Per favorire la riabilitazione, la guarigione e il benessere psicofisico dell’assistito è di vitale importanza trovarsi in un ambiente familiare e accogliente come la propria casa. L’assistenza domiciliare permette di evitare l’ospedalizzazione riuscendo, così, a non sradicare abitudini e usi quotidiani che favoriscono la guarigione del malato facendolo sentire a suo agio.</p>",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "comodita-casa"
+        },
+        "title": "Quando e dove vuoi",
+        "text": "I nostri specialisti sono disponibili 24 ore su 24, 7 giorni su 7 per assistere chi ne ha bisogno. EpiCura mette a disposizione del personale competente per assistenza diurna e notturna dovunque ce ne sia bisogno, a casa o in ospedale."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "percorsi-personalizzati"
+        },
+        "title": "Percorsi personalizzati",
+        "text": "Ogni assistito e ogni famiglia ha le sue esigenze. Per questo offriamo percorsi personalizzati creati su misura. I nostri professionisti ti affiancheranno nel percorso di assistenza rispondendo alle tue necessità."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "interventi-tempestivi"
+        },
+        "title": "Assistenza costante",
+        "text": "Sentirsi sicuri e sereni è alla base del benessere psicofisico. Noi di EpiCura ci teniamo a far sentire l’anziano o il malato seguito costantemente in tutte le sue esigenze."
+      }
+    ]
+  },
+  "descrizione_servizioFbAdw": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "htmlText": "<h2>Regalagli la serenità che merita</h2><p>Per favorire la riabilitazione, la guarigione e il benessere psicofisico dell’assistito è di vitale importanza <b>trovarsi in un ambiente familiare e accogliente come la propria casa</b>. L’assistenza domiciliare permette di evitare l’ospedalizzazione riuscendo, così, a <b>non sradicare abitudini e usi quotidiani che favoriscono la guarigione</b> del malato facendolo sentire a suo agio.",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "comodita-casa"
+        },
+        "title": "Quando e dove vuoi",
+        "text": "I nostri specialisti sono disponibili 24 ore su 24, 7 giorni su 7, per assistenza diurna e notturna dovunque ce ne sia bisogno, a casa o in ospedale."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "percorsi-personalizzati"
+        },
+        "title": "Percorsi personalizzati",
+        "text": "I nostri professionisti ti accompagneranno in un percorso creato su misura per te, offrendoti i trattamenti corretti sulla base delle tue esigenze, dove vuoi tu e quando vuoi tu."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "interventi-tempestivi"
+        },
+        "title": "Interventi tempestivi",
+        "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
+      }
+    ]
+  },
+  "trattamenti": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "sectionTitle": "",
+    "showAllText": "Mostra tutti",
+    "hideAllText": "Mostra meno",
+    "title": "Assistenza anziani, malati e disabili a Brescia",
+    "textColor": "dark",
+    "description": "",
+    "tags": [],
+    "list": [
+      {
+        "title": "Assistenza anziani",
+        "description": "Assistenza per anziani che si trovano in condizioni di temporanea, parziale o totale non autosufficienza. Percorsi personalizzati con disponibilità 7 giorni su 7, 24 ore su 24, per un’assistenza completa."
+      },
+      {
+        "title": "Assistenza in ospedale",
+        "description": "Assistenza per anziani e malati in ospedale per un supporto diurno e notturno. Assunzione dei pasti, igiene e vestizione 7 giorni su 7 per velocizzare la guarigione e portare sicurezza durante la convalescenza."
+      },
+      {
+        "title": "Assistenza disabili",
+        "description": "Percorsi di assistenza personalizzata per disabili con disponibilità 7 giorni su 7, 24 ore su 24. I nostri professionisti specializzati danno un supporto all’assistito e alla sua famiglia su igiene, nutrizione, riavvicinamento alla deambulazione."
+      },
+      {
+        "title": "Aiuto nell’assunzione dei pasti",
+        "description": "Supporto nella preparazione e nell’assunzione dei pasti per anziani e disabili adulti. Pasti preparati su misura per esigenze dietetiche. Supporto disponibile 7 giorni su 7 ovunque ce ne sia bisogno."
+      },
+      {
+        "title": "Igiene e vestizione",
+        "description": "La presenza di infortuni o malattie può rendere la cura dell'igiene e la vestizione particolarmente difficile. I nostri assistenti specializzati, disponibili 7 giorni su 7, si prendono cura dell’assistito aiutandolo a preservare e migliore la sua salute."
+      }
+    ]
+  }
+}

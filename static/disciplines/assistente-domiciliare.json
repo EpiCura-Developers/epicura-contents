@@ -1,0 +1,20 @@
+{
+    "discipline-specialist": "Badanti e assistenti domiciliari",
+    "discipline-text-with-price": "A partire da 30€",
+    "discipline-image": {
+        "path": "homecare",
+        "name": "homecare"
+    },
+    "discipline-description": "Percorsi di assistenza su misura a casa o in ospedale.",
+    "discipline-background-color": "#F0F0F0",
+    "discipline-link": "/assistente-domiciliare/",
+    "discipline-specialities": [
+        "Igiene",
+        "Bagno assistito",
+        "Vestizione",
+        "Assistenza a ore o continuativa",
+        "Sostituzione badante",
+        "Assistenza notturna",
+        "Assistenza in ospedale"
+    ]
+}

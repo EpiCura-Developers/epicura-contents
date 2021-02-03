@@ -1,0 +1,53 @@
+{
+  "metaDescription": {
+    "title": "Videoconsulti e consulti infermieristici online",
+    "description": "Consulti per richiedere pareri specialistici ai migliori infermieri. Veloce, comodo e semplice. Il professionista sul tuo telefono!"
+  },
+  "header": {
+    "title": "Videoconsulto di Infermieristica",
+    "subtitle": "Servizio garantito entro 24 ore, 7 giorni su 7. Consulti online con infermieri certificati e con esperienza",
+    "bkgColor": "#F5F8FF",
+    "textColor": "dark"
+  },
+  "card": {
+    "title": "In cosa ti è utile il videoconsulto",
+    "description": "Grazie al videoconsulto potrai fare domande sulla tua salute o quella dei tuoi cari, avere un'opinione specialistica su cure e terapie o chiedere un parere prima della visita vera e propria.",
+    "whatIsIncludedLabel": "I casi più comuni su cui l'infermiere può aiutarti",
+    "bulletPoints": [
+      "Sede di somministrazione farmaco",
+      "Gestione del farmaco nelle 24 ore",
+      "Gestione degli effetti collaterali del farmaco",
+      "Metodologia di gestione della terapia endovenosa",
+      "Gestione delle medicazioni semplici e complesse",
+      "Consigli sui materiali da medicazione",
+      "Consulto su parametri vitali",
+      "Ferite chirurgiche",
+      "Gestione stomie",
+      "Consigli nutrizionali per pazienti diabetici",
+      "Consigli per malati oncologici o terminali",
+      "Educazione alla gestione del catetere vescicale",
+      "Gestione della PEG e nutrizione parentale",
+      "Consigli su cateteri venosi centrali (PIC e CVC)"
+    ],
+    "price": "25€",
+    "priceUnit": "/20 minuti",
+    "bookNowBtnLabel": "Prenota ora"
+  },
+  "faq": {
+    "title": "Domande e risposte",
+    "list": [
+      {
+        "question": "Come avverrà il videoconsulto?",
+        "answer": "Dopo il pagamento e la conferma della prestazione, riceverai una mail contenente il link per collegarti alla tua videosessione e parlare con lo specialista. Non è necessario scaricare alcuna App, né registrarsi."
+      },
+      {
+        "question": "Cosa posso richiedere durante un videoconsulto?",
+        "answer": "Potrai richiedere consulenza su patologia già accertata o sulla tipologia di trattamenti e terapie da attuare (già prescritte); consigli di tipo specialistico su segni clinici e sintomi presenti al momento del videoconsulto; dubbi su qualunque elemento concernente la propria salute o quella dei propri cari."
+      },
+      {
+        "question": "Quanto dura un videoconsulto?",
+        "answer": "Indicativamente, la durata del consulto è di 15-20 minuti."
+      }
+    ]
+  }
+}

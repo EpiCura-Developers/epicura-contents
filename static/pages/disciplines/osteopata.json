@@ -1,0 +1,93 @@
+{
+  "metaDescription": {
+    "title": "EpiCura - Osteopata",
+    "description": "Osteopati a domicilio. Linfodrenaggio, osteopata per bambino, osteopatia in gravidanza a casa, 7 giorni su 7, nessuna lista d'attesa."
+  },
+  "title-color": "#002E4D",
+  "header": {
+    "title": "Osteopata a domicilio",
+    "subtitle": "",
+    "background-image": {
+      "path": "osteopathy",
+      "name": "osteopathy"
+    }
+  },
+  "subheader": {
+    "title": "I benefici dell’osteopatia a domicilio",
+    "content": "<p>L'osteopatia è stata classificata dall'Organizzazione Mondiale della Sanità come una medicina alternativa capace di affiancare e completare le terapie tradizionali.<br />Si tratta di un approccio olistico che, attraverso una sapiente manipolazione del corpo, innesca sensazioni di benessere e meccanismi di autoguarigione.</p><p>L’osteopatia è particolarmente efficace nella cura di dolori muscolari e viscerali oltre che come <b>trattamento preventivo, soprattutto in gravidanza.</b> È adatta, inoltre, <b>per bambini e neonati.</b></p><p>L'osteopatia a domicilio, oltre a evitare scomodi spostamenti, permette una ripresa più rapida ed efficace grazie al contesto familiare e confortevole di casa propria.</p><p>Con EpiCura sei tu a decidere giorno e ora della tua seduta: i migliori professionisti della salute arrivano comodamente a casa tua, 7 giorni su 7, senza liste d’attesa.</p>",
+    "background-image": {
+      "path": "osteopathy",
+      "name": "osteopathy_subheader"
+    }
+  },
+  "cta1": {
+    "text": "Richiedi informazioni",
+    "link": "/contattaci/"
+  },
+  "cta2": {
+    "text": "Prenota ora",
+    "link": "/prenota/?d=osteopathy"
+  },
+  "problems": {
+    "title": "Problemi che puoi risolvere con l'osteopatia",
+    "list": [
+      {
+        "title": "Disturbi e problemi all’apparato muscolo-scheletrico",
+        "content": "Ernia del disco, sciatica, lombalgia, cervicalgia, dolori articolari."
+      },
+      {
+        "title": "Disfunzioni all’apparato viscerale",
+        "content": "Problemi digestivi, pelvici, addominali."
+      },
+      {
+        "title": "Alterazioni all’apparato cranio-sacrale",
+        "content": "Plagiocefalia, brachicefalia, pachicefalia o scafocefalia."
+      },
+      {
+        "title": "Disturbi sistemici",
+        "content": "Sinusiti, cefalee, nevralgie, disturbi del sonno, abbassamento delle difese immunitarie."
+      }
+    ]
+  },
+  "bundles": [
+    {
+      "uri": "pacchetto-10",
+      "title": "Pacchetto 10",
+      "description": "Dedicati un momento per distendere le tensioni muscolari.",
+      "specification": "fisioterapia",
+      "image": {
+        "path": "common",
+        "name": "bundle-10"
+      },
+      "background-color": "gradient-rose",
+      "price": "600",
+      "discount": "570"
+    },
+    {
+      "uri": "pacchetto-3",
+      "title": "Pacchetto 3",
+      "description": "Dedicati un momento per distendere le tensioni muscolari.",
+      "specification": "fisioterapia",
+      "image": {
+        "path": "common",
+        "name": "bundle-3"
+      },
+      "background-color": "gradient-green",
+      "price": "150",
+      "discount": ""
+    }
+  ],
+  "hint-card": {
+    "title": "Hai un dubbio? Chiedi all'osteopata",
+    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "price": "Costo fisso 25€",
+    "bkg-color": "#F5F8FF",
+    "image": {
+      "path": "videoconsultation",
+      "name": "videoconsultation-banner"
+    },
+    "button-text": "Scopri il servizio",
+    "button-link": "/videoconsulti/"
+  },
+  "active-cities-title": "In quali province è attivo il servizio"
+}

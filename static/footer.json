@@ -1,0 +1,83 @@
+[
+  {
+    "column-name": "EpiCura",
+    "column-options": [
+      {
+        "option-link": "/chi-siamo/",
+        "option-label": "Chi siamo",
+        "option-is-complex": true,
+        "option-is-amp": true
+      },
+      {
+        "option-link": "/professionisti-lavoro/",
+        "option-label": "Sei un professionista?",
+        "option-is-complex": true,
+        "option-is-amp": false
+      },
+      {
+        "option-link": "/contattaci/",
+        "option-label": "Richiedi informazioni",
+        "option-is-complex": true,
+        "option-is-amp": false
+      }
+    ]
+  },
+  {
+    "column-name": "Scopri di più",
+    "column-options": [
+      {
+        "option-link": "https://www.feedaty.com/feedaty/reviews/epicuramed",
+        "option-label": "Tutte le recensioni",
+        "option-is-complex": false,
+        "option-is-amp": false
+      },
+      {
+        "option-link": "/rassegna-stampa/",
+        "option-label": "Rassegna stampa",
+        "option-is-complex": true,
+        "option-is-amp": true
+      },
+      {
+        "option-link": "/domande-frequenti/",
+        "option-label": "Domande frequenti",
+        "option-is-complex": true,
+        "option-is-amp": false
+      },
+      {
+        "option-link": "/blog/",
+        "option-label": "Magazine",
+        "option-is-complex": true,
+        "option-is-amp": false
+      }
+    ]
+  },
+  {
+    "column-name": "Aspetti legali",
+    "column-options": [
+      {
+        "option-link": "/privacy-policy/",
+        "option-label": "Privacy policy",
+        "option-is-complex": true,
+        "option-is-amp": false
+      },
+      {
+        "option-link": "/termini-e-condizioni/",
+        "option-label": "Termini e condizioni",
+        "option-is-complex": true,
+        "option-is-amp": false
+      },
+      {
+        "option-link": "/cookie-policy/",
+        "option-label": "Cookie policy",
+        "option-is-complex": true,
+        "option-is-amp": false
+      },
+      {
+        "option-link": "/avvertenza-di-rischio/",
+        "option-label": "Avvertenza di rischio",
+        "option-is-complex": true,
+        "option-is-amp": false
+      }
+    ]
+  }
+]

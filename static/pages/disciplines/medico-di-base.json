@@ -1,0 +1,89 @@
+{
+  "metaDescription": {
+    "title": "EpiCura - Medico di base",
+    "description": "Medici generici a domicilio. Visite mediche, prescrizione farmaci a casa, 7 giorni su 7, nessuna lista d'attesa."
+  },
+  "title-color": "#002E4D",
+  "header": {
+    "title": "Medico di medicina generale",
+    "subtitle": "",
+    "background-image": {
+      "path": "generalMedicine",
+      "name": "generalMedicine"
+    }
+  },
+  "subheader": {
+    "title": "I benefici del medico a domicilio",
+    "content": "<p>Il medico generico è una figura fondamentale per la tutela della nostra salute: grazie alle sue conoscenze e competenze, il medico analizza con attenzione i disturbi riportati dal paziente, fornendo una prima diagnosi e richiedendo eventuali esami specialistici.</p><p>Il servizio di medici a domicilio EpiCura è la soluzione migliore per prenderti cura della tua salute e quella dei tuoi cari quando gli spostamenti da casa sono scomodi o difficoltosi, ad esempio in caso di soggetti anziani o con patologie.</p><p>Con EpiCura sei tu a decidere giorno e ora della visita medica: i migliori professionisti della salute arrivano comodamente a casa tua, 7 giorni su 7, senza liste d’attesa.</p>",
+    "background-image": {
+      "path": "generalMedicine",
+      "name": "generalMedicine_subheader"
+    }
+  },
+  "cta1": {
+    "text": "Richiedi informazioni",
+    "link": "/contattaci/"
+  },
+  "cta2": {
+    "text": "Prenota ora",
+    "link": "/prenota/?d=generalMedicine"
+  },
+  "problems": {
+    "title": "Problemi che puoi risolvere con il medico di base",
+    "list": [
+      {
+        "title": "Visita generica a domicilio",
+        "content": "Intervento di visita medica per monitorare lo stato di salute generale e valutare segni o sintomi."
+      },
+      {
+        "title": "Richiesta esami specialistici",
+        "content": "Valutazione e prescrizione medica per visite specialistiche e/o esami strumentali o di laboratorio."
+      },
+      {
+        "title": "Farmaci e terapie",
+        "content": "Valutazione e prescrizione medica per l'acquisto di medicinali e/o terapie farmacologiche."
+      }
+    ]
+  },
+  "bundles": [
+    {
+      "uri": "pacchetto-10",
+      "title": "Pacchetto 10",
+      "description": "Dedicati un momento per distendere le tensioni muscolari.",
+      "specification": "fisioterapia",
+      "image": {
+        "path": "common",
+        "name": "bundle-10"
+      },
+      "background-color": "gradient-rose",
+      "price": "600",
+      "discount": "570"
+    },
+    {
+      "uri": "pacchetto-3",
+      "title": "Pacchetto 3",
+      "description": "Dedicati un momento per distendere le tensioni muscolari.",
+      "specification": "fisioterapia",
+      "image": {
+        "path": "common",
+        "name": "bundle-3"
+      },
+      "background-color": "gradient-green",
+      "price": "150",
+      "discount": ""
+    }
+  ],
+  "hint-card": {
+    "title": "Hai un dubbio? Chiedi al medico di base",
+    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "price": "Costo fisso 25€",
+    "bkg-color": "#F5F8FF",
+    "image": {
+      "path": "videoconsultation",
+      "name": "videoconsultation-banner"
+    },
+    "button-text": "Scopri il servizio",
+    "button-link": "/videoconsulti/"
+  },
+  "active-cities-title": "In quali province è attivo il servizio"
+}

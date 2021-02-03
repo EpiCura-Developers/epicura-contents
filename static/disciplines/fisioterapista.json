@@ -1,0 +1,24 @@
+{
+    "discipline-specialist": "Fisioterapista",
+    "discipline-text-with-price": "A partire da 30€",
+    "discipline-image": {
+        "path": "physiotherapy",
+        "name": "physiotherapy"
+    },
+    "discipline-description": "Riabilitazione motoria, prevenzione e cura del dolore.",
+    "discipline-background-color": "#FFEEED",
+    "discipline-link": "/fisioterapista/",
+    "discipline-specialities": [
+        "Riabilitazione ortopedica",
+        "Problemi legati alla postura",
+        "Riabilitazione respiratoria",
+        "Artrosi e artrite reumatoide",
+        "Osteoporosi",
+        "Ernie e protrusioni",
+        "Cefalee muscolo-tensive",
+        "Linfodrenaggio",
+        "Rieducazione posturale",
+        "Traumi sportivi",
+        "Pubalgia"
+    ]
+}

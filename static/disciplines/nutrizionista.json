@@ -1,0 +1,19 @@
+{
+    "discipline-specialist": "Nutrizionista",
+    "discipline-text-with-price": "A partire da 30€",
+    "discipline-image": {
+        "path": "nutrition",
+        "name": "nutrition"
+    },
+    "discipline-description": "Educazione alimentare e diete su misura.",
+    "discipline-background-color": "#FFDBE6",
+    "discipline-link": "/nutrizionista/",
+    "discipline-specialities": [
+        "Valutazione apporto alimentare",
+        "Elaborazione diete su misura",
+        "Misurazione adipometrica",
+        "Supporto nel dimagrimento",
+        "Cura dei disturbi alimentari",
+        "Regimi alimentari per sportivi"
+    ]
+}

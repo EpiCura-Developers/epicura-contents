@@ -1,0 +1,217 @@
+{
+  "metaDescription": {
+    "title": "Badante a Brescia",
+    "description": "Badanti in tutta Brescia. Family tutor dedicato, sostituzione gratuita, soddisfatto o rimborsato. Piani di assistenza personalizzati, ci occupiamo noi della burocrazia."
+  },
+  "come_funziona": {
+    "title": "Cosa faremo per te",
+    "text": "Al giorno d’oggi sempre più famiglie hanno difficoltà a prendersi cura dei propri cari a causa di continui impegni personali e lavorativi. Il nostro servizio di assistenza è personalizzato e creato su misura proprio per rispondere alle esigenze del paziente e della sua famiglia.",
+    "cards": [
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "badge-1"
+        },
+        "title": "Ricerca e selezione",
+        "text": "In base alle tue richieste, ci occupiamo di trovare le persone più adatte alle tue esigenze. Lavoriamo solo con personale esperto e referenziato."
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "badge-2"
+        },
+        "title": "Family tutor dedicato",
+        "text": "Sappiamo quanto sia delicato il momento che stai vivendo, per questo per qualunque richiesta o dubbio potrai contattarci. Il nostro referente dedicato saprà risolvere qualunque perplessità."
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "badge-3"
+        },
+        "title": "Velocità, sicurezza e comodità",
+        "text": "Siamo tra i primi operatori nazionali per velocità di risposta, entro 24 -48 ore ti presentiamo la soluzione. Saremo noi a occuparci della gestione burocratica delle assistenze e dei contratti per le badanti."
+      }
+    ]
+  },
+  "solutions": {
+    "title": "La ricerca della giusta assistenza",
+    "startingFromText": "A partire da",
+    "solutionsBig": [
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "badante-part-time"
+        },
+        "title": "Assistente a ore",
+        "text": "Assiste la persona per un numero limitato di ore settimanali. Serve nei casi in cui la famiglia necessita di assistenza solamente in alcune fasce orarie.",
+        "price": "14€"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "badante-full-time"
+        },
+        "title": "Badante diurna o notturna",
+        "text": "Presta assistenza a tempo pieno alla persona durante il giorno o la notte, ma senza convivere nella casa della persona assistita.",
+        "price": "682€"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "badante-convivente"
+        },
+        "title": "Badante convivente giorno e notte",
+        "text": "Si occupa di assistenza costante. Si trasferisce a casa della persona assistita per garantire presenza e cure a tempo pieno. L'assistenza è erogabile a partire da un minimo di 2 mesi.",
+        "price": "1030€"
+      }
+    ]
+  },
+  "caregiverTasks": {
+    "title": "La badante si occuperà di",
+    "notes": {
+      "title": "Note importanti",
+      "htmlText": "Nel caso fosse necessario per la vostra famiglia, garantiamo anche la copertura del giorno libero e dei giorni festivi, oltre alla copertura in caso di malattia o ferie della badante.<br /><br />La badante convivente è inquadrata a norma di legge con contratto collettivo nazionale del lavoro.<br />Tutti i nostri assistenti domiciliari sono referenziati con svariati anni di esperienza diretta.<br /><br />Ci occupiamo in modo tempestivo di eventuali sostituzioni dell'assistente domiciliare."
+    },
+    "tasks": [
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "meal"
+        },
+        "text": "Preparazione e aiuto durante i pasti"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "cleaning"
+        },
+        "text": "Gestione e pulizia della casa"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "hygiene"
+        },
+        "text": "Igiene personale e vestizione dell'assistito"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "drugs"
+        },
+        "text": "Supporto nell'assunzione di farmaci e terapie<br />Accompagnamento a visite mediche"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "cognitive-func"
+        },
+        "text": "Stimolazione dell’attività motoria, della comunicazione e delle funzionalità cognitive"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "24h-supervision"
+        },
+        "text": "Compagnia e sorveglianza 24 ore su 24"
+      }
+    ]
+  },
+  "caregiverCTA": {
+    "title": "Cerchi una Badante, un'assistente o un OSS?",
+    "subtitle": "Chiamaci per un Preventivo Gratuito",
+    "ctaHint": "Oppure scrivici",
+    "ctaText": "Richiedi informazioni"
+  },
+  "subheader": {
+    "prenotaOnlineText": "Prenota online",
+    "textColor": "dark",
+    "professionistaText": "",
+    "professionistaUrl": "",
+    "titleBig": "Trova Badanti a Brescia",
+    "subtitleBig": "Servizio completo e personalizzato per chi ricerca un assistente domiciliare",
+    "description1": "Badanti referenziate e OSS con esperienza comprovata e family tutor dedicati a supporto della famiglia.",
+    "description2": "EpiCura si prende cura dei tuoi cari in casa, in ospedale e ovunque tu voglia 7 giorni su 7. Sviluppiamo insieme piani di assistenza personalizzati: <b>dalle badanti per assistenza notturna, all’assistenza continuativa o alle badanti conviventi.</b>",
+    "askInfoButtonText": "Richiedi informazioni"
+  },
+  "faqs": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "title": "Domande frequenti",
+    "list": [
+      {
+        "question": "Che differenza c’è fra assistente domiciliare e badante? ",
+        "answer": "La differenza è legata alla durata dell’assistenza e alla tipologia di rapporto. Nel caso dell’assistenza domiciliare la durata è limitata nel tempo (qualche giorno/settimana, solo al mattino o per l’igiene, per esempio); la badante invece è una figura che presuppone una durata maggiore, che generalmente (ma non necessariamente) convive in casa con l’assistito. Il contratto lavorativo viene stipulato direttamente con la famiglia. Noi di EpiCura ci occupiamo non solo di selezionare la persona adatta alle tue esigenze, ma ti solleviamo da tutti gli oneri burocratici, occupandoci del contratto e di tutto ciò che concerne ferie, permessi ecc."
+      },
+      {
+        "question": "Dove siete attivi con i vostri servizi?",
+        "answer": "Siamo attivi nelle maggiori città italiane per l’assistenza domiciliare a tempo determinato. Riguardo invece al servizio di ricerca e selezione badanti, offriamo servizio e consulenza in tutta Italia. Avrai un contatto diretto e costante attraverso un nostro family tutor a te dedicato."
+      },
+      {
+        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
+        "answer": "Dipende. EpiCura garantisce la detraibilità di tutte le spese riconosciute come sanitarie, proprio come un qualsiasi poliambulatorio o centro medico. Per farlo basterà utilizzare la fattura che riceverai dopo il pagamento delle prestazioni. Tuttavia alcuni costi, ad esempio quelli relativi all'Assistenza Domiciliare (per approfondire clicca  <a href='https://www.fiscoetasse.com/approfondimenti/13065-spese-per-addetti-all-assistenza-personale-le-regole-di-detrazione-.html' target='_blank' rel='noopener'>qui</a>), sono detraibili solo entro certi limiti e a seconda delle caratteristiche del contribuente."
+      },
+      {
+        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
+        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
+      },
+      {
+        "question": "Nel caso di inserimento della badante in famiglia, vi è un periodo di prova?",
+        "answer": "L’importanza del rapporto tra assistente e assistito diventa ancora più importante nei casi di inserimento in famiglia. Per questo motivo è previsto un periodo di prova di 30 giorni in caso di badante convivente e di 8 giorni negli altri casi."
+      },
+      {
+        "question": "Cosa succede se non mi trovo bene con il badante?",
+        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra badante e assistito, per questo motivo se non ti trovi bene con l'assistente basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
+      },
+      {
+        "question": "Come vengono selezionati i badanti?",
+        "answer": "Attraverso un rigoroso processo di selezione selezioniamo 2-4 candidati perfettamente in linea con le tue esigenze. Sarai poi tu a scegliere, attraverso un colloquio, il badante che preferisci tra quelli proposti."
+      },
+      {
+        "question": "Nessun costo di attivazione",
+        "answer": "Dopo averci comunicato le esigenze della persona da assistere, cercheremo per te la persona più adatta gratuitamente: non dovrai pagare alcun costo di attivazione per la ricerca."
+      }
+    ]
+  },
+  "latest_articles": {
+    "title": "Ultimi articoli su di noi",
+    "titleFbAdw": "Parlano di noi",
+    "allArticlesLink": "/rassegna-stampa/",
+    "allArticlesText": "Tutti gli articoli",
+    "readArticleText": "Leggi articolo",
+    "articles": [
+      {
+        "image": {
+          "path": "common",
+          "name": "ilsole24ore"
+        },
+        "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
+        "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "forbes"
+        },
+        "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
+        "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "corrieredellasera"
+        },
+        "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
+        "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "lastampa"
+        },
+        "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
+        "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
+      }
+    ]
+  }
+}

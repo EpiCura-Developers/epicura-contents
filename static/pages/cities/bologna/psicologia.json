@@ -1,0 +1,339 @@
+{
+  "metaDescription": {
+    "title": "Psicologo a Bologna",
+    "description": "Psicologi a Bologna e area metropolitana in studio, a domicilio e in video consulto. Psicologi per ansia, depressione, disturbi psicologici, 7 giorni su 7, nessuna lista d'attesa."
+  },
+  "prices_adw": {
+    "startingFromLabel": "A partire da",
+    "durationLabel": "Durata:",
+    "cards": [
+      {
+        "title": "Videoseduta",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "price": "40€",
+        "duration": "40 min"
+      },
+      {
+        "title": "Seduta singola in studio",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "price": "50€",
+        "duration": "1 ora"
+      },
+      {
+        "title": "Seduta singola a domicilio",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "price": "60€",
+        "duration": "1 ora"
+      }
+    ]
+  },
+  "prezzi_title": "I prezzi di Psicologia a Bologna",
+  "come_funziona": {
+    "title": "Come funziona",
+    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Bologna e area metropolitana grazie a 3 semplici passaggi:",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
+        "title": "Scegli la soluzione",
+        "text": "EpiCura offre un’ampia scelta di servizi per permettere al paziente di trovare esattamente ciò di cui ha bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
+        "title": "Prenota la seduta",
+        "text": "Contattaci o prenota direttamente online e troveremo il miglior specialista per il tuo caso che ti guiderà nel tuo percorso terapeutico. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "migliora-salute"
+        },
+        "title": "Mettiti comodo",
+        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua, in videoconsulto o in studio. Ti affiancheremo nel tuo percorso. Potrai contattarci per qualunque esigenza."
+      }
+    ]
+  },
+  "come_funzionaFbAdw": {
+    "title": "Come funziona",
+    "text": "EpiCura, con oltre 800 figure, è il primo poliambulatorio digitale in Italia. Abbiamo creato un sistema rapido per evitare disorganizzazione, disagi e attese ai nostri pazienti. Ecco come funziona:",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
+        "title": "Scegli la soluzione",
+        "text": "Spiegaci la tua situazione, ascoltiamo i tuoi bisogni e ti aiutiamo a scegliere la migliore soluzione per te. Ogni persona è differente e ogni perccorso unico."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
+        "title": "Prenota la seduta",
+        "text": "Richiedi informazioni o prenota direttamente online. Ti mettiamo in contatto con il miglior specialista per te in breve tempo, senza alcuna lista d’attesa e con la massima comodità."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "migliora-salute"
+        },
+        "title": "Migliora la tua salute",
+        "text": "All’orario e nel giorno concordato incontrerai il tuo psicologo online, in studio o a domicilio. Potrai rivolgerti a noi per qualunque esigenza. Comincia subito il tuo percorso anche in videoconsulto"
+      }
+    ]
+  },
+  "subheader": {
+    "prenotaOnlineText": "Prenota online",
+    "textColor": "dark",
+    "professionistaText": "Sei un professionista?",
+    "professionistaUrl": "/professionisti-lavoro/",
+    "titleBig": "Psicologi a Bologna",
+    "subtitleBig": "Per chi vuole trovare il benessere e l’equilibrio della propria mente.",
+    "description1": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
+    "description2": "EpiCura porta le sedute di psicologia a domicilio, in studio e in videoconsulto, in qualunque giorno e orario tu voglia. Per aiutare a ritrovare la propria serenità.",
+    "askInfoButtonText": "Richiedi informazioni"
+  },
+  "subheaderFbAdw": {
+    "prenotaOnlineText": "Prenota online",
+    "textColor": "dark",
+    "professionistaText": "",
+    "professionistaUrl": "/professionisti-lavoro/",
+    "titleBig": "Psicologi e psicoterapeuti online, in studio o a domicilio a Bologna",
+    "subtitleBig": "Ritrova la tua serenità",
+    "description1": "Sedute online e di presenza, senza liste d'attesa, 7 giorni su 7.",
+    "description2": "Con EpiCura puoi prenotare sedute di psicologia e psicoterapia in studio, a domicilio o in videoconsulto in tutta Bologna e area metropolitana, in qualunque giorno e orario tu voglia.",
+    "askInfoButtonText": "Richiedi informazioni"
+  },
+  "nostri_professionisti": {
+    "title": "I nostri professionisti",
+    "text": "",
+    "professionisti": [
+      {
+        "name": "Maria Forte",
+        "disciplina": "Psicologa",
+        "prestazioni": [
+          "Riabilitazione post traumatica",
+          "Supporto psicologico bambini, adolescenti, adulti"
+        ],
+        "avatar": "maria-forte"
+      },
+      {
+        "name": "Greta Casiraghi",
+        "disciplina": "Psicologa",
+        "prestazioni": [
+          "Supporto psicologico vittime di maltrattamenti e dipendenza affettiva",
+          "Training autogeno",
+          "Gestione dell'ansia"
+        ],
+        "avatar": "greta-casiraghi"
+      },
+      {
+        "name": "Giuditta Seassaro",
+        "disciplina": "Psicologa",
+        "prestazioni": [
+          "Psicologia età evolutiva",
+          "Sostegno alla genitorialità",
+          "Supporto per DSA"
+        ],
+        "avatar": "giuditta-seassaro"
+      },
+      {
+        "name": "Anna De Micco",
+        "disciplina": "Psicologa",
+        "prestazioni": ["Supporto psicologico adulti", "Video consulti e supporto a distanza"],
+        "avatar": "anna-demicco"
+      }
+    ]
+  },
+  "prenotazione": {
+    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
+    "subtitle": "Inizia subito il tuo percorso psicologico con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
+    "ctaCall": "Vuoi prenotare telefonicamente?"
+  },
+  "faqs": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "title": "Domande frequenti",
+    "list": [
+      {
+        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
+        "answer": "Sì, tutte le prestazioni sanitarie di EpiCura sono detraibili dalla dichiarazione dei redditi. Per farlo basterà utilizzare la fattura che riceverai da EpiCura dopo il pagamento delle prestazioni."
+      },
+      {
+        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
+        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
+      },
+      {
+        "question": "Cosa succede se non mi trovo bene con il professionista?",
+        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra terapeuta e paziente, per questo motivo se non ti trovi bene con lo specialista basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
+      },
+      {
+        "question": "Che differenza c’è tra psicologo, psicoterapeuta e psichiatra?",
+        "answer": "Lo psicologo è il professionista laureato abilitato alla professione e iscritto all'Albo degli Psicologi. Lo psicoterapeuta è uno psicologo o un medico specializzato (con percorsi di 4 o 5 anni) in una specifica metodologia terapeutica (psicodinamica, costruttivista, sistemica ecc.). Lo psichiatra è un medico specializzato in Psichiatria, il cui lavoro è prettamente medico: unica figura che può prescrivere farmaci, ma non segue la terapia di sostegno psicologico tipica della Psicologia."
+      },
+      {
+        "question": "Come si svolge una seduta di terapia online?",
+        "answer": "Ti accorderai direttamente con lo psicologo o lo psicoterapeuta sugli strumenti da utilizzare. Le modalità sono quelle tipiche alle seduta di presenza, visto che la terapia si basa sulla parola e sul continuo dialogo fra i soggetti. Ci sono casi in cui è consigliata (ritiri sociali, impossibilità agli spostamenti ecc.), casi in cui sarà il terapeuta stesso a consigliare un sistema misto di videoconsulti e sedute di presenza."
+      }
+    ]
+  },
+  "latest_articles": {
+    "title": "Ultimi articoli su di noi",
+    "titleFbAdw": "Parlano di noi",
+    "allArticlesLink": "/rassegna-stampa/",
+    "allArticlesText": "Tutti gli articoli",
+    "readArticleText": "Leggi articolo",
+    "articles": [
+      {
+        "image": {
+          "path": "common",
+          "name": "ilsole24ore"
+        },
+        "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
+        "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "forbes"
+        },
+        "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
+        "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "corrieredellasera"
+        },
+        "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
+        "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "lastampa"
+        },
+        "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
+        "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
+      }
+    ]
+  },
+  "servizi_piu_richiesti": {
+    "title": "I servizi più richiesti",
+    "list": [
+      "Psicologia a Bologna",
+      "Trapia di coppia a Bologna",
+      "Psicologo per bambini a Bologna",
+      "Video consulto psicologico",
+      "Supporto psicologico post trauma",
+      "Ascolto psicologico donne",
+      "Psicologo per gestione dell'ansia",
+      "Psicologa per adolescenti a Bologna"
+    ]
+  },
+  "descrizione_servizio": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "htmlText": "<h2>Riscoprire l’equilibrio mentale</h2><p>È sempre più comune, ad oggi, imbattersi in problemi limitanti e situazioni che compromettono l’equilibrio psicologico causando ansie e stress.</p> <p>Nella nostra vita ci troviamo ad affrontare momenti in cui il supporto di un esperto può fare la differenza per assicurare serenità e vivere un cambiamento equilibrato. </br>Lo psicologo aiuta i pazienti a fronteggiare e risolvere:</p> <p><ul><li>Ansia</li><li>Stress</li><li>Depressione</li><li>Disturbi alimentari</li><li>Paure e fobie</li><li>Dipendenze</li><li>Disturbi psicosomatici</li></ul></p> <p>Per aiutare il paziente a ritrovare l’equilibrio i nostri professionisti strutturano dei percorsi personalizzati e creati su misura per le esigenze specifiche del caso. </br>I nostri specialisti si concentrano sull’ascoltare e comprendere le condizioni che stanno manifestando il disagio nel paziente, per poi affrontarle direttamente per attenuare o eliminare il problema. </br>In questo modo il paziente può ritrovare le energie per superare i blocchi psicologici eliminando stress, ansia e paura. </br>Per offrire il miglior supporto, il primo incontro con il professionista avverrà tramite video consulto.",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "comodita-casa"
+        },
+        "title": "Dove e quando vuoi",
+        "text": "I nostri professionisti certificati erogano sedute di psicologia dove preferisci, a casa, in studio o in videoconsulto, 7 giorni su 7, anche in orari serali per riequilibrare la mente come e dove vuoi."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "percorsi-personalizzati"
+        },
+        "title": "Percorsi personalizzati",
+        "text": "Ogni paziente ha le sue esigenze. Per questo offriamo percorsi personalizzati. I nostri professionisti ti affiancheranno nel tuo percorso offrendoti il supporto giusto negli orari e giorni che preferisci."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "interventi-tempestivi"
+        },
+        "title": "Assistenza costante",
+        "text": "Sentirsi sicuri e sereni è alla base del benessere psichico. Noi di EpiCura ci teniamo a far sentire il paziente seguito costantemente in tutte le sue esigenze."
+      }
+    ]
+  },
+  "descrizione_servizioFbAdw": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "htmlText": "<h2>Riscoprire il benessere emotivo</h2><p> Nella nostra vita ci troviamo ad affrontare momenti in cui il supporto di un esperto può fare la differenza per assicurare serenità e per poter vivere un cambiamento costante ed equilibrato. </br>Ritmi di vita frenetici, traumi pregressi, ansia e stress possono minare il nostro benessere emotivo. Per questo lo psicologo o lo psicoterapeuta online o in presenza rappresentano l’aiuto professionale per curare la salute non solo fisica, ma anche psicologica ed emotiva. </br></br>Psicologi e psicoterapeuti online e in presenza aiutano chiunque a fronteggiare e risolvere:</p> <p><ul><li>Ansia</li><li>Stress</li><li>Depressione</li><li>Disturbi alimentari</li><li>Paure e fobie</li><li>Dipendenze</li><li>Disturbi psicosomatici</li></ul></p></br> Vuoi iniziare il percorso di terapia online? Puoi richiedere che la prima seduta avvenga in video o teleconsulto: conoscerai il terapeuta che analizzerà la tua situazione e sceglierà il percorso da seguire per arrivare a raggiungere i tuoi obiettivi e il tuo benessere psicofisico.",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "comodita-casa"
+        },
+        "title": "Quando e dove vuoi",
+        "text": "I nostri psicologi e psicoterapeuti sono disponibili in studio, a domicilio o in video consulto online, 7 giorni su 7, anche in orari serali."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "percorsi-personalizzati"
+        },
+        "title": "Percorsi personalizzati",
+        "text": "I nostri professionisti ti accompagneranno in un percorso creato su misura per te, offrendoti supporto e ascolto psicologico professionale."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "interventi-tempestivi"
+        },
+        "title": "Ti ascoltiamo",
+        "text": "Non sai a chi rivolgerti? Ti aiutiamo a identificare il miglior specialista per la tua situazione. Potrai contattarci in qualunque momento."
+      }
+    ]
+  },
+  "trattamenti": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "sectionTitle": "",
+    "showAllText": "Mostra tutti",
+    "hideAllText": "Mostra meno",
+    "title": "Sedute online e di presenza a Bologna",
+    "textColor": "dark",
+    "description": "Il primo incontro con il professionista, per la valutazione e l'indirizzamento del paziente, avverrà tramite video consulto",
+    "tags": [],
+    "list": [
+      {
+        "title": "Ascolto e sostegno psicologico",
+        "description": "Il sostegno dello psicologo, tramite il rapporto di ascolto attivo tra terapeuta e la persona, aiuta a risolvere situazioni di disagio legate a circostanze come abbandoni, lutti, crescita, problemi lavorativi ecc.."
+      },
+      {
+        "title": "Psicoanalisi",
+        "description": "Percorsi di Psicoanalisi con professionisti esperti per trattare disturbi d'ansia, isteria, nervosismi eccessivi o ossessivi, fobie, distorsioni del carattere e anomalie sessuali."
+      },
+      {
+        "title": "Psicoterapia sistemica-familiare",
+        "description": "Lo psicoterapeuta con questa specializzazione analizza i sintomi non come individuali, ma come manifestazione di problemi all’interno dei contesti in cui la persona interagisce, in primis la famiglia. Per questo è particolarmente adatta a terapie di coppia o terapie familiari, oltre che individuali."
+      },
+      {
+        "title": "Psicoterapia psicodinamica",
+        "description": "Percorsi di Psicoterapia Psicodinamica con professionisti esperti per migliorare le condizioni psichiche del paziente e al tempo stesso sviluppare le proprie risorse personali."
+      },
+      {
+        "title": "Video-consulto psicoterapeutico",
+        "description": "Le sedute online, è ormai accertato, sono efficaci quanto le sedute in presenza. In periodi particolari di ritiro sociale, di lontananza territoriale o di continui imprevisti lavorativi, si può decidere di intraprendere un percorso con uno psicologo o psicoterapeuta direttamente online."
+      },
+      {
+        "title": "Psicoterapia cognitiva-costruttivista",
+        "description": "Percorso di Psicoterapia per portare alla consapevolezza del paziente le credenze, convinzioni e abitudini che lo limitano nella vita quotidiana. Rimuovi i blocchi emotivi e psicologici grazie all’aiuto di professionisti esperti."
+      }
+    ]
+  }
+}

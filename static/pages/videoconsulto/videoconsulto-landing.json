@@ -1,0 +1,116 @@
+{
+  "metaDescription": {
+    "title": "Videoconsulti online con medici, veterinari, psicologi e altri professionisti della salute",
+    "description": "Consulti per richiedere pareri specialistici ai migliori professionisti sanitari. Veloce, comodo e semplice. Il professionista sul tuo telefono!"
+  },
+  "faq": {
+    "title": "Domande e risposte",
+    "list": [
+      {
+        "question": "Come avverrà il videoconsulto?",
+        "answer": "Dopo il pagamento e la conferma della prestazione, riceverai una mail contenente il link per collegarti alla tua videosessione e parlare con lo specialista. Non è necessario scaricare alcuna App, né registrarsi."
+      },
+      {
+        "question": "Cosa posso richiedere durante un videoconsulto?",
+        "answer": "Potrai richiedere consulenza su patologia già accertata o sulla tipologia di trattamenti e terapie da attuare (già prescritte); consigli di tipo specialistico su segni clinici e sintomi presenti al momento del videoconsulto; dubbi su qualunque elemento concernente la propria salute o quella dei propri cari."
+      },
+      {
+        "question": "Quanto dura un videoconsulto?",
+        "answer": "Indicativamente, la durata del consulto è di 15-20 minuti."
+      },
+      {
+        "question": "Il consulto è riservato?",
+        "answer": "Tutto ciò che verrà detto tra te e lo specialista è strettamente confidenziale e legato al segreto professionale, la riservatezza è garantita."
+      },
+      {
+        "question": "Perché dovrei scegliere il videoconsulto?",
+        "answer": "L'opportunità di avere consulti specialistici a portata di click e senza attese o spostamenti, soprattutto in un periodo come quello in cui viviamo, non è solo una soluzione comoda, ma anche consigliabile!"
+      },
+      {
+        "question": "Posso scegliere l'ora in cui ricevere il videoconsulto?",
+        "answer": "Sì, sarai tu a indicare un orario per il consulto online. Ne potrai parlare comunque con il professionista, subito dopo il pagamento."
+      }
+    ]
+  },
+  "header": {
+    "title": "Videoconsulti specialistici",
+    "subtitle": "Consulti online 7 giorni su 7 a soli 25€",
+    "dropdownLabel": "Seleziona disciplina",
+    "dropdownPlaceholder": "Seleziona disciplina",
+    "bkgColor": "#F5F8FF",
+    "textColor": "dark"
+  },
+  "body": {
+    "htmlContent": "<h3>Dove e quando vuoi, senza liste di attesa.</h3><p>Se devi intraprendere un percorso specialistico per la prima volta, oppure vuoi ricevere un altro parere professionale su una diagnosi o una terapia prescritta, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.*</p><p style='color: #008075'>*Il servizio ha una durata indicativa di 20 minuti.</p>"
+  },
+  "carousel": {
+    "bkgColor": "#F5F8FF",
+    "title": "È utile per",
+    "slides": [
+      {
+        "icon": { "path": "videoconsultation", "name": "consulenza" },
+        "title": "Consulenza su patologia già accertata",
+        "description": "Se hai bisogno di un altro parere specialistico o di maggiori informazioni su una diagnosi."
+      },
+      {
+        "icon": { "path": "videoconsultation", "name": "diagnosi" },
+        "title": "Definire una diagnosi adeguata",
+        "description": "Se vuoi inquadrare meglio una condizione clinica per intraprendere il percorso specialistico più adatto."
+      },
+      {
+        "icon": { "path": "videoconsultation", "name": "sintomi" },
+        "title": "Valutare sintomi clinici",
+        "description": "Se desideri ricevere una valutazione specialistica immediata, senza liste d'attesa."
+      },
+      {
+        "icon": { "path": "videoconsultation", "name": "prescrizione" },
+        "title": "Consulenza su prescrizione medica",
+        "description": "Se necessiti di indicazioni più dettagliate su una prescrizione medica già emessa da un altro professionista."
+      },
+      {
+        "icon": { "path": "videoconsultation", "name": "trattamento" },
+        "title": "Parere su trattamento già prescritto",
+        "description": "Se vuoi confrontarti con uno specialista su un trattamento e/o un piano terapeutico in corso o da iniziare."
+      },
+      {
+        "icon": { "path": "videoconsultation", "name": "accertamenti" },
+        "title": "Informazioni su accertamenti diagnostici",
+        "description": "Se ti hanno prescritto esami strumentali o accertamenti diagnostici e vuoi approfondire su come prepararti al meglio."
+      }
+    ]
+  },
+  "come_funziona": {
+    "title": "Come funziona",
+    "text": "Con i videoconsulti online di EpiCura puoi ricevere pareri specialistici in modo semplice e rapido. <br /> Prenditi cura della tua salute con un servizio a portata di smartphone!",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
+        "title": "Scegli la disciplina",
+        "text": "Offriamo un’ampia scelta di servizi sanitari per rispondere a tutte le tue esigenze. Se hai un problema e non sai a chi rivolgerti, il nostro team di esperti ti aiuterà ad individuare la soluzione più adatta a te."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
+        "title": "Prenota il videoconsulto",
+        "text": "Prenota il consulto comodamente online, nel giorno e nell'ora che preferisci. Troveremo per te il miglior professionista capace di rispondere alle tue esigenze. A prenotazione avvenuta, riceverai una mail di conferma con tutti i dettagli."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "pro-with-phones"
+        },
+        "title": "Parla con lo specialista",
+        "text": "Prenditi cura della tua salute o quella del tuo animale domestico comodamente da smartphone, tablet o pc! I nostri professionisti sono a tua disposizione 7 giorni su 7, anche in orario serale."
+      }
+    ]
+  },
+  "where": {
+    "title": "Dove avviene la visita",
+    "description": "Dopo aver prenotato riceverai una mail con una guida che ti spiegherà nel dettaglio come prepararti al consulto e un link per collegarti."
+  }
+}

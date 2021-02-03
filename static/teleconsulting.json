@@ -1,0 +1,100 @@
+{
+  "disciplines": [
+    {
+      "reservationUrl": "/teleconsulting/?discipline=physiotherapy",
+      "discipline": "fisioterapia",
+      "specialist": "fisioterapista",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=osteopathy",
+      "discipline": "osteopatia",
+      "specialist": "osteopata",
+      "company": "epicura"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=veterinary",
+      "discipline": "veterinaria",
+      "specialist": "veterinario",
+      "company": "epicura"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=pediatrics",
+      "discipline": "pediatria",
+      "specialist": "pediatra",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=generalMedicine",
+      "discipline": "medicina-generale",
+      "specialist": "medico-di-base",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=nursing",
+      "discipline": "infermieristica",
+      "specialist": "infermiere",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=psychology",
+      "discipline": "psicologia",
+      "specialist": "psicologo",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=nutrition",
+      "discipline": "nutrizione",
+      "specialist": "nutrizionista",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=psychiatry",
+      "discipline": "psichiatria",
+      "specialist": "psichiatra",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=senology",
+      "discipline": "senologia",
+      "specialist": "senologo",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=neuropsychomotricity",
+      "discipline": "neuropsicomotricità",
+      "specialist": "neuropsicomotricista",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=obstetrics",
+      "discipline": "ostetricia",
+      "specialist": "ostetrico",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=otolaryngology",
+      "discipline": "otorinolaringoiatria",
+      "specialist": "otorinolaringoiatra",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=generalSurgery",
+      "discipline": "chirurgia-generale",
+      "specialist": "chirurgo-generale",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=neuropsychology",
+      "discipline": "neuropsicologia",
+      "specialist": "neuropsicologo",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=speechTherapy",
+      "discipline": "logopedia",
+      "specialist": "logopedista",
+      "company": "laginestra"
+    }
+  ]
+}

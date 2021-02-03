@@ -1,0 +1,437 @@
+{
+  "milano": {
+    "code": "MI",
+    "zone": 44881,
+    "disciplines": [
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/prenota/?d=nursing&province=MI"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/prenota/?d=physiotherapy&province=MI"
+      },
+      {
+        "discipline": "psicologia",
+        "specialist": "psicologo",
+        "reservation": "/prenota/?d=psychology&province=MI"
+      },
+      {
+        "discipline": "psicoterapia",
+        "specialist": "psicoterapeuta",
+        "reservation": "/prenota/?d=psychotherapy&province=MI"
+      },
+      {
+        "discipline": "nutrizione",
+        "specialist": "nutrizionista",
+        "reservation": "/prenota/?d=nutrition&province=MI"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/prenota/?d=osteopathy&province=MI"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/prenota/?d=veterinary&province=MI"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/prenota/?d=generalMedicine&province=MI"
+      },
+      {
+        "discipline": "pediatria",
+        "specialist": "pediatra",
+        "reservation": "/prenota/?d=pediatrics&province=MI"
+      },
+      {
+        "discipline": "massaggi",
+        "specialist": "massaggiatore-professionale",
+        "reservation": "/prenota/?d=massages&province=MI"
+      }
+    ]
+  },
+  "roma": {
+    "code": "RM",
+    "zone": 41313,
+    "disciplines": [
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/prenota/?d=nursing&province=RM"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/prenota/?d=physiotherapy&province=RM"
+      },
+      {
+        "discipline": "psicologia",
+        "specialist": "psicologo",
+        "reservation": "/prenota/?d=psychology&province=RM"
+      },
+      {
+        "discipline": "psicoterapia",
+        "specialist": "psicoterapeuta",
+        "reservation": "/prenota/?d=psychotherapy&province=RM"
+      },
+      {
+        "discipline": "nutrizione",
+        "specialist": "nutrizionista",
+        "reservation": "/prenota/?d=nutrition&province=RM"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/prenota/?d=osteopathy&province=RM"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/prenota/?d=veterinary&province=RM"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/prenota/?d=generalMedicine&province=RM"
+      },
+      {
+        "discipline": "pediatria",
+        "specialist": "pediatra",
+        "reservation": "/prenota/?d=pediatrics&province=RM"
+      },
+      {
+        "discipline": "massaggi",
+        "specialist": "massaggiatore-professionale",
+        "reservation": "/prenota/?d=massages&province=RM"
+      }
+    ]
+  },
+  "torino": {
+    "code": "TO",
+    "zone": 44880,
+    "disciplines": [
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/prenota/?d=nursing&province=TO"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/prenota/?d=physiotherapy&province=TO"
+      },
+      {
+        "discipline": "psicologia",
+        "specialist": "psicologo",
+        "reservation": "/prenota/?d=psychology&province=TO"
+      },
+      {
+        "discipline": "psicoterapia",
+        "specialist": "psicoterapeuta",
+        "reservation": "/prenota/?d=psychotherapy&province=TO"
+      },
+      {
+        "discipline": "nutrizione",
+        "specialist": "nutrizionista",
+        "reservation": "/prenota/?d=nutrition&province=TO"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/prenota/?d=osteopathy&province=TO"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/prenota/?d=veterinary&province=TO"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/prenota/?d=generalMedicine&province=TO"
+      },
+      {
+        "discipline": "pediatria",
+        "specialist": "pediatra",
+        "reservation": "/prenota/?d=pediatrics&province=TO"
+      },
+      {
+        "discipline": "massaggi",
+        "specialist": "massaggiatore-professionale",
+        "reservation": "/prenota/?d=massages&province=TO"
+      }
+    ]
+  },
+  "napoli": {
+    "code": "NA",
+    "zone": 40600,
+    "disciplines": [
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/prenota/?d=nursing&province=NA"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/prenota/?d=physiotherapy&province=NA"
+      },
+      {
+        "discipline": "nutrizione",
+        "specialist": "nutrizionista",
+        "reservation": "/prenota/?d=nutrition&province=NA"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/prenota/?d=osteopathy&province=NA"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/prenota/?d=veterinary&province=NA"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/prenota/?d=generalMedicine&province=NA"
+      }
+    ]
+  },
+  "bologna": {
+    "code": "BO",
+    "zone": 42856,
+    "disciplines": [
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/prenota/?d=nursing&province=BO"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/prenota/?d=physiotherapy&province=BO"
+      },
+      {
+        "discipline": "psicologia",
+        "specialist": "psicologo",
+        "reservation": "/prenota/?d=psychology&province=BO"
+      },
+      {
+        "discipline": "psicoterapia",
+        "specialist": "psicoterapeuta",
+        "reservation": "/prenota/?d=psychotherapy&province=BO"
+      },
+      {
+        "discipline": "nutrizione",
+        "specialist": "nutrizionista",
+        "reservation": "/prenota/?d=nutrition&province=BO"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/prenota/?d=osteopathy&province=BO"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/prenota/?d=veterinary&province=BO"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/prenota/?d=generalMedicine&province=BO"
+      }
+    ]
+  },
+  "catania": {
+    "code": "CT",
+    "zone": 39181,
+    "disciplines": [
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/prenota/?d=nursing&province=CT"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/prenota/?d=physiotherapy&province=CT"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/prenota/?d=osteopathy&province=CT"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/prenota/?d=veterinary&province=CT"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/prenota/?d=generalMedicine&province=CT"
+      }
+    ]
+  },
+  "firenze": {
+    "code": "FI",
+    "zone": 42472,
+    "disciplines": [
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/prenota/?d=nursing&province=FI"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/prenota/?d=physiotherapy&province=FI"
+      },
+      {
+        "discipline": "psicologia",
+        "specialist": "psicologo",
+        "reservation": "/prenota/?d=psychology&province=FI"
+      },
+      {
+        "discipline": "psicoterapia",
+        "specialist": "psicoterapeuta",
+        "reservation": "/prenota/?d=psychotherapy&province=FI"
+      },
+      {
+        "discipline": "nutrizione",
+        "specialist": "nutrizionista",
+        "reservation": "/prenota/?d=nutrition&province=FI"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/prenota/?d=osteopathy&province=FI"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/prenota/?d=veterinary&province=FI"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/prenota/?d=generalMedicine&province=FI"
+      }
+    ]
+  },
+  "genova": {
+    "code": "GE",
+    "zone": 49135,
+    "disciplines": [
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/prenota/?d=nursing&province=GE"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/prenota/?d=physiotherapy&province=GE"
+      },
+      {
+        "discipline": "psicologia",
+        "specialist": "psicologo",
+        "reservation": "/prenota/?d=psychology&province=GE"
+      },
+      {
+        "discipline": "psicoterapia",
+        "specialist": "psicoterapeuta",
+        "reservation": "/prenota/?d=psychotherapy&province=GE"
+      },
+      {
+        "discipline": "nutrizione",
+        "specialist": "nutrizionista",
+        "reservation": "/prenota/?d=nutrition&province=GE"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/prenota/?d=osteopathy&province=GE"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/prenota/?d=veterinary&province=GE"
+      }
+    ]
+  },
+  "verona": {
+    "code": "VR",
+    "zone": 44107,
+    "disciplines": [
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/prenota/?d=nursing&province=VR"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/prenota/?d=physiotherapy&province=VR"
+      },
+      {
+        "discipline": "psicoterapia",
+        "specialist": "psicoterapeuta",
+        "reservation": "/prenota/?d=psychotherapy&province=VR"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/prenota/?d=osteopathy&province=VR"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/prenota/?d=veterinary&province=VR"
+      },
+      {
+        "discipline": "medicina-generale",
+        "specialist": "medico-di-base",
+        "reservation": "/prenota/?d=generalMedicine&province=VR"
+      },
+      {
+        "discipline": "massaggi",
+        "specialist": "massaggiatore-professionale",
+        "reservation": "/prenota/?d=massages&province=VR"
+      }
+    ]
+  },
+  "brescia": {
+    "code": "BS",
+    "zone": 44882,
+    "disciplines": [
+      {
+        "discipline": "infermieristica",
+        "specialist": "infermiere",
+        "reservation": "/prenota/?d=nursing&province=BS"
+      },
+      {
+        "discipline": "fisioterapia",
+        "specialist": "fisioterapista",
+        "reservation": "/prenota/?d=physiotherapy&province=BS"
+      },
+      {
+        "discipline": "osteopatia",
+        "specialist": "osteopata",
+        "reservation": "/prenota/?d=osteopathy&province=BS"
+      },
+      {
+        "discipline": "veterinaria",
+        "specialist": "veterinario",
+        "reservation": "/prenota/?d=veterinary&province=BS"
+      }
+    ]
+  }
+}

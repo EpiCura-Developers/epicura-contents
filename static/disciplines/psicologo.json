@@ -1,0 +1,19 @@
+{
+    "discipline-specialist": "Psicologo",
+    "discipline-text-with-price": "A partire da 30€",
+    "discipline-image": {
+        "path": "psychology",
+        "name": "psychology"
+    },
+    "discipline-description": "Percorso di terapia individuale, di coppia, familiare.",
+    "discipline-background-color": "#FFE9A7",
+    "discipline-link": "/psicologo/",
+    "discipline-specialities": [
+        "Ansia, fobie, attacchi di panico",
+        "Dipendenze e abusi da alcol, droghe, cibo, sesso",
+        "Disturbi dell'apprendimento",
+        "Disturbi post-traumatici",
+        "Anoressia e bulimia",
+        "Sostegno alla genitorialità"
+    ]
+}

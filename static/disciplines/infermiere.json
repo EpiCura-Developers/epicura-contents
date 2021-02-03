@@ -1,0 +1,21 @@
+{
+    "discipline-specialist": "Infermiere",
+    "discipline-text-with-price": "A partire da 30€",
+    "discipline-image": {
+        "path": "nursing",
+        "name": "nursing"
+    },
+    "discipline-description": "Medicazioni, terapie e iniezioni.",
+    "discipline-background-color": "#D3EEF0",
+    "discipline-link": "/infermiere/",
+    "discipline-specialities": [
+        "Medicazioni semplici e complesse",
+        "Flebo",
+        "Iniezioni",
+        "Clisteri",
+        "Cateterismi",
+        "Rimozione punti di sutura",
+        "Gestione stomie",
+        "Rilevazione parametri vitali"
+    ]
+}

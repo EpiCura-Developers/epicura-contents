@@ -1,0 +1,310 @@
+{
+  "metaDescription": {
+    "title": "Nutrizionista a Genova",
+    "description": "Nutrizionisti a domicilio a Genova e area metropolitana. Valutazione nutrizionale, monitoraggio e pianificazione diete a casa, 7 giorni su 7, nessuna lista d'attesa"
+  },
+  "prezzi_title": "I prezzi di Nutrizione a Genova",
+  "come_funziona": {
+    "title": "Come funziona",
+    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Genova e area metropolitana grazie a 3 semplici passaggi:",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
+        "title": "Scegli la soluzione",
+        "text": "EpiCura offre un’ampia scelta di servizi per permettere al paziente di trovare esattamente ciò di cui ha bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
+        "title": "Prenota la seduta",
+        "text": "Contattaci o prenota direttamente online e troveremo il miglior specialista per il tuo caso che ti guiderà nel tuo percorso terapeutico o nutrizionale. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "migliora-salute"
+        },
+        "title": "Migliora la tua salute",
+        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo corpo. Potrai contattarci per qualunque esigenza."
+      }
+    ]
+  },
+  "come_funzionaFbAdw": {
+    "title": "Come funziona",
+    "text": "EpiCura, con oltre 800 figure, è il primo poliambulatorio digitale in Italia. Abbiamo creato un sistema rapido per evitare <b>disorganizzazione, disagi e attese</b> ai nostri pazienti. Ecco come funziona:",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "scegli-soluzione"
+        },
+        "title": "Scegli la soluzione",
+        "text": "Trova il servizio adatto alle tue necessità oppure spiegaci la tua situazione. Ascolteremo i tuoi bisogni e ti aiuteremo a scegliere la migliore soluzione per te."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "prenota-seduta"
+        },
+        "title": "Prenota la visita",
+        "text": "Chiamaci o prenota direttamente online. Troveremo il miglior specialista per te e potrai ricevere il servizio in tempi brevi, senza alcuna lista d’attesa e con la massima comodità."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "migliora-salute"
+        },
+        "title": "Migliora la tua salute",
+        "text": "Preparati a ricevere il nostro specialista. Ti affiancherà in modo professionale nel migliorare la tua salute. Per qualsiasi dubbio o necessità, potrai chiamarci in ogni momento."
+      }
+    ]
+  },
+  "subheader": {
+    "prenotaOnlineText": "Prenota online",
+    "textColor": "dark",
+    "professionistaText": "Sei un professionista?",
+    "professionistaUrl": "/professionisti-lavoro/",
+    "titleBig": "Nutrizionisti a domicilio a Genova",
+    "subtitleBig": "Per chi vuole curare la propria alimentazione",
+    "description1": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
+    "description2": "EpiCura porta le visite nutrizionistiche a domicilio e in videoconsulto, in qualunque giorno e orario tu voglia. Per mantenere il benessere del corpo e della mente.",
+    "askInfoButtonText": "Richiedi informazioni"
+  },
+  "subheaderFbAdw": {
+    "prenotaOnlineText": "Prenota online",
+    "textColor": "dark",
+    "professionistaText": "",
+    "professionistaUrl": "/professionisti-lavoro/",
+    "titleBig": "Visite nutrizionistiche a domicilio a Genova",
+    "subtitleBig": "Ci prendiamo cura di te",
+    "description1": "Senza liste d'attesa, 7 giorni su 7.",
+    "description2": "Con EpiCura puoi prenotare percorsi nutrizionali a domicilio o in videoconsulto in tutta Genova e area metropolitana, in qualunque giorno e orario tu voglia.",
+    "askInfoButtonText": "Richiedi informazioni"
+  },
+  "nostri_professionisti": {
+    "title": "I nostri professionisti",
+    "text": "",
+    "professionisti": [
+      {
+        "name": "Marianna Mastroianni",
+        "disciplina": "Nutrizionista",
+        "prestazioni": [],
+        "avatar": "marianna-mastroianni"
+      },
+      {
+        "name": "Anna Virano",
+        "disciplina": "Nutrizionista",
+        "prestazioni": [],
+        "avatar": "anna-virano"
+      },
+      {
+        "name": "Valentina Casalone",
+        "disciplina": "Nutrizionista",
+        "prestazioni": [],
+        "avatar": "valentina-casalone"
+      },
+      {
+        "name": "Veronica Adele Cordoni",
+        "disciplina": "Nutrizionista",
+        "prestazioni": [],
+        "avatar": "veronica-adele-cordoni"
+      }
+    ]
+  },
+  "prenotazione": {
+    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
+    "subtitle": "Inizia subito il tuo percorso di nutrizione con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
+    "ctaCall": "Vuoi prenotare telefonicamente?"
+  },
+  "faqs": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "title": "Domande frequenti",
+    "list": [
+      {
+        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
+        "answer": "Sì, tutte le prestazioni sanitarie sono detraibili dalla dichiarazione dei redditi. Per farlo basterà utilizzare la fattura che riceverai da EpiCura dopo il pagamento delle prestazioni."
+      },
+      {
+        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
+        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
+      },
+      {
+        "question": "Avete un centro o uno studio dove avvengono le prestazioni?",
+        "answer": "Non abbiamo un nostro centro sul territorio, ma ci appoggiamo agli studi privati dei professionisti che collaborano con noi."
+      },
+      {
+        "question": "Cosa succede se non mi trovo bene con il professionista?",
+        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra professionista e paziente, per questo motivo se non ti trovi bene basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
+      }
+    ]
+  },
+  "latest_articles": {
+    "title": "Ultimi articoli su di noi",
+    "titleFbAdw": "Parlano di noi",
+    "allArticlesLink": "/rassegna-stampa/",
+    "allArticlesText": "Tutti gli articoli",
+    "readArticleText": "Leggi articolo",
+    "articles": [
+      {
+        "image": {
+          "path": "common",
+          "name": "ilsole24ore"
+        },
+        "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
+        "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "forbes"
+        },
+        "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
+        "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "corrieredellasera"
+        },
+        "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
+        "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "lastampa"
+        },
+        "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
+        "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
+      }
+    ]
+  },
+  "servizi_piu_richiesti": {
+    "title": "I servizi più richiesti",
+    "list": [
+      "Visita e valutazione nutrizionale a Genova",
+      "Elaborazione dieta in gravidanza",
+      "Monitoraggio BMI a Genova",
+      "Consulto alimentare a Genova",
+      "Elaborazione dieta per diabetici a Genova",
+      "Misurazione adipometrica a Genova"
+    ]
+  },
+  "descrizione_servizio": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "htmlText": "<h2>Curare l’alimentazione</h2><p>Molte persone, ad oggi, sono prese dalla loro vita frenetica e dai loro impegni non riuscendo a prestare attenzione alla propria alimentazione. La disattenzione e la non curanza verso ciò che mangiamo porta degli scompensi alla nostra salute causando problemi, malesseri e malattie.</p><p>Il nutrizionista si occupa di aiutare la persona a migliorare la propria nutrizione strutturando diete specifiche e accompagnandola nel suo percorso di miglioramento della salute alimentare.<br />I professionisti di EpiCura si occupano di strutturare percorsi per:<ul><li>Aiutare persone in sovrappeso a ritrovare la linea</li><li>Aiutare anziani a mantenere la salute grazie all’alimentazione</li><li>Aiutare bambini a crescere in forma</li><li>Aiutare sportivi a migliorare le proprie prestazioni atletiche</li><li>Aiutare madri in gravidanza a nutrire sé stesse e il nascituro</li></ul></p><p>Abbiamo a che fare con il cibo tutti i giorni, più volte al giorno. È il nostro carburante che ci permette di vivere la nostra vita. Proprio per questo la nutrizione va curata in modo dettagliato e personalizzato. Per aiutare il paziente a trovare la propria salute alimentare i nostri nutrizionisti strutturano dei programmi su misura al caso specifico dando supporto 7 giorni su 7, a domicilio o in videoconsulto. Un supporto completo e personalizzato permette al professionista di comprendere a pieno le abitudini del paziente e aiutarlo a raggiungere i suoi obiettivi di salute.</p>",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "comodita-casa"
+        },
+        "title": "Dove e quando vuoi",
+        "text": "I nostri professionisti certificati erogano visite nutrizionistiche dove preferisci, a casa o in videoconsulto, 7 giorni su 7, anche in orari serali per aiutare a migliorare l’alimentazione."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "percorsi-personalizzati"
+        },
+        "title": "Percorsi personalizzati",
+        "text": "Ogni paziente ha le sue esigenze. Per questo offriamo percorsi personalizzati creati su misura. I nostri professionisti ti affiancheranno nel tuo percorso dandoti supporto negli orari e giorni che preferisci."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "interventi-tempestivi"
+        },
+        "title": "Interventi tempestivi",
+        "text": "Un’attenzione costante è alla base del miglioramento della propria alimentazione. Noi di EpiCura ci teniamo a far sentire il paziente seguito in tutte le sue esigenze."
+      }
+    ]
+  },
+  "descrizione_servizioFbAdw": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "htmlText": "<h2>Cura la tua alimentazione</h2><p>Il nutrizionista si occupa di aiutare la persona a migliorare la propria nutrizione e salute alimentare strutturando <b>diete specifiche al singolo caso</b>.<br />I nutrizionisti di EpiCura si occupano di strutturare percorsi per:<ul><li>Aiutare persone in sovrappeso a ritrovare la linea</li><li>Aiutare anziani a mantenere la salute grazie all’alimentazione</li><li>Aiutare bambini a crescere in forma</li><li>Aiutare sportivi a migliorare le proprie prestazioni atletiche</li><li>Aiutare madri in gravidanza a nutrire sé stesse e il nascituro</li></ul></p>",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "comodita-casa"
+        },
+        "title": "Quando e dove vuoi",
+        "text": "Pensiamo a tutto noi. I nostri specialisti ti raggiungono a casa o ovunque tu voglia, con tutto il necessario per eseguire la prestazione."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "percorsi-personalizzati"
+        },
+        "title": "Percorsi personalizzati",
+        "text": "I nostri professionisti ti accompagneranno in un percorso creato su misura per te, offrendoti i trattamenti corretti sulla base delle tue esigenze, dove vuoi tu e quando vuoi tu."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "interventi-tempestivi"
+        },
+        "title": "Interventi tempestivi",
+        "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
+      }
+    ]
+  },
+  "trattamenti": {
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online",
+    "sectionTitle": "",
+    "showAllText": "Mostra tutti",
+    "hideAllText": "Mostra meno",
+    "title": "Percorsi nutrizionali a Genova",
+    "textColor": "dark",
+    "description": "",
+    "tags": [],
+    "list": [
+      {
+        "title": "Valutazione apporto alimentare",
+        "description": "Visita nutrizionistica per il calcolo e la valutazione dell’apporto alimentare ideale per raggiungere lo stato di forma e di salute. Migliora la qualità della tua alimentazione grazie ai consigli dei nostri esperti nutrizionisti."
+      },
+      {
+        "title": "Monitoraggio dei valori nutrizionali",
+        "description": "Percorso nutrizionistico per il monitoraggio dei valori nutrizionali e per il controllo costante del cibo assunto. Migliora la qualità della tua alimentazione grazie ai consigli dei nostri esperti nutrizionisti."
+      },
+      {
+        "title": "Misurazione adipometrica",
+        "description": "Visita nutrizionistica per la misurazione della composizione corporea e l’analisi dello stato di forma. Comprendi a pieno la tua situazione e migliora il tuo stato di forma grazie ai consigli dei nostri esperti nutrizionisti."
+      },
+      {
+        "title": "Misurazione con plicometro",
+        "description": "Visita nutrizionistica per la misurazione della massa grassa con il plicometro: per niente invasivo e  con ottima precisione. Comprendi a pieno la tua situazione e migliora il tuo stato di forma grazie ai consigli dei nostri esperti nutrizionisti."
+      },
+      {
+        "title": "Educazione alimentare",
+        "description": "Consulenza telefonica per la valutazione del corretto apporto energetico dei cibi. Non vi è la strutturazione della dieta, ma una consulenza per rendere noti gli apporti nutrizionali generali degli alimenti e migliorare il proprio stato di salute e la qualità della vita. "
+      },
+      {
+        "title": "Valutazione BMI",
+        "description": "Visita nutrizionistica per la misurazione e valutazione del BMI (indice di massa corporea) e dello stato di forma. Comprendi a pieno la tua situazione e migliora il tuo stato di forma grazie ai consigli dei nostri esperti nutrizionisti."
+      },
+      {
+        "title": "Elaborazione dieta",
+        "description": "Visita nutrizionistica per l’elaborazione della dieta costruita su misura per il singolo caso. Ideale per avere una corretta alimentazione in gravidanza, durante malattie specifiche, per mantenere lo stato di forma o per percorsi di dimagrimento."
+      },
+      {
+        "title": "Misurazione bioimpedenziometrica",
+        "description": "Visita nutrizionistica per la misurazione della massa grassa tramite l’impedenziometro: ottima precisione e immediatezza dell’analisi. Comprendi a pieno la tua situazione e migliora il tuo stato di forma grazie ai consigli dei nostri esperti nutrizionisti."
+      },
+      {
+        "title": "Consulto alimentare",
+        "description": "Visita nutrizionistica per un supporto sull’alimentazione da nutrizionisti con anni di esperienza. Migliora il tuo stato di forma e la qualità della tua vita grazie ai consigli dei nostri esperti."
+      }
+    ]
+  }
+}
