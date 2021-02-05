@@ -9,19 +9,19 @@
     "cards": [
       {
         "title": "Videoseduta",
-        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "description": "Seduta online di psicologia o psicoterapia della durata di 1 ora. Colloqui online con psicologi o psicoterapeuti pronti ad ascoltarti, quando vuoi, senza spostarti da casa.",
         "price": "40€",
-        "duration": "40 min"
+        "duration": "1 ora"
       },
       {
         "title": "Seduta singola in studio",
-        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "description": "Seduta di psicologia o psicoterapia della durata di 1 ora. Oltre 400 professionisti pronti a prendersi cura di te. Sedute in studio in meno di 24 ore.",
         "price": "50€",
         "duration": "1 ora"
       },
       {
         "title": "Seduta singola a domicilio",
-        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna",
+        "description": "Seduta di psicologia o psicoterapia a casa tua della durata di 1 ora. Ritrova il benessere anche quando non puoi spostarti da casa con psicologi e psicoterapeuti a domicilio.",
         "price": "60€",
         "duration": "1 ora"
       }
