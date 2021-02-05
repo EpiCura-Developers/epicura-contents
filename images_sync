@@ -1,2 +1,0 @@
-aws s3 sync s3://cms-staging-contentbucket-1vlf92uto5l73/images/ s3://cms-production-contentbucket-1c0afx1ttlvjp/images/ --delete
-aws cloudfront create-invalidation --distribution-id E31YH7F8XS09CW --paths "/*"
