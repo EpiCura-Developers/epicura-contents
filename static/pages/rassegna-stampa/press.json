@@ -261,19 +261,19 @@
     "logo": { "path": "common", "name": "lastampa" },
     "title": "La Stampa – Il fisioterapista è 4.0 “L’assistenza arriva a casa entro 24 ore”",
     "date": "17 Luglio 2018",
-    "link": "https://s3-eu-west-1.amazonaws.com/epicuramed.it/20180717NA28-Dorso1M_s.pdf"
+    "link": "/dati-societari/20180717NA28-Dorso1M_s.pdf"
   },
   {
     "logo": { "path": "common", "name": "corrieredellasera" },
     "title": "Corriere della Sera – La start up che porta l’assistenza a domicilio",
     "date": "12 Dicembre 2017",
-    "link": "https://s3-eu-west-1.amazonaws.com/epicuramed.it/EpiCura-Corriere-della-Sera.jpg"
+    "link": "/dati-societari/EpiCura-Corriere-della-Sera.jpg"
   },
   {
     "logo": { "path": "common", "name": "torinosette" },
     "title": "Torino7 – La fisioterapia cambia volto. Un nesso tra vista&postura",
     "date": "6 Ottobre 2017",
-    "link": "https://s3-eu-west-1.amazonaws.com/epicuramed.it/Articolo+to7.pdf"
+    "link": "/dati-societari/Articolo+to7.pdf"
   },
   {
     "logo": { "path": "common", "name": "startthink" },
@@ -291,7 +291,7 @@
     "logo": { "path": "common", "name": "lastampa" },
     "title": "La Stampa – Il caso SocialFare",
     "date": "15 Luglio 2017",
-    "link": "https://s3-eu-west-1.amazonaws.com/epicuramed.it/Articolo-La-Stampa-EpiCura.jpeg"
+    "link": "/dati-societari/Articolo-La-Stampa-EpiCura.jpeg"
   },
   {
     "logo": { "path": "common", "name": "diariodelweb" },
