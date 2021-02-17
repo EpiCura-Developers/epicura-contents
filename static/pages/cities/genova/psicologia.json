@@ -58,36 +58,6 @@
       }
     ]
   },
-  "come_funzionaFbAdw": {
-    "title": "Come funziona",
-    "text": "EpiCura, con oltre 800 figure, è il primo poliambulatorio digitale in Italia. Abbiamo creato un sistema rapido per evitare disorganizzazione, disagi e attese ai nostri pazienti. Ecco come funziona:",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "scegli-soluzione"
-        },
-        "title": "Scegli la soluzione",
-        "text": "Spiegaci la tua situazione, ascoltiamo i tuoi bisogni e ti aiutiamo a scegliere la migliore soluzione per te. Ogni persona è differente e ogni perccorso unico."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "prenota-seduta"
-        },
-        "title": "Prenota la seduta",
-        "text": "Richiedi informazioni o prenota direttamente online. Ti mettiamo in contatto con il miglior specialista per te in breve tempo, senza alcuna lista d’attesa e con la massima comodità."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "migliora-salute"
-        },
-        "title": "Migliora la tua salute",
-        "text": "All’orario e nel giorno concordato incontrerai il tuo psicologo online, in studio o a domicilio. Potrai rivolgerti a noi per qualunque esigenza. Comincia subito il tuo percorso anche in videoconsulto"
-      }
-    ]
-  },
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
     "textColor": "dark",

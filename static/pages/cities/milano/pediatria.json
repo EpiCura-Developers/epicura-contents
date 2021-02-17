@@ -34,36 +34,6 @@
       }
     ]
   },
-  "come_funzionaFbAdw": {
-    "title": "Come funziona",
-    "text": "EpiCura, con oltre 800 figure, è il primo poliambulatorio digitale in Italia. Abbiamo creato un sistema rapido per evitare disorganizzazione, disagi e attese ai nostri pazienti. Ecco come funziona:",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "scegli-soluzione"
-        },
-        "title": "Scegli la soluzione",
-        "text": "Trova il servizio adatto al tuo bambino oppure spiegaci la situazione. Ascolteremo i vostri bisogni e vi aiuteremo a scegliere la migliore soluzione."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "prenota-seduta"
-        },
-        "title": "Prenota la visita",
-        "text": "Chiamaci o prenota direttamente online. Troveremo il miglior specialista e potrai ricevere il servizio in tempi brevi, senza alcuna lista d’attesa e con la massima comodità."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "migliora-salute"
-        },
-        "title": "Migliora la sua salute",
-        "text": "Preparati a ricevere a casa tua il nostro specialista. Affiancherà il tuo bambino nel suo percorso di cura. Potrai contattarti per qualunque esigenza."
-      }
-    ]
-  },
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
     "textColor": "dark",
