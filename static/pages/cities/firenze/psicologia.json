@@ -89,7 +89,7 @@
     ]
   },
   "subheader": {
-    "prenotaOnlineText": "Prenota online",
+    "prenotaOnlineText": "Prenota ora",
     "textColor": "dark",
     "professionistaText": "Sei un professionista?",
     "professionistaUrl": "/professionisti-lavoro/",
@@ -100,7 +100,7 @@
     "askInfoButtonText": "Richiedi informazioni"
   },
   "subheaderFbAdw": {
-    "prenotaOnlineText": "Prenota online",
+    "prenotaOnlineText": "Prenota ora",
     "textColor": "dark",
     "professionistaText": "",
     "professionistaUrl": "/professionisti-lavoro/",

@@ -1,8 +1,26 @@
 {
   "metaDescription": {
-    "title": "Badante a Firenze",
-    "description": "Badanti in tutta Firenze. Family tutor dedicato, sostituzione gratuita, soddisfatto o rimborsato. Piani di assistenza personalizzati, ci occupiamo noi della burocrazia."
+    "title": "Badante in tutta Italia",
+    "description": "Badanti in tutta Italia. Family tutor dedicato, sostituzione gratuita, soddisfatto o rimborsato. Piani di assistenza personalizzati, ci occupiamo noi della burocrazia."
   },
+  "services": [
+    {
+      "name": "Badante diurna",
+      "link": "/badante-diurna/"
+    },
+    {
+      "name": "Badante notturna",
+      "link": "/badante-notturna/"
+    },
+    {
+      "name": "Badante convivente",
+      "link": "/badante-convivente/"
+    },
+    {
+      "name": "Assistenza a ore",
+      "link": "/assistenza-a-ore/"
+    }
+  ],
   "come_funziona": {
     "title": "Cosa faremo per te",
     "text": "Al giorno d’oggi sempre più famiglie hanno difficoltà a prendersi cura dei propri cari a causa di continui impegni personali e lavorativi. Il nostro servizio di assistenza è personalizzato e creato su misura proprio per rispondere alle esigenze del paziente e della sua famiglia.",
@@ -40,19 +58,19 @@
       {
         "image": {
           "path": "caregiver",
-          "name": "badante-part-time"
+          "name": "badante-full-time"
         },
-        "title": "Assistente a ore",
-        "text": "Assiste la persona per un numero limitato di ore settimanali. Serve nei casi in cui la famiglia necessita di assistenza solamente in alcune fasce orarie.",
-        "price": "14€"
+        "title": "Badante convivente giorno e notte",
+        "text": "Presta assistenza costante trasferendosi in casa della persona assistita. L’assistenza è erogabile a partire da un minimo di 2 mesi. ",
+        "price": "1030€"
       },
       {
         "image": {
           "path": "caregiver",
-          "name": "badante-full-time"
+          "name": "badante-part-time"
         },
-        "title": "Badante diurna o notturna",
-        "text": "Presta assistenza a tempo pieno alla persona durante il giorno o la notte, ma senza convivere nella casa della persona assistita.",
+        "title": "Badante diurno",
+        "text": "Presta assistenza part-time alla persona durante il giorno. ",
         "price": "682€"
       },
       {
@@ -60,9 +78,9 @@
           "path": "caregiver",
           "name": "badante-convivente"
         },
-        "title": "Badante convivente giorno e notte",
-        "text": "Si occupa di assistenza costante. Si trasferisce a casa della persona assistita per garantire presenza e cure a tempo pieno. L'assistenza è erogabile a partire da un minimo di 2 mesi.",
-        "price": "1030€"
+        "title": "Badante notturno",
+        "text": "Presta assistenza a tempo pieno alla persona durante la notte.",
+        "price": "1122€"
       }
     ]
   },
@@ -118,7 +136,7 @@
     ]
   },
   "caregiverCTA": {
-    "title": "Cerchi una Badante, un'assistente o un OSS?",
+    "title": "Cerchi una Badante?",
     "subtitle": "Chiamaci per un Preventivo Gratuito",
     "ctaHint": "Oppure scrivici",
     "ctaText": "Richiedi informazioni"
@@ -128,11 +146,10 @@
     "textColor": "dark",
     "professionistaText": "",
     "professionistaUrl": "",
-    "titleBig": "Trova Badanti a Firenze",
-    "subtitleBig": "Servizio completo e personalizzato per chi ricerca un assistente domiciliare",
-    "description1": "Badanti referenziate e OSS con esperienza comprovata e family tutor dedicati a supporto della famiglia.",
-    "description2": "EpiCura si prende cura dei tuoi cari in casa, in ospedale e ovunque tu voglia 7 giorni su 7. Sviluppiamo insieme piani di assistenza personalizzati: <b>dalle badanti per assistenza notturna, all’assistenza continuativa o alle badanti conviventi.</b>",
-    "askInfoButtonText": "Richiedi informazioni"
+    "titleBig": "Assistenza domiciliare",
+    "subtitleBig": "",
+    "description1": "Servizi di assistenza domiciliare per anziani, disabili e malati, autosufficienti e non. Badanti per assistenze diurne, assistenze notturne, badanti conviventi.",
+    "askInfoButtonText": "Richiedi consulenza"
   },
   "faqs": {
     "askInfoText": "Richiedi informazioni",
@@ -168,8 +185,8 @@
         "answer": "Attraverso un rigoroso processo di selezione selezioniamo 2-4 candidati perfettamente in linea con le tue esigenze. Sarai poi tu a scegliere, attraverso un colloquio, il badante che preferisci tra quelli proposti."
       },
       {
-        "question": "Nessun costo di attivazione",
-        "answer": "Dopo averci comunicato le esigenze della persona da assistere, cercheremo per te la persona più adatta gratuitamente: non dovrai pagare alcun costo di attivazione per la ricerca."
+        "question": "Ci sono costi di attivazione?",
+        "answer": "Assolutamente no. Dopo averci comunicato le esigenze della persona da assistere, cercheremo per te la persona più adatta gratuitamente: non dovrai pagare alcun costo di attivazione per la ricerca."
       }
     ]
   },
