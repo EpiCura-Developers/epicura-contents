@@ -21,6 +21,36 @@
       "link": "/assistenza-a-ore/"
     }
   ],
+  "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",
+  "talks_about_us": {
+    "title":"Parlano di noi",
+    "list": [
+      {
+        "image": {
+          "path": "common",
+          "name": "skytg24"
+        }
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "lastampa"
+        }
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "corrieredellasera"
+        }
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "ilsole24ore"
+        }
+      }
+    ]
+  },
   "come_funziona": {
     "title": "Cosa faremo per te",
     "text": "Al giorno d’oggi sempre più famiglie hanno difficoltà a prendersi cura dei propri cari a causa di continui impegni personali e lavorativi. Il nostro servizio di assistenza è personalizzato e creato su misura proprio per rispondere alle esigenze del paziente e della sua famiglia.",
@@ -142,7 +172,7 @@
     "ctaText": "Richiedi informazioni"
   },
   "subheader": {
-    "prenotaOnlineText": "Prenota ora",
+    "prenotaOnlineText": "Richiedi preventivo gratuito",
     "textColor": "dark",
     "professionistaText": "",
     "professionistaUrl": "",
