@@ -192,6 +192,55 @@
       }
     ]
   },
+  "assistenza-ore": {
+    "title": "Hai bisogno di assistenza a ore?",
+    "text": "Servizio pensato per persone autosufficienti che hanno bisogno di supporto breve solo in specifici giorni per attività che non riescono a svolgere in autonomia (spesa, pulizia della casa, visite mediche).",
+    "city": {
+      "title": "Scopri l’assistenza ad ore a",
+      "list": [
+        {
+          "option-link": "/torino/",
+          "option-label": "Torino"
+        },
+        {
+          "option-link": "/milano/",
+          "option-label": "Milano"
+        },
+        {
+          "option-link": "/roma/",
+          "option-label": "Roma"
+        },
+        {
+          "option-link": "/bologna/",
+          "option-label": "Bologna"
+        },
+        {
+          "option-link": "/verona/",
+          "option-label": "Verona"
+        },
+        {
+          "option-link": "/brescia/",
+          "option-label": "Brescia"
+        },
+        {
+          "option-link": "/catania/",
+          "option-label": "Catania"
+        },
+        {
+          "option-link": "/genova/",
+          "option-label": "Genova"
+        },
+        {
+          "option-link": "/firenze/",
+          "option-label": "Firenze"
+        },
+        {
+          "option-link": "/napoli/",
+          "option-label": "Napoli"
+        }
+      ]
+    }
+  },
   "familyTutor": {
     "bkg-color": "#F5F8FF",
     "title": "Indeciso? Parla con il nostro family tutor.",
