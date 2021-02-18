@@ -102,14 +102,12 @@
           "name": "badante-full-time"
         },
         "title": "Badante convivente giorno e notte",
-        "mobileTitle":  "Badante convivente",
         "text": "Presta assistenza costante trasferendosi in casa della persona assistita. L’assistenza è erogabile a partire da un minimo di 2 mesi. ",
         "price": "1030 Euro",
         "button": {
           "text": "Scopri di più",
           "link": "https://hubspot-link-placeholder"
-        },
-        "mobileHint": "Giorno e notte"
+        }
       },
       {
         "image": {
@@ -122,8 +120,7 @@
         "button": {
           "text": "Scopri di più",
           "link": "https://hubspot-link-placeholder"
-        },
-        "mobileHint": "Solo giorno"
+        }
       },
       {
         "image": {
@@ -136,8 +133,7 @@
         "button": {
           "text": "Scopri di più",
           "link": "https://hubspot-link-placeholder"
-        },
-        "mobileHint": "Solo notte"
+        }
       }
     ]
   },
