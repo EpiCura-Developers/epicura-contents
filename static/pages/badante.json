@@ -192,6 +192,17 @@
       }
     ]
   },
+  "familyTutor": {
+    "bkg-color": "#F5F8FF",
+    "title": "Indeciso? Parla con il nostro family tutor.",
+    "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+    "image": {
+      "path": "caregiver",
+      "name": "family-tutor"
+    },
+    "button-text": "Prenota un appuntamento",
+    "button-link": "https://hubspot-link-placeholder"
+  },
   "caregiverCTA": {
     "title": "Cerchi una Badante?",
     "subtitle": "Chiamaci per un Preventivo Gratuito",
