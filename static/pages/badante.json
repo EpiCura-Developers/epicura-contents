@@ -93,7 +93,7 @@
     ]
   },
   "solutions": {
-    "title": "Le soluzioni che abbiamo pensato per te",
+    "title": "La nostra offerta senza costi di attivazione",
     "startingFromText": "A partire da",
     "solutionsBig": [
       {
@@ -258,6 +258,27 @@
     },
     "button-text": "Candidati ora",
     "button-link": "https://hubspot-link-placeholder"
+  },
+  "advantages": {
+    "title": "I vantaggi di EpiCura",
+    "list": [
+      {
+        "image": { "path": "common", "name": "money" },
+        "title": "Nessun costo di attivazione",
+        "description": "Il pagamento verrà effettuato solo ad avvenuta ricerca e inserimento della badante in famiglia."
+      },
+      {
+        "image": { "path": "common", "name": "ricerca" },
+        "title": "Sostituzione gratuita badante",
+        "description": "Se per qualsiasi motivo dovesse sostituire la figura selezionata, ci occuperemo gratuitamente della nuova ricerca."
+      },
+      {
+        "image": { "path": "common", "name": "tutor" },
+        "title": "Un Family Tutor dedicato",
+        "description": "Un consulente dedicato seguirà la famiglia in ogni fase del piano assistenziale"
+      }
+    ]
+
   },
   "caregiverCTA": {
     "title": "Cerchi una Badante?",
