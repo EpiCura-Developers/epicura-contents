@@ -107,7 +107,8 @@
         "button": {
           "text": "Scopri di più",
           "link": "https://hubspot-link-placeholder"
-        }
+        },
+        "active": "Servizio attivo in tutta Italia"
       },
       {
         "image": {
@@ -120,7 +121,8 @@
         "button": {
           "text": "Scopri di più",
           "link": "https://hubspot-link-placeholder"
-        }
+        },
+        "active": "Servizio attivo in tutta Italia"
       },
       {
         "image": {
@@ -133,7 +135,8 @@
         "button": {
           "text": "Scopri di più",
           "link": "https://hubspot-link-placeholder"
-        }
+        },
+        "active": "Servizio attivo in tutta Italia"
       }
     ]
   },
