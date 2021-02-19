@@ -228,15 +228,7 @@
     ]
   },
   "trattamenti": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "sectionTitle": "",
-    "showAllText": "Mostra tutti",
-    "hideAllText": "Mostra meno",
-    "title": "Assistenza anziani, malati e disabili a Milano",
-    "textColor": "dark",
-    "description": "",
-    "tags": [],
+    "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
     "list": [
       {
         "title": "Assistenza anziani",
