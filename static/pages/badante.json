@@ -17,8 +17,57 @@
       "link": "/badante-convivente/"
     },
     {
-      "name": "Assistenza a ore",
-      "link": "/assistenza-a-ore/"
+      "name": "Assistenza a ore"
+    },
+    {
+      "link": "/torino/",
+      "name": "Torino",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/milano/",
+      "name": "Milano",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/roma/",
+      "name": "Roma",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/bologna/",
+      "name": "Bologna",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/verona/",
+      "name": "Verona",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/brescia/",
+      "name": "Brescia",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/catania/",
+      "name": "Catania",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/genova/",
+      "name": "Genova",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/firenze/",
+      "name": "Firenze",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/napoli/",
+      "name": "Napoli",
+      "isHomeAssistance": true
     }
   ],
   "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",
@@ -195,49 +244,7 @@
     "title": "Hai bisogno di assistenza a ore?",
     "text": "Servizio pensato per persone autosufficienti che hanno bisogno di supporto breve solo in specifici giorni per attività che non riescono a svolgere in autonomia (spesa, pulizia della casa, visite mediche).",
     "city": {
-      "title": "Scopri l’assistenza ad ore a",
-      "list": [
-        {
-          "option-link": "/torino/",
-          "option-label": "Torino"
-        },
-        {
-          "option-link": "/milano/",
-          "option-label": "Milano"
-        },
-        {
-          "option-link": "/roma/",
-          "option-label": "Roma"
-        },
-        {
-          "option-link": "/bologna/",
-          "option-label": "Bologna"
-        },
-        {
-          "option-link": "/verona/",
-          "option-label": "Verona"
-        },
-        {
-          "option-link": "/brescia/",
-          "option-label": "Brescia"
-        },
-        {
-          "option-link": "/catania/",
-          "option-label": "Catania"
-        },
-        {
-          "option-link": "/genova/",
-          "option-label": "Genova"
-        },
-        {
-          "option-link": "/firenze/",
-          "option-label": "Firenze"
-        },
-        {
-          "option-link": "/napoli/",
-          "option-label": "Napoli"
-        }
-      ]
+      "title": "Scopri l’assistenza ad ore a"
     }
   },
   "familyTutor": {
