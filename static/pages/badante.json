@@ -313,6 +313,17 @@
     "button-text": "Candidati ora",
     "button-link": "https://hubspot-link-placeholder"
   },
+  "discount": {
+    "title": "10% di sconto su tutti i nostri servizi se prenoti assistenza domiciliare",
+    "services-list": [
+      "Fisioterapia",
+      "Medicina generale",
+      "Pediatria",
+      "Nutrizione",
+      "Massaggi",
+      "Psicologia e psicoterapia"
+    ]
+  },
   "advantages": {
     "title": "I vantaggi di EpiCura",
     "list": [
