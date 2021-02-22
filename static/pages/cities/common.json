@@ -127,29 +127,6 @@
     "placeholderText": "Scegli una prestazione...",
     "buttonText": "Prenota online"
   },
-  "sidebar": {
-    "prenotaText": "Prenota online",
-    "chiamaciText": "Chiamaci",
-    "nostriServiziText": "I nostri servizi",
-    "pricesText": "Prezzi",
-    "askInfoText": "Richiedi informazioni",
-    "seiProfessionista": {
-      "title": "Sei un professionista?",
-      "url": "/professionisti-lavoro/"
-    },
-    "magazine": {
-      "title": "Magazine",
-      "url": "/blog/"
-    },
-    "privacy": {
-      "title": "Privacy policy",
-      "url": "/privacy-policy/"
-    },
-    "terminiCondizioni": {
-      "title": "Termini e condizioni",
-      "url": "/termini-e-condizioni/"
-    }
-  },
   "magazine": {
     "title": "Ultimi articoli dal nostro Magazine",
     "continueBtnText": "Continua"
