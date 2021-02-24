@@ -110,6 +110,22 @@
       }
     ]
   },
+  "check_list": {
+    "title": "Specifiche contratto",
+    "list": [
+      "Lorem ipsum dolor sit.",
+      "Lorem ipsum dolor sit.",
+      "Lorem ipsum dolor sit.",
+      "Lorem ipsum dolor sit."
+    ],
+    "footer": {
+      "text": "A partire da 1.030 Euro",
+      "button": {
+        "text": "Richiedi consulenza",
+        "link": "https://hubspot-link-placeholder"
+      }
+    }
+  },
   "come_funziona": {
     "title": "Come funziona la ricerca badanti?",
     "cards": [

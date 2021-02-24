@@ -81,6 +81,22 @@
     }
   ],
   "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",
+  "check_list": {
+    "title": "Specifiche contratto",
+    "list": [
+      "Lorem ipsum dolor sit.",
+      "Lorem ipsum dolor sit.",
+      "Lorem ipsum dolor sit.",
+      "Lorem ipsum dolor sit."
+    ],
+    "footer": {
+      "text": "A partire da 1.122 Euro",
+      "button": {
+        "text": "Richiedi consulenza",
+        "link": "https://hubspot-link-placeholder"
+      }
+    }
+  },
   "talks_about_us": {
     "title":"Parlano di noi",
     "list": [
