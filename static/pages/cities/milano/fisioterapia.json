@@ -236,40 +236,40 @@
     "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
     "list": [
       {
-        "title": "Linfodrenaggio manuale",
-        "description": "Sedute di linfodrenaggio con metodo Vodder e metodo Leduc per drenare i liquidi in eccesso (come nel caso di cellulite o disturbi come edemi) accumulati nei tessuti del corpo. Migliora la circolazione e il tuo sistema immunitario senza alcun dolore provocato dalla terapia."
+        "title": "Fisioterapia per anziani",
+        "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria"
       },
       {
-        "title": "Riabilitazione geriatrica",
-        "description": "Sedute di fisioterapia riabilitativa erogate da professionisti che diagnosticano e curano l’anziano seguendolo a pieno nella guarigione. Un percorso di riabilitazione assistita a 360 gradi per riscoprire la salute."
+        "title": "Fisioterapia pediatrica",
+        "description": "torcicollo, plagiocefalia neonatale, piede piatto valgo, scoliosi, dorso curvo, fratture."
       },
       {
-        "title": "Riabilitazione neurologica",
-        "description": "Percorso di fisioterapia riabilitativa a seguito di un danno neurologico provocato da malattie come il morbo di Parkinson. Sedute per il riacquisto di forza muscolare, equilibrio, comprensione cognitiva e controllo del dolore."
-      },
-      {
-        "title": "Riabilitazione ortopedica",
-        "description": "Sedute riabilitative ortopediche erogate da esperti, per permettere al paziente di ripristinare le proprie capacità e funzioni motorie perse o limitate da malattie o traumi."
+        "title": "Fisioterapia in gravidanza",
+        "description": "gonfiore degli arti, mal di schiena, lombalgia, scialtalgia, disturbi del pavimento pelvico"
       },
       {
         "title": "Riabilitazione respiratoria",
-        "description": "Percorso riabilitativo per contrastare le patologie dell’apparato respiratorio. Migliora la resistenza e qualità fisica potenziando le capacità respiratorie e recuperando serenità nel quotidiano."
+        "description": "ginnastica respiratoria, fisioterapia polmonare"
       },
       {
-        "title": "Ginnastica posturale",
-        "description": "Sedute di ginnastica posturale per riallineare il proprio corpo. Alleggerisci il carico sulla spina dorsale, diminuisci i dolori articolari e allenta le tensioni grazie ad esercizi mirati al riassetto della postura."
+        "title": "Riabilitazione motoria",
+        "description": "alluce valgo, protesi anca, frattura femore, fisioterapia per ginocchio, protesi ginocchio, rafforzamento muscolare."
       },
       {
-        "title": "Riabilitazione post operatoria",
-        "description": "Sedute di fisioterapia per ripristinare la normale flessibilità e mobilità a seguito di un’operazione chirurgica o di un forte trauma. Percorso personalizzato strutturato su misura al caso specifico per la massima efficacia."
-      },
-      {
-        "title": "Terapie manuali",
-        "description": "Sedute di terapia manuale con valutazione dell’apparato locomotore e trattamenti mirati alla sua mobilizzazione. Percorsi di esercizi terapeutici funzionali a rendere più fluido il movimento."
+        "title": "Linfodrenaggio manuale",
+        "description": "cellulite, edemi, ritenzione idrica, vene varicose"
       },
       {
         "title": "Chinesiterapia",
-        "description": "Sedute di fisioterapia in cui il movimento del paziente viene utilizzato per trattare problematiche neuro-muscolo-scheletriche. Riacquista le normali funzionalità motorie grazie alla naturale azione del movimento, guidato da uno specialista."
+        "description": "riacquisizione delle funzionalità motorie"
+      },
+      {
+        "title": "Disturbi patologici",
+        "description": "artrosi, artrite reumatoide, distrofia muscolare, fibromialgia, ictus, sclerosi multipla, spondilite anchilosante, tremore essenziale"
+      },
+      {
+        "title": "Dolore e infiammazione",
+        "description": "acufene, cervicale, emicrania, ernie, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite"
       }
     ]
   }
