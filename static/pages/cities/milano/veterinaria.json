@@ -155,31 +155,6 @@
       }
     ]
   },
-  "soluzioni_su_misura": {
-    "title": "Le soluzioni create su misura",
-    "infoButtonText": "Richiedi informazioni",
-    "pacchetto1": {
-      "title": "Pacchetto Cucciolo Cane e Gatto",
-      "qty": "",
-      "price": "155€",
-      "text": "Comprende tutti i trattamenti, obbligatori e non, per garantire il benessere del tuo cucciolo. Il pacchetto prevede: prima visita veterinaria generale, vaccinazioni, microchip e sverminazione."
-    },
-    "pacchetto2": {
-      "title": "Pacchetto Pet Care Dog e Pet Care Cat",
-      "qty": "",
-      "price": "245€",
-      "oldPrice": "",
-      "text": "Comprende tutti i trattamenti, obbligatori e non, per mantenere la salute e il benessere del tuo cane o gatto. Il pacchetto prevede: visita, richiami vaccinazioni, esami feci, urine e sangue, esami specifici per cane e gatto (es. esame leishmaniosi o filaria)."
-    },
-    "teleconsulto": {
-      "bgImage": "teleconsulto-bg",
-      "textColor": "dark",
-      "title": "Assistenza Teleconsulto",
-      "price": "20€",
-      "startingFromText": "A partire da",
-      "text": "Per chi vuole il parere di un esperto su uno specifico problema. Parla direttamente con un nostro veterinario al telefono che ti consiglierà esattamente cosa fare per migliorare la salute del tuo animale."
-    }
-  },
   "servizi_piu_richiesti": {
     "title": "I servizi più richiesti",
     "list": [
