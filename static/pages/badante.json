@@ -82,7 +82,7 @@
   ],
   "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",
   "talks_about_us": {
-    "title":"Parlano di noi",
+    "title": "Parlano di noi",
     "list": [
       {
         "image": {
@@ -151,54 +151,56 @@
       }
     ]
   },
-  "solutions": {
-    "title": "La nostra offerta senza costi di attivazione",
-    "startingFromText": "A partire da",
-    "solutionsBig": [
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "badante-full-time"
+  "solutions": [
+    {
+      "title": "La nostra offerta senza costi di attivazione",
+      "startingFromText": "A partire da",
+      "solutionsBig": [
+        {
+          "image": {
+            "path": "caregiver",
+            "name": "badante-full-time"
+          },
+          "title": "Badante convivente giorno e notte",
+          "text": "Presta assistenza costante trasferendosi in casa della persona assistita. L’assistenza è erogabile a partire da un minimo di 2 mesi. ",
+          "price": "1030 Euro",
+          "button": {
+            "text": "Scopri di più",
+            "link": "/badante-convivente/"
+          },
+          "active": "Servizio attivo in tutta Italia"
         },
-        "title": "Badante convivente giorno e notte",
-        "text": "Presta assistenza costante trasferendosi in casa della persona assistita. L’assistenza è erogabile a partire da un minimo di 2 mesi. ",
-        "price": "1030 Euro",
-        "button": {
-          "text": "Scopri di più",
-          "link": "/badante-convivente/"
+        {
+          "image": {
+            "path": "caregiver",
+            "name": "badante-part-time"
+          },
+          "title": "Badante diurna",
+          "text": "Presta assistenza part-time alla persona durante il giorno. ",
+          "price": "682 Euro",
+          "button": {
+            "text": "Scopri di più",
+            "link": "/badante-diurna/"
+          },
+          "active": "Servizio attivo in tutta Italia"
         },
-        "active": "Servizio attivo in tutta Italia"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "badante-part-time"
-        },
-        "title": "Badante diurna",
-        "text": "Presta assistenza part-time alla persona durante il giorno. ",
-        "price": "682 Euro",
-        "button": {
-          "text": "Scopri di più",
-          "link": "/badante-diurna/"
-        },
-        "active": "Servizio attivo in tutta Italia"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "badante-convivente"
-        },
-        "title": "Badante notturna",
-        "text": "Presta assistenza a tempo pieno alla persona durante la notte.",
-        "price": "1122 Euro",
-        "button": {
-          "text": "Scopri di più",
-          "link": "/badante-notturna/"
-        },
-        "active": "Servizio attivo in tutta Italia"
-      }
-    ]
-  },
+        {
+          "image": {
+            "path": "caregiver",
+            "name": "badante-convivente"
+          },
+          "title": "Badante notturna",
+          "text": "Presta assistenza a tempo pieno alla persona durante la notte.",
+          "price": "1122 Euro",
+          "button": {
+            "text": "Scopri di più",
+            "link": "/badante-notturna/"
+          },
+          "active": "Servizio attivo in tutta Italia"
+        }
+      ]
+    }
+  ],
   "assistenza-ore": {
     "title": "Hai bisogno di assistenza a ore?",
     "text": "Servizio pensato per persone autosufficienti che hanno bisogno di supporto breve solo in specifici giorni per attività che non riescono a svolgere in autonomia (spesa, pulizia della casa, visite mediche).",
@@ -309,6 +311,5 @@
         "description": "Un consulente dedicato seguirà la famiglia in ogni fase del piano assistenziale"
       }
     ]
-
   }
 }

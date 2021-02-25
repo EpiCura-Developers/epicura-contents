@@ -272,5 +272,28 @@
         "description": "acufene, cervicale, emicrania, ernie, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite"
       }
     ]
-  }
+  },
+  "solutions": [
+    {
+      "title": "La ricerca della giusta assistenza",
+      "startingFromText": "A partire da",
+      "solutionsBig": [
+        {
+          "title": "Assistente a ore",
+          "text": "Assiste la persona per un numero limitato di ore settimanali. Serve nei casi in cui la famiglia necessita di assistenza solamente in alcune fasce orarie.",
+          "price": "14€"
+        },
+        {
+          "title": "Badante diurna o notturna",
+          "text": "Presta assistenza a tempo pieno alla persona durante il giorno o la notte, ma senza convivere nella casa della persona assistita.",
+          "price": "682€"
+        },
+        {
+          "title": "Badante convivente giorno e notte",
+          "text": "Si occupa di assistenza costante. Si trasferisce a casa della persona assistita per garantire presenza e cure a tempo pieno. L'assistenza è erogabile a partire da un minimo di 2 mesi.",
+          "price": "1030€"
+        }
+      ]
+    }
+  ]
 }

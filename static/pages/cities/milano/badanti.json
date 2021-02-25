@@ -33,39 +33,41 @@
       }
     ]
   },
-  "solutions": {
-    "title": "La ricerca della giusta assistenza",
-    "startingFromText": "A partire da",
-    "solutionsBig": [
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "badante-part-time"
+  "solutions": [
+    {
+      "title": "La ricerca della giusta assistenza",
+      "startingFromText": "A partire da",
+      "solutionsBig": [
+        {
+          "image": {
+            "path": "caregiver",
+            "name": "badante-part-time"
+          },
+          "title": "Assistente a ore",
+          "text": "Assiste la persona per un numero limitato di ore settimanali. Serve nei casi in cui la famiglia necessita di assistenza solamente in alcune fasce orarie.",
+          "price": "15€"
         },
-        "title": "Assistente a ore",
-        "text": "Assiste la persona per un numero limitato di ore settimanali. Serve nei casi in cui la famiglia necessita di assistenza solamente in alcune fasce orarie.",
-        "price": "15€"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "badante-full-time"
+        {
+          "image": {
+            "path": "caregiver",
+            "name": "badante-full-time"
+          },
+          "title": "Badante diurna o notturna",
+          "text": "Presta assistenza a tempo pieno alla persona durante il giorno o la notte, ma senza convivere nella casa della persona assistita.",
+          "price": "682€"
         },
-        "title": "Badante diurna o notturna",
-        "text": "Presta assistenza a tempo pieno alla persona durante il giorno o la notte, ma senza convivere nella casa della persona assistita.",
-        "price": "682€"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "badante-convivente"
-        },
-        "title": "Badante convivente giorno e notte",
-        "text": "Si occupa di assistenza costante. Si trasferisce a casa della persona assistita per garantire presenza e cure a tempo pieno. L'assistenza è erogabile a partire da un minimo di 2 mesi.",
-        "price": "1030€"
-      }
-    ]
-  },
+        {
+          "image": {
+            "path": "caregiver",
+            "name": "badante-convivente"
+          },
+          "title": "Badante convivente giorno e notte",
+          "text": "Si occupa di assistenza costante. Si trasferisce a casa della persona assistita per garantire presenza e cure a tempo pieno. L'assistenza è erogabile a partire da un minimo di 2 mesi.",
+          "price": "1030€"
+        }
+      ]
+    }
+  ],
   "caregiverTasks": {
     "title": "La badante si occuperà di",
     "notes": {
