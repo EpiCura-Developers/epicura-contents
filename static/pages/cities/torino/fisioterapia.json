@@ -281,8 +281,12 @@
         {
           "title": "Assistente a ore",
           "text": "Assiste la persona per un numero limitato di ore settimanali. Serve nei casi in cui la famiglia necessita di assistenza solamente in alcune fasce orarie.",
-          "startingFrom": false,
-          "price": "14€"
+          "startingFrom": true,
+          "price": "14€",
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          }
         },
         {
           "title": "Badante diurna o notturna",
@@ -290,6 +294,10 @@
           "startingFrom": false,
           "oldPrice": "900€",
           "price": "682€",
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
           "bottomText": {
             "text": "Prova di testo INATTIVO",
             "highlighted": false
@@ -301,6 +309,10 @@
           "startingFrom": false,
           "oldPrice": "1300€",
           "price": "1030€",
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
           "bottomText": {
             "text": "Prova di testo ATTIVO",
             "highlighted": true
