@@ -168,7 +168,10 @@
             "text": "Scopri di più",
             "link": "/badante-convivente/"
           },
-          "active": "Servizio attivo in tutta Italia"
+          "bottomText": {
+            "text": "Servizio attivo in tutta Italia",
+            "highlighted": true
+          }
         },
         {
           "image": {
@@ -182,7 +185,10 @@
             "text": "Scopri di più",
             "link": "/badante-diurna/"
           },
-          "active": "Servizio attivo in tutta Italia"
+          "bottomText": {
+            "text": "Servizio attivo in tutta Italia",
+            "highlighted": true
+          }
         },
         {
           "image": {
@@ -196,7 +202,10 @@
             "text": "Scopri di più",
             "link": "/badante-notturna/"
           },
-          "active": "Servizio attivo in tutta Italia"
+          "bottomText": {
+            "text": "Servizio attivo in tutta Italia",
+            "highlighted": true
+          }
         }
       ]
     }
