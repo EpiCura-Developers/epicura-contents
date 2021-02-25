@@ -3,215 +3,175 @@
     "title": "EpiCura - Milano",
     "description": "Cura la tua salute e quella di chi ami a Milano e area metropolitana con EpiCura, primo poliambulatorio digitale in Italia. Servizi medici, sanitari e assistenziali 7 giorni su 7, anche in orari serali, senza liste d'attesa."
   },
-  "come_funziona": {
-    "title": "Come funziona",
-    "text": "Il settore della sanità è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno, rende l'accesso alle cure efficace, comodo e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Milano e area metropolitana grazie a 3 semplici passaggi:",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "scegli-soluzione"
-        },
-        "title": "Scegli la soluzione",
-        "text": "EpiCura offre un’ampia scelta di servizi per permettere al paziente di trovare esattamente ciò di cui ha bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "prenota-seduta"
-        },
-        "title": "Prenota la seduta",
-        "text": "Contattaci telefonicamente o prenota direttamente online, troveremo il miglior specialista che ti guiderà nel percorso terapeutico. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "migliora-salute"
-        },
-        "title": "Migliora la tua salute",
-        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo corpo. Potrai contattarci per qualunque esigenza."
-      }
-    ]
-  },
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
     "textColor": "dark",
     "professionistaText": "Sei un professionista?",
     "professionistaUrl": "/professionisti-lavoro/",
     "titleBig": "La salute a Milano con EpiCura",
-    "subtitleBig": "Il primo poliambulatorio digitale in Italia",
-    "description1": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
-    "description2": "Scopri i servizi che offriamo o richiedi informazioni per capire come possiamo soddisfare le tue necessità.",
+    "subtitleBig": "",
+    "description1": "Prenota online medici, assistenti domiciliari, infermieri e terapisti, a domicilio, in studio o in videoconsulto, 7 giorni su 7.",
+    "description2": "",
     "askInfoButtonText": "Richiedi informazioni"
   },
-  "nostri_servizi": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "I nostri servizi",
-    "startingFromText": "Interventi a partire da",
-    "list": {
-      "medicina-generale": {
-        "title": "Medicina generale",
-        "textColor": "light",
-        "image": "medicina-generale",
-        "price": "100€",
-        "prestazioni": [
-          "Visita generica",
-          "Certificati medici",
-          "Prescrizione esami strumentali e visite specialistiche",
-          "Prescrizione farmaci"
-        ],
-        "description": "Visite mediche a domicilio, senza alcuna lista d’attesa e anche nel weekend. I nostri medici offrono comodità oraria, 7 giorni su 7, per avere la sicurezza di uno specialista in qualsiasi momento."
+  "come_funziona": {
+    "title": "Come funziona la salute a domicilio a Milano",
+    "text": "",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "stetofonendoscopio"
+        },
+        "title": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze.",
+        "button": {
+          "text": "Prenota ora",
+          "link": "/prenota/"
+        }
       },
-      "veterinaria": {
-        "title": "Veterinaria",
-        "textColor": "dark",
-        "image": "veterinaria",
-        "price": "15€",
-        "prestazioni": [
-          "Visita generica",
-          "Vaccini",
-          "Prelievi ed esami feci e urine",
-          "Prescrizione farmaci",
-          "Eutanasia"
-        ],
-        "description": "Interventi di medicina veterinaria rapidi e senza attesa direttamente a casa tua. Qualunque giorno della settimana e in orari serali per regalare al tuo animale la migliore salute possibile."
+      {
+        "image": {
+          "path": "common",
+          "name": "booking"
+        },
+        "title": "Prenota in pochi click",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata.",
+        "button": {
+          "text": "Prenota ora",
+          "link": "/prenota/"
+        }
       },
-      "osteopatia": {
-        "title": "Osteopatia",
-        "textColor": "dark",
-        "image": "osteopatia",
-        "price": "240€",
-        "prestazioni": [
-          "Osteopatia viscerale e strutturale",
-          "Osteopatia pediatrica e in gravidanza",
-          "Terapia cranio-sacrale",
-          "Trattamento osteopatico neonatale"
-        ],
-        "description": "Sedute di osteopatia a domicilio e in studio con i nostri professionisti certificati disponibili 7 giorni alla settimana. Per permettere al tuo corpo di tornare in forma e in equilibrio."
-      },
-      "infermieristica": {
-        "title": "Infermieristica",
-        "textColor": "dark",
-        "image": "infermieristica",
-        "price": "20€",
-        "prestazioni": [
-          "Medicazioni semplici e complesse",
-          "Flebo",
-          "Iniezioni",
-          "Clisteri",
-          "Rimozione punti di sutura",
-          "Cateterismi",
-          "Rilevazione parametri vitali"
-        ],
-        "description": "Interventi infermieristici a domicilio garantiti in 24 ore, 7 giorni alla settimana. I nostri infermieri professionisti operano senza alcuna lista di attesa per fornire un intervento repentino, sicuro ed efficace."
-      },
-      "assistenza-domiciliare": {
-        "title": "Assistenza domiciliare",
-        "textColor": "dark",
-        "image": "assistenza-domiciliare",
-        "price": "15€",
-        "prestazioni": [
-          "Igiene, bagno assistito, vestizione",
-          "Assistenza a ore o continuativa",
-          "Sostituzione badante",
-          "Assistenza notturna",
-          "Assistenza in ospedale"
-        ],
-        "description": "Assistenza domiciliare o in ospedale, diurna e notturna per anziani malati disabili, 7 giorni su 7, curata da personale con esperienza. Percorsi personalizzati per avere sempre qualcuno al proprio fianco."
-      },
-      "servizio-ricerca-badanti": {
-        "title": "Servizio ricerca badanti",
-        "textColor": "light",
-        "image": "ricerca-badanti",
-        "price": "682€",
-        "prestazioni": [
-          "Igiene personale, bagno assistito, vestizione",
-          "Assistenza a ore o continuativa",
-          "Sostituzione badante",
-          "Assistenza notturna",
-          "Assistenza in ospedale"
-        ],
-        "description": "Ti aiutiamo a trovare la badante ideale per le necessità della tua famiglia. Verrai seguito in tutti gli aspetti di selezione e burocratici per trovare una persona esperta che stia al fianco dei tuoi cari."
-      },
-      "fisioterapia": {
-        "title": "Fisioterapia",
-        "textColor": "dark",
-        "image": "fisioterapia",
-        "price": "180€",
-        "prestazioni": [
-          "Riabilitazione ortopedica",
-          "Linfodrenaggio",
-          "Rieducazione posturale",
-          "Riabilitazione respiratoria",
-          "Terapia manuale e massoterapia"
-        ],
-        "description": "Servizi di fisioterapia a domicilio o in studio, 7 giorni su 7, anche in orari serali con professionisti certificati. Per migliorare la salute del tuo corpo nella massima comodità e senza dover aspettare."
-      },
-      "pediatria": {
-        "title": "Pediatria",
-        "textColor": "dark",
-        "image": "pediatria",
-        "price": "130€",
-        "prestazioni": [
-          "Visita generica",
-          "Prescrizione farmaci",
-          "Prescrizione esami strumentali e visite specialistiche"
-        ],
-        "description": "Visite pediatriche a domicilio con specialisti con esperienza, garantite tutti i giorni della settimana, entro 24 ore."
-      },
-      "psicologia": {
-        "title": "Psicologia",
-        "textColor": "dark",
-        "image": "psicologia",
-        "price": "40€",
-        "prestazioni": [
-          "Ascolto e sostegno psicologico",
-          "Riabilitazione psicologica",
-          "Parent training e sostegno alla genitorialità"
-        ],
-        "description": "Sedute di psicologia per un supporto fornito da specialisti che comprendono la situazione e aiutano il paziente a ritrovare il suo equilibrio. Sedute in studio, a domicilio o in videoconsulto."
-      },
-      "psicoterapia": {
-        "title": "Psicoterapia",
-        "textColor": "dark",
-        "price": "50€",
-        "prestazioni": [
-          "Psicoanalisi",
-          "Psicoterapia cognitiva-costuttivista",
-          "Psicoterapia psicodinamica",
-          "Psicoterapia sistemica-familiare"
-        ],
-        "description": "Sedute di psicoterapia per un supporto fornito da specialisti che comprendono la situazione e aiutano il paziente a ritrovare il suo equilibrio. Sedute in studio, a domicilio o in videoconsulto."
-      },
-      "nutrizione": {
-        "title": "Nutrizione",
-        "textColor": "dark",
-        "image": "nutrizione",
-        "price": "150€",
-        "prestazioni": [
-          "Valutazione e monitoraggio apporto alimentare",
-          "Elaborazione diete",
-          "Misurazione adipometrica, bioimpendeziometrica e con plicometro"
-        ],
-        "description": "Servizi di nutrizione a domicilio o in studio, 7 giorni su 7, anche in orari serali con professionisti certificati. Per ritrovare l'equilibrio e la salute del tuo corpo."
-      },
-      "massaggi": {
-        "title": "Massaggi",
-        "textColor": "dark",
-        "image": "massaggi",
-        "price": "65€",
-        "prestazioni": [
-          "Massaggio sportivo",
-          "Massaggio svedese",
-          "Massaggio terapeutico",
-          "Massaggio linfodrenante",
-          "Massaggio connettivale",
-          "Terapie fisiche"
-        ],
-        "description": "Massaggi professionali a domicilio per il benessere di tutto il corpo e l'eliminazione di stress e ansie. Richiedi subito un professionista certificato."
+      {
+        "image": {
+          "path": "common",
+          "name": "follow-up"
+        },
+        "title": "Ricevi l'intervento a casa tua",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
+        "button": {
+          "text": "Prenota ora",
+          "link": "/prenota/"
+        }
       }
-    }
+    ]
+  },
+  "nostri_servizi": {
+    "title": "I nostri servizi a Milano",
+    "startingFromText": "Interventi a partire da",
+    "list": [
+      {
+        "specialist": "badante",
+        "title": "Ricerca badanti e assistenza domiciliare",
+        "link": "/badante/",
+        "image": {
+          "path": "caregiver",
+          "name": "badante-bg"
+        },
+        "price": "682€",
+        "prestazioni": "Igiene, bagno assistito, vestizione, assistenza a ore o continuativa, sostituzione badante, assistenza notturna, assistenza in ospedale"
+      },
+      {
+        "specialist": "medico-di-base",
+        "title": "Medicina generale",
+        "image": {
+          "path": "generalMedicine",
+          "name": "generalMedicine"
+        },
+        "price": "100€",
+        "prestazioni": "Visita generica, certificati medici, prescrizione esami strumentali e visite specialistiche, prescrizione farmaci"
+      },
+      {
+        "specialist": "veterinario",
+        "title": "Veterinaria",
+        "image": {
+          "path": "veterinary",
+          "name": "veterinary"
+        },
+        "price": "15€",
+        "prestazioni": "Visita generica, vaccini, prelievi ed esami feci e urine, prescrizione farmaci, eutanasia"
+      },
+      {
+        "specialist": "osteopata",
+        "title": "Osteopatia",
+        "image": {
+          "path": "osteopathy",
+          "name": "osteopathy"
+        },
+        "price": "240",
+        "prestazioni": "Osteopatia viscerale e strutturale, osteopatia pediatrica e in gravidanza, terapia cranio-sacrale, trattamento osteopatico neonatale"
+      },
+      {
+        "specialist": "infermiere",
+        "title": "Infermieristica",
+        "image": {
+          "path": "nursing",
+          "name": "nursing"
+        },
+        "price": "20€",
+        "prestazioni": "Medicazioni semplici e complesse, flebo, iniezioni, clisteri, rimozione punti di sutura, cateterismi, rilevazione parametri vitali"
+      },
+      {
+        "specialist": "fisioterapista",
+        "title": "Fisioterapia",
+        "image": {
+          "path": "physiotherapy",
+          "name": "physiotherapy"
+        },
+        "price": "180€",
+        "prestazioni": "Riabilitazione ortopedica, linfodrenaggio, rieducazione posturale, riabilitazione respiratoria, terapia manuale e massoterapia"
+      },
+      {
+        "specialist": "pediatra",
+        "title": "Pediatria",
+        "image": {
+          "path": "pediatrics",
+          "name": "pediatrics"
+        },
+        "price": "130€",
+        "prestazioni": "Visita generica, prescrizione farmaci, prescrizione esami strumentali e visite specialistiche"
+      },
+      {
+        "specialist": "psicologo",
+        "title": "Psicologia",
+        "image": {
+          "path": "psychology",
+          "name": "psychology"
+        },
+        "price": "40€",
+        "prestazioni": "Ascolto e sostegno psicologico, riabilitazione psicologica, parent training e sostegno alla genitorialità"
+      },
+      {
+        "specialist": "psicoterapeuta",
+        "title": "Psicoterapia",
+        "image": {
+          "path": "psychotherapy",
+          "name": "psychotherapy"
+        },
+        "price": "50€",
+        "prestazioni": "Psicoanalisi, psicoterapia cognitiva-costuttivista, psicoterapia psicodinamica, psicoterapia sistemica-familiare"
+      },
+      {
+        "specialist": "nutrizionista",
+        "title": "Nutrizione",
+        "image": {
+          "path": "nutrition",
+          "name": "nutrition"
+        },
+        "price": "150€",
+        "prestazioni": "Valutazione e monitoraggio apporto alimentare, elaborazione diete, misurazione adipometrica, bioimpendeziometrica e con plicometro"
+      },
+      {
+        "specialist": "massaggiatore-professionale",
+        "title": "Massaggi",
+        "image": {
+          "path": "massages",
+          "name": "massages"
+        },
+        "price": "65€",
+        "prestazioni": "Massaggio sportivo, massaggio svedese, massaggio terapeutico, massaggio linfodrenante, massaggio connettivale, terapie fisiche"
+      }
+    ]
   },
   "nostri_professionisti": {
     "title": "I nostri professionisti",
