@@ -173,6 +173,18 @@
       }
     ]
   },
+  "hint-card": {
+    "title": "Vuoi parlare con un medico online? Prova la formula videoconsulto",
+    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "price": "Costo fisso 25€",
+    "bkg-color": "#F5F8FF",
+    "image": {
+      "path": "videoconsultation",
+      "name": "videoconsultation-banner"
+    },
+    "button-text": "Scopri come funziona",
+    "button-link": "/videoconsulti/"
+  },
   "nostri_professionisti": {
     "title": "I nostri professionisti",
     "text": "",
