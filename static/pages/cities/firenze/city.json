@@ -170,7 +170,7 @@
     "text": "",
     "professionisti": [
       {
-        "name": "Nicolò Giordano",
+        "name": "TEST CAMBIARE",
         "disciplina": "Fisioterapista",
         "prestazioni": [
           "Riabilitazione posturale",
@@ -178,16 +178,22 @@
           "Linfodreanggio",
           "Terapia Manuale"
         ],
-        "avatar": "nicolo-giordano"
+        "image": {
+          "path": "specialists",
+          "name": "valentina-perucca"
+        }
       },
       {
-        "name": "Denise Albanese",
+        "name": "TEST CAMBIARE",
         "disciplina": "Veterinaria",
         "prestazioni": ["Visita generica", "Sverminazione", "Vaccini", "Alimentazione animale"],
-        "avatar": "denise-albanese"
+        "image": {
+          "path": "specialists",
+          "name": "nicolo-giordano"
+        }
       },
       {
-        "name": "Giuditta Seassaro",
+        "name": "TEST CAMBIARE",
         "disciplina": "Psicologa",
         "prestazioni": [
           "Psicologia infantile",
@@ -195,17 +201,23 @@
           "Psicologa per DSA",
           "Psicologia giovane età adulta"
         ],
-        "avatar": "giuditta-seassaro"
+        "image": {
+          "path": "specialists",
+          "name": "valentina-perucca"
+        }
       },
       {
-        "name": "Cristian Valeri",
+        "name": "TEST CAMBIARE",
         "disciplina": "Infermiere",
         "prestazioni": [
           "Iniezioni",
           "Assistenza infermieristica",
           "Medicazioni semplici e complesse"
         ],
-        "avatar": "cristian-valeri"
+        "image": {
+          "path": "specialists",
+          "name": "nicolo-giordano"
+        }
       }
     ]
   },
