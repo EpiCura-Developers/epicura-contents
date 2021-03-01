@@ -90,7 +90,8 @@
       "Lorem ipsum dolor sit."
     ],
     "footer": {
-      "text": "A partire da 682 Euro",
+      "text": "A partire da",
+      "price": "682€",
       "button": {
         "text": "Richiedi consulenza",
         "link": "https://hubspot-link-placeholder"
