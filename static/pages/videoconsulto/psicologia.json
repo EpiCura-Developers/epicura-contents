@@ -12,8 +12,8 @@
   "card": {
     "title": "In cosa ti è utile il videoconsulto",
     "description": "Grazie al videoconsulto potrai fare domande sulla tua salute o quella dei tuoi cari, avere un'opinione specialistica su cure e terapie o chiedere un parere prima della visita vera e propria.",
-    "whatIsIncludedLabel": "I casi più comuni su cui lo psicologo può aiutarti",
-    "bulletPoints": [
+    "subTitle": "I casi più comuni su cui lo psicologo può aiutarti",
+    "list": [
       "Ansia, fobie, attacchi di panico",
       "Dipendenze e abusi da alcol, droghe, cibo, sesso",
       "Disturbi dell'apprendimento",
@@ -28,9 +28,13 @@
       "Consigli psicologici per malati oncologici o terminali",
       "Definizione di pensieri o reazioni di difficile decodificazione"
     ],
-    "price": "25€",
-    "priceUnit": "/20 minuti",
-    "bookNowBtnLabel": "Prenota ora"
+    "footer": {
+      "price": "25€",
+      "priceUnit": "/20 minuti",
+      "button": {
+        "text": "Prenota ora"
+      }
+    }
   },
   "faq": {
     "title": "Domande e risposte",

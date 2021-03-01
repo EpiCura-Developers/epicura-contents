@@ -12,8 +12,8 @@
   "card": {
     "title": "In cosa ti è utile il videoconsulto",
     "description": "Grazie al videoconsulto potrai fare domande sulla tua salute o quella dei tuoi cari, avere un'opinione specialistica su cure e terapie o chiedere un parere prima della visita vera e propria.",
-    "whatIsIncludedLabel": "I casi più comuni su cui l'osteopata può aiutarti",
-    "bulletPoints": [
+    "subTitle": "I casi più comuni su cui l'osteopata può aiutarti",
+    "list": [
       "Ernia del disco",
       "Lombalgia, Cervicalgia, Sciatalgia",
       "Nevralgie",
@@ -26,9 +26,13 @@
       "Disturbi del sonno",
       "Problemi legati alla gravidanza"
     ],
-    "price": "25€",
-    "priceUnit": "/20 minuti",
-    "bookNowBtnLabel": "Prenota ora"
+    "footer": {
+      "price": "25€",
+      "priceUnit": "/20 minuti",
+      "button": {
+        "text": "Prenota ora"
+      }
+    }
   },
   "faq": {
     "title": "Domande e risposte",

@@ -12,8 +12,8 @@
   "card": {
     "title": "In cosa ti è utile il videoconsulto",
     "description": "Grazie al videoconsulto potrai fare domande sulla tua salute o quella dei tuoi cari, avere un'opinione specialistica su cure e terapie o chiedere un parere prima della visita vera e propria.",
-    "whatIsIncludedLabel": "I casi più comuni su cui il fisioterapista può aiutarti",
-    "bulletPoints": [
+    "subTitle": "I casi più comuni su cui il fisioterapista può aiutarti",
+    "list": [
       "Scoliosi, iperlordosi, ipercifosi",
       "Cervicalgia, sciatalgia, lombalgia, dorsalgia",
       "Problemi legati alla postura",
@@ -35,9 +35,13 @@
       "Incontinenza e prolasso vescicale",
       "Pubalgia"
     ],
-    "price": "25€",
-    "priceUnit": "/20 minuti",
-    "bookNowBtnLabel": "Prenota ora"
+    "footer": {
+      "price": "25€",
+      "priceUnit": "/20 minuti",
+      "button": {
+        "text": "Prenota ora"
+      }
+    }
   },
   "faq": {
     "title": "Domande e risposte",
