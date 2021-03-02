@@ -900,5 +900,57 @@
       "buttonText": "Scrivici",
       "image": "contact-card"
     }
-  }
+  },
+  "advantages": {
+    "title": "RIVEDERE IL TITOLO",
+    "list": [
+      {
+        "image": { "path": "common", "name": "professionist" },
+        "title": "Professionisti qualificati",
+        "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
+      },
+      {
+        "image": { "path": "common", "name": "certificate" },
+        "title": "TESTO IN REVISIONE",
+        "description": "TESTO IN REVISIONE TESTO IN REVISIONE TESTO IN REVISIONE TESTO IN REVISIONE"
+      },
+      {
+        "image": { "path": "common", "name": "badge" },
+        "title": "TESTO IN REVISIONE",
+        "description": "I nostri professionisti utilizzano le più moderne tecniche terapeutiche, scientificamente validate."
+      }
+    ]
+  },
+  "carousel": [
+    {
+      "title": "Paga comodamente online in modo semplice e sicuro",
+      "description": "Prenota e paga in pochi click, in totale sicurezza: accettiamo carte di credito, bancomat e prepagate. Puoi inoltre effettuare pagamenti tramite bonifico per le spese superiori a 150€, con un costo di 5€ per la gestione della pratica.",
+      "cta-text": "Prenota ora",
+      "cta-link": "/prenota/",
+      "image": {
+        "path": "common",
+        "name": "payment-with-card"
+      }
+    },
+    {
+      "title": "Personale certificato, salute assicurata",
+      "description": "Lavoriamo solo con professionisti qualificati e certificati. Tutte le prestazioni sono inoltre coperte da assicurazione. E se ti servisse un rimborso da parte del tuo ente assicurativo? Presentando la fattura avrai diritto ai rimborsi previsti.",
+      "cta-text": "Prenota ora",
+      "cta-link": "/prenota/",
+      "image": {
+        "path": "common",
+        "name": "insurance"
+      }
+    },
+    {
+      "title": "Detraibilità fiscale garantita per le spese sanitarie",
+      "description": "EpiCura garantisce la detraibilità di tutte le spese sanitarie proprio come un qualsiasi poliambulatorio o centro medico. Per usufruire delle detrazioni sarà sufficiente utilizzare la fattura ricevuta dopo il pagamento.",
+      "cta-text": "Prenota ora",
+      "cta-link": "/prenota/",
+      "image": {
+        "path": "common",
+        "name": "tax-deductions"
+      }
+    }
+  ]
 }
