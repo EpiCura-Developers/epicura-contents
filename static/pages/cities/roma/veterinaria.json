@@ -91,29 +91,6 @@
     "subtitle": "Prenditi subito cura del tuo animale con il miglior specialista certificato per le tue esigenze.",
     "ctaCall": "Vuoi prenotare telefonicamente?"
   },
-  "faqs": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Domande frequenti",
-    "list": [
-      {
-        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
-        "answer": "No, le prestazioni veterinarie non rientrano tra le spese mediche. Tuttavia vi sono ugualmente delle agevolazioni per detrarre entro certi limiti le spese veterinarie dalla dichiarazione dei redditi."
-      },
-      {
-        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
-        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
-      },
-      {
-        "question": "Avete un centro o uno studio in cui avvengono le prestazioni?",
-        "answer": "Il nostro è un servizio a domicilio, non abbiamo un nostro centro sul territorio. Tuttavia, nel caso volessi ricevere gli interventi in un ambulatorio veterinario, è possibile. Ci appoggiamo agli studi privati dei professionisti che collaborano con noi."
-      },
-      {
-        "question": "Cosa succede se non mi trovo bene con il professionista?",
-        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra professionista e utente, per questo motivo se non ti trovi bene con lo Specialist basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
-      }
-    ]
-  },
   "latest_articles": {
     "title": "Ultimi articoli su di noi",
     "titleFbAdw": "Parlano di noi",
