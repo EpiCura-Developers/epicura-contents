@@ -91,29 +91,6 @@
     "subtitle": "Inizia subito il tuo percorso di fisioterapia con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
     "ctaCall": "Vuoi prenotare telefonicamente?"
   },
-  "faqs": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Domande frequenti",
-    "list": [
-      {
-        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
-        "answer": "Sì, tutte le prestazioni sanitarie sono detraibili dalla dichiarazione dei redditi. Per farlo basterà utilizzare la fattura che riceverai da EpiCura dopo il pagamento delle prestazioni."
-      },
-      {
-        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
-        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
-      },
-      {
-        "question": "Avete un centro o uno studio dove avvengono le prestazioni?",
-        "answer": "Non abbiamo un nostro centro sul territorio, ma ci appoggiamo agli studi privati dei professionisti che collaborano con noi."
-      },
-      {
-        "question": "Cosa succede se non mi trovo bene con il professionista?",
-        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra professionista e paziente, per questo motivo se non ti trovi bene basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
-      }
-    ]
-  },
   "latest_articles": {
     "title": "Ultimi articoli su di noi",
     "titleFbAdw": "Parlano di noi",

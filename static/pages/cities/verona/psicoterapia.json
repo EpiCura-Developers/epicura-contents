@@ -102,33 +102,6 @@
     "subtitle": "Inizia subito il tuo percorso psicologico con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
     "ctaCall": "Vuoi prenotare telefonicamente?"
   },
-  "faqs": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Domande frequenti",
-    "list": [
-      {
-        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
-        "answer": "Sì, tutte le prestazioni sanitarie di EpiCura sono detraibili dalla dichiarazione dei redditi. Per farlo basterà utilizzare la fattura che riceverai da EpiCura dopo il pagamento delle prestazioni."
-      },
-      {
-        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
-        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
-      },
-      {
-        "question": "Cosa succede se non mi trovo bene con il professionista?",
-        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra terapeuta e paziente, per questo motivo se non ti trovi bene con lo specialista basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
-      },
-      {
-        "question": "Che differenza c’è tra psicologo, psicoterapeuta e psichiatra?",
-        "answer": "Lo psicologo è il professionista laureato abilitato alla professione e iscritto all'Albo degli Psicologi. Lo psicoterapeuta è uno psicologo o un medico specializzato (con percorsi di 4 o 5 anni) in una specifica metodologia terapeutica (psicodinamica, costruttivista, sistemica ecc.). Lo psichiatra è un medico specializzato in Psichiatria, il cui lavoro è prettamente medico: unica figura che può prescrivere farmaci, ma non segue la terapia di sostegno psicologico tipica della Psicologia."
-      },
-      {
-        "question": "Come si svolge una seduta di terapia online?",
-        "answer": "Ti accorderai direttamente con lo psicologo o lo psicoterapeuta sugli strumenti da utilizzare. Le modalità sono quelle tipiche alle seduta di presenza, visto che la terapia si basa sulla parola e sul continuo dialogo fra i soggetti. Ci sono casi in cui è consigliata (ritiri sociali, impossibilità agli spostamenti ecc.), casi in cui sarà il terapeuta stesso a consigliare un sistema misto di videoconsulti e sedute di presenza."
-      }
-    ]
-  },
   "latest_articles": {
     "title": "Ultimi articoli su di noi",
     "titleFbAdw": "Parlano di noi",
