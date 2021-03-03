@@ -1,0 +1,511 @@
+{
+    "title": {
+        "fisioterapia": "Troviamo noi il fisioterapista più adatto",
+        "osteopatia": "Troviamo noi l'osteopata più adatto",
+        "massaggi": "Troviamo noi il massoterapista più adatto",
+        "psicologia-psicoterapia-online": "Troviamo noi lo psicologo o lo psicoterapeuta per te",
+        "veterinaria": "Troviamo noi il veterinario più adatto",
+        "nutrizione": "Troviamo noi il nutrizionista più adatto",
+        "infermieristica": "Troviamo noi l'infermiere più adatto",
+        "medicina-generale": "Troviamo noi il medico più adatto",
+        "pediatria": "Troviamo noi il pediatra più adatto",
+        "assistente-domiciliare": "Assistenti domiciliari qualificati e con esperienza",
+        "badante": "Badanti con esperienza e referenziate"
+    },
+    "caregiverTitle": "Badanti e assistenti domiciliari qualificati e referenziati",
+    "text": "In questo modo ti garantiamo un servizio tempestivo e su misura",
+    "caregiverText": "Scegliamo con cura i nostri professionisti per garantirti serenità e affidabilità.",
+    "list": [
+        {
+          "name": "Nicolò Giordano",
+          "discipline": "fisioterapia",
+          "disciplina": "Fisioterapista",
+          "prestazioni": [],
+          "image": {
+            "path": "specialists",
+            "name": "nicolo-giordano"
+          }
+        },
+        {
+          "name": "Marianna Olivero",
+          "discipline": "fisioterapia",
+          "disciplina": "Fisioterapista",
+          "prestazioni": [],
+          "image": {
+            "path": "common",
+            "name": "placeholder-pro"
+          }
+        },
+        {
+          "name": "Camilla Calosso",
+          "discipline": "fisioterapia",
+          "disciplina": "Fisioterapista",
+          "prestazioni": [],
+          "image": {
+            "path": "common",
+            "name": "placeholder-pro"
+          }
+        },
+        {
+          "name": "Eugenio Rossi",
+          "discipline": "fisioterapia",
+          "disciplina": "Fisioterapista",
+          "prestazioni": [],
+          "image": {
+            "path": "common",
+            "name": "placeholder-pro"
+          }
+        },
+        {
+            "name": "Stefania Tavaglione",
+            "discipline": "osteopatia",
+            "disciplina": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Cosimo Pacini",
+            "discipline": "osteopatia",
+            "disciplina": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Federica Costamagna",
+            "discipline": "osteopatia",
+            "disciplina": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Alessandro Caroleo",
+            "discipline": "osteopatia",
+            "disciplina": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Filippo Gasparotti",
+            "discipline": "massaggi",
+            "disciplina": "Massoterapista",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Tiziana Cerutti",
+            "discipline": "massaggi",
+            "disciplina": "Massoterapista",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Stefano Serraino",
+            "discipline": "massaggi",
+            "disciplina": "Massoterapista",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Valentina Perrucca",
+            "discipline": "massaggi",
+            "disciplina": "Massoterapista",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "valentina-perucca"
+              }
+          },
+          {
+            "name": "Maria Forte",
+            "discipline": "psicologo",
+            "disciplina": "Psicologa",
+            "prestazioni": [
+              "Riabilitazione post traumatica",
+              "Supporto psicologico bambini, adolescenti, adulti"
+            ],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Greta Casiraghi",
+            "discipline": "psicologo",
+            "disciplina": "Psicologa",
+            "prestazioni": [
+              "Supporto psicologico vittime di maltrattamenti e dipendenza affettiva",
+              "Training autogeno",
+              "Gestione dell'ansia"
+            ],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Giuditta Seassaro",
+            "discipline": "psicologo",
+            "disciplina": "Psicologa",
+            "prestazioni": [
+              "Psicologia età evolutiva",
+              "Sostegno alla genitorialità",
+              "Supporto per DSA"
+            ],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Anna De Micco",
+            "discipline": "psicologo",
+            "disciplina": "Psicologa",
+            "prestazioni": ["Supporto psicologico adulti", "Video consulti e supporto a distanza"],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Alessandro Longo",
+            "discipline": "psicoterapeuta",
+            "disciplina": "Psicoterapeuta",
+            "prestazioni": ["Psicoterapia cognitiva ad orientamento costruttivista ed evolutivo"],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Giovanni Stornaiuolo",
+            "discipline": "psicoterapeuta",
+            "disciplina": "Psicoterapeuta",
+            "prestazioni": ["Psicoterapia psicoanalitico, individuale e di gruppo"],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Francesca Monoli",
+            "discipline": "psicoterapeuta",
+            "disciplina": "Psicoterapeuta",
+            "prestazioni": ["Psicoterapia psicodinamica adleriana"],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Chiara Bergese",
+            "discipline": "psicoterapeuta",
+            "disciplina": "Psicoterapeuta",
+            "prestazioni": ["Psicoterapia psicoanalitica"],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Martina Nanotti",
+            "discipline": "veterinaria",
+            "disciplina": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Denise Albanese",
+            "discipline": "veterinaria",
+            "disciplina": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Manuela Grippa",
+            "discipline": "veterinaria",
+            "disciplina": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Angelica Pitrola",
+            "discipline": "veterinaria",
+            "disciplina": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Marianna Mastroianni",
+            "discipline": "nutrizione",
+            "disciplina": "Nutrizionista",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Anna Virano",
+            "discipline": "nutrizione",
+            "disciplina": "Nutrizionista",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Valentina Casalone",
+            "discipline": "nutrizione",
+            "disciplina": "Nutrizionista",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Veronica Adele Cordoni",
+            "discipline": "nutrizione",
+            "disciplina": "Nutrizionista",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Simona Cardano",
+            "discipline": "infermieristica",
+            "disciplina": "Infermiera",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Davide Sileo",
+            "discipline": "infermieristica",
+            "disciplina": "Infermiere",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Elena Mancardo",
+            "discipline": "infermieristica",
+            "disciplina": "Infermiera",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Cristian Valeri",
+            "discipline": "infermieristica",
+            "disciplina": "Infermiere",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Daniele Bissacco",
+            "discipline": "medicina-generale",
+            "disciplina": "Medico Generico",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Iole Gaudino",
+            "discipline": "medicina-generale",
+            "disciplina": "Medico Generico",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Ali Saad",
+            "discipline": "medicina-generale",
+            "disciplina": "Medico Generico",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "Giulia Serra",
+            "discipline": "medicina-generale",
+            "disciplina": "Medico Generico",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "PLACEHOLDER",
+            "discipline": "pediatria",
+            "disciplina": "Pediatra",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "PLACEHOLDER",
+            "discipline": "pediatria",
+            "disciplina": "Pediatra",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "PLACEHOLDER",
+            "discipline": "pediatria",
+            "disciplina": "Pediatra",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "PLACEHOLDER",
+            "discipline": "pediatria",
+            "disciplina": "Pediatra",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "PLACEHOLDER",
+            "discipline": "assistente-domiciliare",
+            "disciplina": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "PLACEHOLDER",
+            "discipline": "assistente-domiciliare",
+            "disciplina": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "PLACEHOLDER",
+            "discipline": "assistente-domiciliare",
+            "disciplina": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "PLACEHOLDER",
+            "discipline": "assistente-domiciliare",
+            "disciplina": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "PLACEHOLDER",
+            "discipline": "badante",
+            "disciplina": "Badante",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "PLACEHOLDER",
+            "discipline": "badante",
+            "disciplina": "Badante",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "PLACEHOLDER",
+            "discipline": "badante",
+            "disciplina": "Badante",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          },
+          {
+            "name": "PLACEHOLDER",
+            "discipline": "badante",
+            "disciplina": "Badante",
+            "prestazioni": [],
+            "image": {
+                "path": "common",
+                "name": "placeholder-pro"
+              }
+          }
+      ]
+}

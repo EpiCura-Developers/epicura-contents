@@ -16,15 +16,18 @@
   "services": [
     {
       "name": "Badante diurna",
-      "link": "/badante-diurna/"
+      "link": "/badante-diurna/",
+      "discipline": "badante"
     },
     {
       "name": "Badante notturna",
-      "link": "/badante-notturna/"
+      "link": "/badante-notturna/",
+      "discipline": "badante"
     },
     {
       "name": "Badante convivente",
-      "link": "/badante-convivente/"
+      "link": "/badante-convivente/",
+      "discipline": "badante"
     },
     {
       "name": "Assistenza a ore"
@@ -32,52 +35,62 @@
     {
       "link": "/torino/assistente-domiciliare/",
       "name": "Torino",
-      "isHomeAssistance": true
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
     },
     {
       "link": "/milano/assistente-domiciliare/",
       "name": "Milano",
-      "isHomeAssistance": true
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
     },
     {
       "link": "/roma/assistente-domiciliare/",
       "name": "Roma",
-      "isHomeAssistance": true
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
     },
     {
       "link": "/bologna/assistente-domiciliare/",
       "name": "Bologna",
-      "isHomeAssistance": true
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
     },
     {
       "link": "/verona/assistente-domiciliare/",
       "name": "Verona",
-      "isHomeAssistance": true
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
     },
     {
       "link": "/brescia/assistente-domiciliare/",
       "name": "Brescia",
-      "isHomeAssistance": true
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
     },
     {
       "link": "/catania/assistente-domiciliare/",
       "name": "Catania",
-      "isHomeAssistance": true
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
     },
     {
       "link": "/genova/assistente-domiciliare/",
       "name": "Genova",
-      "isHomeAssistance": true
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
     },
     {
       "link": "/firenze/assistente-domiciliare/",
       "name": "Firenze",
-      "isHomeAssistance": true
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
     },
     {
       "link": "/napoli/assistente-domiciliare/",
       "name": "Napoli",
-      "isHomeAssistance": true
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
     }
   ],
   "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",

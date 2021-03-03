@@ -214,56 +214,5 @@
     },
     "button-text": "Prenota un appuntamento",
     "button-link": "https://hubspot-link-placeholder"
-  },
-  "ourCaregiver": {
-    "title": "Le nostre badanti",
-    "text": "Gli assistenti domiciliari di epicura vengono selezionati in maniera accurata tramite un rigido percorso di ricerca.",
-    "professionisti": [
-      {
-        "name": "TEST CAMBIARE",
-        "disciplina": "Assistente domiciliare",
-        "prestazioni": [],
-        "image": {
-          "path": "specialists",
-          "name": "valentina-perucca"
-        }
-      },
-      {
-        "name": "TEST CAMBIARE",
-        "disciplina": "Assistente domiciliare",
-        "prestazioni": [],
-        "image": {
-          "path": "specialists",
-          "name": "nicolo-giordano"
-        }
-      },
-      {
-        "name": "TEST CAMBIARE",
-        "disciplina": "Assistente domiciliare",
-        "prestazioni": [],
-        "image": {
-          "path": "specialists",
-          "name": "valentina-perucca"
-        }
-      },
-      {
-        "name": "TEST CAMBIARE",
-        "disciplina": "Assistente domiciliare",
-        "prestazioni": [],
-        "image": {
-          "path": "specialists",
-          "name": "valentina-perucca"
-        }
-      },
-      {
-        "name": "TEST CAMBIARE",
-        "disciplina": "Assistente domiciliare",
-        "prestazioni": [],
-        "image": {
-          "path": "specialists",
-          "name": "valentina-perucca"
-        }
-      }
-    ]
   }
 }
