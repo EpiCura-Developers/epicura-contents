@@ -122,14 +122,15 @@
         "prestazioni": "Riabilitazione ortopedica, linfodrenaggio, rieducazione posturale, riabilitazione respiratoria, terapia manuale e massoterapia"
       },
       {
-        "specialist": "psicoterapeuta",
-        "title": "Psicoterapia",
+        "specialist": "psicologo",
+        "title": "Psicologia e psicoterapia online",
+        "link": "/psicologia-psicoterapia-online/",
         "image": {
-          "path": "psychotherapy",
-          "name": "psychotherapy"
+          "path": "psychology",
+          "name": "psychology"
         },
-        "price": "50€",
-        "prestazioni": "Psicoanalisi, psicoterapia cognitiva-costuttivista, psicoterapia psicodinamica, psicoterapia sistemica-familiare"
+        "price": "180€",
+        "prestazioni": "Ascolto e sostegno psicologico, riabilitazione psicologica, parent training e sostegno alla genitorialità, psicoanalisi, psicoterapia cognitiva-costuttivista, psicoterapia psicodinamica, psicoterapia sistemica-familiare"
       },
       {
         "specialist": "massaggiatore-professionale",

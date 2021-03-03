@@ -133,23 +133,14 @@
       },
       {
         "specialist": "psicologo",
-        "title": "Psicologia",
+        "title": "Psicologia e psicoterapia online",
+        "link": "/psicologia-psicoterapia-online/",
         "image": {
           "path": "psychology",
           "name": "psychology"
         },
-        "price": "40€",
-        "prestazioni": "Ascolto e sostegno psicologico, riabilitazione psicologica, parent training e sostegno alla genitorialità"
-      },
-      {
-        "specialist": "psicoterapeuta",
-        "title": "Psicoterapia",
-        "image": {
-          "path": "psychotherapy",
-          "name": "psychotherapy"
-        },
-        "price": "50€",
-        "prestazioni": "Psicoanalisi, psicoterapia cognitiva-costuttivista, psicoterapia psicodinamica, psicoterapia sistemica-familiare"
+        "price": "180€",
+        "prestazioni": "Ascolto e sostegno psicologico, riabilitazione psicologica, parent training e sostegno alla genitorialità, psicoanalisi, psicoterapia cognitiva-costuttivista, psicoterapia psicodinamica, psicoterapia sistemica-familiare"
       },
       {
         "specialist": "nutrizionista",

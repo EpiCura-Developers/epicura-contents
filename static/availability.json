@@ -14,16 +14,6 @@
         "reservation": "/prenota/?d=physiotherapy&province=MI"
       },
       {
-        "discipline": "psicologia",
-        "specialist": "psicologo",
-        "reservation": "/prenota/?d=psychology&province=MI"
-      },
-      {
-        "discipline": "psicoterapia",
-        "specialist": "psicoterapeuta",
-        "reservation": "/prenota/?d=psychotherapy&province=MI"
-      },
-      {
         "discipline": "nutrizione",
         "specialist": "nutrizionista",
         "reservation": "/prenota/?d=nutrition&province=MI"
@@ -70,16 +60,6 @@
         "reservation": "/prenota/?d=physiotherapy&province=RM"
       },
       {
-        "discipline": "psicologia",
-        "specialist": "psicologo",
-        "reservation": "/prenota/?d=psychology&province=RM"
-      },
-      {
-        "discipline": "psicoterapia",
-        "specialist": "psicoterapeuta",
-        "reservation": "/prenota/?d=psychotherapy&province=RM"
-      },
-      {
         "discipline": "nutrizione",
         "specialist": "nutrizionista",
         "reservation": "/prenota/?d=nutrition&province=RM"
@@ -124,16 +104,6 @@
         "discipline": "fisioterapia",
         "specialist": "fisioterapista",
         "reservation": "/prenota/?d=physiotherapy&province=TO"
-      },
-      {
-        "discipline": "psicologia",
-        "specialist": "psicologo",
-        "reservation": "/prenota/?d=psychology&province=TO"
-      },
-      {
-        "discipline": "psicoterapia",
-        "specialist": "psicoterapeuta",
-        "reservation": "/prenota/?d=psychotherapy&province=TO"
       },
       {
         "discipline": "nutrizione",
@@ -218,16 +188,6 @@
         "reservation": "/prenota/?d=physiotherapy&province=BO"
       },
       {
-        "discipline": "psicologia",
-        "specialist": "psicologo",
-        "reservation": "/prenota/?d=psychology&province=BO"
-      },
-      {
-        "discipline": "psicoterapia",
-        "specialist": "psicoterapeuta",
-        "reservation": "/prenota/?d=psychotherapy&province=BO"
-      },
-      {
         "discipline": "nutrizione",
         "specialist": "nutrizionista",
         "reservation": "/prenota/?d=nutrition&province=BO"
@@ -295,16 +255,6 @@
         "reservation": "/prenota/?d=physiotherapy&province=FI"
       },
       {
-        "discipline": "psicologia",
-        "specialist": "psicologo",
-        "reservation": "/prenota/?d=psychology&province=FI"
-      },
-      {
-        "discipline": "psicoterapia",
-        "specialist": "psicoterapeuta",
-        "reservation": "/prenota/?d=psychotherapy&province=FI"
-      },
-      {
         "discipline": "nutrizione",
         "specialist": "nutrizionista",
         "reservation": "/prenota/?d=nutrition&province=FI"
@@ -339,16 +289,6 @@
         "discipline": "fisioterapia",
         "specialist": "fisioterapista",
         "reservation": "/prenota/?d=physiotherapy&province=GE"
-      },
-      {
-        "discipline": "psicologia",
-        "specialist": "psicologo",
-        "reservation": "/prenota/?d=psychology&province=GE"
-      },
-      {
-        "discipline": "psicoterapia",
-        "specialist": "psicoterapeuta",
-        "reservation": "/prenota/?d=psychotherapy&province=GE"
       },
       {
         "discipline": "nutrizione",
