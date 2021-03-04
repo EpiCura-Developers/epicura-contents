@@ -59,68 +59,6 @@
       "Misurazione adipometrica a Genova"
     ]
   },
-  "descrizione_servizio": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Curare l’alimentazione</h2><p>Molte persone, ad oggi, sono prese dalla loro vita frenetica e dai loro impegni non riuscendo a prestare attenzione alla propria alimentazione. La disattenzione e la non curanza verso ciò che mangiamo porta degli scompensi alla nostra salute causando problemi, malesseri e malattie.</p><p>Il nutrizionista si occupa di aiutare la persona a migliorare la propria nutrizione strutturando diete specifiche e accompagnandola nel suo percorso di miglioramento della salute alimentare.<br />I professionisti di EpiCura si occupano di strutturare percorsi per:<ul><li>Aiutare persone in sovrappeso a ritrovare la linea</li><li>Aiutare anziani a mantenere la salute grazie all’alimentazione</li><li>Aiutare bambini a crescere in forma</li><li>Aiutare sportivi a migliorare le proprie prestazioni atletiche</li><li>Aiutare madri in gravidanza a nutrire sé stesse e il nascituro</li></ul></p><p>Abbiamo a che fare con il cibo tutti i giorni, più volte al giorno. È il nostro carburante che ci permette di vivere la nostra vita. Proprio per questo la nutrizione va curata in modo dettagliato e personalizzato. Per aiutare il paziente a trovare la propria salute alimentare i nostri nutrizionisti strutturano dei programmi su misura al caso specifico dando supporto 7 giorni su 7, a domicilio o in videoconsulto. Un supporto completo e personalizzato permette al professionista di comprendere a pieno le abitudini del paziente e aiutarlo a raggiungere i suoi obiettivi di salute.</p>",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "Dove e quando vuoi",
-        "text": "I nostri professionisti certificati erogano visite nutrizionistiche dove preferisci, a casa o in videoconsulto, 7 giorni su 7, anche in orari serali per aiutare a migliorare l’alimentazione."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "Ogni paziente ha le sue esigenze. Per questo offriamo percorsi personalizzati creati su misura. I nostri professionisti ti affiancheranno nel tuo percorso dandoti supporto negli orari e giorni che preferisci."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Un’attenzione costante è alla base del miglioramento della propria alimentazione. Noi di EpiCura ci teniamo a far sentire il paziente seguito in tutte le sue esigenze."
-      }
-    ]
-  },
-  "descrizione_servizioFbAdw": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Cura la tua alimentazione</h2><p>Il nutrizionista si occupa di aiutare la persona a migliorare la propria nutrizione e salute alimentare strutturando <b>diete specifiche al singolo caso</b>.<br />I nutrizionisti di EpiCura si occupano di strutturare percorsi per:<ul><li>Aiutare persone in sovrappeso a ritrovare la linea</li><li>Aiutare anziani a mantenere la salute grazie all’alimentazione</li><li>Aiutare bambini a crescere in forma</li><li>Aiutare sportivi a migliorare le proprie prestazioni atletiche</li><li>Aiutare madri in gravidanza a nutrire sé stesse e il nascituro</li></ul></p>",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "Quando e dove vuoi",
-        "text": "Pensiamo a tutto noi. I nostri specialisti ti raggiungono a casa o ovunque tu voglia, con tutto il necessario per eseguire la prestazione."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "I nostri professionisti ti accompagneranno in un percorso creato su misura per te, offrendoti i trattamenti corretti sulla base delle tue esigenze, dove vuoi tu e quando vuoi tu."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
-      }
-    ]
-  },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
     "list": [

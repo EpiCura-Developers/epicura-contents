@@ -59,68 +59,6 @@
       "Cateterismo a Verona"
     ]
   },
-  "descrizione_servizio": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Interventi infermieristici tempestivi a domicilio</h2><p>Per favorire la guarigione e il benessere psicofisico dell’assistito è di cruciale importanza <b>trovarsi in un ambiente familiare e accogliente come la propria casa</b>.</p><p>Gli interventi infermieristici domiciliari di EpiCura permettono di <b>evitare l'ospedalizzazione</b> non necessaria, mettendo a suo agio il paziente e aiutandolo nel suo processo di guarigione.</p><p>I nostri <b>infermieri esperti e certificati</b> operano 7 giorni su 7 per aiutare chi ne ha bisogno a sentirsi sempre al sicuro.</p>",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "Quando e dove vuoi",
-        "text": "I nostri infermieri sono disponibili 24 ore su 24, 7 giorni su 7, per assistere chi ne ha bisogno. EpiCura mette a disposizione personale competente e coperto da assicurazione per aiutarti ovunque tu voglia."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Senza attese",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere l’intervento quando ce n’è bisogno. Noi di EpiCura garantiamo gli interventi infermieristici senza lista d’attesa, anche in orari serali per farti sentire sempre al sicuro."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Assistenza personalizzata",
-        "text": " Ogni paziente ha le sue esigenze. Per questo offriamo interventi o percorsi personalizzati creati su misura. I nostri professionisti ti affiancheranno nel tuo percorso offrendoti i trattamenti adatti al tuo specifico caso. Vuoi risolvere il tuo problema? Chiamaci subito allo 045 853 1913."
-      }
-    ]
-  },
-  "descrizione_servizioFbAdw": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Interventi infermieristici tempestivi a domicilio</h2><p>Per favorire la guarigione, la guarigione e il benessere psicofisico dell’assistito è importante trovarsi in un ambiente familiare e accogliente come la propria casa. </br>Gli interventi infermieristici permettono di evitare l’ospedalizzazione non necessaria, mettendo a proprio agio il paziente e aiutandolo nel processo di guarigione.",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "Quando e dove vuoi",
-        "text": "Pensiamo a tutto noi. I nostri specialisti ti raggiungono a casa o in ufficio, ovunque tu voglia, con tutto il necessario per eseguire la prestazione."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "I nostri professionisti ti accompagneranno in un percorso creato su misura per te, offrendoti i trattamenti corretti sulla base delle tue esigenze, dove vuoi tu e quando vuoi tu."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
-      }
-    ]
-  },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
     "list": [

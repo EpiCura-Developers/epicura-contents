@@ -59,68 +59,6 @@
       "Terapie fisiche a Torino"
     ]
   },
-  "descrizione_servizio": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Migliora la salute del tuo corpo</h2><p>Molte persone sono talmente prese dalla loro vita frenetica che entrano in un circolo di stress e impegni che non permette loro di prendere una boccata d’aria e rilassarsi. Lo stress causa problemi al nostro corpo che a loro volta, se non trattati, possono recare danni seri alla nostra salute. Rilassarsi e allentare le tensioni sono alla base della salute del nostro corpo e della nostra mente. Il massaggiatore professionista aiuta in questo, fornendo servizi terapeutici, per sportivi e di benessere, che permettono di:</p><p><ul><li>Migliorare il benessere complessivo, rinforzando il sistema immunitario. Il massaggiatore aiuta la persona ad entrare in un circolo virtuoso nel quale le tensioni e le tossine vengono eliminate, favorendo un miglior drenaggio dei liquidi del nostro corpo e, di conseguenza, un miglior benessere a livello immunitario;</li><li>Diminuire lo stress e le tensioni muscolari grazie alle tecniche di massaggio, calibrate sulla base delle esigenze dell’utente;</li><li>Eliminare inestetismi della pelle come cellulite, smagliature, ecc;</li><li>Migliorare le prestazioni sportive, la concentrazione a lavoro e l'umore in famiglia.</li></ul></p><p>Per consentire a chiunque abbia bisogno di un massaggio di beneficiarne a pieno, noi di EpiCura abbiamo reso i nostri servizi comodi e flessibili. I nostri massaggiatori operano a domicilio o ovunque tu voglia in tutta Torino e area metropolitana. Trovarsi in un luogo familiare e confortevole, come la propria casa, quando si ricevere il trattamento aiuta mente e corpo a rilassarsi migliorando i benefici della prestazione. In più i nostri professionisti operano tutti i giorni della settimana, anche in orari serali, per consentire una massima comodità ed efficienza.</p>",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "La comodità di casa ",
-        "text": "I nostri specialisti ti raggiungono a casa o in ufficio con tutto il necessario per eseguire la prestazione. Pensiamo a tutto noi. Potrai rimettere a nuovo il tuo corpo senza doverti spostare da casa tua."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "Ogni paziente ha le sue esigenze. Per questo offriamo percorsi personalizzati creati su misura. I nostri professionisti ti affiancheranno nel tuo percorso offrendoti i trattamenti giusti negli orari e giorni che preferisci."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria seduta. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
-      }
-    ]
-  },
-  "descrizione_servizioFbAdw": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Cura la sua salute</h2><p>I nostri professionisti <b>certificati e coperti da assicurazione</b> sono in grado di strutturare percorsi personalizzati studiati in base alle tue esigenze. Porteranno con loro tutto quello di cui hanno bisogno per farti beneficiare a pieno del massaggio professionale direttamente nel <b>comfort di casa tua>/b>.</p> I massaggi sono utili per: <p><ul><li>Diminuire stress e tensioni muscolari </li><li>Rinforzare il sistema immunitario attraverso il drenaggio dei liquidi e l'eliminazione di tossine</li><li>Migliora le prestazioni sportive, la concentrazione e l'umore</li></ul></p> ",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "Quando e dove vuoi",
-        "text": "Pensiamo a tutto noi. I nostri specialisti sono disponibili a domicilio con tutto il necessario per eseguire la prestazione."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "I nostri professionisti ti accompagneranno in un percorso creato su misura per te, offrendo i trattamenti corretti sulla base delle tue esigenze, dove vuoi tu e quando vuoi tu."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
-      }
-    ]
-  },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
     "list": [

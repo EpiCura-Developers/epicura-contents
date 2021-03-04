@@ -55,38 +55,6 @@
       "Monitoraggio parametri vitali a Torino"
     ]
   },
-  "descrizione_servizio": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Quando rivolgersi ad un medico di base?</h2><p>Il medico di base (o medico di famiglia) è la figura a cui rivolgersi per la cura globale e primaria e per la prevenzione della tua salute. Il medico ti aiuterà a mantenere il controllo sul tuo stato di salute grazie alle sue competenze e la sua visione ampia in medicina. I disturbi e le malattie più comuni che il medico di base tratta sono:</p> <p><ul><li>malattie infettive (varicella, morbillo ecc.)</li><li>emicrania</li><li>ipertensione</li><li>diabete</li><li>emorroidi</li><li>cervicale</li><li>lombosciatalgia</li><li>acne</li><li>colite</li><li>gastrite</li></ul></p><p>Al giorno d’oggi le visite di medicina generale sono il sinonimo di lunghe attese e scomodità orarie. Per questo noi di EpiCura abbiamo deciso di rimuovere le liste di attesa dalle visite garantendo un intervento a domicilio 7 giorni su 7 anche in orari serali favorendo la guarigione e il benessere psicofisico del paziente. L’ambiente familiare, al contrario di uno studio medico freddo e asettico, mette il paziente a proprio agio aiutandolo e spronandolo a collaborare al meglio per raggiunge la sua guarigione.</p>",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "La comodità di casa",
-        "text": "I nostri specialisti ti raggiungono a casa con tutto il necessario per eseguire la visita. Pensiamo a tutto noi. Potrai rimettere a nuovo la tua salute senza doverti spostare da casa."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Senza attese",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere la visita quando ce n’è bisogno. Noi di EpiCura garantiamo visite senza lista d’attesa, 7 giorni su 7, anche in orari serali per farti sentire sempre al sicuro."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Assistenza personalizzata",
-        "text": "Ogni paziente ha le sue esigenze. Per questo offriamo visite e percorsi personalizzati creati su misura. I nostri professionisti ti affiancheranno nel tuo percorso di guarigione fornendoti i trattamenti adatti al tuo specifico caso. Vuoi risolvere il tuo problema? Chiamaci subito allo 011 0243215."
-      }
-    ]
-  },
-  
   "solutions": [
     {
       "title": "La ricerca della giusta assistenza",

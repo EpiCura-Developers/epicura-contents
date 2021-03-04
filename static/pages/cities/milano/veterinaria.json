@@ -60,68 +60,6 @@
       "Esami del sangue a Milano"
     ]
   },
-  "descrizione_servizio": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Cura la sua salute</h2><p> Da quando è un cucciolo a quando è anziano, l’animale di compagnia va curato e seguito. Questa decisione va presa in modo consapevole altrimenti si rischia di danneggiare la sua salute e il rapporto che hai con lui. Il veterinario si occupa di prendersi cura dell’animale migliorando la sua qualità di vita ed evitando sofferenze. Lo specialista si occupa di curare la salute dell’animale in vari ambiti, dall’igiene alla riproduzione. <br />Sappiamo quanto, a volte, sia difficile e scomodo il trasporto fino allo studio veterinario. Quando l'animale è anziano, malato o addirittura quando è cucciolo spesso è proibitivo spostarsi. Per questo EpiCura offre interventi di veterinari professionisti a domicilio per evitare attese e scomodi spostamenti. Per dare il massimo al tuo animale e farlo sentire sempre curato e al sicuro garantiamo i servizi 7 giorni su 7 anche in orari serali e senza liste di attesa. Sei tu che decidi ora e giorno.</p>",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "La comodità di casa",
-        "text": "I nostri specialisti ti raggiungono a casa o in ufficio con tutto il necessario per eseguire la prestazione. Pensiamo a tutto noi. Il tuo animale si sentirà curato e tranquillo direttamente nel confort di casa."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "Ogni animale ha le sue esigenze. Per questo offriamo percorsi personalizzati creati su misura. I nostri professionisti affiancheranno il tuo animale nel suo percorso offrendogli i trattamenti giusti negli orari e giorni che preferisci."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere un intervento quando ce n’è bisogno. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
-      }
-    ]
-  },
-  "descrizione_servizioFbAdw": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Cura la sua salute</h2><p>I nostri professionisti certificati e coperti da assicurazione sono in grado di strutturare percorsi personalizzati studiati per le tue esigenze e per quelle del tuo animale. Porteranno con loro tutto quello di cui hanno bisogno per farti beneficiare a pieno dell'intervento veterinario direttamente nel comfort di casa tua.</p> ",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "Quando e dove vuoi",
-        "text": "Pensiamo a tutto noi. I nostri specialisti sono disponibili a domicilio con tutto il necessario per eseguire la prestazione."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "I nostri professionisti accompagneranno il tuo animale in un percorso creato su misura per lui, offrendo i trattamenti corretti sulla base delle esigenze, dove vuoi tu e quando vuoi tu."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
-      }
-    ]
-  },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
     "list": [

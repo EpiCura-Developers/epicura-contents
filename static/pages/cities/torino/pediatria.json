@@ -56,68 +56,6 @@
       "Somministrazione farmaci per bambini a Torino"
     ]
   },
-  "descrizione_servizio": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Cura la salute del tuo bambino</h2><p>Dai primi anni di vita fino all’adolescenza il bambino cresce e cambia a vista d’occhio. Tutto quello che in questo periodo il bambino fa, vive e sperimenta, rappresenterà il suo bagaglio che porterà con sé per tutta la vita.<br /> Proprio per questo è di cruciale importanza far in modo che abbia un’infanzia caratterizzata da una salute forte e resistente. Seguire e curare la sua crescita permette di regalare al bambino un futuro sereno.<br /> La figura del pediatra si occupa proprio di questo: aiuta i bambini a curare i problemi di salute che si verificano durante la crescita e a prevenire problemi futuri che potrebbero verificarsi.<br />Grazie alle visite pediatriche si possono curare problematiche come:</p><p><ul><li>malattie infettive come varicella, rosolia, morbillo;</li><li>infezioni alle vie respiratorie, bronchiti, polmoniti;</li><li>malattie croniche;</li><li>malformazioni congenite;</li><li>disturbi alimentari;</li><li>disturbi mentali, emotivi o del comportamento;</li><li>traumi.</li></ul></p><p>Durante le visite pediatriche è importante che il bambino sia tranquillo e sereno per beneficiare a pieno della visita. In questo le strutture ospedaliere, gli studi pediatrici e i centri medici non aiutano affatto. Spesso queste strutture mettono in soggezione il bambino rendendolo impaurito e compromettendo l’efficacia della visita pediatrica. Per questo noi di EpiCura abbiamo deciso di offrire visite pediatriche a domicilio, per aiutare il bambino ad affrontare al meglio e più serenamente la presenza di una persona esterna, rispetto che in studio pediatrico o in ospedale. Le nostre visite sono garantite 7 giorni su 7, anche in orari serali.</p>",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "La comodità di casa",
-        "text": "I nostri specialisti ti raggiungono a casa o in ufficio con tutto il necessario per eseguire la prestazione. Pensiamo a tutto noi. Potrai garantire la salute del tuo bambino direttamente a casa tua."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "Ogni bambino ha le sue esigenze. Per questo offriamo percorsi personalizzati creati su misura. I nostri professionisti affiancheranno il tuo bambino offrendogli i trattamenti giusti negli orari e giorni che preferisci."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria visita. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
-      }
-    ]
-  },
-  "descrizione_servizioFbAdw": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Cura la salute del tuo bambino</h2><p>Durante le visite pediatriche è importante che il bambino sia tranquillo e sereno per beneficiare a pieno della visita. </br>Per questo noi di EpiCura abbiamo deciso di offrire visite pediatriche a domicilio, per aiutare il bambino ad affrontare più serenamente la presenza di una persona esterna. I disturbi più comuni che il medico di base tratta sono:</p> <p><ul><li>malattie infettive (varicella, morbillo ecc.);</li><li>Infezioni respiratorie (bronchite, polmonite ecc.)</li><li>malattie croniche</li><li>disturbi alimentari</li><li>disturbi emotivi e comportamentali</li></ul></p>",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "Quando e dove vuoi",
-        "text": "Pensiamo a tutto noi. I nostri specialisti ti raggiungono a casa o ovunque tu voglia, con tutto il necessario per eseguire la prestazione."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "I nostri professionisti accompagneranno te e il tuo bambino in un percorso creato su misura, offrendo i trattamenti corretti sulla base delle esigenze, dove vuoi tu e quando vuoi tu."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
-      }
-    ]
-  },
   "solutions": [
     {
       "title": "La ricerca della giusta assistenza",

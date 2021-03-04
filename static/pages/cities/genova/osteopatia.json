@@ -59,68 +59,6 @@
       "Osteopatia in età evolutiva a Genova"
     ]
   },
-  "descrizione_servizio": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Equilibra il tuo corpo con l’osteopatia</h2><p>Dobbiamo considerare il nostro corpo come un'unica macchina che in armonia lavora per mantenere la nostra salute, il nostro benessere e il nostro equilibrio. Quando, però, un ingranaggio di questa macchina non è “ben oliato” l’intero sistema ne risente. </br> Detto in altre parole, a volte, il nostro corpo perde il suo equilibrio naturale e ha bisogno di essere riallineato attraverso manipolazioni e trattamenti. La disciplina che si occupa di questo è l’osteopatia che consente al paziente di ritrovare salute del proprio corpo e della propria mente grazie ad un approccio che va a trattare direttamente la causa del problema e non il sintomo. Alcune delle patologie più comuni che l’osteopatia tratta sono:</p><p><ul><li>ernia al disco</li><li>lombalgia</li></li><li>sciatica o sciatalgia</li><li>nevralgie</li><li>problemi digestivi</li><li>dolori articolari o fastidi muscolari</li><li>cefalee</li><li>disturbi del sonno</li></ul></p> <p>L’osteopatia considera la persona come un’unica entità che va a curare in maniera olistica e completa. In questa visione, l’osteopata, non separa mente e corpo, anzi, li tratta insieme in un unico percorso terapeutico. Proprio per questo trovarsi in uno stato mentale di calma e serenità consente di migliorare esponenzialmente i risultati della terapia. Trovarsi in un luogo familiare e confortevole, come la propria casa, quando si riceve il trattamento, è provato dalla comunità scientifica essere una variabile importante per riequilibrare il proprio corpo rapidamente e in maniera efficace.</p>",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "Dove vuoi tu",
-        "text": "I nostri specialisti operano dove preferisci. Ti raggiungono a casa o in ufficio con tutto il necessario per eseguire la prestazione o erogano la seduta direttamente in studio. Potrai rimettere a nuovo il tuo corpo dovunque tu voglia."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "Ogni paziente ha le sue esigenze. Per questo offriamo percorsi personalizzati creati su misura. I nostri professionisti ti affiancheranno nel tuo percorso offrendoti i trattamenti giusti negli orari e giorni che preferisci."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria seduta. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
-      }
-    ]
-  },
-  "descrizione_servizioFbAdw": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>L'osteopatia a casa tua</h2><p>I nostri professionisti <b>certificati e coperti da assicurazione</b> sono in grado di strutturare <b>percorsi personalizzati</b> studiati per le tue esigenze.</p><p>Porteranno con loro tutto quello di cui hanno bisogno per farti beneficiare a pieno del tuo percorso osteopatico direttamente <b>nel comfort di casa tua</b>. </br> Alcune delle patologie più comuni che l’osteopatia tratta sono:</p><p><ul><li>ernia al disco</li><li>lombalgia</li></li><li>sciatica o sciatalgia</li><li>nevralgie</li><li>problemi digestivi</li><li>dolori articolari o fastidi muscolari</li><li>cefalee</li><li>disturbi del sonno</li></ul></p>",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "Quando e dove vuoi",
-        "text": "Pensiamo a tutto noi. I nostri specialisti ti raggiungono a casa o ovunque tu voglia, con tutto il necessario per eseguire la prestazione."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "I nostri professionisti ti accompagneranno in un percorso creato su misura per te, offrendoti i trattamenti corretti sulla base delle tue esigenze, dove vuoi tu e quando vuoi tu."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
-      }
-    ]
-  },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
     "list": [
