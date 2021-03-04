@@ -154,62 +154,6 @@
     "button-text": "Scopri come funziona",
     "button-link": "/videoconsulti/"
   },
-  "nostri_professionisti": {
-    "title": "I nostri professionisti",
-    "text": "In questo modo ti garantiamo un servizio tempestivo e su misura",
-    "professionisti": [
-      {
-        "name": "TEST CAMBIARE",
-        "disciplina": "Fisioterapista",
-        "prestazioni": [
-          "Riabilitazione posturale",
-          "Riabilitazione ortopedica",
-          "Linfodreanggio",
-          "Terapia Manuale"
-        ],
-        "image": {
-          "path": "specialists",
-          "name": "valentina-perucca"
-        }
-      },
-      {
-        "name": "TEST CAMBIARE",
-        "disciplina": "Veterinaria",
-        "prestazioni": ["Visita generica", "Sverminazione", "Vaccini", "Alimentazione animale"],
-        "image": {
-          "path": "specialists",
-          "name": "nicolo-giordano"
-        }
-      },
-      {
-        "name": "TEST CAMBIARE",
-        "disciplina": "Psicologa",
-        "prestazioni": [
-          "Psicologia infantile",
-          "Psicologia dell'età evolutiva",
-          "Psicologa per DSA",
-          "Psicologia giovane età adulta"
-        ],
-        "image": {
-          "path": "specialists",
-          "name": "valentina-perucca"
-        }
-      },
-      {
-        "name": "TEST CAMBIARE",
-        "disciplina": "Infermiere",
-        "prestazioni": [
-          "Iniezioni",
-          "Assistenza infermieristica",
-          "Medicazioni semplici e complesse"
-        ],
-        "image": {
-          "path": "specialists",
-          "name": "nicolo-giordano"
-        }
-      }
-    ]
-  },
   "map": {
     "showAllText": "Mostra tutti",
     "hideAllText": "Mostra meno",
