@@ -11,26 +11,26 @@
       {
         "image": {
           "path": "common",
-          "name": "scegli-soluzione"
+          "name": "stetofonendoscopio"
         },
-        "title": "Scegli la soluzione",
-        "text": "EpiCura offre un’ampia scelta di servizi per permettere al paziente di trovare esattamente ciò di cui ha bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
+        "title": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze."
       },
       {
         "image": {
           "path": "common",
-          "name": "prenota-seduta"
+          "name": "booking"
         },
-        "title": "Prenota la seduta",
-        "text": "Contattaci telefonicamente o prenota direttamente online, troveremo il miglior specialista che ti guiderà nel percorso terapeutico. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
+        "title": "Prenota in pochi click",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata."
       },
       {
         "image": {
           "path": "common",
-          "name": "migliora-salute"
+          "name": "love-home"
         },
-        "title": "Migliora la tua salute",
-        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo corpo. Potrai contattarci per qualunque esigenza."
+        "title": "Ricevi l'intervento a domicilio",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
       }
     ]
   },

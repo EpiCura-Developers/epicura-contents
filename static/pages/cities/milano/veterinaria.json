@@ -11,7 +11,7 @@
       {
         "image": {
           "path": "common",
-          "name": "scegli-soluzione"
+          "name": "stetofonendoscopio"
         },
         "title": "Scegli la soluzione",
         "text": "EpiCura offre un’ampia scelta di servizi per permetterti di trovare esattamente ciò di cui hai bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te e al tuo animale."
@@ -19,7 +19,7 @@
       {
         "image": {
           "path": "common",
-          "name": "prenota-seduta"
+          "name": "booking"
         },
         "title": "Prenota la seduta",
         "text": "Contattaci o prenota direttamente online e troveremo il miglior specialista per il tuo caso che ti guiderà nel percorso terapeutico del tuo animale. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
