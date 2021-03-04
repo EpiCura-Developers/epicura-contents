@@ -37,12 +37,9 @@
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
     "textColor": "dark",
-    "professionistaText": "Sei un professionista?",
-    "professionistaUrl": "/professionisti-lavoro/",
     "titleBig": "Fisioterapisti a domicilio a Firenze",
-    "subtitleBig": "Per chi ha a cuore la salute del proprio corpo",
-    "description1": "Migliora la tua salute 7 giorni su 7, senza alcuna lista d’attesa.",
-    "description2": "EpiCura porta sedute fisioterapiche a domicilio ovunque ce ne sia bisogno, in tutta Firenze e area metropolitana, in qualunque giorno e orario tu voglia.",
+    "description1": "EpiCura porta la fisioterapia comodamente a domicilio, in tutta Firenze e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
+    "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa.",
     "askInfoButtonText": "Richiedi informazioni"
   },
   "prenotazione": {
