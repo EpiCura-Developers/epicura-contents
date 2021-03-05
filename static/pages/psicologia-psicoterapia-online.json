@@ -39,24 +39,6 @@
       "description1": "Con EpiCura puoi consultare i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet.",
       "description2": " Prenota in pochi clic e ritrova adesso la tua serenità. "
     },
-    "prenotazione": {
-      "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
-      "subtitle": "Inizia subito il tuo percorso psicologico con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
-      "ctaCall": "Vuoi prenotare telefonicamente?"
-    },
-    "servizi_piu_richiesti": {
-      "title": "I servizi più richiesti",
-      "list": [
-        "Psicologia a Torino",
-        "Trapia di coppia a Torino",
-        "Psicologo per bambini a Torino",
-        "Video consulto psicologico",
-        "Supporto psicologico post trauma",
-        "Ascolto psicologico donne",
-        "Psicologo per gestione dell'ansia",
-        "Psicologa per adolescenti a Torino"
-      ]
-    },
     "descrizione_servizio": {
       "askInfoText": "Richiedi informazioni",
       "prenotaText": "Prenota online",

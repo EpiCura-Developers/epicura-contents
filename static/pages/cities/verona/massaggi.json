@@ -43,22 +43,6 @@
     "description2": "EpiCura porta i massaggi terapeutici, per sportivi e di benessere ovunque tu ne abbia bisogno, in tutta Verona e area metropolitana, in qualunque giorno e orario tu voglia. Per aiutarti a rimuovere tensioni e ritrovare il benessere del tuo corpo.",
     "askInfoButtonText": "Richiedi informazioni"
   },
-  "prenotazione": {
-    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
-    "subtitle": "Inizia subito il tuo percorso benessere con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
-    "ctaCall": "Vuoi prenotare telefonicamente?"
-  },
-  "servizi_piu_richiesti": {
-    "title": "I servizi più richiesti",
-    "list": [
-      "Massaggio sportivo a Verona",
-      "Massaggio svedese a Verona",
-      "Massaggio terapeutico a Verona",
-      "Massaggio linfodrenante a Verona",
-      "Massaggio connettivale a Verona",
-      "Terapie fisiche a Verona"
-    ]
-  },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
     "list": [

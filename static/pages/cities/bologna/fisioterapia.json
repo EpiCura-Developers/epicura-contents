@@ -42,26 +42,6 @@
     "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa.",
     "askInfoButtonText": "Richiedi informazioni"
   },
-  "prenotazione": {
-    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
-    "subtitle": "Inizia subito il tuo percorso di fisioterapia con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
-    "ctaCall": "Vuoi prenotare telefonicamente?"
-  },
-  "servizi_piu_richiesti": {
-    "title": "I servizi più richiesti",
-    "list": [
-      "Riabilitazione motoria a Bologna",
-      "Linfodrenaggio a Bologna",
-      "Fisioterapia a Bologna",
-      "Ginnastica posturale a Bologna",
-      "Riabilitazione respisratoria a Bologna",
-      "Riabilitazione geriatrica a Bologna",
-      "Fisioterapia sportiva a Bologna",
-      "Riabilitazione post intervento a Bologna",
-      "Riabilitazione post traumatica a Bologna",
-      "Massoterapia a Bologna"
-    ]
-  },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
     "list": [

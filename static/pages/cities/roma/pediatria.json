@@ -43,20 +43,6 @@
     "description2": "EpiCura porta le visite pediatriche ovunque il tuo bambino ne abbia bisogno, in tutta Roma e area metropolitana, in qualunque giorno e orario tu voglia.",
     "askInfoButtonText": "Richiedi informazioni"
   },
-  "prenotazione": {
-    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
-    "subtitle": "Richiedi subito una visita pediatrica con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
-    "ctaCall": "Vuoi prenotare telefonicamente?"
-  },
-  "servizi_piu_richiesti": {
-    "title": "I servizi più richiesti",
-    "list": [
-      "Visita pediatrica a Roma",
-      "Prescrizione esami neonati a Roma",
-      "Vaccini per bambini a Roma",
-      "Somministrazione farmaci per bambini a Roma"
-    ]
-  },
   "solutions": [
     {
       "title": "La ricerca della giusta assistenza",

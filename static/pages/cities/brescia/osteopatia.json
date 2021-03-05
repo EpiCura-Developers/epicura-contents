@@ -40,22 +40,6 @@
       }
     ]
   },
-  "prenotazione": {
-    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
-    "subtitle": "Inizia subito il tuo percorso di osteopatia con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
-    "ctaCall": "Vuoi prenotare telefonicamente?"
-  },
-  "servizi_piu_richiesti": {
-    "title": "I servizi più richiesti",
-    "list": [
-      "Osteopatia per neonati a Brescia",
-      "Manipolazioni osteopatiche in gravidanza a Brescia",
-      "Osteopatia preventiva a Brescia",
-      "Trattamenti osteopatici per anziani a Brescia",
-      "Linfodrenaggio a Brescia",
-      "Osteopatia in età evolutiva a Brescia"
-    ]
-  },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di osteopatia a domicilio",
     "list": [

@@ -43,23 +43,6 @@
     "description2": "EpiCura porta la medicina veterinaria ovunque tu ne abbia bisogno, in tutta Roma e area metropolitana, in qualunque giorno e orario tu voglia.",
     "askInfoButtonText": "Richiedi informazioni"
   },
-  "prenotazione": {
-    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
-    "subtitle": "Prenditi subito cura del tuo animale con il miglior specialista certificato per le tue esigenze.",
-    "ctaCall": "Vuoi prenotare telefonicamente?"
-  },
-  "servizi_piu_richiesti": {
-    "title": "I servizi più richiesti",
-    "list": [
-      "Visita veterinaria a Roma",
-      "Sverminazione a Roma",
-      "Eutanasia a Roma",
-      "Esami feci/esami urine a Roma",
-      "Vaccino a Roma",
-      "Applicazione/identificazione microchip a Roma",
-      "Esami del sangue a Roma"
-    ]
-  },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
     "list": [

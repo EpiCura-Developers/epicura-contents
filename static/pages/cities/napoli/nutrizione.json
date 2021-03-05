@@ -43,22 +43,6 @@
     "description2": "EpiCura porta le visite nutrizionistiche a domicilio e in videoconsulto, in qualunque giorno e orario tu voglia. Per mantenere il benessere del corpo e della mente.",
     "askInfoButtonText": "Richiedi informazioni"
   },
-  "prenotazione": {
-    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
-    "subtitle": "Inizia subito il tuo percorso di nutrizione con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
-    "ctaCall": "Vuoi prenotare telefonicamente?"
-  },
-  "servizi_piu_richiesti": {
-    "title": "I servizi più richiesti",
-    "list": [
-      "Visita e valutazione nutrizionale a Napoli",
-      "Elaborazione dieta in gravidanza",
-      "Monitoraggio BMI a Napoli",
-      "Consulto alimentare a Napoli",
-      "Elaborazione dieta per diabetici a Napoli",
-      "Misurazione adipometrica a Napoli"
-    ]
-  },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
     "list": [

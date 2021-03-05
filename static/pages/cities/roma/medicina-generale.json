@@ -43,19 +43,6 @@
     "description2": "EpiCura porta le visite mediche ovunque tu ne abbia bisogno, in tutta Roma e area metropolitana, in qualunque giorno e orario tu voglia.",
     "askInfoButtonText": "Richiedi informazioni"
   },
-  "prenotazione": {
-    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
-    "subtitle": "Richiedi subito una visita medica con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
-    "ctaCall": "Vuoi prenotare telefonicamente?"
-  },
-  "servizi_piu_richiesti": {
-    "title": "I servizi più richiesti",
-    "list": [
-      "Visita generica a Roma",
-      "Prescrizione farmaci a Roma",
-      "Monitoraggio parametri vitali a Roma"
-    ]
-  },
   "solutions": [
     {
       "title": "La ricerca della giusta assistenza",
