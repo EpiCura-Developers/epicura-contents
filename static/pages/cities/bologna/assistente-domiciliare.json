@@ -5,12 +5,16 @@
   },
   "subheader": {
     "prenotaOnlineText": "Richiedi preventivo gratuito",
-    "professionistaText": "",
-    "professionistaUrl": "",
     "titleBig": "Assistenza a ore a Bologna",
-    "subtitleBig": "",
     "description1": "Servizi di assistenza domiciliare per anziani, disabili e malati, autosufficienti e non. Badanti per assistenze diurne, assistenze notturne, badanti conviventi.",
     "askInfoButtonText": "Richiedi consulenza"
+  },
+  "booking-card": {
+    "title": "Assistenti domiciliari a Bologna per anziani, malati e disabili",
+    "text": "Cerchi assistenza qualificata per un tuo caro? Con EpiCura i migliori assistenti domiciliari arrivano comodamente a domicilio, in ospedale o in casa di riposo, 7 giorni su 7, entro 24 ore dalla prenotazione. Recupera serenità, richiedi adesso un preventivo gratuito.*",
+    "hint": "*Il servizio è erogabile a partire da un minimo di 3 ore consecutive",
+    "price": "Tariffa: 14€/h",
+    "prenotaOnlineText": "Richiedi preventivo gratuito"
   },
   "services": [
     {

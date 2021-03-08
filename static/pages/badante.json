@@ -123,7 +123,8 @@
     ]
   },
   "come_funziona": {
-    "title": "Come funziona la ricerca badanti?",
+    "title": "Sei in cerca di una badante? Ecco come funziona.*",
+    "text": "<span class='green'>*Servizio attivo in tutta Italia</span>",
     "cards": [
       {
         "image": {
@@ -303,7 +304,7 @@
     "button-link": "https://hubspot-link-placeholder"
   },
   "discount": {
-    "title": "10% di sconto su tutti i nostri servizi se prenoti assistenza domiciliare",
+    "title": "Prenotando un servizio di assistenza a ore o badante, ricevi subito il 10% di sconto su tutti i servizi EpiCura",
     "services-list": [
       "Fisioterapia",
       "Medicina generale",
