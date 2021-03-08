@@ -322,11 +322,6 @@
         "reservation": "/prenota/?d=physiotherapy&province=VR"
       },
       {
-        "discipline": "psicoterapia",
-        "specialist": "psicoterapeuta",
-        "reservation": "/prenota/?d=psychotherapy&province=VR"
-      },
-      {
         "discipline": "osteopatia",
         "specialist": "osteopata",
         "reservation": "/prenota/?d=osteopathy&province=VR"
