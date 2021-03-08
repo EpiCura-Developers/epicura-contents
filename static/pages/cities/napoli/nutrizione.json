@@ -3,7 +3,13 @@
     "title": "Nutrizionista a Napoli",
     "description": "Nutrizionisti a domicilio a Napoli e area metropolitana. Valutazione nutrizionale, monitoraggio e pianificazione diete a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "prezzi_title": "I prezzi di Nutrizione a Napoli",
+  "subheader": {
+    "prenotaOnlineText": "Prenota ora",
+    "textColor": "dark",
+    "titleBig": "Nutrizionisti a domicilio a Napoli",
+    "description1": "EpiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Napoli e area metropolitana, 7 giorni su 7, quando e dove vuoi. ",
+    "description2": "Prenota in pochi clic e prenditi cura del tuo corpo e del tuo benessere in modo semplice e veloce."
+  },
   "come_funziona": {
     "title": "Come funziona",
     "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Napoli e area metropolitana grazie a 3 semplici passaggi:",
@@ -33,15 +39,6 @@
         "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
       }
     ]
-  },
-  "subheader": {
-    "prenotaOnlineText": "Prenota ora",
-    "textColor": "dark",
-    "titleBig": "Nutrizionisti a domicilio a Napoli",
-    "subtitleBig": "Per chi vuole curare la propria alimentazione",
-    "description1": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
-    "description2": "EpiCura porta le visite nutrizionistiche a domicilio e in videoconsulto, in qualunque giorno e orario tu voglia. Per mantenere il benessere del corpo e della mente.",
-    "askInfoButtonText": "Richiedi informazioni"
   },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
@@ -132,6 +129,13 @@
       ]
     }
   ],
+  "booking-card": {
+    "title": "Visita nutrizionistica a domicilio a Napoli",
+    "disciplineTitle": "Ritrova il benessere del tuo corpo",
+    "text": "Le tue esigenze alimentari sono cambiate e hai bisogno del parere di un professionista? Con EpiCura i migliori nutrizionisti ti raggiungono direttamente a casa, 7 giorni su 7. Prenota in pochi clic e ritrova salute e forma fisica.",
+    "price": "Costo fisso 60€",
+    "prenotaOnlineText": "Prenota ora"
+  },
   "advantages": {
     "title": "I migliori nutrizionisti a domicilio entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
