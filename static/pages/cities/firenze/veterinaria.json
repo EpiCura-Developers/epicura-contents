@@ -43,51 +43,20 @@
     "description2": "EpiCura porta la medicina veterinaria ovunque tu ne abbia bisogno, in tutta Firenze e area metropolitana, in qualunque giorno e orario tu voglia.",
     "askInfoButtonText": "Richiedi informazioni"
   },
-  "trattamenti": {
-    "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
-    "list": [
-      {
-        "title": "Visita veterinaria generale",
-        "description": "Visite veterinarie a domicilio in tutta Firenze e area metropolitana, 7 giorni su 7, anche in orari serali, senza liste di attesa. Per assicurare al tuo animale la migliore salute possibile."
-      },
-      {
-        "title": "Iniezione farmaco",
-        "description": "Intervento veterinario per la somministrazione al tuo animale di un farmaco tramite iniezione. Prestazione erogata da specialisti certificati e con esperienza in qualsiasi giorno, orario e luogo tu voglia."
-      },
-      {
-        "title": "Eutanasia cane e gatto",
-        "description": "Intervento veterinario curato da esperti certificati in tutta Firenze e area metropolitana. Per consentire al tuo animale di non soffrire e alleviare il suo dolore."
-      },
-      {
-        "title": "Esami urine e feci",
-        "description": "Prestazione veterinaria a domicilio offerta da specialisti certificati e con esperienza in tutta Firenze e area metropolitana. Assicura la salute del tuo animale con delle analisi specifiche e dettagliate."
-      },
-      {
-        "title": "Applicazione e identificazione microchip",
-        "description": "Prestazione veterinaria per l’applicazione del microchip di riconoscimento a domicilio in tutta Firenze e area metropolitana. Assicura al tuo animale di essere riconosciuto in qualunque luogo o momento per non perderlo mai di vista."
-      },
-      {
-        "title": "Antirabbica",
-        "description": "Vaccino antirabbico a domicilio per assicurare la salute del tuo cane. Prestazione erogata da professionisti certificati e con esperienza in tutta Firenze e area metropolitana, 7 giorni su 7 anche in orari serali."
-      },
-      {
-        "title": "Prelievo ematico",
-        "description": "Prelievo del sangue a domicilio per il controllo della salute dell’animale e l’accertamento del suo stato di forma. Prestazione erogata da professionisti certificati, 7 giorni su 7, anche in orari serali."
-      },
-      {
-        "title": "Vaccinazioni",
-        "description": "Vaccinazioni animali da veterinari professionisti e specializzati. Proteggi il tuo animale dalle malattie che potrebbero colpirlo grazie a dei vaccini specifici somministrati a domicilio, in qualsiasi giorno e orario tu voglia."
-      },
-      {
-        "title": "Sverminazione",
-        "description": "Intervento veterinario a domicilio per la sverminazione del tuo animale. Assicura la sua salute grazie a professionisti che rimuovono e ostacolano la riproduzione dei vermi intestinali. Prestazioni erogate 7 giorni su 7, anche in orari serali."
-      }
-    ]
+  "booking-card": {
+    "title": "Visita veterinaria a domicilio a Firenze",
+    "disciplineTitle": "I migliori professionisti a casa tua",
+    "text": "Il tuo animale domestico ha bisogno di una visita ma muoversi da casa è scomodo e difficile? Con EpiCura puoi prenotare in pochi clic visite veterinarie comodamente a domicilio, senza stress per te e il tuo amico a quattro zampe.",
+    "price": "Costo fisso 60€",
+    "prenotaOnlineText": "Prenota ora"
   },
   "solutions": [
     {
       "title": "Le soluzioni per il tuo cane",
-      "image": "<----- inserire qui immagine cane/gatto, altrimenti lasciare vuoto per non mostrarla --->",
+      "image": {
+        "path": "veterinary",
+        "name": "dog"
+      },
       "startingFromText": "A partire da",
       "solutionsBig": [
         {
@@ -128,7 +97,10 @@
     },
     {
       "title": "Le soluzioni per il tuo gatto",
-      "image": "<----- inserire qui immagine cane/gatto, altrimenti lasciare vuoto per non mostrarla --->",
+      "image": {
+        "path": "veterinary",
+        "name": "cat"
+      },
       "startingFromText": "A partire da",
       "solutionsBig": [
         {
