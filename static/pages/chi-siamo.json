@@ -3,10 +3,11 @@
     "title": "EpiCura - Chi siamo?",
     "description": "Siamo il primo poliambulatorio digitale in Italia."
   },
-  "site-who-we-are-header-title": "Il primo poliambulatorio digitale in Italia",
-  "site-who-we-are-header-subtitle": "Rendiamo la sanità più semplice, rapida e attenta ai bisogni delle persone.",
+  "subheader":{
+    "titleBig": "Il primo poliambulatorio digitale in Italia",
+    "description1": "Rendiamo la sanità più semplice, rapida e attenta ai bisogni delle persone."
+  },
   "site-who-we-are-header-img": { "path": "common", "name": "site-who-we-are-header-img" },
-  "site-who-we-are-header-color": "#CEF5F2",
   "site-who-we-are-description-title": "Siamo il primo poliambulatorio digitale in Italia",
   "site-who-we-are-description-text": "Utilizziamo la tecnologia per rendere più accessibili i servizi sanitari e socio-assistenziali, con la missione di semplificare la vita delle persone. <br /> Vogliamo migliorare un settore caratterizzato da lunghe attese e grandi scomodità e lo stiamo facendo costruendo un servizio che si basa sulla tempestività, sulla flessibilità e sulla vicinanza ai nostri pazienti.",
   "site-who-we-are-description-img": { "path": "common", "name": "lamp" },

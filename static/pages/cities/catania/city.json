@@ -3,294 +3,134 @@
     "title": "EpiCura - Catania",
     "description": "Cura la tua salute e quella di chi ami a Catania e area metropolitana con EpiCura, primo poliambulatorio digitale in Italia. Servizi medici, sanitari e assistenziali 7 giorni su 7, anche in orari serali, senza liste d'attesa."
   },
+  "subheader": {
+    "prenotaOnlineText": "Prenota ora",
+    "titleBig": "La salute a Catania con EpiCura",
+    "subtitleBig": "",
+    "description1": "Prenota online medici, assistenti domiciliari, infermieri e terapisti, a domicilio, in studio o in videoconsulto, 7 giorni su 7.",
+    "description2": "",
+    "askInfoButtonText": "Richiedi informazioni"
+  },
   "come_funziona": {
-    "title": "Come funziona",
-    "text": "Il settore della sanità è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno, rende l'accesso alle cure efficace, comodo e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Catania e area metropolitana grazie a 3 semplici passaggi:",
+    "title": "Come funziona la salute a domicilio a Catania",
+    "text": "",
     "cards": [
       {
         "image": {
           "path": "common",
-          "name": "scegli-soluzione"
+          "name": "stetofonendoscopio"
         },
-        "title": "Scegli la soluzione",
-        "text": "EpiCura offre un’ampia scelta di servizi per permettere al paziente di trovare esattamente ciò di cui ha bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
+        "title": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze.",
+        "button": {
+          "text": "Prenota ora",
+          "link": "/prenota/"
+        }
       },
       {
         "image": {
           "path": "common",
-          "name": "prenota-seduta"
+          "name": "booking"
         },
-        "title": "Prenota la seduta",
-        "text": "Contattaci telefonicamente o prenota direttamente online, troveremo il miglior specialista che ti guiderà nel percorso terapeutico. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
+        "title": "Prenota in pochi click",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata.",
+        "button": {
+          "text": "Prenota ora",
+          "link": "/prenota/"
+        }
       },
       {
         "image": {
           "path": "common",
-          "name": "migliora-salute"
+          "name": "follow-up"
         },
-        "title": "Migliora la tua salute",
-        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo corpo. Potrai contattarci per qualunque esigenza."
+        "title": "Ricevi l'intervento a casa tua",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
+        "button": {
+          "text": "Prenota ora",
+          "link": "/prenota/"
+        }
       }
     ]
-  },
-  "subheader": {
-    "prenotaOnlineText": "Prenota ora",
-    "textColor": "dark",
-    "professionistaText": "Sei un professionista?",
-    "professionistaUrl": "/professionisti-lavoro/",
-    "titleBig": "La salute a Catania con EpiCura",
-    "subtitleBig": "Il primo poliambulatorio digitale in Italia",
-    "description1": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
-    "description2": "Scopri i servizi che offriamo o richiedi informazioni per capire come possiamo soddisfare le tue necessità.",
-    "askInfoButtonText": "Richiedi informazioni"
   },
   "nostri_servizi": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "I nostri servizi",
+    "title": "I nostri servizi a Catania",
     "startingFromText": "Interventi a partire da",
-    "list": {
-      "medicina-generale": {
-        "title": "Medicina generale",
-        "textColor": "light",
-        "image": "medicina-generale",
-        "price": "100€",
-        "prestazioni": [
-          "Visita generica",
-          "Certificati medici",
-          "Prescrizione esami strumentali e visite specialistiche",
-          "Prescrizione farmaci"
-        ],
-        "description": "Visite mediche a domicilio, senza alcuna lista d’attesa e anche nel weekend. I nostri medici offrono comodità oraria, 7 giorni su 7, per avere la sicurezza di uno specialista in qualsiasi momento."
-      },
-      "veterinaria": {
-        "title": "Veterinaria",
-        "textColor": "dark",
-        "image": "veterinaria",
-        "price": "15€",
-        "prestazioni": [
-          "Visita generica",
-          "Vaccini",
-          "Prelievi ed esami feci e urine",
-          "Prescrizione farmaci",
-          "Eutanasia"
-        ],
-        "description": "Interventi di medicina veterinaria rapidi e senza attesa direttamente a casa tua. Qualunque giorno della settimana e in orari serali per regalare al tuo animale la migliore salute possibile."
-      },
-      "osteopatia": {
-        "title": "Osteopatia",
-        "textColor": "dark",
-        "image": "osteopatia",
-        "price": "210€",
-        "prestazioni": [
-          "Osteopatia viscerale e strutturale",
-          "Osteopatia pediatrica e in gravidanza",
-          "Terapia cranio-sacrale",
-          "Trattamento osteopatico neonatale"
-        ],
-        "description": "Sedute di osteopatia a domicilio e in studio con i nostri professionisti certificati disponibili 7 giorni alla settimana. Per permettere al tuo corpo di tornare in forma e in equilibrio."
-      },
-      "infermieristica": {
-        "title": "Infermieristica",
-        "textColor": "dark",
-        "image": "infermieristica",
-        "price": "15€",
-        "prestazioni": [
-          "Medicazioni semplici e complesse",
-          "Flebo",
-          "Iniezioni",
-          "Clisteri",
-          "Rimozione punti di sutura",
-          "Cateterismi",
-          "Rilevazione parametri vitali"
-        ],
-        "description": "Interventi infermieristici a domicilio garantiti in 24 ore, 7 giorni alla settimana. I nostri infermieri professionisti operano senza alcuna lista di attesa per fornire un intervento repentino, sicuro ed efficace."
-      },
-      "assistenza-domiciliare": {
-        "title": "Assistenza domiciliare",
-        "textColor": "dark",
-        "image": "assistenza-domiciliare",
-        "price": "11€",
-        "prestazioni": [
-          "Igiene, bagno assistito, vestizione",
-          "Assistenza a ore o continuativa",
-          "Sostituzione badante",
-          "Assistenza notturna",
-          "Assistenza in ospedale"
-        ],
-        "description": "Assistenza domiciliare o in ospedale, diurna e notturna per anziani malati disabili, 7 giorni su 7, curata da personale con esperienza. Percorsi personalizzati per avere sempre qualcuno al proprio fianco."
-      },
-      "servizio-ricerca-badanti": {
-        "title": "Servizio ricerca badanti",
-        "textColor": "light",
-        "image": "ricerca-badanti",
+    "list": [
+      {
+        "specialist": "badante",
+        "title": "Ricerca badanti e assistenza domiciliare",
+        "link": "/badante/",
+        "image": {
+          "path": "caregiver",
+          "name": "badante-bg"
+        },
         "price": "682€",
-        "prestazioni": [
-          "Igiene personale, bagno assistito, vestizione",
-          "Assistenza a ore o continuativa",
-          "Sostituzione badante",
-          "Assistenza notturna",
-          "Assistenza in ospedale"
-        ],
-        "description": "Ti aiutiamo a trovare la badante ideale per le necessità della tua famiglia. Verrai seguito in tutti gli aspetti di selezione e burocratici per trovare una persona esperta che stia al fianco dei tuoi cari."
+        "prestazioni": "Igiene, bagno assistito, vestizione, assistenza a ore o continuativa, sostituzione badante, assistenza notturna, assistenza in ospedale"
       },
-      "fisioterapia": {
+      {
+        "specialist": "medico-di-base",
+        "title": "Medicina generale",
+        "image": {
+          "path": "generalMedicine",
+          "name": "generalMedicine"
+        },
+        "price": "100€",
+        "prestazioni": "Visita generica, certificati medici, prescrizione esami strumentali e visite specialistiche, prescrizione farmaci"
+      },
+      {
+        "specialist": "veterinario",
+        "title": "Veterinaria",
+        "image": {
+          "path": "veterinary",
+          "name": "veterinary"
+        },
+        "price": "15€",
+        "prestazioni": "Visita generica, vaccini, prelievi ed esami feci e urine, prescrizione farmaci, eutanasia"
+      },
+      {
+        "specialist": "osteopata",
+        "title": "Osteopatia",
+        "image": {
+          "path": "osteopathy",
+          "name": "osteopathy"
+        },
+        "price": "210€",
+        "prestazioni": "Osteopatia viscerale e strutturale, osteopatia pediatrica e in gravidanza, terapia cranio-sacrale, trattamento osteopatico neonatale"
+      },
+      {
+        "specialist": "infermiere",
+        "title": "Infermieristica",
+        "image": {
+          "path": "nursing",
+          "name": "nursing"
+        },
+        "price": "15€",
+        "prestazioni": "Medicazioni semplici e complesse, flebo, iniezioni, clisteri, rimozione punti di sutura, cateterismi, rilevazione parametri vitali"
+      },
+      {
+        "specialist": "fisioterapista",
         "title": "Fisioterapia",
-        "textColor": "dark",
-        "image": "fisioterapia",
+        "image": {
+          "path": "physiotherapy",
+          "name": "physiotherapy"
+        },
         "price": "150€",
-        "prestazioni": [
-          "Riabilitazione ortopedica",
-          "Linfodrenaggio",
-          "Rieducazione posturale",
-          "Riabilitazione respiratoria",
-          "Terapia manuale e massoterapia"
-        ],
-        "description": "Servizi di fisioterapia a domicilio o in studio, 7 giorni su 7, anche in orari serali con professionisti certificati. Per migliorare la salute del tuo corpo nella massima comodità e senza dover aspettare."
-      }
-    }
-  },
-  "nostri_professionisti": {
-    "title": "I nostri professionisti",
-    "text": "",
-    "professionisti": [
-      {
-        "name": "Nicolò Giordano",
-        "disciplina": "Fisioterapista",
-        "prestazioni": [
-          "Riabilitazione posturale",
-          "Riabilitazione ortopedica",
-          "Linfodreanggio",
-          "Terapia Manuale"
-        ],
-        "avatar": "nicolo-giordano"
-      },
-      {
-        "name": "Denise Albanese",
-        "disciplina": "Veterinaria",
-        "prestazioni": ["Visita generica", "Sverminazione", "Vaccini", "Alimentazione animale"],
-        "avatar": "denise-albanese"
-      },
-      {
-        "name": "Giuditta Seassaro",
-        "disciplina": "Psicologa",
-        "prestazioni": [
-          "Psicologia infantile",
-          "Psicologia dell'età evolutiva",
-          "Psicologa per DSA",
-          "Psicologia giovane età adulta"
-        ],
-        "avatar": "giuditta-seassaro"
-      },
-      {
-        "name": "Cristian Valeri",
-        "disciplina": "Infermiere",
-        "prestazioni": [
-          "Iniezioni",
-          "Assistenza infermieristica",
-          "Medicazioni semplici e complesse"
-        ],
-        "avatar": "cristian-valeri"
+        "prestazioni": "Riabilitazione ortopedica, linfodrenaggio, rieducazione posturale, riabilitazione respiratoria, terapia manuale e massoterapia"
       }
     ]
   },
-  "prenotazione": {
-    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
-    "subtitle": "Inizia subito a stare meglio con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
-    "ctaCall": "Vuoi prenotare telefonicamente?"
-  },
-  "faqs": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Domande frequenti",
-    "list": [
-      {
-        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
-        "answer": "Sì, tutte le prestazioni sanitarie sono detraibili dalla dichiarazione dei redditi. Per farlo basterà utilizzare la fattura che riceverai da EpiCura dopo il pagamento dell'intervento."
-      },
-      {
-        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
-        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
-      },
-      {
-        "question": "Avete un centro o uno studio dove avvengono le prestazioni?",
-        "answer": "Non abbiamo un nostro centro sul territorio, ma ci appoggiamo agli studi privati dei professionisti che collaborano con noi."
-      },
-      {
-        "question": "Cosa succede se non mi trovo bene con il professionista?",
-        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra professionista e paziente, per questo motivo se non ti trovi bene con lo specialista basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
-      }
-    ]
-  },
-  "latest_articles": {
-    "title": "Ultimi articoli su di noi",
-    "titleFbAdw": "Parlano di noi",
-    "allArticlesLink": "/rassegna-stampa/",
-    "allArticlesText": "Tutti gli articoli",
-    "readArticleText": "Leggi articolo",
-    "articles": [
-      {
-        "image": {
-          "path": "common",
-          "name": "ilsole24ore"
-        },
-        "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
-        "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "forbes"
-        },
-        "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
-        "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "corrieredellasera"
-        },
-        "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
-        "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "lastampa"
-        },
-        "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
-        "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
-      }
-    ]
-  },
-  "servizi_piu_richiesti": {
-    "title": "I servizi più richiesti",
-    "list": [
-      {
-        "title": "Assistente domiciliare a Catania",
-        "url": "/assistente-domiciliare"
-      },
-      {
-        "title": "Fisioterapista a Catania",
-        "url": "/fisioterapista"
-      },
-      {
-        "title": "Medico Generico a Catania",
-        "url": "/medico-di-base"
-      },
-      {
-        "title": "Veterinario a Catania",
-        "url": "/veterinario"
-      },
-      {
-        "title": "Infermiere a Catania",
-        "url": "/infermiere"
-      },
-      {
-        "title": "Osteopata a Catania",
-        "url": "/osteopata"
-      }
-    ]
+  "hint-card": {
+    "title": "Vuoi parlare con un medico online? Prova la formula videoconsulto",
+    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "price": "Costo fisso 25€",
+    "bkg-color": "#F5F8FF",
+    "image": {
+      "path": "videoconsultation",
+      "name": "videoconsultation-banner"
+    },
+    "button-text": "Scopri come funziona",
+    "button-link": "/videoconsulti/"
   },
   "map": {
     "showAllText": "Mostra tutti",
@@ -496,9 +336,56 @@
       "image": "contact-card"
     }
   },
-  "phone_number": {
-    "full": "0958832068",
-    "display": "095 8832068",
-    "format": "XXX%20XXXXXXX"
-  }
+  "advantages": {
+    "title": "RIVEDERE IL TITOLO",
+    "list": [
+      {
+        "image": { "path": "common", "name": "professionist" },
+        "title": "Professionisti qualificati",
+        "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
+      },
+      {
+        "image": { "path": "common", "name": "certificate" },
+        "title": "TESTO IN REVISIONE",
+        "description": "TESTO IN REVISIONE TESTO IN REVISIONE TESTO IN REVISIONE TESTO IN REVISIONE"
+      },
+      {
+        "image": { "path": "common", "name": "badge" },
+        "title": "TESTO IN REVISIONE",
+        "description": "I nostri professionisti utilizzano le più moderne tecniche terapeutiche, scientificamente validate."
+      }
+    ]
+  },
+  "carousel": [
+    {
+      "title": "Paga comodamente online in modo semplice e sicuro",
+      "description": "Prenota e paga in pochi click, in totale sicurezza: accettiamo carte di credito, bancomat e prepagate. Puoi inoltre effettuare pagamenti tramite bonifico per le spese superiori a 150€, con un costo di 5€ per la gestione della pratica.",
+      "cta-text": "Prenota ora",
+      "cta-link": "/prenota/",
+      "image": {
+        "path": "common",
+        "name": "payment-with-card"
+      }
+    },
+    {
+      "title": "Personale certificato, salute assicurata",
+      "description": "Lavoriamo solo con professionisti qualificati e certificati. Tutte le prestazioni sono inoltre coperte da assicurazione. E se ti servisse un rimborso da parte del tuo ente assicurativo? Presentando la fattura avrai diritto ai rimborsi previsti.",
+      "cta-text": "Prenota ora",
+      "cta-link": "/prenota/",
+      "image": {
+        "path": "common",
+        "name": "insurance"
+      }
+    },
+    {
+      "title": "Detraibilità fiscale garantita per le spese sanitarie",
+      "description": "EpiCura garantisce la detraibilità di tutte le spese sanitarie proprio come un qualsiasi poliambulatorio o centro medico. Per usufruire delle detrazioni sarà sufficiente utilizzare la fattura ricevuta dopo il pagamento.",
+      "cta-text": "Prenota ora",
+      "cta-link": "/prenota/",
+      "image": {
+        "path": "common",
+        "name": "tax-deductions"
+      }
+    }
+  ]
 }

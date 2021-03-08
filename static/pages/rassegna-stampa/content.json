@@ -3,6 +3,10 @@
     "title": "Rassegna stampa",
     "description": "Rassegna stampa EpiCura"
   },
+  "subheader":{
+    "titleBig": "Articoli e comunicati stampa",
+    "description1": "Le più importanti testate parlano di noi"
+  },
   "site-press-bkg": { "path": "common", "name": "press-bkg" },
   "site-press-contact-us-img": { "path": "common", "name": "press-manitto" },
   "site-press-contact-us-name": "Gianluca Manitto",

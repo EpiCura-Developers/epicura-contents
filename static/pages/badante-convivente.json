@@ -1,0 +1,228 @@
+{
+  "metaDescription": {
+    "title": "Badante convivente nella tua città",
+    "description": "Badanti in tutta Italia. Family tutor dedicato, sostituzione gratuita, soddisfatto o rimborsato. Piani di assistenza personalizzati, ci occupiamo noi della burocrazia."
+  },
+  "subheader": {
+    "prenotaOnlineText": "Richiedi preventivo gratuito",
+    "professionistaText": "",
+    "professionistaUrl": "",
+    "titleBig": "Badante convivente nella tua città",
+    "subtitleBig": "",
+    "description1": "Servizi di assistenza domiciliare per anziani, disabili e malati, autosufficienti e non. Badanti per assistenze diurne, assistenze notturne, badanti conviventi.",
+    "askInfoButtonText": "Richiedi consulenza"
+  },
+  "services": [
+    {
+      "name": "Badante diurna",
+      "link": "/badante-diurna/"
+    },
+    {
+      "name": "Badante notturna",
+      "link": "/badante-notturna/"
+    },
+    {
+      "name": "Badante convivente",
+      "link": "/badante-convivente/"
+    },
+    {
+      "name": "Assistenza a ore"
+    },
+    {
+      "link": "/torino/assistente-domiciliare/",
+      "name": "Torino",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/milano/assistente-domiciliare/",
+      "name": "Milano",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/roma/assistente-domiciliare/",
+      "name": "Roma",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/bologna/assistente-domiciliare/",
+      "name": "Bologna",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/verona/assistente-domiciliare/",
+      "name": "Verona",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/brescia/assistente-domiciliare/",
+      "name": "Brescia",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/catania/assistente-domiciliare/",
+      "name": "Catania",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/genova/assistente-domiciliare/",
+      "name": "Genova",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/firenze/assistente-domiciliare/",
+      "name": "Firenze",
+      "isHomeAssistance": true
+    },
+    {
+      "link": "/napoli/assistente-domiciliare/",
+      "name": "Napoli",
+      "isHomeAssistance": true
+    }
+  ],
+  "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",
+  "check_list": {
+    "title": "Specifiche contratto",
+    "list": [
+      "Lorem ipsum dolor sit.",
+      "Lorem ipsum dolor sit.",
+      "Lorem ipsum dolor sit.",
+      "Lorem ipsum dolor sit."
+    ],
+    "footer": {
+      "text": "A partire da",
+      "price": "682€",
+      "button": {
+        "text": "Richiedi consulenza",
+        "link": "https://hubspot-link-placeholder"
+      }
+    }
+  },
+  "talks_about_us": {
+    "title":"Parlano di noi",
+    "list": [
+      {
+        "image": {
+          "path": "common",
+          "name": "skytg24"
+        }
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "lastampa"
+        }
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "corrieredellasera"
+        }
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "ilsole24ore"
+        }
+      }
+    ]
+  },
+  "come_funziona": {
+    "title": "Selezioniamo solo profili certificati e con comprovata esperienza",
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "requirement"
+        },
+        "title": "VERIFICA DEI REQUISITI",
+        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "colloquio"
+        },
+        "title": "COLLOQUIO E VERIFICA REFERENZE",
+        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "verify"
+        },
+        "title": "VERIFICA PROFILO CON LA FAMIGLIA",
+        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+      }
+    ]
+  },
+  "caregiverTasks": {
+    "title": "Cosa fa la badante, in cosa consiste l’assistenza convivente.",
+    "tasks": [
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "meal"
+        },
+        "text": "Preparare e fornire supporto durante i pasti"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "cleaning"
+        },
+        "text": "Gestire le attività quotidiane e pulire la casa"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "hygiene"
+        },
+        "text": "Vestire la persona e garantire l’igiene giornaliera"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "cognitive-func"
+        },
+        "text": "Stimolare la comunicazione e l’attività motoria all’aperto"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "drugs"
+        },
+        "text": "Supportare nell’assunzione di terapie, accompagnare alle visite"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "24h-supervision"
+        },
+        "text": "Sorvegliare la persona con continuità"
+      }
+    ]
+  },
+  "familyTutor": {
+    "bkg-color": "#F5F8FF",
+    "title": "Indeciso? Parla con il nostro family tutor.",
+    "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+    "image": {
+      "path": "caregiver",
+      "name": "family-tutor"
+    },
+    "button-text": "Prenota un appuntamento",
+    "button-link": "https://hubspot-link-placeholder"
+  },
+  "discount": {
+    "title": "Prenotando un servizio di assistenza a ore o badante, ricevi subito il 10% di sconto su tutti i servizi EpiCura",
+    "services-list": [
+      "Fisioterapia",
+      "Medicina generale",
+      "Pediatria",
+      "Nutrizione",
+      "Massaggi",
+      "Psicologia e psicoterapia"
+    ]
+  }
+}

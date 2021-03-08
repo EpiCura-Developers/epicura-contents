@@ -12,8 +12,8 @@
   "card": {
     "title": "In cosa ti è utile il videoconsulto",
     "description": "Grazie al videoconsulto potrai fare domande sulla salute del tuo bambino, avere un'opinione specialistica su cure e terapie o chiedere un parere prima della visita vera e propria.",
-    "whatIsIncludedLabel": "I casi più comuni su cui il pediatra può aiutarti",
-    "bulletPoints": [
+    "subTitle": "I casi più comuni su cui il pediatra può aiutarti",
+    "list": [
       "Allattamento",
       "Vaccinazioni",
       "Disturbi digestivi e intestinali",
@@ -29,9 +29,13 @@
       "Disturbi dell'età evolutiva",
       "Disturbi post-traumatici"
     ],
-    "price": "25€",
-    "priceUnit": "/20 minuti",
-    "bookNowBtnLabel": "Prenota ora"
+    "footer": {
+      "price": "25€",
+      "priceUnit": "/20 minuti",
+      "button": {
+        "text": "Prenota ora"
+      }
+    }
   },
   "faq": {
     "title": "Domande e risposte",
