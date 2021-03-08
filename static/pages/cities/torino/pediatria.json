@@ -3,91 +3,48 @@
     "title": "Pediatra a Torino",
     "description": "Pediatri esperti a domicilio a Torino e area metropolitana. Visite pediatriche a casa, consulti telefonici e online, 7 giorni su 7, nessuna lista d'attesa"
   },
+  "subheader": {
+    "prenotaOnlineText": "Prenota ora",
+    "titleBig": "Pediatri a domicilio a Torino",
+    "description1": "EpiCura porta i migliori pediatri comodamente a domicilio, in tutta Torino e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
+    "description2": "Prenota in pochi clic e prenditi cura della salute del tuo bambino senza liste d’attesa."
+  },
   "come_funziona": {
-    "title": "Come funziona",
+    "title": "Pediatra a domicilio, come funziona",
     "cards": [
       {
         "image": {
           "path": "common",
           "name": "stetofonendoscopio"
         },
-        "title": "Scegli la soluzione",
-        "text": "EpiCura offre un’ampia scelta di servizi per permettere al genitore di trovare esattamente ciò di cui il tuo bambino ha bisogno. Se vuoi aiuto, spiegaci la situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
+        "title": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze."
       },
       {
         "image": {
           "path": "common",
-          "name": "prenota-seduta"
+          "name": "booking"
         },
-        "title": "Prenota la visita",
-        "text": "Contattaci o prenota direttamente online e troveremo il miglior specialista per il tuo bambino che lo guiderà nel suo percorso terapeutico. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
+        "title": "Prenota in pochi click",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata."
       },
       {
         "image": {
           "path": "common",
-          "name": "migliora-salute"
+          "name": "love-home"
         },
-        "title": "Migliora la sua salute",
-        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Affiancheremo il tuo bambino nel suo percorso di cura e di miglioramento della sua salute. Potrai contattarci per qualunque esigenza."
+        "title": "Ricevi l'intervento a domicilio",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
       }
     ]
   },
-  "subheader": {
-    "prenotaOnlineText": "Prenota ora",
-    "titleBig": "Pediatri a domicilio a Torino",
-    "subtitleBig": "Per aiutarti a curare al meglio la salute del tuo bambino.",
-    "description1": "Interventi tempestivi 7 giorni su 7, senza liste di attesa, anche in orari serali.",
-    "description2": "EpiCura porta le visite pediatriche ovunque il tuo bambino ne abbia bisogno, in tutta Torino e area metropolitana, in qualunque giorno e orario tu voglia.",
-    "askInfoButtonText": "Richiedi informazioni"
+  "booking-card": {
+    "title": "Visita pediatrica a domicilio a Torino",
+    "disciplineTitle": "I migliori pediatri a casa tua",
+    "text": "Hai bisogno di una visita pediatrica ma vuoi evitare scomodi spostamenti? Con EpiCura i migliori pediatri ti raggiungono comodamente a casa tua, 7 giorni su 7. Prenota in pochi clic e prenditi cura della salute del tuo bambino.",
+    "price": "Costo fisso 60€",
+    "prenotaOnlineText": "Prenota ora"
   },
-  "solutions": [
-    {
-      "title": "La ricerca della giusta assistenza",
-      "startingFromText": "A partire da",
-      "solutionsBig": [
-        {
-          "title": "Assistente a ore",
-          "text": "Assiste la persona per un numero limitato di ore settimanali. Serve nei casi in cui la famiglia necessita di assistenza solamente in alcune fasce orarie.",
-          "startingFrom": true,
-          "price": "14€",
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          }
-        },
-        {
-          "title": "Badante diurna o notturna",
-          "text": "Presta assistenza a tempo pieno alla persona durante il giorno o la notte, ma senza convivere nella casa della persona assistita.",
-          "startingFrom": false,
-          "oldPrice": "900€",
-          "price": "682€",
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          },
-          "bottomText": {
-            "text": "Prova di testo INATTIVO",
-            "highlighted": false
-          }
-        },
-        {
-          "title": "Badante convivente giorno e notte",
-          "text": "Si occupa di assistenza costante. Si trasferisce a casa della persona assistita per garantire presenza e cure a tempo pieno. L'assistenza è erogabile a partire da un minimo di 2 mesi.",
-          "startingFrom": false,
-          "oldPrice": "1300€",
-          "price": "1030€",
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          },
-          "bottomText": {
-            "text": "Prova di testo ATTIVO",
-            "highlighted": true
-          }
-        }
-      ]
-    }
-  ],
   "advantages": {
     "title": "I migliori pediatri a domicilio entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
