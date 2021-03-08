@@ -3,6 +3,12 @@
     "title": "Medico di base a Firenze",
     "description": "Medici generici a domicilio a Firenze e area metropolitana. Visite mediche, prescrizione farmaci a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
+  "subheader": {
+    "prenotaOnlineText": "Prenota ora",
+    "titleBig": "Medico a domicilio a Firenze",
+    "description1": "EpiCura porta i migliori medici comodamente a domicilio, in tutta Firenze e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
+    "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa."
+  },
   "come_funziona": {
     "title": "Come funziona",
     "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno rende la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Firenze e area metropolitana grazie a 3 semplici passaggi:",
@@ -33,62 +39,13 @@
       }
     ]
   },
-  "subheader": {
-    "prenotaOnlineText": "Prenota ora",
-    "titleBig": "Medici generici a domicilio a Firenze",
-    "subtitleBig": "Per chi ricerca un supporto affidabile, sicuro e senza attesa.",
-    "description1": "Per sentirsi sereni e sicuri 7 giorni su 7, 24 ore su 24.",
-    "description2": "EpiCura porta le visite mediche ovunque tu ne abbia bisogno, in tutta Firenze e area metropolitana, in qualunque giorno e orario tu voglia.",
-    "askInfoButtonText": "Richiedi informazioni"
+  "booking-card": {
+    "title": "Visita medica a domicilio a Firenze",
+    "disciplineTitle": "Prenditi cura di te, senza muoverti da casa",
+    "text": "Hai bisogno di una visita o un parere medico ma vuoi evitare scomodi spostamenti? Con EpiCura i migliori medici ti raggiungono comodamente a casa tua, 7 giorni su 7. Prenota in pochi clic e prenditi cura della tua salute.",
+    "price": "Costo fisso 60€",
+    "prenotaOnlineText": "Prenota ora"
   },
-  "solutions": [
-    {
-      "title": "La ricerca della giusta assistenza",
-      "startingFromText": "A partire da",
-      "solutionsBig": [
-        {
-          "title": "Assistente a ore",
-          "text": "Assiste la persona per un numero limitato di ore settimanali. Serve nei casi in cui la famiglia necessita di assistenza solamente in alcune fasce orarie.",
-          "startingFrom": true,
-          "price": "14€",
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          }
-        },
-        {
-          "title": "Badante diurna o notturna",
-          "text": "Presta assistenza a tempo pieno alla persona durante il giorno o la notte, ma senza convivere nella casa della persona assistita.",
-          "startingFrom": false,
-          "oldPrice": "900€",
-          "price": "682€",
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          },
-          "bottomText": {
-            "text": "Prova di testo INATTIVO",
-            "highlighted": false
-          }
-        },
-        {
-          "title": "Badante convivente giorno e notte",
-          "text": "Si occupa di assistenza costante. Si trasferisce a casa della persona assistita per garantire presenza e cure a tempo pieno. L'assistenza è erogabile a partire da un minimo di 2 mesi.",
-          "startingFrom": false,
-          "oldPrice": "1300€",
-          "price": "1030€",
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          },
-          "bottomText": {
-            "text": "Prova di testo ATTIVO",
-            "highlighted": true
-          }
-        }
-      ]
-    }
-  ],
   "advantages": {
     "title": "I migliori medici a domicilio entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
