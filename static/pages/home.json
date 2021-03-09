@@ -4,14 +4,13 @@
     "description": "Medici, infermieri, veterinari, badanti e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7."
   },
   "site-relation-search-header": {
-    "site-search-header-title": "Vicini alla tua salute, senza liste d'attesa.",
-    "site-search-header-subtitle": "Prenota online medici, assistenti domiciliari, infermieri e terapisti,  a domicilio, in studio o in videoconsulto, 7 giorni su 7.",
+    "title": "Visite a domicilio, videoconsulti e assistenza domiciliare",
+    "subtitle": "Prenota in pochi clic servizi sanitari e socio-assistenziali, 7 giorni su 7, senza liste d'attesa. ",
+    "search-text": "Scopri i nostri servizi a domicilio",
     "site-search-header-img": {
       "path": "common",
       "name": "header_home"
     },
-    "site-search-header-input-title": "Come possiamo aiutarti?",
-    "site-search-header-services-title": "Scopri i nostri servizi",
     "site-search-header-relation-services": [
       {
         "section-title": "Assistenza domiciliare",
