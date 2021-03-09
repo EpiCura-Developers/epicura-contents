@@ -20,7 +20,7 @@
         {
           "name": "Nicolò Giordano",
           "discipline": "fisioterapia",
-          "disciplina": "Fisioterapista",
+          "discipline_label": "Fisioterapista",
           "prestazioni": [],
           "image": {
             "path": "specialists",
@@ -30,7 +30,7 @@
         {
           "name": "Marianna Olivero",
           "discipline": "fisioterapia",
-          "disciplina": "Fisioterapista",
+          "discipline_label": "Fisioterapista",
           "prestazioni": [],
           "image": {
             "path": "common",
@@ -40,7 +40,7 @@
         {
           "name": "Camilla Calosso",
           "discipline": "fisioterapia",
-          "disciplina": "Fisioterapista",
+          "discipline_label": "Fisioterapista",
           "prestazioni": [],
           "image": {
             "path": "common",
@@ -50,7 +50,7 @@
         {
           "name": "Eugenio Rossi",
           "discipline": "fisioterapia",
-          "disciplina": "Fisioterapista",
+          "discipline_label": "Fisioterapista",
           "prestazioni": [],
           "image": {
             "path": "common",
@@ -60,7 +60,7 @@
         {
             "name": "Stefania Tavaglione",
             "discipline": "osteopatia",
-            "disciplina": "Osteopata",
+            "discipline_label": "Osteopata",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -70,7 +70,7 @@
           {
             "name": "Cosimo Pacini",
             "discipline": "osteopatia",
-            "disciplina": "Osteopata",
+            "discipline_label": "Osteopata",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -80,7 +80,7 @@
           {
             "name": "Federica Costamagna",
             "discipline": "osteopatia",
-            "disciplina": "Osteopata",
+            "discipline_label": "Osteopata",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -90,7 +90,7 @@
           {
             "name": "Alessandro Caroleo",
             "discipline": "osteopatia",
-            "disciplina": "Osteopata",
+            "discipline_label": "Osteopata",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -100,7 +100,7 @@
           {
             "name": "Filippo Gasparotti",
             "discipline": "massaggi",
-            "disciplina": "Massoterapista",
+            "discipline_label": "Massoterapista",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -110,7 +110,7 @@
           {
             "name": "Tiziana Cerutti",
             "discipline": "massaggi",
-            "disciplina": "Massoterapista",
+            "discipline_label": "Massoterapista",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -120,7 +120,7 @@
           {
             "name": "Stefano Serraino",
             "discipline": "massaggi",
-            "disciplina": "Massoterapista",
+            "discipline_label": "Massoterapista",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -130,7 +130,7 @@
           {
             "name": "Valentina Perrucca",
             "discipline": "massaggi",
-            "disciplina": "Massoterapista",
+            "discipline_label": "Massoterapista",
             "prestazioni": [],
             "image": {
                 "path": "specialists",
@@ -140,7 +140,7 @@
           {
             "name": "Maria Forte",
             "discipline": "psicologo",
-            "disciplina": "Psicologa",
+            "discipline_label": "Psicologa",
             "prestazioni": [
               "Riabilitazione post traumatica",
               "Supporto psicologico bambini, adolescenti, adulti"
@@ -153,7 +153,7 @@
           {
             "name": "Greta Casiraghi",
             "discipline": "psicologo",
-            "disciplina": "Psicologa",
+            "discipline_label": "Psicologa",
             "prestazioni": [
               "Supporto psicologico vittime di maltrattamenti e dipendenza affettiva",
               "Training autogeno",
@@ -167,7 +167,7 @@
           {
             "name": "Giuditta Seassaro",
             "discipline": "psicologo",
-            "disciplina": "Psicologa",
+            "discipline_label": "Psicologa",
             "prestazioni": [
               "Psicologia età evolutiva",
               "Sostegno alla genitorialità",
@@ -181,7 +181,7 @@
           {
             "name": "Anna De Micco",
             "discipline": "psicologo",
-            "disciplina": "Psicologa",
+            "discipline_label": "Psicologa",
             "prestazioni": ["Supporto psicologico adulti", "Video consulti e supporto a distanza"],
             "image": {
                 "path": "common",
@@ -191,7 +191,7 @@
           {
             "name": "Alessandro Longo",
             "discipline": "psicoterapeuta",
-            "disciplina": "Psicoterapeuta",
+            "discipline_label": "Psicoterapeuta",
             "prestazioni": ["Psicoterapia cognitiva ad orientamento costruttivista ed evolutivo"],
             "image": {
                 "path": "common",
@@ -201,7 +201,7 @@
           {
             "name": "Giovanni Stornaiuolo",
             "discipline": "psicoterapeuta",
-            "disciplina": "Psicoterapeuta",
+            "discipline_label": "Psicoterapeuta",
             "prestazioni": ["Psicoterapia psicoanalitico, individuale e di gruppo"],
             "image": {
                 "path": "common",
@@ -211,7 +211,7 @@
           {
             "name": "Francesca Monoli",
             "discipline": "psicoterapeuta",
-            "disciplina": "Psicoterapeuta",
+            "discipline_label": "Psicoterapeuta",
             "prestazioni": ["Psicoterapia psicodinamica adleriana"],
             "image": {
                 "path": "common",
@@ -221,7 +221,7 @@
           {
             "name": "Chiara Bergese",
             "discipline": "psicoterapeuta",
-            "disciplina": "Psicoterapeuta",
+            "discipline_label": "Psicoterapeuta",
             "prestazioni": ["Psicoterapia psicoanalitica"],
             "image": {
                 "path": "common",
@@ -231,7 +231,7 @@
           {
             "name": "Martina Nanotti",
             "discipline": "veterinaria",
-            "disciplina": "Veterinario",
+            "discipline_label": "Veterinario",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -241,7 +241,7 @@
           {
             "name": "Denise Albanese",
             "discipline": "veterinaria",
-            "disciplina": "Veterinario",
+            "discipline_label": "Veterinario",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -251,7 +251,7 @@
           {
             "name": "Manuela Grippa",
             "discipline": "veterinaria",
-            "disciplina": "Veterinario",
+            "discipline_label": "Veterinario",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -261,7 +261,7 @@
           {
             "name": "Angelica Pitrola",
             "discipline": "veterinaria",
-            "disciplina": "Veterinario",
+            "discipline_label": "Veterinario",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -271,7 +271,7 @@
           {
             "name": "Marianna Mastroianni",
             "discipline": "nutrizione",
-            "disciplina": "Nutrizionista",
+            "discipline_label": "Nutrizionista",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -281,7 +281,7 @@
           {
             "name": "Anna Virano",
             "discipline": "nutrizione",
-            "disciplina": "Nutrizionista",
+            "discipline_label": "Nutrizionista",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -291,7 +291,7 @@
           {
             "name": "Valentina Casalone",
             "discipline": "nutrizione",
-            "disciplina": "Nutrizionista",
+            "discipline_label": "Nutrizionista",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -301,7 +301,7 @@
           {
             "name": "Veronica Adele Cordoni",
             "discipline": "nutrizione",
-            "disciplina": "Nutrizionista",
+            "discipline_label": "Nutrizionista",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -311,7 +311,7 @@
           {
             "name": "Simona Cardano",
             "discipline": "infermieristica",
-            "disciplina": "Infermiera",
+            "discipline_label": "Infermiera",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -321,7 +321,7 @@
           {
             "name": "Davide Sileo",
             "discipline": "infermieristica",
-            "disciplina": "Infermiere",
+            "discipline_label": "Infermiere",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -331,7 +331,7 @@
           {
             "name": "Elena Mancardo",
             "discipline": "infermieristica",
-            "disciplina": "Infermiera",
+            "discipline_label": "Infermiera",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -341,7 +341,7 @@
           {
             "name": "Cristian Valeri",
             "discipline": "infermieristica",
-            "disciplina": "Infermiere",
+            "discipline_label": "Infermiere",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -351,7 +351,7 @@
           {
             "name": "Daniele Bissacco",
             "discipline": "medicina-generale",
-            "disciplina": "Medico Generico",
+            "discipline_label": "Medico Generico",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -361,7 +361,7 @@
           {
             "name": "Iole Gaudino",
             "discipline": "medicina-generale",
-            "disciplina": "Medico Generico",
+            "discipline_label": "Medico Generico",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -371,7 +371,7 @@
           {
             "name": "Ali Saad",
             "discipline": "medicina-generale",
-            "disciplina": "Medico Generico",
+            "discipline_label": "Medico Generico",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -381,7 +381,7 @@
           {
             "name": "Giulia Serra",
             "discipline": "medicina-generale",
-            "disciplina": "Medico Generico",
+            "discipline_label": "Medico Generico",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -391,7 +391,7 @@
           {
             "name": "PLACEHOLDER",
             "discipline": "pediatria",
-            "disciplina": "Pediatra",
+            "discipline_label": "Pediatra",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -401,7 +401,7 @@
           {
             "name": "PLACEHOLDER",
             "discipline": "pediatria",
-            "disciplina": "Pediatra",
+            "discipline_label": "Pediatra",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -411,7 +411,7 @@
           {
             "name": "PLACEHOLDER",
             "discipline": "pediatria",
-            "disciplina": "Pediatra",
+            "discipline_label": "Pediatra",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -421,7 +421,7 @@
           {
             "name": "PLACEHOLDER",
             "discipline": "pediatria",
-            "disciplina": "Pediatra",
+            "discipline_label": "Pediatra",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -431,7 +431,7 @@
           {
             "name": "PLACEHOLDER",
             "discipline": "assistente-domiciliare",
-            "disciplina": "Assistente domiciliare",
+            "discipline_label": "Assistente domiciliare",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -441,7 +441,7 @@
           {
             "name": "PLACEHOLDER",
             "discipline": "assistente-domiciliare",
-            "disciplina": "Assistente domiciliare",
+            "discipline_label": "Assistente domiciliare",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -451,7 +451,7 @@
           {
             "name": "PLACEHOLDER",
             "discipline": "assistente-domiciliare",
-            "disciplina": "Assistente domiciliare",
+            "discipline_label": "Assistente domiciliare",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -461,7 +461,7 @@
           {
             "name": "PLACEHOLDER",
             "discipline": "assistente-domiciliare",
-            "disciplina": "Assistente domiciliare",
+            "discipline_label": "Assistente domiciliare",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -471,7 +471,7 @@
           {
             "name": "PLACEHOLDER",
             "discipline": "badante",
-            "disciplina": "Badante",
+            "discipline_label": "Badante",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -481,7 +481,7 @@
           {
             "name": "PLACEHOLDER",
             "discipline": "badante",
-            "disciplina": "Badante",
+            "discipline_label": "Badante",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -491,7 +491,7 @@
           {
             "name": "PLACEHOLDER",
             "discipline": "badante",
-            "disciplina": "Badante",
+            "discipline_label": "Badante",
             "prestazioni": [],
             "image": {
                 "path": "common",
@@ -501,7 +501,7 @@
           {
             "name": "PLACEHOLDER",
             "discipline": "badante",
-            "disciplina": "Badante",
+            "discipline_label": "Badante",
             "prestazioni": [],
             "image": {
                 "path": "common",
