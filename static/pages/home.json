@@ -212,13 +212,13 @@
             "option-is-new": false
           },
           {
-            "option-link": "/psicologia-psicoterapia-online/",
+            "option-link": "/psicologo-psicoterapeuta-online/",
             "option-label": "Psicologo",
             "option-style-object-like": "",
             "option-is-new": false
           },
           {
-            "option-link": "/psicologia-psicoterapia-online/",
+            "option-link": "/psicologo-psicoterapeuta-online/",
             "option-label": "Psicoterapeuta",
             "option-style-object-like": "",
             "option-is-new": false
@@ -293,7 +293,7 @@
       "site-discipline-section-list": [
         {
           "title": "Inizia la terapia online",
-          "link": "/psicologia-psicoterapia-online/",
+          "link": "/psicologo-psicoterapeuta-online/",
           "image": {
             "path": "psychology",
             "name": "psychology"
