@@ -4,16 +4,15 @@
     "description": "Infermieri a domicilio a Napoli e area metropolitana. Inieizioni, medicazioni, clistere a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
   "come_funziona": {
-    "title": "Come funziona",
-    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno rende la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Napoli e area metropolitana grazie a 3 semplici passaggi:",
+    "title": "Infermiere a domicilio, come funziona",
     "cards": [
       {
         "image": {
           "path": "common",
           "name": "stetofonendoscopio"
         },
-        "title": "Scopri le nostre soluzioni",
-        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze."
+        "title": "Scegli l'intervento",
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli l'intervento di cui hai bisogno, noi troveremo il miglior professionista per le tue esigenze."
       },
       {
         "image": {
@@ -21,131 +20,96 @@
           "name": "booking"
         },
         "title": "Prenota in pochi click",
-        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata."
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
       },
       {
         "image": {
           "path": "common",
           "name": "love-home"
         },
-        "title": "Ricevi l'intervento a domicilio",
+        "title": "Ricevi l'infermiere a domicilio",
         "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
       }
     ]
   },
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
-    "titleBig": "Infermieri a domicilio a Napoli",
-    "subtitleBig": "Per chi ricerca un supporto affidabile, sicuro e tempestivo",
-    "description1": "Per sentirsi sereni e sicuri 7 giorni su 7, anche in orari serali.",
-    "description2": "EpiCura porta gli interventi infermieristici ovunque tu ne abbia bisogno, in tutta Napoli e area metropolitana, in qualunque giorno e orario tu voglia.",
-    "askInfoButtonText": "Richiedi informazioni"
+    "titleBig": "Infermiere a domicilio a Napoli",
+    "subtitleBig": "",
+    "description1": "EpiCura porta i migliori infermieri comodamente a domicilio, in tutta Napoli e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
+    "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa.",
+    "askInfoButtonText": "Prenota ora"
   },
   "trattamenti": {
-    "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
+    "sectionTitle": "I nostri infermieri a domicilio si occupano di",
     "list": [
       {
-        "title": "Fisioterapia per anziani",
-        "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria"
+        "title": "Inizione intramuscolare o sottocutanea",
+        "description": ""
       },
       {
-        "title": "Fisioterapia pediatrica",
-        "description": "torcicollo, plagiocefalia neonatale, piede piatto valgo, scoliosi, dorso curvo, fratture."
+        "title": "Rimozione punti di sutura e metallici",
+        "description": ""
       },
       {
-        "title": "Fisioterapia in gravidanza",
-        "description": "gonfiore degli arti, mal di schiena, lombalgia, scialtalgia, disturbi del pavimento pelvico"
+        "title": "Rilevazione parametri vitali",
+        "description": ""
       },
       {
-        "title": "Riabilitazione respiratoria",
-        "description": "ginnastica respiratoria, fisioterapia polmonare"
+        "title": "Terapia endovenosa",
+        "description": ""
       },
       {
-        "title": "Riabilitazione motoria",
-        "description": "alluce valgo, protesi anca, frattura femore, fisioterapia per ginocchio, protesi ginocchio, rafforzamento muscolare."
+        "title": "Clistere",
+        "description": ""
       },
       {
-        "title": "Linfodrenaggio manuale",
-        "description": "cellulite, edemi, ritenzione idrica, vene varicose"
+        "title": "Cateterismo vescicale",
+        "description": ""
       },
       {
-        "title": "Chinesiterapia",
-        "description": "riacquisizione delle funzionalità motorie"
+        "title": "Assistenza per stomie",
+        "description": ""
       },
       {
-        "title": "Disturbi patologici",
-        "description": "artrosi, artrite reumatoide, distrofia muscolare, fibromialgia, ictus, sclerosi multipla, spondilite anchilosante, tremore essenziale"
+        "title": "Medicazione semplice",
+        "description": ""
       },
       {
-        "title": "Dolore e infiammazione",
-        "description": "acufene, cervicale, emicrania, ernie, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite"
+        "title": "Medicazione complessa",
+        "description": ""
+      },
+      {
+        "title": "Cannula tracheostomale (pulizia e manutenzione)",
+        "description": ""
       }
     ]
   },
-  "solutions": [
-    {
-      "title": "La ricerca della giusta assistenza",
-      "startingFromText": "A partire da",
-      "solutionsBig": [
-        {
-          "title": "Assistente a ore",
-          "text": "Assiste la persona per un numero limitato di ore settimanali. Serve nei casi in cui la famiglia necessita di assistenza solamente in alcune fasce orarie.",
-          "startingFrom": true,
-          "price": "14€",
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          }
-        },
-        {
-          "title": "Badante diurna o notturna",
-          "text": "Presta assistenza a tempo pieno alla persona durante il giorno o la notte, ma senza convivere nella casa della persona assistita.",
-          "startingFrom": false,
-          "oldPrice": "900€",
-          "price": "682€",
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          },
-          "bottomText": {
-            "text": "Prova di testo INATTIVO",
-            "highlighted": false
-          }
-        },
-        {
-          "title": "Badante convivente giorno e notte",
-          "text": "Si occupa di assistenza costante. Si trasferisce a casa della persona assistita per garantire presenza e cure a tempo pieno. L'assistenza è erogabile a partire da un minimo di 2 mesi.",
-          "startingFrom": false,
-          "oldPrice": "1300€",
-          "price": "1030€",
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          },
-          "bottomText": {
-            "text": "Prova di testo ATTIVO",
-            "highlighted": true
-          }
-        }
-      ]
-    }
-  ],
   "advantages": {
     "title": "I migliori infermieri a domicilio entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "list": [
       {
-        "image": { "path": "common", "name": "professionist" },
+        "image": {
+          "path": "common",
+          "name": "professionist"
+        },
         "title": "Solo professionisti qualificati",
         "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
       },
       {
-        "image": { "path": "common", "name": "certificate" },
+        "image": {
+          "path": "common",
+          "name": "certificate"
+        },
         "title": "La tua soddisfazione è la nostra priorità",
         "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
       },
       {
-        "image": { "path": "common", "name": "operator" },
+        "image": {
+          "path": "common",
+          "name": "operator"
+        },
         "title": "Siamo sempre al tuo fianco",
         "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
       }
