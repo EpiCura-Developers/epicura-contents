@@ -4,8 +4,7 @@
     "description": "Fisioterapisti esperti a domicilio a Genova e area metropolitana. Riabilitazione a domicilio, linfodrenaggio, sedute fisioterapiche a casa, 7 giorni su 7, senza liste d'attesa."
   },
   "come_funziona": {
-    "title": "Come funziona",
-    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno rende la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Genova e area metropolitana grazie a 3 semplici passaggi:",
+    "title": "Fisioterapia a domicilio, come funziona",
     "cards": [
       {
         "image": {
@@ -35,7 +34,7 @@
   },
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
-    "titleBig": "Fisioterapisti a domicilio a Genova",
+    "titleBig": "Fisioterapisti a domicilio <br/> a Genova",
     "description1": "EpiCura porta la fisioterapia comodamente a domicilio, in tutta Genova e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
     "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa.",
     "askInfoButtonText": "Richiedi informazioni"
@@ -151,15 +150,15 @@
     ]
   },
   "hint-card": {
-    "title": "Hai un dubbio? Chiedi al fisioterapista",
+    "title": "Hai un dubbio? <br/> Chiedi al fisioterapista",
     "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
-    "price": "Costo fisso 25€",
+    "price": "Videoconsulto specialistico 25€",
     "bkg-color": "#F5F8FF",
     "image": {
       "path": "videoconsultation",
       "name": "videoconsultation-banner"
     },
-    "button-text": "Scopri il servizio",
+    "button-text": "Scopri di più",
     "button-link": "/fisioterapista-videoconsulto/"
   }
 }
