@@ -116,10 +116,10 @@
     }
   ],
   "booking-card": {
-    "title": "Una seduta di massaggio a domicilio a Torino",
+    "title": "Seduta di massaggio a domicilio a Torino",
     "disciplineTitle": "I migliori professionisti a casa tua",
-    "text": "Rimuovi stress e tensioni e ritrova l'armonia del tuo corpo senza muoverti da casa. Con EpiCura i migliori massoterapisti arrivano comodamente a domicilio, 7 giorni su 7. Prenota in pochi clic e prenditi cura del tuo benessere.",
-    "price": "Costo fisso 60€",
+    "text": "Rimuovi stress e tensioni e ritrova l'armonia del tuo corpo senza muoverti da casa. Con EpiCura i migliori massoterapisti arrivano comodamente a domicilio, 7 giorni su 7. <br/> Prenota in pochi clic e prenditi cura del tuo benessere.",
+    "price": "Seduta singola 60€",
     "prenotaOnlineText": "Prenota ora"
   },
   "advantages": {
