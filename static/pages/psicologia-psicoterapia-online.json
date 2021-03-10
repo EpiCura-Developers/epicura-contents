@@ -14,13 +14,13 @@
         {
           "image": {
             "path": "common",
-            "name": "stetofonendoscopio"
+            "name": "videoseduta"
           },
-          "title": "Scopri le nostre soluzioni",
-          "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze.",
+          "title": "Inizia dal videoconsulto a 25€",
+          "text": "Inizia la terapia con un videoconsulto a soli 25 Euro: potrai confrontarti con un professionista scelto apposta per te, che ti guiderà nei primi passi del percorso terapeutico comodamente da pc, smartphone o tablet.",
           "button": {
             "link": "https://hubspot-link-placeholder",
-            "text": "Prenota ora"
+            "text": "Prenota il videoconsulto"
           }
         },
         {
@@ -28,23 +28,23 @@
             "path": "common",
             "name": "booking"
           },
-          "title": "Prenota in pochi click",
-          "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata.",
+          "title": "Scegli il percorso più adatto",
+          "text": "Dopo aver effettuato il primo videoconsulto, potrai decidere come continuare il percorso terapeutico: parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
           "button": {
             "link": "https://hubspot-link-placeholder",
-            "text": "Prenota ora"
+            "text": "Prenota il videoconsulto"
           }
         },
         {
           "image": {
             "path": "common",
-            "name": "love-home"
+            "name": "follow-up"
           },
-          "title": "Ricevi l'intervento a domicilio",
-          "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
+          "title": "Fai terapia comodamente online",
+          "text": "Con EpiCura potrai accedere alle videosedute 7 giorni su 7, dove e quando vuoi: collegati da smartphone, pc o tablet e ricevi il supporto dei migliori psicologi e psicoterapeuti in totale comodità e sicurezza.",
           "button": {
             "link": "https://hubspot-link-placeholder",
-            "text": "Prenota ora"
+            "text": "Prenota il videoconsulto"
           }
         }
       ]
@@ -53,35 +53,43 @@
       "sectionTitle": "I nostri psicologi online si occupano di ",
       "list": [
         {
-          "title": "Ascolto e sostegno psicologico",
-          "description": "Il sostegno dello psicologo, tramite il rapporto di ascolto attivo tra terapeuta e la persona, aiuta a risolvere situazioni di disagio legate a circostanze come abbandoni, lutti, crescita, problemi lavorativi ecc.."
+          "title": "Ansia",
+          "description": "Paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
         },
         {
-          "title": "Psicoanalisi",
-          "description": "Percorsi di Psicoanalisi con professionisti esperti per trattare disturbi d'ansia, isteria, nervosismi eccessivi o ossessivi, fobie, distorsioni del carattere e anomalie sessuali."
+          "title": "Sofferenza psicologica",
+          "description": "Stress, mobbing, burnout"
         },
         {
-          "title": "Psicoterapia sistemica-familiare",
-          "description": "Lo psicoterapeuta con questa specializzazione analizza i sintomi non come individuali, ma come manifestazione di problemi all’interno dei contesti in cui la persona interagisce, in primis la famiglia. Per questo è particolarmente adatta a terapie di coppia o terapie familiari, oltre che individuali."
+          "title": "Dipendenze",
+          "description": "Affettiva, alcol, droga, gioco d’azzardo (ludopatia), social network, videogiochi, sesso"
         },
         {
-          "title": "Psicoterapia psicodinamica",
-          "description": "Percorsi di Psicoterapia Psicodinamica con professionisti esperti per migliorare le condizioni psichiche del paziente e al tempo stesso sviluppare le proprie risorse personali."
+          "title": "Depressione",
+          "description": "Lutto, divorzio, fine relazione, patologie, malati oncologici, malattie croniche"
         },
         {
-          "title": "Video-consulto psicoterapeutico",
-          "description": "Le sedute online, è ormai accertato, sono efficaci quanto le sedute in presenza. In periodi particolari di ritiro sociale, di lontananza territoriale o di continui imprevisti lavorativi, si può decidere di intraprendere un percorso con uno psicologo o psicoterapeuta direttamente online."
+          "title": "Disturbo della personalità",
+          "description": "Disturbo ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
         },
         {
-          "title": "Psicoterapia cognitiva-costruttivista",
-          "description": "Percorso di Psicoterapia per portare alla consapevolezza del paziente le credenze, convinzioni e abitudini che lo limitano nella vita quotidiana. Rimuovi i blocchi emotivi e psicologici grazie all’aiuto di professionisti esperti."
+          "title": "Disturbi alimentari",
+          "description": "Anoressia, bulimia, fame compulsiva (binge-eating)"
+        },
+        {
+          "title": "Terapia di coppia",
+          "description": "Coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, frustrazione"
+        },
+        {
+          "title": "Terapia familiare",
+          "description": "Conflittualità familiari, disagi dell’età adolescenziale e pre-adolescenziale"
         }
       ]
     },
     "solutions": [
       {
         "title": "Continua la terapia con un percorso su misura",
-        "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato? Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
+        "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato? <br/> Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
         "startingFromText": "A partire da",
         "solutionsBig": [
           {
@@ -138,7 +146,7 @@
         {
           "image": { "path": "psychology", "name": "tram" },
           "title": "Evita scomodi spostamenti",
-          "description": "EpiCura ti affianca un tutor per seguirti passo dopo passo nel percorso terapeutico. Avrai una guida sempre al tuo fianco per ogni esigenza."
+          "description": "EpiCura ti permette di accedere alle videosedute in modo semplice e rapido, ovunque tu sia, senza necessità di recarti nello studio del professionista."
         },
         {
           "image": { "path": "common", "name": "operator" },
