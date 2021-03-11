@@ -40,9 +40,10 @@
     ]
   },
   "booking-card": {
+    "code": "generalMedicinePhysical_",
     "title": "Visita medica a domicilio a Napoli",
     "disciplineTitle": "Prenditi cura di te, senza muoverti da casa",
-    "text": "Hai bisogno di una visita o un parere medico ma vuoi evitare scomodi spostamenti? Con EpiCura i migliori medici ti raggiungono comodamente a casa tua, 7 giorni su 7. Prenota in pochi clic e prenditi cura della tua salute.",
+    "text": "Hai bisogno di una visita o un parere medico ma vuoi evitare scomodi spostamenti?<br />Con EpiCura i migliori medici ti raggiungono comodamente a casa tua, 7 giorni su 7. Prenota in pochi clic e prenditi cura della tua salute.",
     "price": "Costo fisso 60€",
     "prenotaOnlineText": "Prenota ora"
   },
