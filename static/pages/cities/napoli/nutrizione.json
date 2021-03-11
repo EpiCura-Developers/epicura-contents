@@ -6,12 +6,12 @@
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
     "titleBig": "Nutrizionisti a domicilio a Napoli",
-    "description1": "EpiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Napoli e area metropolitana, 7 giorni su 7, quando e dove vuoi. ",
+    "description1": "EpiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Napoli e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
     "description2": "Prenota in pochi clic e prenditi cura del tuo corpo e del tuo benessere in modo semplice e veloce."
   },
   "come_funziona": {
-    "title": "Come funziona",
-    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Napoli e area metropolitana grazie a 3 semplici passaggi:",
+    "title": "Nutrizionista a domicilio, come funziona",
+    "text": "",
     "cards": [
       {
         "image": {
@@ -19,15 +19,15 @@
           "name": "stetofonendoscopio"
         },
         "title": "Scopri le nostre soluzioni",
-        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze."
+        "text": "Abbiamo pensato a diversi percorsi nutrizionali per permetterti di scegliere in base ai tuoi obiettivi e necessità. Scegli il percorso nutrizionale più adatto, noi troveremo il miglior professionista per le tue esigenze."
       },
       {
         "image": {
           "path": "common",
           "name": "booking"
         },
-        "title": "Prenota la seduta",
-        "text": "Contattaci o prenota direttamente online e troveremo il miglior specialista per il tuo caso che ti guiderà nel tuo percorso terapeutico o nutrizionale. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
+        "title": "Prenota in pochi clic",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
       },
       {
         "image": {
@@ -40,43 +40,39 @@
     ]
   },
   "trattamenti": {
-    "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
+    "sectionTitle": "I nostri nutrizionisti a domicilio si occupano di",
     "list": [
       {
-        "title": "Valutazione apporto alimentare",
-        "description": "Visita nutrizionistica per il calcolo e la valutazione dell’apporto alimentare ideale per raggiungere lo stato di forma e di salute. Migliora la qualità della tua alimentazione grazie ai consigli dei nostri esperti nutrizionisti."
+        "title": "Perdita e aumento di peso",
+        "description": "sovrappeso, obesità, sottopeso"
       },
       {
-        "title": "Monitoraggio dei valori nutrizionali",
-        "description": "Percorso nutrizionistico per il monitoraggio dei valori nutrizionali e per il controllo costante del cibo assunto. Migliora la qualità della tua alimentazione grazie ai consigli dei nostri esperti nutrizionisti."
+        "title": "Nutrizione al femminile",
+        "description": "gravidanza, menopausa, ovaio policistico, endometriosi, amenorrea"
       },
       {
-        "title": "Misurazione adipometrica",
-        "description": "Visita nutrizionistica per la misurazione della composizione corporea e l’analisi dello stato di forma. Comprendi a pieno la tua situazione e migliora il tuo stato di forma grazie ai consigli dei nostri esperti nutrizionisti."
+        "title": "Nutrizione pediatrica",
+        "description": "sovrappeso, obesità, inappetenza, diabete, allergie e intolleranze alimentari, anemia"
       },
       {
-        "title": "Misurazione con plicometro",
-        "description": "Visita nutrizionistica per la misurazione della massa grassa con il plicometro: per niente invasivo e  con ottima precisione. Comprendi a pieno la tua situazione e migliora il tuo stato di forma grazie ai consigli dei nostri esperti nutrizionisti."
+        "title": "Nutrizione per anziani",
+        "description": "patologie cardiache, diabete, inappetenza, osteoporosi, demenza senile"
       },
       {
-        "title": "Educazione alimentare",
-        "description": "Consulenza telefonica per la valutazione del corretto apporto energetico dei cibi. Non vi è la strutturazione della dieta, ma una consulenza per rendere noti gli apporti nutrizionali generali degli alimenti e migliorare il proprio stato di salute e la qualità della vita. "
+        "title": "Disturbi alimentari",
+        "description": "anoressia, bulimia, binge eating (fame compulsiva)"
       },
       {
-        "title": "Valutazione BMI",
-        "description": "Visita nutrizionistica per la misurazione e valutazione del BMI (indice di massa corporea) e dello stato di forma. Comprendi a pieno la tua situazione e migliora il tuo stato di forma grazie ai consigli dei nostri esperti nutrizionisti."
+        "title": "Nutrizione per sportivi",
+        "description": "aumento della massa muscolare, alimentazione per atleti"
       },
       {
-        "title": "Elaborazione dieta",
-        "description": "Visita nutrizionistica per l’elaborazione della dieta costruita su misura per il singolo caso. Ideale per avere una corretta alimentazione in gravidanza, durante malattie specifiche, per mantenere lo stato di forma o per percorsi di dimagrimento."
+        "title": "Nutrizione per patologie",
+        "description": "tumore, ipotiroidismo, ipertiroidismo, diabete, colon irritabile, diverticolite, gastrite, insufficienza renale, sclerosi multipla"
       },
       {
-        "title": "Misurazione bioimpedenziometrica",
-        "description": "Visita nutrizionistica per la misurazione della massa grassa tramite l’impedenziometro: ottima precisione e immediatezza dell’analisi. Comprendi a pieno la tua situazione e migliora il tuo stato di forma grazie ai consigli dei nostri esperti nutrizionisti."
-      },
-      {
-        "title": "Consulto alimentare",
-        "description": "Visita nutrizionistica per un supporto sull’alimentazione da nutrizionisti con anni di esperienza. Migliora il tuo stato di forma e la qualità della tua vita grazie ai consigli dei nostri esperti."
+        "title": "Allergie e intolleranze",
+        "description": "celiachia, allergie alimentari, allergia al nichel"
       }
     ]
   },
@@ -146,26 +142,35 @@
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "list": [
       {
-        "image": { "path": "common", "name": "professionist" },
+        "image": {
+          "path": "common",
+          "name": "professionist"
+        },
         "title": "Solo professionisti qualificati",
         "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
       },
       {
-        "image": { "path": "common", "name": "certificate" },
+        "image": {
+          "path": "common",
+          "name": "certificate"
+        },
         "title": "La tua soddisfazione è la nostra priorità",
         "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
       },
       {
-        "image": { "path": "common", "name": "operator" },
+        "image": {
+          "path": "common",
+          "name": "operator"
+        },
         "title": "Siamo sempre al tuo fianco",
         "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
       }
     ]
   },
   "hint-card": {
-    "title": "Hai un dubbio? Chiedi al nutrizionista",
+    "title": "Hai un dubbio? <br/> Chiedi al nutrizionista",
     "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
-    "price": "Costo fisso 25€",
+    "price": "Videoconsulto specialistico 25€",
     "bkg-color": "#F5F8FF",
     "image": {
       "path": "videoconsultation",

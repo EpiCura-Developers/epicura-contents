@@ -11,15 +11,14 @@
   },
   "come_funziona": {
     "title": "Come funziona",
-    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno rende la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Napoli e area metropolitana grazie a 3 semplici passaggi:",
     "cards": [
       {
         "image": {
           "path": "common",
-          "name": "stetofonendoscopio"
+          "name": "calendar-blu"
         },
-        "title": "Scopri le nostre soluzioni",
-        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze."
+        "title": "Scegli giorno e orario",
+        "text": "EpiCura ti permettere di adattare il servizio in  base alle tue esigenze. Sei tu a scegliere dove e quando ricevere l'intervento: i nostri professionisti ti raggiungeranno comodamente nel giorno e nell'ora indicati."
       },
       {
         "image": {
@@ -27,7 +26,7 @@
           "name": "booking"
         },
         "title": "Prenota in pochi click",
-        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata."
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
       },
       {
         "image": {

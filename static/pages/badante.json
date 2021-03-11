@@ -7,9 +7,9 @@
     "prenotaOnlineText": "Richiedi preventivo gratuito",
     "professionistaText": "",
     "professionistaUrl": "",
-    "titleBig": "Servizio ricerca badanti e assistenti domiciliari",
+    "titleBig": "Badanti e assistenti a ore per anziani, malati e disabili",
     "subtitleBig": "",
-    "description1": "Servizi di assistenza domiciliare per anziani, disabili e malati, autosufficienti e non. Badanti per assistenze diurne, assistenze notturne, badanti conviventi.",
+    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio di anziani, malati e disabili, in ospedale o in casa di riposo con badanti qualificate e referenziate. </ br>Scopri le nostre soluzioni di assistenza, senza costi di attivazione.",
     "askInfoButtonText": "Richiedi consulenza"
   },
   "services": [
@@ -129,10 +129,10 @@
       {
         "image": {
           "path": "common",
-          "name": "stetofonendoscopio"
+          "name": "family-icon"
         },
-        "title": "RICEVI UNA CONSULENZA GRATUITA",
-        "text": "Un family tutor dedicato individuerà le necessità della famiglia e dell’assistito per costruire un piano assistenziale su misura.",
+        "title": "ANALIZZIAMO LE ESIGENZE FAMILIARI",
+        "text": "Attraverso una consulenza dedicata, i nostri Family Tutor individueranno le necessità della tua famiglia, costruendo un piano assistenziale su misura.",
         "button": {
           "text": "Richiedi preventivo gratuito",
           "link": "https://hubspot-link-placeholder"
@@ -141,10 +141,10 @@
       {
         "image": {
           "path": "common",
-          "name": "booking"
+          "name": "badante-icon"
         },
-        "title": "SCEGLI L’ASSISTENZA ADATTA",
-        "text": "Un team di selezione e ricerca individuerà i candidati da sottoporre alla famiglia garantendo la soddisfazione dei requisiti indicati in fase di analisi.",
+        "title": "TROVIAMO LA BADANTE PIÙ ADATTA",
+        "text": "In base alle tue richieste, ci occuperemo di trovare le persone più idonee da presentarti. Lavoriamo solo con personale esperto e referenziato.",
         "button": {
           "text": "Richiedi preventivo gratuito",
           "link": "https://hubspot-link-placeholder"
@@ -153,10 +153,10 @@
       {
         "image": {
           "path": "common",
-          "name": "follow-up"
+          "name": "contract-icon"
         },
-        "title": "RECUPERA LA SERENITÀ DI TUTTI",
-        "text": "Prenditi cura dei tuoi cari. Ci occuperemo di tutta la parte burocratica sollevando la famiglia da ogni incombenza amministrativa, fiscale, contrattuale e gestionale.",
+        "title": "GESTIAMO LA PARTE CONTRATTUALE",
+        "text": "EpiCura si occupa totalmente della gestione burocratica e fiscale, sollevandoti da ogni incombenza gestionale, per offrirti un servizio 'senza pensieri'.",
         "button": {
           "text": "Richiedi preventivo gratuito",
           "link": "https://hubspot-link-placeholder"
@@ -167,6 +167,7 @@
   "solutions": [
     {
       "title": "La nostra offerta senza costi di attivazione",
+      "subtitle": "Paghi soltanto dopo l’inserimento della badante in famiglia",
       "startingFromText": "A partire da",
       "solutionsBig": [
         {
@@ -175,8 +176,8 @@
             "name": "badante-full-time"
           },
           "title": "Badante convivente giorno e notte",
-          "text": "Presta assistenza costante trasferendosi in casa della persona assistita. L’assistenza è erogabile a partire da un minimo di 2 mesi. ",
-          "price": "1030 Euro",
+          "text": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L'assistenza è erogabile per un minimo di 2 mesi.",
+          "price": "1344 Euro",
           "button": {
             "text": "Scopri di più",
             "link": "/badante-convivente/"
@@ -192,7 +193,7 @@
             "name": "badante-part-time"
           },
           "title": "Badante diurna",
-          "text": "Presta assistenza part-time alla persona durante il giorno. ",
+          "text": "Presta assistenza part-time durante il giorno. È un supporto fondamentale per le attività quotidiane di persone autosufficienti e non.",
           "price": "682 Euro",
           "button": {
             "text": "Scopri di più",
@@ -209,7 +210,7 @@
             "name": "badante-convivente"
           },
           "title": "Badante notturna",
-          "text": "Presta assistenza a tempo pieno alla persona durante la notte.",
+          "text": "Si occupa del monitoraggio della persona assistita durante la notte, garantendo le cure e le attenzioni necessarie anche in caso di emergenza.",
           "price": "1122 Euro",
           "button": {
             "text": "Scopri di più",
@@ -225,69 +226,114 @@
   ],
   "assistenza-ore": {
     "title": "Hai bisogno di assistenza a ore?",
-    "text": "Servizio pensato per persone autosufficienti che hanno bisogno di supporto breve solo in specifici giorni per attività che non riescono a svolgere in autonomia (spesa, pulizia della casa, visite mediche).",
+    "text": "L'assistenza a ore è ideale per persone autosufficienti e non che hanno bisogno di supporto solo in specifici giorni o per attività che non riescono a svolgere in autonomia (spesa, pulizia della casa, visite mediche). Il servizio è erogabile a partire da un minimo di 3 ore consecutive.",
     "city": {
-      "title": "Scopri l’assistenza ad ore a"
+      "title": "Scopri il nostro servizio di assistenza a ore nella tua città:"
     }
   },
   "familyTutor": {
     "bkg-color": "#F5F8FF",
-    "title": "Indeciso? Parla con il nostro family tutor.",
-    "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+    "title": "Cerchi una badante? Chiedi al family tutor.",
+    "content": "Se un tuo caro ha bisogno di assistenza ma non sai da dove iniziare, i nostri consulenti sono a disposizione per ascoltare le tue esigenze e guidarti verso il percorso assistenziale più adeguato. Ritrova serenità, prenota adesso un colloquio gratuito.",
     "image": {
       "path": "caregiver",
       "name": "family-tutor"
     },
-    "button-text": "Prenota un appuntamento",
+    "button-text": "PRENOTA UN COLLOQUIO GRATUITO",
     "button-link": "https://hubspot-link-placeholder"
   },
   "ourCaregiver": {
-    "title": "Le nostre badanti",
-    "text": "Gli assistenti domiciliari di epicura vengono selezionati in maniera accurata tramite un rigido percorso di ricerca.",
+    "title": "Badanti e assistenti domiciliari qualificati e referenziati",
+    "text": "Scegliamo con cura i nostri professionisti per garantirti serenità e affidabilità.",
     "professionisti": [
       {
-        "name": "TEST CAMBIARE",
+        "name": "Agnese P.",
         "disciplina": "Assistente domiciliare",
         "prestazioni": [],
         "image": {
           "path": "specialists",
-          "name": "valentina-perucca"
+          "name": "agnese-pisano"
         }
       },
       {
-        "name": "TEST CAMBIARE",
+        "name": "Annamaria M.",
         "disciplina": "Assistente domiciliare",
         "prestazioni": [],
         "image": {
           "path": "specialists",
-          "name": "nicolo-giordano"
+          "name": "annamaria-mattiacci"
         }
       },
       {
-        "name": "TEST CAMBIARE",
+        "name": "Antonio E.",
         "disciplina": "Assistente domiciliare",
         "prestazioni": [],
         "image": {
           "path": "specialists",
-          "name": "valentina-perucca"
+          "name": "antonio-esposito"
         }
       },
       {
-        "name": "TEST CAMBIARE",
+        "name": "Derrick T.",
         "disciplina": "Assistente domiciliare",
         "prestazioni": [],
         "image": {
           "path": "specialists",
-          "name": "valentina-perucca"
+          "name": "derrick-tasto"
         }
       },
       {
-        "name": "TEST CAMBIARE",
+        "name": "Lauraine K.",
         "disciplina": "Assistente domiciliare",
         "prestazioni": [],
         "image": {
           "path": "specialists",
-          "name": "valentina-perucca"
+          "name": "lauraine-koassou"
+        }
+      },
+      {
+        "name": "Lise N.",
+        "disciplina": "Assistente domiciliare",
+        "prestazioni": [],
+        "image": {
+          "path": "specialists",
+          "name": "lise-nuel"
+        }
+      },
+      {
+        "name": "Marina R.",
+        "disciplina": "Assistente domiciliare",
+        "prestazioni": [],
+        "image": {
+          "path": "specialists",
+          "name": "marina-ricca"
+        }
+      },
+      {
+        "name": "Morena R.",
+        "disciplina": "Assistente domiciliare",
+        "prestazioni": [],
+        "image": {
+          "path": "specialists",
+          "name": "morena-russo"
+        }
+      },
+      {
+        "name": "Veronica A.",
+        "disciplina": "Assistente domiciliare",
+        "prestazioni": [],
+        "image": {
+          "path": "specialists",
+          "name": "veronica-affatato"
+        }
+      },
+      {
+        "name": "Vincenzo S.",
+        "disciplina": "Assistente domiciliare",
+        "prestazioni": [],
+        "image": {
+          "path": "specialists",
+          "name": "vincenzo-schiano"
         }
       }
     ]
@@ -295,7 +341,7 @@
   "caregiver": {
     "bkg-color": "#F5F8FF",
     "title": "Sei una badante? Lavora con noi",
-    "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+    "content": "Se hai esperienza nel campo dell'assistenza alla persona, svolgi il tuo lavoro con professionalità e hai referenze dimostrabili, invia il tuo curriculum per entrare a far parte della rete di professionisti EpiCura, attiva in tutta Italia.",
     "image": {
       "path": "homecare",
       "name": "homecare_subheader"
@@ -318,17 +364,26 @@
     "title": "I vantaggi di EpiCura",
     "list": [
       {
-        "image": { "path": "common", "name": "money" },
+        "image": {
+          "path": "common",
+          "name": "money"
+        },
         "title": "Nessun costo di attivazione",
         "description": "Il pagamento verrà effettuato solo ad avvenuta ricerca e inserimento della badante in famiglia."
       },
       {
-        "image": { "path": "common", "name": "ricerca" },
+        "image": {
+          "path": "common",
+          "name": "ricerca"
+        },
         "title": "Sostituzione gratuita badante",
         "description": "Se per qualsiasi motivo dovesse sostituire la figura selezionata, ci occuperemo gratuitamente della nuova ricerca."
       },
       {
-        "image": { "path": "common", "name": "tutor" },
+        "image": {
+          "path": "common",
+          "name": "tutor"
+        },
         "title": "Un Family Tutor dedicato",
         "description": "Un consulente dedicato seguirà la famiglia in ogni fase del piano assistenziale"
       }

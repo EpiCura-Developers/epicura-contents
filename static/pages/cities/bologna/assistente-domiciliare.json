@@ -1,18 +1,20 @@
 {
   "metaDescription": {
     "title": "Assistenza a ore a Bologna",
-    "description": "Badanti in tutta Italia. Family tutor dedicato, sostituzione gratuita, soddisfatto o rimborsato. Piani di assistenza personalizzati, ci occupiamo noi della burocrazia."
+    "description": "Assistenza a ore per anziani, malati e disabili con assistenti domiciliari qualificati e con esperienza, che ti raggiungono a domicilio, in ospedale o in casa di riposo."
   },
   "subheader": {
     "prenotaOnlineText": "Richiedi preventivo gratuito",
+    "professionistaText": "",
+    "professionistaUrl": "",
     "titleBig": "Assistenza a ore a Bologna",
-    "description1": "Servizi di assistenza domiciliare per anziani, disabili e malati, autosufficienti e non. Badanti per assistenze diurne, assistenze notturne, badanti conviventi.",
-    "askInfoButtonText": "Richiedi consulenza"
+    "description1": "EpiCura si prende cura di anziani, malati o disabili con assistenti domiciliari qualificati e con esperienza, che ti raggiungono a domicilio, in ospedale o in casa di riposo. <br/> Scopri le nostre soluzioni di assistenza a domicilio e ritrova serenità.",
+    "askInfoButtonText": "Richiedi preventivo gratuito"
   },
   "booking-card": {
     "code": "homecareHomeAssistance",
-    "title": "Assistenti domiciliari a Bologna per anziani, malati e disabili",
-    "text": "Cerchi assistenza qualificata per un tuo caro?<br />Con EpiCura i migliori assistenti domiciliari arrivano comodamente a domicilio, in ospedale o in casa di riposo, 7 giorni su 7, entro 24 ore dalla prenotazione.<br />Recupera serenità, richiedi adesso un preventivo gratuito.*",
+    "title": "Assistenti domiciliari a Bologna <br/> per anziani, malati e disabili",
+    "text": "Cerchi assistenza qualificata per un tuo caro? <br/> Con EpiCura i migliori assistenti domiciliari arrivano comodamente a domicilio, in ospedale o in casa di riposo, 7 giorni su 7, entro 24 ore dalla prenotazione. Recupera serenità, richiedi adesso un preventivo gratuito.*",
     "hint": "*Il servizio è erogabile a partire da un minimo di 3 ore consecutive",
     "price": "Tariffa: 14€/h",
     "prenotaOnlineText": "Richiedi preventivo gratuito"
@@ -34,8 +36,8 @@
       "name": "Assistenza a ore"
     },
     {
-      "link": "/torino/assistente-domiciliare/",
-      "name": "Torino",
+      "link": "/Bologna/assistente-domiciliare/",
+      "name": "Bologna",
       "isHomeAssistance": true
     },
     {
@@ -115,91 +117,91 @@
     ]
   },
   "come_funziona": {
-    "title": "Selezioniamo solo profili certificati e con comprovata esperienza",
-    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+    "title": "Assistenza domiciliare a ore, come funziona",
+    "text": "",
     "cards": [
       {
         "image": {
           "path": "common",
-          "name": "requirement"
+          "name": "family-icon"
         },
-        "title": "VERIFICA DEI REQUISITI",
-        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+        "title": "Analizziamo le tue esigenze",
+        "text": "Attraverso una consulenza dedicata, i nostri operatori individueranno le necessità della tua famiglia, costruendo un piano assistenziale su misura."
       },
       {
         "image": {
           "path": "common",
-          "name": "colloquio"
+          "name": "badante-icon"
         },
-        "title": "COLLOQUIO E VERIFICA REFERENZE",
-        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+        "title": "Troviamo il professionista più adatto",
+        "text": "In base alle tue richieste, ci occuperemo di trovare l'assistente domiciliare più idoneo per le tue esigenze. Lavoriamo solo con personale esperto e qualificato."
       },
       {
         "image": {
           "path": "common",
-          "name": "verify"
+          "name": "contract-icon"
         },
-        "title": "VERIFICA PROFILO CON LA FAMIGLIA",
-        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+        "title": "Eroghiamo l'assistenza dove vuoi",
+        "text": "I nostri assistenti domiciliari ti raggiungono dove e quando vuoi, 7 giorni su 7. Con EpiCura avrai la certezza di ricevere assistenza solo dai migliori professionisti."
       }
     ]
   },
   "caregiverTasks": {
-    "title": "Cosa fa la badante, in cosa consiste l’assistenza notturna.",
+    "title": "Assistente domiciliare: di cosa si occupa?",
     "tasks": [
       {
         "image": {
           "path": "caregiver",
           "name": "meal"
         },
-        "text": "Preparare e fornire supporto durante i pasti"
+        "text": "Prepara i pasti e fornisce supporto per la loro assunzione"
       },
       {
         "image": {
           "path": "caregiver",
           "name": "cleaning"
         },
-        "text": "Gestire le attività quotidiane e pulire la casa"
+        "text": "Aiuta nella gestione delle attività giornaliere e di pulizia della casa"
       },
       {
         "image": {
           "path": "caregiver",
           "name": "hygiene"
         },
-        "text": "Vestire la persona e garantire l’igiene giornaliera"
+        "text": "Veste la persona e ne garantisce la cura e l'igiene quotidiana"
       },
       {
         "image": {
           "path": "caregiver",
           "name": "cognitive-func"
         },
-        "text": "Stimolare la comunicazione e l’attività motoria all’aperto"
+        "text": "Stimola le capacità comunicative e l’attività motoria all’aperto"
       },
       {
         "image": {
           "path": "caregiver",
           "name": "drugs"
         },
-        "text": "Supportare nell’assunzione di terapie, accompagnare alle visite"
+        "text": "Supporta nell’assunzione di terapie e accompagna alle visite"
       },
       {
         "image": {
           "path": "caregiver",
           "name": "24h-supervision"
         },
-        "text": "Sorvegliare la persona con continuità"
+        "text": "Monitora e sorveglia la persona assistita con cura e costanza"
       }
     ]
   },
   "familyTutor": {
     "bkg-color": "#F5F8FF",
-    "title": "Indeciso? Parla con il nostro family tutor.",
-    "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+    "title": "Cerchi assistenza domiciliare? <br/> Richiedi una consulenza.",
+    "content": "Se un tuo caro ha bisogno di assistenza ma non sai da dove iniziare, i nostri consulenti sono a disposizione per ascoltare le tue esigenze e guidarti verso il percorso assistenziale più adeguato. </br> Ritrova serenità, prenota adesso un colloquio gratuito.",
     "image": {
       "path": "caregiver",
       "name": "family-tutor"
     },
-    "button-text": "Prenota un appuntamento",
+    "button-text": "Prenota una consulenza gratuita",
     "button-link": "https://hubspot-link-placeholder"
   },
   "solutions": [

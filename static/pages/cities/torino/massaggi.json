@@ -43,27 +43,27 @@
     "list": [
       {
         "title": "Massaggio rilassante",
-        "description": "Stress, ansia, insonnia, disturbi psicosomatici, tensioni muscolari"
+        "description": "stress, ansia, insonnia, disturbi psicosomatici, tensioni muscolari"
       },
       {
         "title": "Massaggio decontratturante",
-        "description": "Cefalea muscolo-tensiva, cervicalgia, mal di schiena, dolori articolari, stress, contratture muscolari"
+        "description": "cefalea muscolo-tensiva, cervicalgia, mal di schiena, dolori articolari, stress, contratture muscolari"
       },
       {
         "title": "Massaggio sportivo",
-        "description": "Prevenzione degli infortuni, rigidità e affaticamento muscolare, contratture, dolori articolari, distorsioni, tendinite, edemi"
+        "description": "prevenzione degli infortuni, rigidità e affaticamento muscolare, contratture, dolori articolari, distorsioni, tendinite, edemi"
       },
       {
         "title": "Massaggio terapeutico",
-        "description": "Emicrania, cervicalgia, tendinite, ernia, dolori articolari, nervo sciatico, fibromialgia, gravidanza, problemi digestivi, dolori articolari"
+        "description": "emicrania, cervicalgia, tendinite, ernia, dolori articolari, nervo sciatico, fibromialgia, gravidanza, problemi digestivi, dolori articolari"
       },
       {
         "title": "Massaggio connettivale",
-        "description": "Emicrania, cervicalgia, tendinite, ernia, dolori articolari, nervo sciatico, fibromialgia, gravidanza, problemi digestivi, dolori articolari"
+        "description": "infiammazioni, contratture, rigidità muscolare"
       },
       {
         "title": "Massaggio linfodrenante",
-        "description": "Cellulite, edemi, ritenzione idrica, tonificare le gambe, rassodare i glutei, grasso localizzato, arti gonfi,  gambe con capillari"
+        "description": "cellulite, edemi, ritenzione idrica, tonificare le gambe, rassodare i glutei, grasso localizzato, arti gonfi,  gambe con capillari"
       }
     ]
   },
@@ -122,10 +122,10 @@
   ],
   "booking-card": {
     "code": "massagesTreatment_",
-    "title": "Una seduta di massaggio a domicilio a Torino",
+    "title": "Seduta di massaggio a domicilio a Torino",
     "disciplineTitle": "I migliori professionisti a casa tua",
-    "text": "Rimuovi stress e tensioni e ritrova l'armonia del tuo corpo senza muoverti da casa. Con EpiCura i migliori massoterapisti arrivano comodamente a domicilio, 7 giorni su 7. Prenota in pochi clic e prenditi cura del tuo benessere.",
-    "price": "Costo fisso 60€",
+    "text": "Rimuovi stress e tensioni e ritrova l'armonia del tuo corpo senza muoverti da casa. Con EpiCura i migliori massoterapisti arrivano comodamente a domicilio, 7 giorni su 7. <br/> Prenota in pochi clic e prenditi cura del tuo benessere.",
+    "price": "Seduta singola 60€",
     "prenotaOnlineText": "Prenota ora"
   },
   "advantages": {
