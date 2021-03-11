@@ -43,27 +43,27 @@
     "list": [
       {
         "title": "Massaggio rilassante",
-        "description": "Stress, ansia, insonnia, disturbi psicosomatici, tensioni muscolari"
+        "description": "stress, ansia, insonnia, disturbi psicosomatici, tensioni muscolari"
       },
       {
         "title": "Massaggio decontratturante",
-        "description": "Cefalea muscolo-tensiva, cervicalgia, mal di schiena, dolori articolari, stress, contratture muscolari"
+        "description": "cefalea muscolo-tensiva, cervicalgia, mal di schiena, dolori articolari, stress, contratture muscolari"
       },
       {
         "title": "Massaggio sportivo",
-        "description": "Prevenzione degli infortuni, rigidità e affaticamento muscolare, contratture, dolori articolari, distorsioni, tendinite, edemi"
+        "description": "prevenzione degli infortuni, rigidità e affaticamento muscolare, contratture, dolori articolari, distorsioni, tendinite, edemi"
       },
       {
         "title": "Massaggio terapeutico",
-        "description": "Emicrania, cervicalgia, tendinite, ernia, dolori articolari, nervo sciatico, fibromialgia, gravidanza, problemi digestivi, dolori articolari"
+        "description": "emicrania, cervicalgia, tendinite, ernia, dolori articolari, nervo sciatico, fibromialgia, gravidanza, problemi digestivi, dolori articolari"
       },
       {
         "title": "Massaggio connettivale",
-        "description": "Emicrania, cervicalgia, tendinite, ernia, dolori articolari, nervo sciatico, fibromialgia, gravidanza, problemi digestivi, dolori articolari"
+        "description": "infiammazioni, contratture, rigidità muscolare"
       },
       {
         "title": "Massaggio linfodrenante",
-        "description": "Cellulite, edemi, ritenzione idrica, tonificare le gambe, rassodare i glutei, grasso localizzato, arti gonfi,  gambe con capillari"
+        "description": "cellulite, edemi, ritenzione idrica, tonificare le gambe, rassodare i glutei, grasso localizzato, arti gonfi,  gambe con capillari"
       }
     ]
   },
