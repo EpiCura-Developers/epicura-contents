@@ -229,7 +229,7 @@
           },
           {
             "name": "Elisa P.",
-            "discipline": "massoterapia",
+            "discipline":"massaggi",
             "discipline_label": "Massoterapista",
             "prestazioni": [],
             "image": {
@@ -239,7 +239,7 @@
           },
           {
             "name": "Lorenzo C.",
-            "discipline": "massoterapia",
+            "discipline":"massaggi",
             "discipline_label": "Massoterapista",
             "prestazioni": [],
             "image": {
@@ -249,7 +249,7 @@
           },
           {
             "name": "Camilla S.",
-            "discipline": "massoterapia",
+            "discipline":"massaggi",
             "discipline_label": "Massoterapista",
             "prestazioni": [],
             "image": {
