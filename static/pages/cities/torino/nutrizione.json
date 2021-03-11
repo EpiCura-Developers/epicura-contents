@@ -82,54 +82,59 @@
       "startingFromText": "",
       "solutionsBig": [
         {
+          "code": "nutrition3ExaminationBundle",
           "title": "Percorso basic",
-          "text": "Comprende una prima visita di controllo e 2 sedute di follow-up con lo stesso nutrizionista. Ideale per un primo approccio nutrizionistico con piano alimentare su misura.",
+          "text": "Comprende una prima visita di controllo e 2 sedute di follow-up con lo stesso nutrizionista.<br /><br />Ideale per un primo approccio nutrizionistico con piano alimentare su misura.",
           "startingFrom": false,
-          "oldPrice": "225€",
-          "price": "200€",
           "button": {
             "text": "Prenota ora",
             "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
           }
         },
         {
+          "code": "nutrition5ExaminationBundle",
           "title": "Percorso plus",
-          "text": "Comprende una prima visita di controllo e 4 sedute di follow-up con lo stesso nutrizionista. Consigliato per instaurare buoni abitudini alimentari, ritrovando salute e forma fisica.",
+          "text": "Comprende una prima visita di controllo e 4 sedute di follow-up con lo stesso nutrizionista.<br /><br />Consigliato per instaurare buoni abitudini alimentari, ritrovando salute e forma fisica.",
           "startingFrom": false,
-          "oldPrice": "300€",
-          "price": "250€",
           "button": {
             "text": "Prenota ora",
             "link": "/"
           },
           "bottomText": {
-            "text": "Risparmi 50€",
-            "highlighted": false
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
           }
         },
         {
+          "code": "nutrition7ExaminationBundle",
           "title": "Percorso standard",
-          "text": "Comprende una prima visita di controllo e 6 sedute di follow-up con lo stesso nutrizionista. Ideale per il raggiungimento il mantenimento degli obiettivi prefissati.",
+          "text": "Comprende una prima visita di controllo e 6 sedute di follow-up con lo stesso nutrizionista.<br /><br />Ideale per il raggiungimento il mantenimento degli obiettivi prefissati.",
           "startingFrom": false,
-          "oldPrice": "450€",
-          "price": "350€",
           "button": {
             "text": "Prenota ora",
             "link": "/"
           },
           "bottomText": {
-            "text": "Risparmi 100€",
-            "highlighted": true
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
           }
         }
       ]
     }
   ],
   "booking-card": {
+    "code": "nutritionExamination_",
     "title": "Visita nutrizionistica a domicilio a Torino",
     "disciplineTitle": "Ritrova il benessere del tuo corpo",
-    "text": "Le tue esigenze alimentari sono cambiate e hai bisogno del parere di un professionista? Con EpiCura i migliori nutrizionisti ti raggiungono direttamente a casa, 7 giorni su 7. <br/> Prenota in pochi clic e ritrova salute e forma fisica.",
-    "price": "A soli 60€",
+    "text": "Le tue esigenze alimentari sono cambiate e hai bisogno del parere di un professionista?<br />Con EpiCura i migliori nutrizionisti ti raggiungono direttamente a casa, 7 giorni su 7. Prenota in pochi clic e ritrova salute e forma fisica.",
+    "price": "Costo fisso 60€",
     "prenotaOnlineText": "Prenota ora"
   },
   "advantages": {

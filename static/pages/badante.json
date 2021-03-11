@@ -289,35 +289,45 @@
         "image": {
           "path": "specialists",
           "name": "lauraine-koassou"
-        },
+        }
+      },
+      {
         "name": "Lise N.",
         "disciplina": "Assistente domiciliare",
         "prestazioni": [],
         "image": {
           "path": "specialists",
           "name": "lise-nuel"
-        },
+        }
+      },
+      {
         "name": "Marina R.",
         "disciplina": "Assistente domiciliare",
         "prestazioni": [],
         "image": {
           "path": "specialists",
           "name": "marina-ricca"
-        },
+        }
+      },
+      {
         "name": "Morena R.",
         "disciplina": "Assistente domiciliare",
         "prestazioni": [],
         "image": {
           "path": "specialists",
           "name": "morena-russo"
-        },
+        }
+      },
+      {
         "name": "Veronica A.",
         "disciplina": "Assistente domiciliare",
         "prestazioni": [],
         "image": {
           "path": "specialists",
           "name": "veronica-affatato"
-        },
+        }
+      },
+      {
         "name": "Vincenzo S.",
         "disciplina": "Assistente domiciliare",
         "prestazioni": [],

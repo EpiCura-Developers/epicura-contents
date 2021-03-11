@@ -89,47 +89,52 @@
     "solutions": [
       {
         "title": "Continua la terapia con un percorso su misura",
-        "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato? <br/> Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
-        "startingFromText": "A partire da",
+        "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato?<br/>Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
+        "startingFromText": "",
         "solutionsBig": [
           {
-            "title": "Assistente a ore",
-            "text": "Assiste la persona per un numero limitato di ore settimanali. Serve nei casi in cui la famiglia necessita di assistenza solamente in alcune fasce orarie.",
-            "startingFrom": true,
-            "price": "14€",
-            "button": {
-              "text": "Prenota ora",
-              "link": "/"
-            }
-          },
-          {
-            "title": "Badante diurna o notturna",
-            "text": "Presta assistenza a tempo pieno alla persona durante il giorno o la notte, ma senza convivere nella casa della persona assistita.",
+            "code": "psychotherapyMonthlySubscription2Sessions",
+            "title": "Percorso basic",
+            "text": "Inizia il tuo percorso con 2 videosedute mensili.<br /><br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te. ",
             "startingFrom": false,
-            "oldPrice": "900€",
-            "price": "682€",
+            "hideDiscount": true,
             "button": {
-              "text": "Prenota ora",
+              "text": "Parla con un tutor",
               "link": "/"
             },
             "bottomText": {
-              "text": "Prova di testo INATTIVO",
+              "text": "Pacchetto base",
               "highlighted": false
             }
           },
           {
-            "title": "Badante convivente giorno e notte",
-            "text": "Si occupa di assistenza costante. Si trasferisce a casa della persona assistita per garantire presenza e cure a tempo pieno. L'assistenza è erogabile a partire da un minimo di 2 mesi.",
+            "code": "psychotherapyMonthlySubscription3Sessions",
+            "title": "Percorso plus",
+            "text": "Questo percorso ti consente di accedere a 3 videosedute mensili, comodamente da smartphone, pc o tablet.<br /><br />Ideale per chi si approccia per la prima volta alla terapia psicologica. ",
             "startingFrom": false,
-            "oldPrice": "1300€",
-            "price": "1030€",
             "button": {
-              "text": "Prenota ora",
+              "text": "Parla con un tutor",
               "link": "/"
             },
             "bottomText": {
-              "text": "Prova di testo ATTIVO",
-              "highlighted": true
+              "text": "Risparmi ",
+              "highlighted": true,
+              "showDiscount": true
+            }
+          },
+          {
+            "code": "psychotherapyMonthlySubscription4Sessions",
+            "title": "Percorso standard",
+            "text": "Percorso terapeutico che comprende 4 videosedute mensili, particolarmente efficace per lavorare su sofferenze e disturbi di lungo periodo.<br /><br />Ideale per un supporto psicologico costante.",
+            "startingFrom": false,
+            "button": {
+              "text": "Parla con un tutor",
+              "link": "/"
+            },
+            "bottomText": {
+              "text": "Risparmi ",
+              "highlighted": true,
+              "showDiscount": true
             }
           }
         ]

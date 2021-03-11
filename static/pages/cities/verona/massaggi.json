@@ -70,52 +70,58 @@
   "solutions": [
     {
       "title": "Le soluzioni che abbiamo pensato per te",
-      "startingFromText": "A partire da",
+      "startingFromText": "",
       "solutionsBig": [
         {
-          "title": "Assistente a ore",
-          "text": "Assiste la persona per un numero limitato di ore settimanali. Serve nei casi in cui la famiglia necessita di assistenza solamente in alcune fasce orarie.",
-          "startingFrom": true,
-          "price": "14€",
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          }
-        },
-        {
-          "title": "Badante diurna o notturna",
-          "text": "Presta assistenza a tempo pieno alla persona durante il giorno o la notte, ma senza convivere nella casa della persona assistita.",
+          "code": "massagesTreatment3Package",
+          "title": "Pacchetto 3 sedute",
+          "text": "Pacchetto base, che comprende 3 sedute di massoterapia comodamente a domicilio.<br /><br />Per benefici terapeutici su corpo e mente.",
           "startingFrom": false,
-          "oldPrice": "900€",
-          "price": "682€",
+          "hideDiscount": true,
           "button": {
             "text": "Prenota ora",
             "link": "/"
           },
           "bottomText": {
-            "text": "Prova di testo INATTIVO",
+            "text": "Pacchetto base",
             "highlighted": false
           }
         },
         {
-          "title": "Badante convivente giorno e notte",
-          "text": "Si occupa di assistenza costante. Si trasferisce a casa della persona assistita per garantire presenza e cure a tempo pieno. L'assistenza è erogabile a partire da un minimo di 2 mesi.",
+          "code": "massagesTreatment5Package",
+          "title": "Pacchetto 5 sedute",
+          "text": "Pacchetto intermedio, che comprende 5 sedute di massoterapia comodamente a domicilio.<br /><br />Per benefici terapeutici su corpo e mente.",
           "startingFrom": false,
-          "oldPrice": "1300€",
-          "price": "1030€",
           "button": {
             "text": "Prenota ora",
             "link": "/"
           },
           "bottomText": {
-            "text": "Prova di testo ATTIVO",
-            "highlighted": true
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        },
+        {
+          "code": "massagesTreatment10Package",
+          "title": "Pacchetto 10 sedute",
+          "text": "Pacchetto avanzato, che comprende 10 sedute di massoterapia comodamente a domicilio.<br /><br />Per benefici terapeutici a lungo termine.",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
           }
         }
       ]
     }
   ],
   "booking-card": {
+    "code": "massagesTreatment_",
     "title": "Seduta di massaggio a domicilio a Verona",
     "disciplineTitle": "I migliori professionisti a casa tua",
     "text": "Rimuovi stress e tensioni e ritrova l'armonia del tuo corpo senza muoverti da casa. Con EpiCura i migliori massoterapisti arrivano comodamente a domicilio, 7 giorni su 7. <br/> Prenota in pochi clic e prenditi cura del tuo benessere.",
