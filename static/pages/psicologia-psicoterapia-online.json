@@ -139,7 +139,7 @@
       "title": "I vantaggi dello psicologo online EpiCura",
       "list": [
         {
-          "image": { "path": "common", "name": "professionist" },
+          "image": { "path": "common", "name": "videoconsulto" },
           "title": "Dove vuoi, in totale sicurezza",
           "description": "Accedi alla tua videoseduta dove e quando vuoi, da smartphone, pc o tablet. Il nostro servizio è strutturato a completa garanzia della tua privacy."
         },
@@ -149,7 +149,7 @@
           "description": "EpiCura ti permette di accedere alle videosedute in modo semplice e rapido, ovunque tu sia, senza necessità di recarti nello studio del professionista."
         },
         {
-          "image": { "path": "common", "name": "operator" },
+          "image": { "path": "common", "name": "credit-card" },
           "title": "Paga comodamente online",
           "description": "Con EpiCura puoi prenotare e pagare comodamente da sito, in pochi clic e in totale sicurezza, con carta di credito, bancomat oppure prepagata."
         }
