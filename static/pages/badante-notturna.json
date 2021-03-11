@@ -1,6 +1,6 @@
 {
   "metaDescription": {
-    "title": "Badante diurna nella tua città",
+    "title": "Badante notturna nella tua città",
     "description": "Badanti in tutta Italia. Family tutor dedicato, sostituzione gratuita, soddisfatto o rimborsato. Piani di assistenza personalizzati, ci occupiamo noi della burocrazia."
   },
   "subheader": {
@@ -154,53 +154,6 @@
         },
         "title": "VERIFICA PROFILO CON LA FAMIGLIA",
         "text": "Selezionati i migliori candidati, le badanti affrontano un colloquio conoscitivo con la famiglia, che sceglierà il profilo più adeguato per le proprie esigenze."
-      }
-    ]
-  },
-  "caregiverTasks": {
-    "title": "Cosa fa la badante diurna? Ecco le principali mansioni",
-    "tasks": [
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "meal"
-        },
-        "text": "Prepara i pasti e fornisce supporto per la loro corretta assunzione"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "cleaning"
-        },
-        "text": "Aiuta nella gestione delle attività giornaliere e nella pulizia della casa"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "hygiene"
-        },
-        "text": "Veste la persona e ne garantire la cura e l'igiene quotidiana"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "cognitive-func"
-        },
-        "text": "Stimola le capacità comunicative e l’attività motoria all’aperto"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "drugs"
-        },
-        "text": "Supporta nell’assunzione di terapie e accompagna alle visite mediche"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "24h-supervision"
-        },
-        "text": "Monitora e sorveglia la persona assistita con cura e costanza"
       }
     ]
   },

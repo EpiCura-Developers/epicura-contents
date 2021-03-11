@@ -157,52 +157,52 @@
     ]
   },
   "caregiverTasks": {
-    "title": "Cosa fa la badante, in cosa consiste l’assistenza convivente.",
-    "tasks": [
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "meal"
+    "title": "Cosa fa la badante convivente? Ecco le principali mansioni",
+      "tasks": [
+        {
+          "image": {
+            "path": "caregiver",
+            "name": "meal"
+          },
+          "text": "Prepara i pasti e fornisce supporto per la loro assunzione"
         },
-        "text": "Preparare e fornire supporto durante i pasti"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "cleaning"
+        {
+          "image": {
+            "path": "caregiver",
+            "name": "cleaning"
+          },
+          "text": "Aiuta nella gestione delle attività giornaliere e di pulizia della casa"
         },
-        "text": "Gestire le attività quotidiane e pulire la casa"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "hygiene"
+        {
+          "image": {
+            "path": "caregiver",
+            "name": "hygiene"
+          },
+          "text": "Veste la persona e ne garantisce la cura e l'igiene quotidiana"
         },
-        "text": "Vestire la persona e garantire l’igiene giornaliera"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "cognitive-func"
+        {
+          "image": {
+            "path": "caregiver",
+            "name": "cognitive-func"
+          },
+          "text": "Stimola le capacità comunicative e l’attività motoria all’aperto"
         },
-        "text": "Stimolare la comunicazione e l’attività motoria all’aperto"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "drugs"
+        {
+          "image": {
+            "path": "caregiver",
+            "name": "drugs"
+          },
+          "text": "Supporta nell’assunzione di terapie e accompagna alle visite"
         },
-        "text": "Supportare nell’assunzione di terapie, accompagnare alle visite"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "24h-supervision"
-        },
-        "text": "Sorvegliare la persona con continuità"
-      }
-    ]
-  },
+        {
+          "image": {
+            "path": "caregiver",
+            "name": "24h-supervision"
+          },
+          "text": "Monitora e sorveglia la persona assistita con cura e costanza"
+        }
+      ]
+    },
   "familyTutor": {
     "bkg-color": "#F5F8FF",
     "title": "Indeciso? Parla con il nostro family tutor.",
