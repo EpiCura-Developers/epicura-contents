@@ -13,8 +13,9 @@
     "askInfoButtonText": "Richiedi consulenza"
   },
   "booking-card": {
+    "code": "homecareHomeAssistance",
     "title": "Assistenti domiciliari a Brescia per anziani, malati e disabili",
-    "text": "Cerchi assistenza qualificata per un tuo caro? Con EpiCura i migliori assistenti domiciliari arrivano comodamente a domicilio, in ospedale o in casa di riposo, 7 giorni su 7, entro 24 ore dalla prenotazione. Recupera serenità, richiedi adesso un preventivo gratuito.*",
+    "text": "Cerchi assistenza qualificata per un tuo caro?<br />Con EpiCura i migliori assistenti domiciliari arrivano comodamente a domicilio, in ospedale o in casa di riposo, 7 giorni su 7, entro 24 ore dalla prenotazione.<br />Recupera serenità, richiedi adesso un preventivo gratuito.*",
     "hint": "*Il servizio è erogabile a partire da un minimo di 3 ore consecutive",
     "price": "Tariffa: 14€/h",
     "prenotaOnlineText": "Richiedi preventivo gratuito"
@@ -87,23 +88,6 @@
     }
   ],
   "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",
-  "check_list": {
-    "title": "Specifiche contratto",
-    "list": [
-      "Lorem ipsum dolor sit.",
-      "Lorem ipsum dolor sit.",
-      "Lorem ipsum dolor sit.",
-      "Lorem ipsum dolor sit."
-    ],
-    "footer": {
-      "text": "A partire da",
-      "price": "682€",
-      "button": {
-        "text": "Richiedi consulenza",
-        "link": "https://hubspot-link-placeholder"
-      }
-    }
-  },
   "talks_about_us": {
     "title": "Parlano di noi",
     "list": [
