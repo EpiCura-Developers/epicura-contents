@@ -39,9 +39,10 @@
     ]
   },
   "booking-card": {
+    "code": "pediatricsPhysical_",
     "title": "Visita pediatrica a domicilio a Roma",
     "disciplineTitle": "I migliori pediatri a casa tua",
-    "text": "Hai bisogno di una visita pediatrica ma vuoi evitare scomodi spostamenti? Con EpiCura i migliori pediatri ti raggiungono comodamente a casa tua, 7 giorni su 7. Prenota in pochi clic e prenditi cura della salute del tuo bambino.",
+    "text": "Hai bisogno di una visita pediatrica ma vuoi evitare scomodi spostamenti?<br />Con EpiCura i migliori pediatri ti raggiungono comodamente a casa tua, 7 giorni su 7.<br />Prenota in pochi clic e prenditi cura della salute del tuo bambino.",
     "price": "Costo fisso 60€",
     "prenotaOnlineText": "Prenota ora"
   },
