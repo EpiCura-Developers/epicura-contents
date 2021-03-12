@@ -12,8 +12,8 @@
   "card": {
     "title": "In cosa ti è utile il videoconsulto",
     "description": "Grazie al videoconsulto potrai fare domande sulla tua salute o quella dei tuoi cari, o avere una seconda opinione dopo una visita medica oppure di effettuare un colloquio conoscitivo prima della visita vera e propria.",
-    "whatIsIncludedLabel": "I casi più comuni su cui il fisiatra può aiutarti",
-    "bulletPoints": [
+    "subTitle": "I casi più comuni su cui il fisiatra può aiutarti",
+    "list": [
       "Incontinenza",
       "Ernia del disco e colpo di frusta",
       "Artriti e tunnel carpale",
@@ -32,9 +32,13 @@
       "Consulto pre e post-operatorio",
       "Consigli su visite specialistiche"
     ],
-    "price": "25€",
-    "priceUnit": "/20 minuti",
-    "bookNowBtnLabel": "Prenota ora"
+    "footer": {
+      "price": "25€",
+      "priceUnit": "/20 minuti",
+      "button": {
+        "text": "Prenota ora"
+      }
+    }
   },
   "faq": {
     "title": "Domande e risposte",

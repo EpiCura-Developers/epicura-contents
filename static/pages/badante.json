@@ -5,12 +5,12 @@
   },
   "subheader": {
     "prenotaOnlineText": "Richiedi preventivo gratuito",
+    "prenotaUrl": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs",
     "professionistaText": "",
     "professionistaUrl": "",
     "titleBig": "Badanti e assistenti a ore per anziani, malati e disabili",
     "subtitleBig": "",
-    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio di anziani, malati e disabili, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br />Scopri le nostre soluzioni di assistenza, senza costi di attivazione.",
-    "askInfoButtonText": "Richiedi consulenza"
+    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio di anziani, malati e disabili, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br />Scopri le nostre soluzioni di assistenza, senza costi di attivazione."
   },
   "services": [
     {
@@ -135,7 +135,7 @@
         "text": "Attraverso una consulenza dedicata, i nostri Family Tutor individueranno le necessità della tua famiglia, costruendo un piano assistenziale su misura.",
         "button": {
           "text": "Richiedi preventivo gratuito",
-          "link": "https://hubspot-link-placeholder"
+          "link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs"
         }
       },
       {
@@ -147,7 +147,7 @@
         "text": "In base alle tue richieste, ci occuperemo di trovare le persone più idonee da presentarti. Lavoriamo solo con personale esperto e referenziato.",
         "button": {
           "text": "Richiedi preventivo gratuito",
-          "link": "https://hubspot-link-placeholder"
+          "link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs"
         }
       },
       {
@@ -159,7 +159,7 @@
         "text": "EpiCura si occupa totalmente della gestione burocratica e fiscale, sollevandoti da ogni incombenza gestionale, per offrirti un servizio 'senza pensieri'.",
         "button": {
           "text": "Richiedi preventivo gratuito",
-          "link": "https://hubspot-link-placeholder"
+          "link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs"
         }
       }
     ]
@@ -240,7 +240,7 @@
       "name": "family-tutor"
     },
     "button-text": "PRENOTA UN COLLOQUIO GRATUITO",
-    "button-link": "https://hubspot-link-placeholder"
+    "button-link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs"
   },
   "ourCaregiver": {
     "title": "Badanti e assistenti domiciliari qualificati e referenziati",
@@ -255,7 +255,7 @@
       "name": "homecare_subheader"
     },
     "button-text": "Candidati ora",
-    "button-link": "https://hubspot-link-placeholder"
+    "button-link": "https://app.ncoreplat.com/jobposition/109737/assistenti-familiari-it/ricerca-badanti"
   },
   "discount": {
     "title": "Prenotando un servizio di assistenza a ore o badante, ricevi subito il 10% di sconto su tutti i servizi EpiCura",

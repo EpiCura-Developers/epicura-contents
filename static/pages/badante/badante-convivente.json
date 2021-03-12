@@ -5,12 +5,12 @@
   },
   "subheader": {
     "prenotaOnlineText": "Richiedi preventivo gratuito",
+    "prenotaUrl": "https://share.hsforms.com/1wA8mORR2T4WZyk5AZpCJZA4ebbs",
     "professionistaText": "",
     "professionistaUrl": "",
     "titleBig": "Badante convivente nella tua città",
     "subtitleBig": "",
-    "description1": "Servizi di assistenza domiciliare per anziani, disabili e malati, autosufficienti e non. Badanti per assistenze diurne, assistenze notturne, badanti conviventi.",
-    "askInfoButtonText": "Richiedi consulenza"
+    "description1": "Servizi di assistenza domiciliare per anziani, disabili e malati, autosufficienti e non. Badanti per assistenze diurne, assistenze notturne, badanti conviventi."
   },
   "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",
   "check_list": {
@@ -26,7 +26,7 @@
       "price": "682€",
       "button": {
         "text": "Richiedi consulenza",
-        "link": "https://hubspot-link-placeholder"
+        "link": "https://share.hsforms.com/1wA8mORR2T4WZyk5AZpCJZA4ebbs"
       }
     }
   },
