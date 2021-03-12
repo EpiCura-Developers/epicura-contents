@@ -5,12 +5,12 @@
   },
   "subheader": {
     "prenotaOnlineText": "Richiedi preventivo gratuito",
+    "prenotaUrl": "https://share.hsforms.com/1J8JG8P5qS8mZ1bFk3XofwA4ebbs",
     "professionistaText": "",
     "professionistaUrl": "",
     "titleBig": "Badante notturna nella tua città",
     "subtitleBig": "",
-    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br />Scopri le nostre soluzioni di assistenza, senza costi di attivazione.",
-    "askInfoButtonText": "Richiedi preventivo gratuito"
+    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br />Scopri le nostre soluzioni di assistenza, senza costi di attivazione."
   },
   "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",
   "check_list": {
@@ -27,7 +27,7 @@
       "price": "1.122€",
       "button": {
         "text": "RICHIEDI PREVENTIVO GRATUITO",
-        "link": "https://hubspot-link-placeholder"
+        "link": "https://share.hsforms.com/1J8JG8P5qS8mZ1bFk3XofwA4ebbs"
       }
     }
   },
@@ -99,7 +99,7 @@
       "name": "family-tutor"
     },
     "button-text": "PRENOTA UN COLLOQUIO GRATUITO",
-    "button-link": "https://hubspot-link-placeholder"
+    "button-link": "https://share.hsforms.com/1J8JG8P5qS8mZ1bFk3XofwA4ebbs"
   },
   "discount": {
     "title": "Prenotando un servizio di assistenza a ore o badante, ricevi subito il 10% di sconto su tutti i servizi EpiCura",
