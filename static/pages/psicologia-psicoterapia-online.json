@@ -1,204 +1,203 @@
 {
-    "metaDescription": {
-      "title": "Psicologo e Psicoterapeuta online",
-      "description": "Psicologi e psicoterapeuti per ansia, depressione, disturbi psicologici, 7 giorni su 7, nessuna lista d'attesa."
-    },
-    "subheader": {
-      "titleBig": "Psicologo e Psicoterapeuta online",
-      "description1": "Con EpiCura puoi consultare i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet.",
-      "description2": " Prenota in pochi clic e ritrova adesso la tua serenità. "
-    },
-    "come_funziona": {
-      "title": "Psicologo online, come funziona",
-      "cards": [
-        {
-          "image": {
-            "path": "common",
-            "name": "videoseduta"
-          },
-          "title": "Inizia dal videoconsulto a 25€",
-          "text": "Inizia la terapia con un videoconsulto a soli 25 Euro: potrai confrontarti con un professionista scelto apposta per te, che ti guiderà nei primi passi del percorso terapeutico comodamente da pc, smartphone o tablet.",
-          "button": {
-            "link": "https://hubspot-link-placeholder",
-            "text": "Prenota il videoconsulto"
-          }
-        },
-        {
-          "image": {
-            "path": "common",
-            "name": "booking"
-          },
-          "title": "Scegli il percorso più adatto",
-          "text": "Dopo aver effettuato il primo videoconsulto, potrai decidere come continuare il percorso terapeutico: parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
-          "button": {
-            "link": "https://hubspot-link-placeholder",
-            "text": "Prenota il videoconsulto"
-          }
-        },
-        {
-          "image": {
-            "path": "common",
-            "name": "follow-up"
-          },
-          "title": "Fai terapia comodamente online",
-          "text": "Con EpiCura potrai accedere alle videosedute 7 giorni su 7, dove e quando vuoi: collegati da smartphone, pc o tablet e ricevi il supporto dei migliori psicologi e psicoterapeuti in totale comodità e sicurezza.",
-          "button": {
-            "link": "https://hubspot-link-placeholder",
-            "text": "Prenota il videoconsulto"
-          }
-        }
-      ]
-    },
-    "trattamenti": {
-      "sectionTitle": "I nostri psicologi online si occupano di ",
-      "list": [
-        {
-          "title": "Ansia",
-          "description": "Paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
-        },
-        {
-          "title": "Sofferenza psicologica",
-          "description": "Stress, mobbing, burnout"
-        },
-        {
-          "title": "Dipendenze",
-          "description": "Affettiva, alcol, droga, gioco d’azzardo (ludopatia), social network, videogiochi, sesso"
-        },
-        {
-          "title": "Depressione",
-          "description": "Lutto, divorzio, fine relazione, patologie, malati oncologici, malattie croniche"
-        },
-        {
-          "title": "Disturbo della personalità",
-          "description": "Disturbo ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
-        },
-        {
-          "title": "Disturbi alimentari",
-          "description": "Anoressia, bulimia, fame compulsiva (binge-eating)"
-        },
-        {
-          "title": "Terapia di coppia",
-          "description": "Coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, frustrazione"
-        },
-        {
-          "title": "Terapia familiare",
-          "description": "Conflittualità familiari, disagi dell’età adolescenziale e pre-adolescenziale"
-        }
-      ]
-    },
-    "solutions": [
+  "metaDescription": {
+    "title": "Psicologo e Psicoterapeuta online",
+    "description": "Psicologi e psicoterapeuti per ansia, depressione, disturbi psicologici, 7 giorni su 7, nessuna lista d'attesa."
+  },
+  "subheader": {
+    "titleBig": "Psicologo e Psicoterapeuta online",
+    "description1": "Con EpiCura puoi consultare i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet.",
+    "description2": " Prenota in pochi clic e ritrova adesso la tua serenità. "
+  },
+  "come_funziona": {
+    "title": "Psicologo online, come funziona",
+    "cards": [
       {
-        "title": "Continua la terapia con un percorso su misura",
-        "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato?<br/>Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
-        "startingFromText": "",
-        "solutionsBig": [
-          {
-            "code": "psychotherapyMonthlySubscription2Sessions",
-            "title": "Percorso basic",
-            "text": "Inizia il tuo percorso con 2 videosedute mensili.<br /><br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te. ",
-            "startingFrom": false,
-            "hideDiscount": true,
-            "button": {
-              "text": "Parla con un tutor",
-              "link": "/"
-            },
-            "bottomText": {
-              "text": "Pacchetto base",
-              "highlighted": false
-            }
-          },
-          {
-            "code": "psychotherapyMonthlySubscription3Sessions",
-            "title": "Percorso plus",
-            "text": "Questo percorso ti consente di accedere a 3 videosedute mensili, comodamente da smartphone, pc o tablet.<br /><br />Ideale per chi si approccia per la prima volta alla terapia psicologica. ",
-            "startingFrom": false,
-            "button": {
-              "text": "Parla con un tutor",
-              "link": "/"
-            },
-            "bottomText": {
-              "text": "Risparmi ",
-              "highlighted": true,
-              "showDiscount": true
-            }
-          },
-          {
-            "code": "psychotherapyMonthlySubscription4Sessions",
-            "title": "Percorso standard",
-            "text": "Percorso terapeutico che comprende 4 videosedute mensili, particolarmente efficace per lavorare su sofferenze e disturbi di lungo periodo.<br /><br />Ideale per un supporto psicologico costante.",
-            "startingFrom": false,
-            "button": {
-              "text": "Parla con un tutor",
-              "link": "/"
-            },
-            "bottomText": {
-              "text": "Risparmi ",
-              "highlighted": true,
-              "showDiscount": true
-            }
-          }
-        ]
+        "image": {
+          "path": "common",
+          "name": "videoseduta"
+        },
+        "title": "Inizia dal videoconsulto a 25€",
+        "text": "Inizia la terapia con un videoconsulto a soli 25 Euro: potrai confrontarti con un professionista scelto apposta per te, che ti guiderà nei primi passi del percorso terapeutico comodamente da pc, smartphone o tablet.",
+        "button": {
+          "link": "https://hubspot-link-placeholder",
+          "text": "Prenota il videoconsulto"
+        }
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "booking"
+        },
+        "title": "Scegli il percorso più adatto",
+        "text": "Dopo aver effettuato il primo videoconsulto, potrai decidere come continuare il percorso terapeutico: parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
+        "button": {
+          "link": "https://hubspot-link-placeholder",
+          "text": "Prenota il videoconsulto"
+        }
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "follow-up"
+        },
+        "title": "Fai terapia comodamente online",
+        "text": "Con EpiCura potrai accedere alle videosedute 7 giorni su 7, dove e quando vuoi: collegati da smartphone, pc o tablet e ricevi il supporto dei migliori psicologi e psicoterapeuti in totale comodità e sicurezza.",
+        "button": {
+          "link": "https://hubspot-link-placeholder",
+          "text": "Prenota il videoconsulto"
+        }
       }
-    ],
-    "psyco_advantages": {
-      "title": "I vantaggi dello psicologo online EpiCura",
-      "list": [
+    ]
+  },
+  "trattamenti": {
+    "sectionTitle": "I nostri psicologi online si occupano di ",
+    "list": [
+      {
+        "title": "Ansia",
+        "description": "Paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
+      },
+      {
+        "title": "Sofferenza psicologica",
+        "description": "Stress, mobbing, burnout"
+      },
+      {
+        "title": "Dipendenze",
+        "description": "Affettiva, alcol, droga, gioco d’azzardo (ludopatia), social network, videogiochi, sesso"
+      },
+      {
+        "title": "Depressione",
+        "description": "Lutto, divorzio, fine relazione, patologie, malati oncologici, malattie croniche"
+      },
+      {
+        "title": "Disturbo della personalità",
+        "description": "Disturbo ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
+      },
+      {
+        "title": "Disturbi alimentari",
+        "description": "Anoressia, bulimia, fame compulsiva (binge-eating)"
+      },
+      {
+        "title": "Terapia di coppia",
+        "description": "Coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, frustrazione"
+      },
+      {
+        "title": "Terapia familiare",
+        "description": "Conflittualità familiari, disagi dell’età adolescenziale e pre-adolescenziale"
+      }
+    ]
+  },
+  "solutions": [
+    {
+      "title": "Continua la terapia con un percorso su misura",
+      "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato?<br />Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
+      "startingFromText": "",
+      "solutionsBig": [
         {
-          "image": { "path": "common", "name": "videoconsulto" },
-          "title": "Dove vuoi, in totale sicurezza",
-          "description": "Accedi alla tua videoseduta dove e quando vuoi, da smartphone, pc o tablet. Il nostro servizio è strutturato a completa garanzia della tua privacy."
+          "code": "psychotherapyMonthlySubscription2Sessions",
+          "title": "Percorso basic",
+          "text": "Inizia il tuo percorso con 2 videosedute mensili.<br /><br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te. ",
+          "startingFrom": false,
+          "hideDiscount": true,
+          "button": {
+            "text": "Parla con un tutor",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Pacchetto base",
+            "highlighted": false
+          }
         },
         {
-          "image": { "path": "psychology", "name": "tram" },
-          "title": "Evita scomodi spostamenti",
-          "description": "EpiCura ti permette di accedere alle videosedute in modo semplice e rapido, ovunque tu sia, senza necessità di recarti nello studio del professionista."
+          "code": "psychotherapyMonthlySubscription3Sessions",
+          "title": "Percorso plus",
+          "text": "Questo percorso ti consente di accedere a 3 videosedute mensili, comodamente da smartphone, pc o tablet.<br /><br />Ideale per chi si approccia per la prima volta alla terapia psicologica. ",
+          "startingFrom": false,
+          "button": {
+            "text": "Parla con un tutor",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
         },
         {
-          "image": { "path": "common", "name": "credit-card" },
-          "title": "Paga comodamente online",
-          "description": "Con EpiCura puoi prenotare e pagare comodamente da sito, in pochi clic e in totale sicurezza, con carta di credito, bancomat oppure prepagata."
-        }
-      ]
-    },
-    "advantages": {
-      "title": "I migliori psicologi e psicoterapeuti online",
-      "subtitle": "Un servizio comodo, flessibile, affidabile",
-      "list": [
-        {
-          "image": { "path": "common", "name": "professionist" },
-          "title": "Solo professionisti qualificati",
-          "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
-        },
-        {
-          "image": { "path": "common", "name": "certificate" },
-          "title": "La tua soddisfazione è la nostra priorità",
-          "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
-        },
-        {
-          "image": { "path": "common", "name": "operator" },
-          "title": "Siamo sempre al tuo fianco",
-          "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
-        }
-      ]
-    },
-    "test": {
-      "title": "Ansia, stress, depressione? Scoprilo con un test.",
-      "text": "Irritabilità, tristezza, angoscia: è solo un momento o c'è qualcosa di più? Analizza i sintomi con i nostri test e inizia un percorso su misura per recuperare serenità.",
-      "image": { "path": "psychology", "name": "test" },
-      "list": [
-        {
-          "name": "Test ansia",
-          "link": "https://hubspot-link-placeholder"
-        },
-        {
-          "name": "Test stress",
-          "link": "https://hubspot-link-placeholder"
-        },
-        {
-          "name": "Test depressione",
-          "link": "https://hubspot-link-placeholder"
+          "code": "psychotherapyMonthlySubscription4Sessions",
+          "title": "Percorso standard",
+          "text": "Percorso terapeutico che comprende 4 videosedute mensili, particolarmente efficace per lavorare su sofferenze e disturbi di lungo periodo.<br /><br />Ideale per un supporto psicologico costante.",
+          "startingFrom": false,
+          "button": {
+            "text": "Parla con un tutor",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
         }
       ]
     }
+  ],
+  "psyco_advantages": {
+    "title": "I vantaggi dello psicologo online EpiCura",
+    "list": [
+      {
+        "image": { "path": "common", "name": "videoconsulto" },
+        "title": "Dove vuoi, in totale sicurezza",
+        "description": "Accedi alla tua videoseduta dove e quando vuoi, da smartphone, pc o tablet. Il nostro servizio è strutturato a completa garanzia della tua privacy."
+      },
+      {
+        "image": { "path": "psychology", "name": "tram" },
+        "title": "Evita scomodi spostamenti",
+        "description": "EpiCura ti permette di accedere alle videosedute in modo semplice e rapido, ovunque tu sia, senza necessità di recarti nello studio del professionista."
+      },
+      {
+        "image": { "path": "common", "name": "credit-card" },
+        "title": "Paga comodamente online",
+        "description": "Con EpiCura puoi prenotare e pagare comodamente da sito, in pochi clic e in totale sicurezza, con carta di credito, bancomat oppure prepagata."
+      }
+    ]
+  },
+  "advantages": {
+    "title": "I migliori psicologi e psicoterapeuti online",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "list": [
+      {
+        "image": { "path": "common", "name": "professionist" },
+        "title": "Solo professionisti qualificati",
+        "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
+      },
+      {
+        "image": { "path": "common", "name": "certificate" },
+        "title": "La tua soddisfazione è la nostra priorità",
+        "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
+      },
+      {
+        "image": { "path": "common", "name": "operator" },
+        "title": "Siamo sempre al tuo fianco",
+        "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
+      }
+    ]
+  },
+  "test": {
+    "title": "Ansia, stress, depressione? Scoprilo con un test.",
+    "text": "Irritabilità, tristezza, angoscia: è solo un momento o c'è qualcosa di più? Analizza i sintomi con i nostri test e inizia un percorso su misura per recuperare serenità.",
+    "image": { "path": "psychology", "name": "test" },
+    "list": [
+      {
+        "name": "Test ansia",
+        "link": "https://hubspot-link-placeholder"
+      },
+      {
+        "name": "Test stress",
+        "link": "https://hubspot-link-placeholder"
+      },
+      {
+        "name": "Test depressione",
+        "link": "https://hubspot-link-placeholder"
+      }
+    ]
   }
-  
+}
