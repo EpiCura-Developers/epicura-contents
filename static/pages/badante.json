@@ -15,17 +15,17 @@
   "services": [
     {
       "name": "Badante diurna",
-      "link": "/badante-diurna/",
+      "link": "/badante/badante-diurna/",
       "discipline": "badante"
     },
     {
       "name": "Badante notturna",
-      "link": "/badante-notturna/",
+      "link": "/badante/badante-notturna/",
       "discipline": "badante"
     },
     {
       "name": "Badante convivente",
-      "link": "/badante-convivente/",
+      "link": "/badante/badante-convivente/",
       "discipline": "badante"
     },
     {
@@ -180,7 +180,7 @@
           "price": "1344 Euro",
           "button": {
             "text": "Scopri di più",
-            "link": "/badante-convivente/"
+            "link": "/badante/badante-convivente/"
           },
           "bottomText": {
             "text": "Servizio attivo in tutta Italia",
@@ -197,7 +197,7 @@
           "price": "682 Euro",
           "button": {
             "text": "Scopri di più",
-            "link": "/badante-diurna/"
+            "link": "/badante/badante-diurna/"
           },
           "bottomText": {
             "text": "Servizio attivo in tutta Italia",
@@ -214,7 +214,7 @@
           "price": "1122 Euro",
           "button": {
             "text": "Scopri di più",
-            "link": "/badante-notturna/"
+            "link": "/badante/badante-notturna/"
           },
           "bottomText": {
             "text": "Servizio attivo in tutta Italia",

@@ -430,17 +430,17 @@
               "option-is-new": false
             },
             {
-              "option-link": "/badante/",
+              "option-link": "/badante/badante-convivente/",
               "option-label": "Convivente",
               "option-is-new": false
             },
             {
-              "option-link": "/badante/",
+              "option-link": "/badante/badante-diurna/",
               "option-label": "Solo di giorno",
               "option-is-new": false
             },
             {
-              "option-link": "/badante/",
+              "option-link": "/badante/badante-notturna/",
               "option-label": "Solo di notte",
               "option-is-new": false
             },
