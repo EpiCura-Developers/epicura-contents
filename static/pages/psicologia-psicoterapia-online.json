@@ -19,7 +19,7 @@
         "title": "Inizia dal videoconsulto a 25€",
         "text": "Inizia la terapia con un videoconsulto a soli 25 Euro: potrai confrontarti con un professionista scelto apposta per te, che ti guiderà nei primi passi del percorso terapeutico comodamente da pc, smartphone o tablet.",
         "button": {
-          "link": "https://hubspot-link-placeholder",
+          "link": "/teleconsulting/?discipline=psychology",
           "text": "Prenota il videoconsulto"
         }
       },
@@ -31,7 +31,7 @@
         "title": "Scegli il percorso più adatto",
         "text": "Dopo aver effettuato il primo videoconsulto, potrai decidere come continuare il percorso terapeutico: parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
         "button": {
-          "link": "https://hubspot-link-placeholder",
+          "link": "/teleconsulting/?discipline=psychology",
           "text": "Prenota il videoconsulto"
         }
       },
@@ -43,7 +43,7 @@
         "title": "Fai terapia comodamente online",
         "text": "Con EpiCura potrai accedere alle videosedute 7 giorni su 7, dove e quando vuoi: collegati da smartphone, pc o tablet e ricevi il supporto dei migliori psicologi e psicoterapeuti in totale comodità e sicurezza.",
         "button": {
-          "link": "https://hubspot-link-placeholder",
+          "link": "/teleconsulting/?discipline=psychology",
           "text": "Prenota il videoconsulto"
         }
       }
