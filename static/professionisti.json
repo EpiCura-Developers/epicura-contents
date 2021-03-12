@@ -568,84 +568,104 @@
               }
           },
           {
-            "name": "PLACEHOLDER",
+            "name": "Agnese P.",
             "discipline": "assistente-domiciliare",
             "discipline_label": "Assistente domiciliare",
             "prestazioni": [],
             "image": {
-                "path": "common",
-                "name": "placeholder-pro"
-              }
+              "path": "specialists",
+              "name": "agnese-pisano"
+            }
           },
           {
-            "name": "PLACEHOLDER",
+            "name": "Annamaria M.",
             "discipline": "assistente-domiciliare",
             "discipline_label": "Assistente domiciliare",
             "prestazioni": [],
             "image": {
-                "path": "common",
-                "name": "placeholder-pro"
-              }
+              "path": "specialists",
+              "name": "annamaria-mattiacci"
+            }
           },
           {
-            "name": "PLACEHOLDER",
+            "name": "Antonio E.",
             "discipline": "assistente-domiciliare",
             "discipline_label": "Assistente domiciliare",
             "prestazioni": [],
             "image": {
-                "path": "common",
-                "name": "placeholder-pro"
-              }
+              "path": "specialists",
+              "name": "antonio-esposito"
+            }
           },
           {
-            "name": "PLACEHOLDER",
+            "name": "Derrick T.",
             "discipline": "assistente-domiciliare",
             "discipline_label": "Assistente domiciliare",
             "prestazioni": [],
             "image": {
-                "path": "common",
-                "name": "placeholder-pro"
-              }
+              "path": "specialists",
+              "name": "derrick-tasto"
+            }
           },
           {
-            "name": "PLACEHOLDER",
-            "discipline": "badante",
-            "discipline_label": "Badante",
+            "name": "Lauraine K.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
             "prestazioni": [],
             "image": {
-                "path": "common",
-                "name": "placeholder-pro"
-              }
+              "path": "specialists",
+              "name": "lauraine-koassou"
+            }
           },
           {
-            "name": "PLACEHOLDER",
-            "discipline": "badante",
-            "discipline_label": "Badante",
+            "name": "Lise N.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
             "prestazioni": [],
             "image": {
-                "path": "common",
-                "name": "placeholder-pro"
-              }
+              "path": "specialists",
+              "name": "lise-nuel"
+            }
           },
           {
-            "name": "PLACEHOLDER",
-            "discipline": "badante",
-            "discipline_label": "Badante",
+            "name": "Marina R.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
             "prestazioni": [],
             "image": {
-                "path": "common",
-                "name": "placeholder-pro"
-              }
+              "path": "specialists",
+              "name": "marina-ricca"
+            }
           },
           {
-            "name": "PLACEHOLDER",
-            "discipline": "badante",
-            "discipline_label": "Badante",
+            "name": "Morena R.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
             "prestazioni": [],
             "image": {
-                "path": "common",
-                "name": "placeholder-pro"
-              }
+              "path": "specialists",
+              "name": "morena-russo"
+            }
+          },
+          {
+            "name": "Veronica A.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "veronica-affatato"
+            }
+          },
+          {
+            "name": "Vincenzo S.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "vincenzo-schiano"
+            }
           }
       ]
 }
