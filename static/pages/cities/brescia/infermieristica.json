@@ -19,7 +19,7 @@
           "path": "common",
           "name": "booking"
         },
-        "title": "Prenota in pochi click",
+        "title": "Prenota in pochi clic",
         "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
       },
       {
@@ -40,51 +40,6 @@
     "description1": "EpiCura porta i migliori infermieri comodamente a domicilio, in tutta Brescia e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
     "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa.",
     "askInfoButtonText": "Prenota ora"
-  },
-  "trattamenti": {
-    "sectionTitle": "I nostri infermieri a domicilio si occupano di",
-    "list": [
-      {
-        "title": "Inizione intramuscolare o sottocutanea",
-        "description": ""
-      },
-      {
-        "title": "Rimozione punti di sutura e metallici",
-        "description": ""
-      },
-      {
-        "title": "Rilevazione parametri vitali",
-        "description": ""
-      },
-      {
-        "title": "Terapia endovenosa",
-        "description": ""
-      },
-      {
-        "title": "Clistere",
-        "description": ""
-      },
-      {
-        "title": "Cateterismo vescicale",
-        "description": ""
-      },
-      {
-        "title": "Assistenza per stomie",
-        "description": ""
-      },
-      {
-        "title": "Medicazione semplice",
-        "description": ""
-      },
-      {
-        "title": "Medicazione complessa",
-        "description": ""
-      },
-      {
-        "title": "Cannula tracheostomale (pulizia e manutenzione)",
-        "description": ""
-      }
-    ]
   },
   "advantages": {
     "title": "I migliori infermieri a domicilio entro 24 ore",
