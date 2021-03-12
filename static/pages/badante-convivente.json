@@ -9,8 +9,8 @@
     "professionistaUrl": "",
     "titleBig": "Badante convivente nella tua città",
     "subtitleBig": "",
-    "description1": "Servizi di assistenza domiciliare per anziani, disabili e malati, autosufficienti e non. Badanti per assistenze diurne, assistenze notturne, badanti conviventi.",
-    "askInfoButtonText": "Richiedi consulenza"
+    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br/> Scopri le nostre soluzioni di assistenza, senza costi di attivazione.",
+    "askInfoButtonText": "Richiedi preventivo gratuito"
   },
   "services": [
     {
@@ -81,18 +81,19 @@
   ],
   "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",
   "check_list": {
-    "title": "Specifiche contratto",
+    "title": "Il servizio di badante convivente comprende:",
     "list": [
-      "Lorem ipsum dolor sit.",
-      "Lorem ipsum dolor sit.",
-      "Lorem ipsum dolor sit.",
-      "Lorem ipsum dolor sit."
+      "Attivazione gratuita: il pagamento viene corrisposto dopo l'inserimento della badante in famiglia.",
+      "Servizio di ricerca e selezione: i candidati vengono scelti in base alle esigenze comunicate in fase di consulenza.",
+      "Sostituzione gratuita: garantiamo la sostituzione della badante in caso di infortuni, ferie o licenziamenti, senza costi aggiuntivi.",
+      "Detrazione fiscale dell'importo: detraibilità garantita secondo i massimali di legge.",
+      "Gestione burocratica: ci occupiamo totalmente della parte contrattuale, sgravando la famiglia da incombenze gestionali."
     ],
     "footer": {
       "text": "A partire da",
-      "price": "682€",
+      "price": "1.344€",
       "button": {
-        "text": "Richiedi consulenza",
+        "text": "Richiedi preventivo gratuito",
         "link": "https://hubspot-link-placeholder"
       }
     }
@@ -127,8 +128,8 @@
     ]
   },
   "come_funziona": {
-    "title": "Selezioniamo solo profili certificati e con comprovata esperienza",
-    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+    "title": "Lavoriamo solo con badanti qualificate",
+    "text": "Soltanto il 10% dei candidati passa i nostri rigidi processi di selezione, garantendoti un servizio di qualità.",
     "cards": [
       {
         "image": {
@@ -136,7 +137,7 @@
           "name": "requirement"
         },
         "title": "VERIFICA DEI REQUISITI",
-        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+        "text": "Verifichiamo nel dettaglio i requisiti minimi d'accesso di tutti i candidati, selezionando solo personale con esperienza e qualificato."
       },
       {
         "image": {
@@ -144,15 +145,15 @@
           "name": "colloquio"
         },
         "title": "COLLOQUIO E VERIFICA REFERENZE",
-        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+        "text": "Attraverso il colloquio, eseguito da personale qualificato, i candidati attraversano una doppia verifica dove vengono accertate le referenze."
       },
       {
         "image": {
           "path": "common",
           "name": "verify"
         },
-        "title": "VERIFICA PROFILO CON LA FAMIGLIA",
-        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+        "title": "INCONTRO CON LA FAMIGLIA",
+        "text": "Selezionati i migliori candidati, le badanti affrontano un colloquio conoscitivo con la famiglia, che sceglierà il profilo più adeguato per le proprie esigenze."
       }
     ]
   },
@@ -205,13 +206,13 @@
     },
   "familyTutor": {
     "bkg-color": "#F5F8FF",
-    "title": "Indeciso? Parla con il nostro family tutor.",
-    "content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+    "title": "Cerchi una badante? <br/> Chiedi al family tutor.",
+    "content": "Se un tuo caro ha bisogno di assistenza ma non sai da dove iniziare, i nostri consulenti sono a disposizione per ascoltare le tue esigenze e guidarti verso il percorso assistenziale più adeguato. <br/> Ritrova serenità, prenota adesso un colloquio gratuito.",
     "image": {
       "path": "caregiver",
       "name": "family-tutor"
     },
-    "button-text": "Prenota un appuntamento",
+    "button-text": "Prenota un colloquio gratuito",
     "button-link": "https://hubspot-link-placeholder"
   },
   "discount": {
