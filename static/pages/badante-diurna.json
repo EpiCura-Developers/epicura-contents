@@ -9,7 +9,7 @@
     "professionistaUrl": "",
     "titleBig": "Badante diurna nella tua città",
     "subtitleBig": "",
-    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio, in ospedale o in casa di riposo con badanti qualificate e referenziate. </ br>Scopri le nostre soluzioni di assistenza, senza costi di attivazione.",
+    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br />Scopri le nostre soluzioni di assistenza, senza costi di attivazione.",
     "askInfoButtonText": "Richiedi preventivo gratuito"
   },
   "services": [
@@ -99,7 +99,7 @@
     }
   },
   "talks_about_us": {
-    "title":"Parlano di noi",
+    "title": "Parlano di noi",
     "list": [
       {
         "image": {
@@ -159,51 +159,51 @@
   },
   "caregiverTasks": {
     "title": "Cosa fa la badante diurna? Ecco le principali mansioni",
-      "tasks": [
-        {
-          "image": {
-            "path": "caregiver",
-            "name": "meal"
-          },
-          "text": "Prepara i pasti e fornisce supporto per la loro assunzione"
+    "tasks": [
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "meal"
         },
-        {
-          "image": {
-            "path": "caregiver",
-            "name": "cleaning"
-          },
-          "text": "Aiuta nella gestione delle attività giornaliere e di pulizia della casa"
+        "text": "Prepara i pasti e fornisce supporto per la loro assunzione"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "cleaning"
         },
-        {
-          "image": {
-            "path": "caregiver",
-            "name": "hygiene"
-          },
-          "text": "Veste la persona e ne garantisce la cura e l'igiene quotidiana"
+        "text": "Aiuta nella gestione delle attività giornaliere e di pulizia della casa"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "hygiene"
         },
-        {
-          "image": {
-            "path": "caregiver",
-            "name": "cognitive-func"
-          },
-          "text": "Stimola le capacità comunicative e l’attività motoria all’aperto"
+        "text": "Veste la persona e ne garantisce la cura e l'igiene quotidiana"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "cognitive-func"
         },
-        {
-          "image": {
-            "path": "caregiver",
-            "name": "drugs"
-          },
-          "text": "Supporta nell’assunzione di terapie e accompagna alle visite"
+        "text": "Stimola le capacità comunicative e l’attività motoria all’aperto"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "drugs"
         },
-        {
-          "image": {
-            "path": "caregiver",
-            "name": "24h-supervision"
-          },
-          "text": "Monitora e sorveglia la persona assistita con cura e costanza"
-        }
-      ]
-    },
+        "text": "Supporta nell’assunzione di terapie e accompagna alle visite"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "24h-supervision"
+        },
+        "text": "Monitora e sorveglia la persona assistita con cura e costanza"
+      }
+    ]
+  },
   "familyTutor": {
     "bkg-color": "#F5F8FF",
     "title": "Cerchi una badante? Chiedi al family tutor.",
