@@ -9,26 +9,26 @@
       {
         "image": {
           "path": "common",
-          "name": "stetofonendoscopio"
+          "name": "stetofonendoscopio-cane"
         },
-        "title": "Scegli la soluzione",
-        "text": "EpiCura offre un’ampia scelta di servizi per permetterti di trovare esattamente ciò di cui hai bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te e al tuo animale."
+        "title": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura al meglio del tuo amico a quattro zampe. Scegli il pacchetto più adatto, noi troveremo il miglior veterinario per soddisfare le sue esigenze."
       },
       {
         "image": {
           "path": "common",
           "name": "booking"
         },
-        "title": "Prenota la seduta",
-        "text": "Contattaci o prenota direttamente online e troveremo il miglior specialista per il tuo caso che ti guiderà nel percorso terapeutico del tuo animale. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità"
+        "title": "Prenota in pochi clic",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
       },
       {
         "image": {
           "path": "common",
-          "name": "migliora-salute"
+          "name": "love-home"
         },
-        "title": "Migliora la sua salute",
-        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo animale. Potrai contattarci per qualunque esigenza."
+        "title": "Ricevi il veterinario a domicilio",
+        "text": "I nostri veterinari ti raggiungono dove e quando vuoi, 7 giorni su 7. Con EpiCura avrai la certezza di ricevere interventi solo dai migliori professionisti, per prenderti cura del tuo amico a quattro zampe senza pensieri."
       }
     ]
   },

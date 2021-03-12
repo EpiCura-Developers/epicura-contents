@@ -20,7 +20,7 @@
           "path": "common",
           "name": "booking"
         },
-        "title": "Prenota in pochi click",
+        "title": "Prenota in pochi clic",
         "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata."
       },
       {
@@ -41,43 +41,6 @@
     "description1": "Per sentirsi sereni e sicuri 7 giorni su 7, anche in orari serali.",
     "description2": "EpiCura porta gli interventi infermieristici ovunque tu ne abbia bisogno, in tutta Firenze e area metropolitana, in qualunque giorno e orario tu voglia.",
     "askInfoButtonText": "Richiedi informazioni"
-  },
-  "trattamenti": {
-    "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
-    "list": [
-      {
-        "title": "Clistere",
-        "description": "Intervento infermieristico per l’applicazione del clistere. Disponibilità di infermieri esperti, 7 giorni su 7, per alleggerire l’intestino, diminuire il gonfiore e risolvere forti irregolarità intestinali."
-      },
-      {
-        "title": "Iniezione",
-        "description": "Intervento infermieristico per iniezioni sottocutanee e intramuscolari. Disponibilità di infermieri esperti, 7 giorni su 7, in tutta Firenze e area metropolitana, per la somministrazione di farmaci prescritti."
-      },
-      {
-        "title": "Flebo",
-        "description": "Intervento infermieristico a domicilio per l’applicazione della flebo per scopi terapeutici e nutrizionali. Prestazione erogata tempestivamente, 7 giorni su 7 in tutta Firenze e periferia."
-      },
-      {
-        "title": "Gestione stomie",
-        "description": "Intervento infermieristico a domicilio o in ospedale per la gestione della stomia a seguito di un intervento chirurgico. Prestazione erogata da professionisti specializzati, 7 giorni su 7 in tutta Firenze e periferia."
-      },
-      {
-        "title": "Cateterismi",
-        "description": "Intervento infermieristico per l’applicazione o la rimozione di cateteri vescicali. Prestazione erogata da professionisti specializzati, entro 24 ore dalla richiesta, 7 giorni su 7, in tutta Firenze e periferia."
-      },
-      {
-        "title": "Rimozione punti di sutura",
-        "description": "Intervento infermieristico per la rimozione di punti di sutura, 7 giorni su 7, entro 24 ore dalla richiesta, anche in orari serali. Per garantire all’assistito un intervento repentino, sicuro ed efficace."
-      },
-      {
-        "title": "Rilevazione parametri vitali",
-        "description": "Intervento infermieristico per la rilevazione dei parametri vitali come battito cardiaco, pressione e temperatura. Per controllare lo stato di salute dell’assistito in qualsiasi momento e giorno della settimana."
-      },
-      {
-        "title": "Somministrazione terapie",
-        "description": "Intervento infermieristico per la somministrazione di terapie farmacologiche di vario genere. Per rispondere alle esigenze dell’assistito, 7 giorni su 7, in tutta Firenze e area metropolitana."
-      }
-    ]
   },
   "solutions": [
     {
