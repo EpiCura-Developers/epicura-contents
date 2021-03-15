@@ -149,7 +149,7 @@
           "startingFrom": true,
           "price": "14€",
           "button": {
-            "text": "Prenota ora",
+            "text": "Richiedi preventivo gratuito",
             "link": "/"
           }
         },
@@ -160,7 +160,7 @@
           "oldPrice": "900€",
           "price": "682€",
           "button": {
-            "text": "Prenota ora",
+            "text": "Richiedi preventivo gratuito",
             "link": "/"
           },
           "bottomText": {
@@ -175,7 +175,7 @@
           "oldPrice": "1300€",
           "price": "1030€",
           "button": {
-            "text": "Prenota ora",
+            "text": "Richiedi preventivo gratuito",
             "link": "/"
           },
           "bottomText": {

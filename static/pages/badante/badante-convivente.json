@@ -16,14 +16,15 @@
   "check_list": {
     "title": "Specifiche contratto",
     "list": [
-      "Lorem ipsum dolor sit.",
-      "Lorem ipsum dolor sit.",
-      "Lorem ipsum dolor sit.",
-      "Lorem ipsum dolor sit."
+      "Attivazione gratuita: il pagamento viene corrisposto dopo l'inserimento della badante in famiglia.",
+      "Servizio di ricerca e selezione: i candidati vengono scelti in base alle esigenze comunicate in fase di consulenza.",
+      "Sostituzione gratuita: garantiamo la sostituzione della badante in caso di infortuni, ferie o licenziamenti, senza costi aggiuntivi.",
+      "Detrazione fiscale dell'importo: detraibilità garantita secondo i massimali di legge.",
+      "Gestione burocratica: ci occupiamo totalmente della parte contrattuale, sgravando la famiglia da incombenze gestionali."
     ],
     "footer": {
       "text": "A partire da",
-      "price": "682€",
+      "price": "1.344€",
       "button": {
         "text": "Richiedi consulenza",
         "link": "https://hubspot-link-placeholder"
