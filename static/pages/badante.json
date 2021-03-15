@@ -5,27 +5,27 @@
   },
   "subheader": {
     "prenotaOnlineText": "Richiedi preventivo gratuito",
+    "prenotaUrl": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs",
     "professionistaText": "",
     "professionistaUrl": "",
     "titleBig": "Badanti e assistenti a ore per anziani, malati e disabili",
     "subtitleBig": "",
-    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio di anziani, malati e disabili, in ospedale o in casa di riposo con badanti qualificate e referenziate. </ br>Scopri le nostre soluzioni di assistenza, senza costi di attivazione.",
-    "askInfoButtonText": "Richiedi consulenza"
+    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio di anziani, malati e disabili, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br />Scopri le nostre soluzioni di assistenza, senza costi di attivazione."
   },
   "services": [
     {
       "name": "Badante diurna",
-      "link": "/badante-diurna/",
+      "link": "/badante/badante-diurna/",
       "discipline": "badante"
     },
     {
       "name": "Badante notturna",
-      "link": "/badante-notturna/",
+      "link": "/badante/badante-notturna/",
       "discipline": "badante"
     },
     {
       "name": "Badante convivente",
-      "link": "/badante-convivente/",
+      "link": "/badante/badante-convivente/",
       "discipline": "badante"
     },
     {
@@ -135,7 +135,7 @@
         "text": "Attraverso una consulenza dedicata, i nostri Family Tutor individueranno le necessità della tua famiglia, costruendo un piano assistenziale su misura.",
         "button": {
           "text": "Richiedi preventivo gratuito",
-          "link": "https://hubspot-link-placeholder"
+          "link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs"
         }
       },
       {
@@ -147,7 +147,7 @@
         "text": "In base alle tue richieste, ci occuperemo di trovare le persone più idonee da presentarti. Lavoriamo solo con personale esperto e referenziato.",
         "button": {
           "text": "Richiedi preventivo gratuito",
-          "link": "https://hubspot-link-placeholder"
+          "link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs"
         }
       },
       {
@@ -159,7 +159,7 @@
         "text": "EpiCura si occupa totalmente della gestione burocratica e fiscale, sollevandoti da ogni incombenza gestionale, per offrirti un servizio 'senza pensieri'.",
         "button": {
           "text": "Richiedi preventivo gratuito",
-          "link": "https://hubspot-link-placeholder"
+          "link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs"
         }
       }
     ]
@@ -180,7 +180,7 @@
           "price": "1344 Euro",
           "button": {
             "text": "Scopri di più",
-            "link": "/badante-convivente/"
+            "link": "/badante/badante-convivente/"
           },
           "bottomText": {
             "text": "Servizio attivo in tutta Italia",
@@ -197,7 +197,7 @@
           "price": "682 Euro",
           "button": {
             "text": "Scopri di più",
-            "link": "/badante-diurna/"
+            "link": "/badante/badante-diurna/"
           },
           "bottomText": {
             "text": "Servizio attivo in tutta Italia",
@@ -214,7 +214,7 @@
           "price": "1122 Euro",
           "button": {
             "text": "Scopri di più",
-            "link": "/badante-notturna/"
+            "link": "/badante/badante-notturna/"
           },
           "bottomText": {
             "text": "Servizio attivo in tutta Italia",
@@ -226,7 +226,7 @@
   ],
   "assistenza-ore": {
     "title": "Hai bisogno di assistenza a ore?",
-    "text": "L'assistenza a ore è ideale per persone autosufficienti e non che hanno bisogno di supporto solo in specifici giorni o per attività che non riescono a svolgere in autonomia (spesa, pulizia della casa, visite mediche). Il servizio è erogabile a partire da un minimo di 3 ore consecutive.",
+    "text": "L'assistenza a ore è ideale per persone autosufficienti e non, che hanno bisogno di supporto solo in specifici giorni o per attività che non riescono a svolgere in autonomia (spesa, pulizia della casa, visite mediche). Il servizio è erogabile a partire da un minimo di 3 ore consecutive.",
     "city": {
       "title": "Scopri il nostro servizio di assistenza a ore nella tua città:"
     }
@@ -240,103 +240,11 @@
       "name": "family-tutor"
     },
     "button-text": "PRENOTA UN COLLOQUIO GRATUITO",
-    "button-link": "https://hubspot-link-placeholder"
+    "button-link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs"
   },
   "ourCaregiver": {
     "title": "Badanti e assistenti domiciliari qualificati e referenziati",
-    "text": "Scegliamo con cura i nostri professionisti per garantirti serenità e affidabilità.",
-    "professionisti": [
-      {
-        "name": "Agnese P.",
-        "disciplina": "Assistente domiciliare",
-        "prestazioni": [],
-        "image": {
-          "path": "specialists",
-          "name": "agnese-pisano"
-        }
-      },
-      {
-        "name": "Annamaria M.",
-        "disciplina": "Assistente domiciliare",
-        "prestazioni": [],
-        "image": {
-          "path": "specialists",
-          "name": "annamaria-mattiacci"
-        }
-      },
-      {
-        "name": "Antonio E.",
-        "disciplina": "Assistente domiciliare",
-        "prestazioni": [],
-        "image": {
-          "path": "specialists",
-          "name": "antonio-esposito"
-        }
-      },
-      {
-        "name": "Derrick T.",
-        "disciplina": "Assistente domiciliare",
-        "prestazioni": [],
-        "image": {
-          "path": "specialists",
-          "name": "derrick-tasto"
-        }
-      },
-      {
-        "name": "Lauraine K.",
-        "disciplina": "Assistente domiciliare",
-        "prestazioni": [],
-        "image": {
-          "path": "specialists",
-          "name": "lauraine-koassou"
-        }
-      },
-      {
-        "name": "Lise N.",
-        "disciplina": "Assistente domiciliare",
-        "prestazioni": [],
-        "image": {
-          "path": "specialists",
-          "name": "lise-nuel"
-        }
-      },
-      {
-        "name": "Marina R.",
-        "disciplina": "Assistente domiciliare",
-        "prestazioni": [],
-        "image": {
-          "path": "specialists",
-          "name": "marina-ricca"
-        }
-      },
-      {
-        "name": "Morena R.",
-        "disciplina": "Assistente domiciliare",
-        "prestazioni": [],
-        "image": {
-          "path": "specialists",
-          "name": "morena-russo"
-        }
-      },
-      {
-        "name": "Veronica A.",
-        "disciplina": "Assistente domiciliare",
-        "prestazioni": [],
-        "image": {
-          "path": "specialists",
-          "name": "veronica-affatato"
-        }
-      },
-      {
-        "name": "Vincenzo S.",
-        "disciplina": "Assistente domiciliare",
-        "prestazioni": [],
-        "image": {
-          "path": "specialists",
-          "name": "vincenzo-schiano"
-        }
-      }
-    ]
+    "text": "Scegliamo con cura i nostri professionisti per garantirti serenità e affidabilità."
   },
   "caregiver": {
     "bkg-color": "#F5F8FF",
@@ -347,7 +255,7 @@
       "name": "homecare_subheader"
     },
     "button-text": "Candidati ora",
-    "button-link": "https://hubspot-link-placeholder"
+    "button-link": "https://app.ncoreplat.com/jobposition/109737/assistenti-familiari-it/ricerca-badanti"
   },
   "discount": {
     "title": "Prenotando un servizio di assistenza a ore o badante, ricevi subito il 10% di sconto su tutti i servizi EpiCura",

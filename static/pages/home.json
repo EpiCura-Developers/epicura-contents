@@ -4,14 +4,13 @@
     "description": "Medici, infermieri, veterinari, badanti e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7."
   },
   "site-relation-search-header": {
-    "site-search-header-title": "Vicini alla tua salute, senza liste d'attesa.",
-    "site-search-header-subtitle": "Prenota online medici, assistenti domiciliari, infermieri e terapisti,  a domicilio, in studio o in videoconsulto, 7 giorni su 7.",
+    "title": "Visite a domicilio, videoconsulti e assistenza domiciliare",
+    "subtitle": "Prenota in pochi clic servizi sanitari e socio-assistenziali, 7 giorni su 7, senza liste d'attesa. ",
+    "search-text": "Scopri i nostri servizi a domicilio",
     "site-search-header-img": {
       "path": "common",
       "name": "header_home"
     },
-    "site-search-header-input-title": "Come possiamo aiutarti?",
-    "site-search-header-services-title": "Scopri i nostri servizi",
     "site-search-header-relation-services": [
       {
         "section-title": "Assistenza domiciliare",
@@ -213,13 +212,13 @@
             "option-is-new": false
           },
           {
-            "option-link": "/psicologia-psicoterapia-online/",
+            "option-link": "/psicologo-psicoterapeuta-online/",
             "option-label": "Psicologo",
             "option-style-object-like": "",
             "option-is-new": false
           },
           {
-            "option-link": "/psicologia-psicoterapia-online/",
+            "option-link": "/psicologo-psicoterapeuta-online/",
             "option-label": "Psicoterapeuta",
             "option-style-object-like": "",
             "option-is-new": false
@@ -245,64 +244,63 @@
   },
   "site-landing-page-relation-section": [
     {
-      "site-discipline-section-title": "Per prendersi cura di anziani, malati e disabili*",
-      "site-discipline-section-description": "Servizi pensati per le esigenze di persone autosufficienti e non autosufficienti con differenti bisogni di assistenza e cura. <br /> Affida la salute dei tuoi cari a personale qualificato con EpiCura.",
+      "site-discipline-section-title": "Ricerca badanti* e assistenti domiciliari ad ore",
+      "site-discipline-section-description": "Servizi pensati per le esigenze di persone autosufficienti e non autosufficienti con differenti bisogni di assistenza e cura.<br /> Affida la salute dei tuoi cari a personale qualificato con EpiCura.",
       "site-discipline-placeholder-image": {
         "path": "common",
         "name": "old-lady"
       },
       "site-discipline-bkg-color": "#FFFCF8",
       "site-discipline-section-list": [
-        "assistente-domiciliare",
-        "infermiere",
-        "fisioterapista"
+        {
+          "title": "Scopri il servizio",
+          "link": "/badante/",
+          "image": {
+            "path": "caregiver",
+            "name": "caregiver"
+          },
+          "color": "#f8f3e9"
+        }
       ],
       "site-discipline-notes": "*Il servizio di badanti è attivo in tutta Italia."
     },
     {
-      "site-discipline-section-title": "Consulti specialistici da remoto",
-      "site-discipline-section-description": "Parla con uno specialista dove e quando vuoi, evitando scomodi spostamenti. <br /> Collegati da pc, smartphone o tablet e prenditi cura della tua salute in tempo reale. <br /> Il nostro servizio è disponibile 7 giorni su 7 e strutturato a completa garanzia della tua privacy.",
+      "site-discipline-section-title": "Videoconsulti specialistici online",
+      "site-discipline-section-description": "Parla con uno specialista dove e quando vuoi, evitando scomodi spostamenti.<br /> Collegati da pc, smartphone o tablet e prenditi cura della tua salute in tempo reale. Il nostro servizio è disponibile 7 giorni su 7 e strutturato a completa garanzia della tua privacy.",
       "site-discipline-placeholder-image": {},
       "site-discipline-bkg-color": "#FFF",
-      "site-discipline-section-list": ["videoconsulti", "psicologo-videoconsulto"],
-      "site-discipline-notes": ""
-    },
-    {
-      "site-discipline-section-title": "Per prevenire e curare i dolori muscolo-scheletrici",
-      "site-discipline-section-description": "Mal di schiena, cervicalgia, tensione muscolare: per dire addio al dolore (anche cronico) possono bastare poche sedute. <br /> Ritrova flessibilità nei movimenti, educando il tuo corpo a una corretta postura e sciogliendo le contratture.",
-      "site-discipline-placeholder-image": {
-        "path": "common",
-        "name": "pilates-girl"
-      },
-      "site-discipline-bkg-color": "#F5F8FF",
       "site-discipline-section-list": [
-        "fisioterapista",
-        "osteopata",
-        "massaggiatore-professionale"
+        {
+          "title": "Parla con un professionista",
+          "link": "/videoconsulti/",
+          "image": {
+            "path": "videoconsultation",
+        "name": "videoconsultation"
+          },
+          "color": "#F5F8FF"
+        }
       ],
       "site-discipline-notes": ""
     },
     {
-      "site-discipline-section-title": "Per il benessere di corpo e mente",
-      "site-discipline-section-description": "Il benessere mentale ha un importante impatto sul nostro corpo e viceversa. <br /> Ritrova il tuo equilibrio psicofisico, dedicando del tempo alla tua salute fisica e mentale: i nostri professionisti ascolteranno le tue esigenze e ti guideranno verso uno stile di vita più felice, sereno e in salute.",
-      "site-discipline-placeholder-image": {},
-      "site-discipline-bkg-color": "#FFF",
-      "site-discipline-section-list": [
-        "psicologo",
-        "nutrizionista",
-        "massaggiatore-professionale"
-      ],
-      "site-discipline-notes": ""
-    },
-    {
-      "site-discipline-section-title": "Per la salute degli animali domestici",
-      "site-discipline-section-description": "I nostri amici animali hanno bisogno di particolari cure e attenzioni. <br /> Con i servizi veterinari EpiCura potrai prenderti cura del tuo amico a quattro zampe <br> nel comfort di casa, senza stress per te e il tuo animale domestico. ",
+      "site-discipline-section-title": "Psicologia e psicoterapia online",
+      "site-discipline-section-description": "Con EpiCura puoi consultare i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet.<br /> Prenota in pochi clic e ritrova la tua serenità, con un servizio su misura a completa garanzia della tua privacy. ",
       "site-discipline-placeholder-image": {
         "path": "common",
-        "name": "veterinary-office"
+        "name": "psycho"
       },
       "site-discipline-bkg-color": "#F5F8FF",
-      "site-discipline-section-list": ["veterinario"],
+      "site-discipline-section-list": [
+        {
+          "title": "Inizia la terapia online",
+          "link": "/psicologo-psicoterapeuta-online/",
+          "image": {
+            "path": "psychology",
+            "name": "psychology"
+          },
+          "color":  "#FFE9A7"
+        }
+      ],
       "site-discipline-notes": ""
     }
   ],
@@ -316,15 +314,15 @@
   "site-landing-cta-big-list": [],
   "site-landing-cta-card-list": [
     {
-      "site-cta-card-title": "Sei un professionista?",
+      "site-cta-card-title": "Sei un medico o un professionista sanitario?",
       "site-cta-card-description": "Lavoriamo solo con personale qualificato e certificato, capace di rispondere a precisi criteri di selezione. <br /> Il nostro obiettivo è garantirti un servizio con elevati standard di qualità. <br /><br /> Con EpiCura la tua salute è nelle mani dei migliori professionisti!",
       "site-cta-card-btn-text": "Collaboriamo",
       "site-cta-card-btn-action": "/professionisti-lavoro/",
       "site-cta-card-btn-action-collaboration": "/professionisti-lavoro/",
-      "site-cta-card-bkg-color": "#F5F5F7",
+      "site-cta-card-bkg-color": "#FFE2ED",
       "site-cta-card-img-bkg": {
         "path": "common",
-        "name": "pro"
+        "name": "pro-group"
       }
     }
   ],

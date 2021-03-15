@@ -8,85 +8,18 @@
     "professionistaText": "",
     "professionistaUrl": "",
     "titleBig": "Assistenza a ore a Bologna",
-    "subtitleBig": "",
-    "description1": "EpiCura si prende cura di anziani, malati o disabili con assistenti domiciliari qualificati e con esperienza, che ti raggiungono a domicilio, in ospedale o in casa di riposo. <br/> Scopri le nostre soluzioni di assistenza a domicilio e ritrova serenità.",
+    "description1": "EpiCura si prende cura di anziani, malati o disabili con assistenti domiciliari qualificati e con esperienza, che ti raggiungono a domicilio, in ospedale o in casa di riposo. <br /> Scopri le nostre soluzioni di assistenza a domicilio e ritrova serenità.",
     "askInfoButtonText": "Richiedi preventivo gratuito"
   },
-  "services": [
-    {
-      "name": "Badante diurna",
-      "link": "/badante-diurna/"
-    },
-    {
-      "name": "Badante notturna",
-      "link": "/badante-notturna/"
-    },
-    {
-      "name": "Badante convivente",
-      "link": "/badante-convivente/"
-    },
-    {
-      "name": "Assistenza a ore"
-    },
-    {
-      "link": "/Bologna/assistente-domiciliare/",
-      "name": "Bologna",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/milano/assistente-domiciliare/",
-      "name": "Milano",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/roma/assistente-domiciliare/",
-      "name": "Roma",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/bologna/assistente-domiciliare/",
-      "name": "Bologna",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/verona/assistente-domiciliare/",
-      "name": "Verona",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/brescia/assistente-domiciliare/",
-      "name": "Brescia",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/catania/assistente-domiciliare/",
-      "name": "Catania",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/genova/assistente-domiciliare/",
-      "name": "Genova",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/firenze/assistente-domiciliare/",
-      "name": "Firenze",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/napoli/assistente-domiciliare/",
-      "name": "Napoli",
-      "isHomeAssistance": true
-    }
-  ],
-  "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",
   "booking-card": {
-    "title": "Assistenti domiciliari a Bologna <br/> per anziani, malati e disabili",
-    "text": "Cerchi assistenza qualificata per un tuo caro? <br/> Con EpiCura i migliori assistenti domiciliari arrivano comodamente a domicilio, in ospedale o in casa di riposo, 7 giorni su 7, entro 24 ore dalla prenotazione. Recupera serenità, richiedi adesso un preventivo gratuito.*",
+    "code": "homecareHomeAssistance",
+    "title": "Assistenti domiciliari a Bologna <br /> per anziani, malati e disabili",
+    "text": "Cerchi assistenza qualificata per un tuo caro? <br /> Con EpiCura i migliori assistenti domiciliari arrivano comodamente a domicilio, in ospedale o in casa di riposo, 7 giorni su 7, entro 24 ore dalla prenotazione. Recupera serenità, richiedi adesso un preventivo gratuito.*",
     "hint": "*Il servizio è erogabile a partire da un minimo di 3 ore consecutive",
     "price": "Tariffa: 14€/h",
     "prenotaOnlineText": "Richiedi preventivo gratuito"
   },
+  "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",
   "talks_about_us": {
     "title": "Parlano di noi",
     "list": [
@@ -195,8 +128,8 @@
   },
   "familyTutor": {
     "bkg-color": "#F5F8FF",
-    "title": "Cerchi assistenza domiciliare? <br/> Richiedi una consulenza.",
-    "content": "Se un tuo caro ha bisogno di assistenza ma non sai da dove iniziare, i nostri consulenti sono a disposizione per ascoltare le tue esigenze e guidarti verso il percorso assistenziale più adeguato. </br> Ritrova serenità, prenota adesso un colloquio gratuito.",
+    "title": "Cerchi assistenza domiciliare? <br /> Richiedi una consulenza.",
+    "content": "Se un tuo caro ha bisogno di assistenza ma non sai da dove iniziare, i nostri consulenti sono a disposizione per ascoltare le tue esigenze e guidarti verso il percorso assistenziale più adeguato. <br /> Ritrova serenità, prenota adesso un colloquio gratuito.",
     "image": {
       "path": "caregiver",
       "name": "family-tutor"

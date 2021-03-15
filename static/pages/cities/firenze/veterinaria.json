@@ -10,26 +10,26 @@
       {
         "image": {
           "path": "common",
-          "name": "stetofonendoscopio"
+          "name": "stetofonendoscopio-cane"
         },
-        "title": "Scegli la soluzione",
-        "text": "EpiCura offre un’ampia scelta di servizi per permetterti di trovare esattamente ciò di cui hai bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te e al tuo animale."
+        "title": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura al meglio del tuo amico a quattro zampe. Scegli il pacchetto più adatto, noi troveremo il miglior veterinario per soddisfare le sue esigenze."
       },
       {
         "image": {
           "path": "common",
           "name": "booking"
         },
-        "title": "Prenota la seduta",
-        "text": "Contattaci o prenota direttamente online e troveremo il miglior specialista per il tuo caso che ti guiderà nel percorso terapeutico del tuo animale. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
+        "title": "Prenota in pochi clic",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
       },
       {
         "image": {
           "path": "common",
-          "name": "migliora-salute"
+          "name": "love-home"
         },
-        "title": "Migliora la sua salute",
-        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo animale. Potrai contattarci per qualunque esigenza."
+        "title": "Ricevi il veterinario a domicilio",
+        "text": "I nostri veterinari ti raggiungono dove e quando vuoi, 7 giorni su 7. Con EpiCura avrai la certezza di ricevere interventi solo dai migliori professionisti, per prenderti cura del tuo amico a quattro zampe senza pensieri."
       }
     ]
   },
@@ -42,9 +42,10 @@
     "askInfoButtonText": "Richiedi informazioni"
   },
   "booking-card": {
+    "code": "veterinaryExamination",
     "title": "Visita veterinaria a domicilio a Firenze",
     "disciplineTitle": "I migliori professionisti a casa tua",
-    "text": "Il tuo animale domestico ha bisogno di una visita ma muoversi da casa è scomodo e difficile? Con EpiCura puoi prenotare in pochi clic visite veterinarie comodamente a domicilio, senza stress per te e il tuo amico a quattro zampe.",
+    "text": "Il tuo animale domestico ha bisogno di una visita ma muoversi da casa è scomodo e difficile? <br />Con EpiCura puoi prenotare in pochi clic visite veterinarie comodamente a domicilio, senza stress per te e il tuo amico a quattro zampe.",
     "price": "Costo fisso 60€",
     "prenotaOnlineText": "Prenota ora"
   },
@@ -58,37 +59,48 @@
       "startingFromText": "A partire da",
       "solutionsBig": [
         {
-          "title": "Assistente a ore",
-          "text": "Assiste la persona per un numero limitato di ore settimanali. Serve nei casi in cui la famiglia necessita di assistenza solamente in alcune fasce orarie.",
-          "startingFrom": true,
-          "price": "14€",
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          }
-        },
-        {
-          "title": "Badante diurna o notturna",
-          "text": "Presta assistenza a tempo pieno alla persona durante il giorno o la notte, ma senza convivere nella casa della persona assistita.",
+          "code": "veterinaryPuppyPackage",
+          "title": "Pacchetto Cucciolo",
+          "text": "Un check-up completo per il tuo cucciolo.<br /><br />Comprende:<ul><li>prima visita specialistica</li><li>vaccino eptavalente</li><li>sverminazione</li><li>applicazione microchip</li><li>trattamento anti-parassitario</li></ul>",
           "startingFrom": false,
-          "price": "682€",
           "button": {
             "text": "Prenota ora",
             "link": "/"
           },
           "bottomText": {
-            "text": "Prova di testo INATTIVO",
-            "highlighted": false
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
           }
         },
         {
-          "title": "Badante convivente giorno e notte",
-          "text": "Si occupa di assistenza costante. Si trasferisce a casa della persona assistita per garantire presenza e cure a tempo pieno. L'assistenza è erogabile a partire da un minimo di 2 mesi.",
+          "code": "veterinaryPetCareDogPackage",
+          "title": "Pacchetto Pet Care",
+          "text": "È consigliato per un controllo specialistico sullo stato di salute almeno ogni 12 mesi.<br /><br />Comprende:<ul><li>visita specialistica completa</li><li>vaccino eptavalente</li></ul>",
           "startingFrom": false,
-          "price": "1030€",
           "button": {
             "text": "Prenota ora",
             "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        },
+        {
+          "code": "veterinaryProphylaxisDogPackage",
+          "title": "Pacchetto Prevenzione",
+          "text": "Consigliato per un check-up sullo stato di salute e il contrasto di malattie infettive.<br /><br />Comprende:<ul><li>visita specialistica completa</li><li>test per leishmania oppure filaria</li></ul>",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
           }
         }
       ]
@@ -102,37 +114,48 @@
       "startingFromText": "A partire da",
       "solutionsBig": [
         {
-          "title": "Assistente a ore",
-          "text": "Assiste la persona per un numero limitato di ore settimanali. Serve nei casi in cui la famiglia necessita di assistenza solamente in alcune fasce orarie.",
-          "startingFrom": true,
-          "price": "14€",
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          }
-        },
-        {
-          "title": "Badante diurna o notturna",
-          "text": "Presta assistenza a tempo pieno alla persona durante il giorno o la notte, ma senza convivere nella casa della persona assistita.",
+          "code": "veterinaryKittenPackage",
+          "title": "Pacchetto Cucciolo",
+          "text": "Un check-up completo per il tuo cucciolo.<br /><br />Comprende:<ul><li>prima visita specialistica</li><li>vaccino quadrivalente (trivalente+FeLV)</li><li>sverminazione</li><li>trattamento anti-parassitario</li></ul>",
           "startingFrom": false,
-          "price": "682€",
           "button": {
             "text": "Prenota ora",
             "link": "/"
           },
           "bottomText": {
-            "text": "Prova di testo INATTIVO",
-            "highlighted": false
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
           }
         },
         {
-          "title": "Badante convivente giorno e notte",
-          "text": "Si occupa di assistenza costante. Si trasferisce a casa della persona assistita per garantire presenza e cure a tempo pieno. L'assistenza è erogabile a partire da un minimo di 2 mesi.",
+          "code": "veterinaryPetCareCatPackage",
+          "title": "Pacchetto Pet Care",
+          "text": "È consigliato per un controllo specialistico sullo stato di salute almeno ogni 12 mesi.<br /><br />Comprende:<ul><li>visita specialistica completa</li><li>vaccino trivalente</li></ul>",
           "startingFrom": false,
-          "price": "1030€",
           "button": {
             "text": "Prenota ora",
             "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        },
+        {
+          "code": "veterinaryProphylaxisCatPackage",
+          "title": "Pacchetto Prevenzione",
+          "text": "Consigliato per un check-up sullo stato di salute e la prevenzione della leucemia felina.<br /><br />Comprende:<ul><li>visita specialistica completa</li><li>vaccino FeLV</li></ul>",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
           }
         }
       ]

@@ -5,80 +5,13 @@
   },
   "subheader": {
     "prenotaOnlineText": "Richiedi preventivo gratuito",
+    "prenotaUrl": "https://share.hsforms.com/1uTUh1GvDTFKhu6YuZ5pliA4ebbs",
     "professionistaText": "",
     "professionistaUrl": "",
     "titleBig": "Badante diurna nella tua città",
     "subtitleBig": "",
-    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio, in ospedale o in casa di riposo con badanti qualificate e referenziate. </ br>Scopri le nostre soluzioni di assistenza, senza costi di attivazione.",
-    "askInfoButtonText": "Richiedi preventivo gratuito"
+    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br />Scopri le nostre soluzioni di assistenza, senza costi di attivazione."
   },
-  "services": [
-    {
-      "name": "Badante diurna",
-      "link": "/badante-diurna/"
-    },
-    {
-      "name": "Badante notturna",
-      "link": "/badante-notturna/"
-    },
-    {
-      "name": "Badante convivente",
-      "link": "/badante-convivente/"
-    },
-    {
-      "name": "Assistenza a ore"
-    },
-    {
-      "link": "/torino/assistente-domiciliare/",
-      "name": "Torino",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/milano/assistente-domiciliare/",
-      "name": "Milano",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/roma/assistente-domiciliare/",
-      "name": "Roma",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/bologna/assistente-domiciliare/",
-      "name": "Bologna",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/verona/assistente-domiciliare/",
-      "name": "Verona",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/brescia/assistente-domiciliare/",
-      "name": "Brescia",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/catania/assistente-domiciliare/",
-      "name": "Catania",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/genova/assistente-domiciliare/",
-      "name": "Genova",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/firenze/assistente-domiciliare/",
-      "name": "Firenze",
-      "isHomeAssistance": true
-    },
-    {
-      "link": "/napoli/assistente-domiciliare/",
-      "name": "Napoli",
-      "isHomeAssistance": true
-    }
-  ],
   "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",
   "check_list": {
     "title": "Il servizio di badante diurna comprende:",
@@ -94,12 +27,12 @@
       "price": "682€",
       "button": {
         "text": "RICHIEDI PREVENTIVO GRATUITO",
-        "link": "https://hubspot-link-placeholder"
+        "link": "https://share.hsforms.com/1uTUh1GvDTFKhu6YuZ5pliA4ebbs"
       }
     }
   },
   "talks_about_us": {
-    "title":"Parlano di noi",
+    "title": "Parlano di noi",
     "list": [
       {
         "image": {
@@ -159,51 +92,51 @@
   },
   "caregiverTasks": {
     "title": "Cosa fa la badante diurna? Ecco le principali mansioni",
-      "tasks": [
-        {
-          "image": {
-            "path": "caregiver",
-            "name": "meal"
-          },
-          "text": "Prepara i pasti e fornisce supporto per la loro assunzione"
+    "tasks": [
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "meal"
         },
-        {
-          "image": {
-            "path": "caregiver",
-            "name": "cleaning"
-          },
-          "text": "Aiuta nella gestione delle attività giornaliere e di pulizia della casa"
+        "text": "Prepara i pasti e fornisce supporto per la loro assunzione"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "cleaning"
         },
-        {
-          "image": {
-            "path": "caregiver",
-            "name": "hygiene"
-          },
-          "text": "Veste la persona e ne garantisce la cura e l'igiene quotidiana"
+        "text": "Aiuta nella gestione delle attività giornaliere e di pulizia della casa"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "hygiene"
         },
-        {
-          "image": {
-            "path": "caregiver",
-            "name": "cognitive-func"
-          },
-          "text": "Stimola le capacità comunicative e l’attività motoria all’aperto"
+        "text": "Veste la persona e ne garantisce la cura e l'igiene quotidiana"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "cognitive-func"
         },
-        {
-          "image": {
-            "path": "caregiver",
-            "name": "drugs"
-          },
-          "text": "Supporta nell’assunzione di terapie e accompagna alle visite"
+        "text": "Stimola le capacità comunicative e l’attività motoria all’aperto"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "drugs"
         },
-        {
-          "image": {
-            "path": "caregiver",
-            "name": "24h-supervision"
-          },
-          "text": "Monitora e sorveglia la persona assistita con cura e costanza"
-        }
-      ]
-    },
+        "text": "Supporta nell’assunzione di terapie e accompagna alle visite"
+      },
+      {
+        "image": {
+          "path": "caregiver",
+          "name": "24h-supervision"
+        },
+        "text": "Monitora e sorveglia la persona assistita con cura e costanza"
+      }
+    ]
+  },
   "familyTutor": {
     "bkg-color": "#F5F8FF",
     "title": "Cerchi una badante? Chiedi al family tutor.",
@@ -213,7 +146,7 @@
       "name": "family-tutor"
     },
     "button-text": "PRENOTA UN COLLOQUIO GRATUITO",
-    "button-link": "https://hubspot-link-placeholder"
+    "button-link": "https://share.hsforms.com/1uTUh1GvDTFKhu6YuZ5pliA4ebbs"
   },
   "discount": {
     "title": "Prenotando un servizio di assistenza a ore o badante, ricevi subito il 10% di sconto su tutti i servizi EpiCura",

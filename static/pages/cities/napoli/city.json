@@ -7,12 +7,12 @@
     "prenotaOnlineText": "Prenota ora",
     "titleBig": "La salute a Napoli con EpiCura",
     "subtitleBig": "",
-    "description1": "Prenota online medici, assistenti domiciliari, infermieri e terapisti, a domicilio, in studio o in videoconsulto, 7 giorni su 7.",
-    "description2": "",
-    "askInfoButtonText": "Richiedi informazioni"
+    "description1": "Siamo il primo poliambulatorio a domicilio d'Italia.",
+    "description2": "Prenota online medici, assistenti domiciliari, fisioterapisti e professionisti sanitari a domicilio, in studio o in videoconsulto, 7 giorni su 7, senza liste d'attesa.",
+    "askInfoButtonText": "PRENOTA ORA"
   },
   "come_funziona": {
-    "title": "Come funziona la salute a domicilio a Napoli",
+    "title": "Come funziona EpiCura?",
     "text": "",
     "cards": [
       {
@@ -20,8 +20,8 @@
           "path": "common",
           "name": "stetofonendoscopio"
         },
-        "title": "Scopri le nostre soluzioni",
-        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze.",
+        "title": "SCEGLI L'INTERVENTO",
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli l'intervento di cui hai bisogno, noi troveremo il miglior professionista per le tue esigenze.",
         "button": {
           "text": "Prenota ora",
           "link": "/prenota/"
@@ -32,8 +32,8 @@
           "path": "common",
           "name": "booking"
         },
-        "title": "Prenota in pochi click",
-        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata.",
+        "title": "PRENOTA IN POCHI CLIC",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza utilizzando carta di credito, bancomat o prepagata.",
         "button": {
           "text": "Prenota ora",
           "link": "/prenota/"
@@ -44,7 +44,7 @@
           "path": "common",
           "name": "follow-up"
         },
-        "title": "Ricevi l'intervento a casa tua",
+        "title": "RICEVI L'INTERVENTO A DOMICILIO",
         "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
         "button": {
           "text": "Prenota ora",
@@ -54,7 +54,7 @@
     ]
   },
   "nostri_servizi": {
-    "title": "I nostri servizi a Napoli",
+    "title": "I nostri servizi a domicilio a Napoli",
     "startingFromText": "Interventi a partire da",
     "list": [
       {
@@ -66,7 +66,7 @@
           "name": "badante-bg"
         },
         "price": "682€",
-        "prestazioni": "Igiene, bagno assistito, vestizione, assistenza a ore o continuativa, sostituzione badante, assistenza notturna, assistenza in ospedale"
+        "prestazioni": "Assistenza a ore e continuativa per anziani, malati e disabili, a domicilio, in ospedale o in casa di riposo."
       },
       {
         "specialist": "medico-di-base",
@@ -75,8 +75,8 @@
           "path": "generalMedicine",
           "name": "generalMedicine"
         },
-        "price": "100€",
-        "prestazioni": "Visita generica, certificati medici, prescrizione esami strumentali e visite specialistiche, prescrizione farmaci"
+        "price": "104€",
+        "prestazioni": "Visita generica a domicilio, con prescrizione di esami strumentali, farmaci e visite specialistiche."
       },
       {
         "specialist": "veterinario",
@@ -85,8 +85,8 @@
           "path": "veterinary",
           "name": "veterinary"
         },
-        "price": "15€",
-        "prestazioni": "Visita generica, vaccini, prelievi ed esami feci e urine, prescrizione farmaci, eutanasia"
+        "price": "60€",
+        "prestazioni": "Visita veterinaria a domicilio, per un check-up sullo stato di salute e la vaccinazione del tuo animale."
       },
       {
         "specialist": "osteopata",
@@ -95,8 +95,8 @@
           "path": "osteopathy",
           "name": "osteopathy"
         },
-        "price": "210€",
-        "prestazioni": "Osteopatia viscerale e strutturale, osteopatia pediatrica e in gravidanza, terapia cranio-sacrale, trattamento osteopatico neonatale"
+        "price": "50€ a seduta",
+        "prestazioni": "Percorsi terapeutici con approccio olistico, per curare dolori muscolo-scheletrici e disturbi sistemici."
       },
       {
         "specialist": "infermiere",
@@ -105,8 +105,8 @@
           "path": "nursing",
           "name": "nursing"
         },
-        "price": "15€",
-        "prestazioni": "Medicazioni semplici e complesse, flebo, iniezioni, clisteri, rimozione punti di sutura, cateterismi, rilevazione parametri vitali"
+        "price": "23€",
+        "prestazioni": "Interventi infermieristici erogati a domicilio per supporto specialistico in cure e terapie."
       },
       {
         "specialist": "fisioterapista",
@@ -115,8 +115,19 @@
           "path": "physiotherapy",
           "name": "physiotherapy"
         },
-        "price": "150€",
-        "prestazioni": "Riabilitazione ortopedica, linfodrenaggio, rieducazione posturale, riabilitazione respiratoria, terapia manuale e massoterapia"
+        "price": "45€ a seduta",
+        "prestazioni": "Percorsi fisioterapici per la cura di dolore posturale, infiammazione e riabilitazione motoria."
+      },
+      {
+        "specialist": "psicologo",
+        "title": "Psicologia e psicoterapia online",
+        "link": "/psicologia-psicoterapia-online/",
+        "image": {
+          "path": "psychology",
+          "name": "psychology"
+        },
+        "price": "25€",
+        "prestazioni": "Percorsi di terapia online, dedicati anche a coppie e famiglie, per ritrovare serenità e armonia."
       },
       {
         "specialist": "nutrizionista",
@@ -125,15 +136,15 @@
           "path": "nutrition",
           "name": "nutrition"
         },
-        "price": "80€",
-        "prestazioni": "Valutazione e monitoraggio apporto alimentare, elaborazione diete, misurazione adipometrica, bioimpendeziometrica e con plicometro"
+        "price": "70€",
+        "prestazioni": "Visita specialistica per valutazione e consulenza sull'apporto alimentare e creazione dieta su misura."
       }
     ]
   },
   "hint-card": {
-    "title": "Vuoi parlare con un medico online? Prova la formula videoconsulto",
+    "title": "Vuoi parlare con un medico online? Prenota un videoconsulto",
     "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
-    "price": "Costo fisso 25€",
+    "price": "Videoconsulto specialistico 25€",
     "bkg-color": "#F5F8FF",
     "image": {
       "path": "videoconsultation",
@@ -429,7 +440,7 @@
   "carousel": [
     {
       "title": "Paga comodamente online in modo semplice e sicuro",
-      "description": "Prenota e paga in pochi click, in totale sicurezza: accettiamo carte di credito, bancomat e prepagate. Puoi inoltre effettuare pagamenti tramite bonifico per le spese superiori a 150€, con un costo di 5€ per la gestione della pratica.",
+      "description": "Prenota e paga in pochi clic, in totale sicurezza: accettiamo carte di credito, bancomat e prepagate. Puoi inoltre effettuare pagamenti tramite bonifico per le spese superiori a 150€, con un costo di 5€ per la gestione della pratica.",
       "cta-text": "Prenota ora",
       "cta-link": "/prenota/",
       "image": {

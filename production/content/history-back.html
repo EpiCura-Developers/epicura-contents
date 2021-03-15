@@ -1,0 +1,44 @@
+<button onclick="goBack()">
+	<svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+		<path
+			fill="currentColor"
+			d="M231.536 475.535l7.071-7.07c4.686-4.686 4.686-12.284 0-16.971L60.113 273H436c6.627 0 12-5.373 12-12v-10c0-6.627-5.373-12-12-12H60.113L238.607 60.506c4.686-4.686 4.686-12.284 0-16.971l-7.071-7.07c-4.686-4.686-12.284-4.686-16.97 0L3.515 247.515c-4.686 4.686-4.686 12.284 0 16.971l211.051 211.05c4.686 4.686 12.284 4.686 16.97-.001z"
+			class=""
+		></path>
+	</svg>
+</button>
+
+<script>
+	function goBack() {
+		window.history.back()
+	}
+</script>
+
+<style>
+	body {
+		margin: 0;
+		background: none transparent;
+	}
+	svg {
+		width: 14px;
+		height: 16px;
+		color: #224760;
+	}
+	button,
+	button:focus,
+	button:hover,
+	button:active,
+	button:visited {
+		padding: 0;
+		background: none;
+		border: none;
+		-webkit-appearance: none;
+		-moz-appearance: none;
+		appearance: none;
+		cursor: pointer;
+		outline: none;
+		border-radius: 0;
+		user-select: none;
+		-webkit-tap-highlight-color: transparent;
+	}
+</style>

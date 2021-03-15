@@ -19,7 +19,7 @@
           "path": "common",
           "name": "booking"
         },
-        "title": "Prenota in pochi click",
+        "title": "Prenota in pochi clic",
         "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata."
       },
       {
@@ -34,7 +34,7 @@
   },
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
-    "titleBig": "Fisioterapisti a domicilio <br/> a Verona",
+    "titleBig": "Fisioterapisti a domicilio <br /> a Verona",
     "description1": "EpiCura porta la fisioterapia comodamente a domicilio, in tutta Verona e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
     "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa.",
     "askInfoButtonText": "Richiedi informazioni"
@@ -82,47 +82,52 @@
   },
   "solutions": [
     {
-      "title": "La ricerca della giusta assistenza",
-      "startingFromText": "A partire da",
+      "title": "Le soluzioni che abbiamo pensato per te",
+      "startingFromText": "",
       "solutionsBig": [
         {
-          "title": "Assistente a ore",
-          "text": "Assiste la persona per un numero limitato di ore settimanali. Serve nei casi in cui la famiglia necessita di assistenza solamente in alcune fasce orarie.",
-          "startingFrom": true,
-          "price": "14€",
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          }
-        },
-        {
-          "title": "Badante diurna o notturna",
-          "text": "Presta assistenza a tempo pieno alla persona durante il giorno o la notte, ma senza convivere nella casa della persona assistita.",
+          "code": "physiotherapyOrdinaryTreatment3Package",
+          "title": "3 sedute a domicilio",
+          "text": "Ideale per disturbi sporadici e piccoli fastidi posturali.<br /><br />Pacchetto di base che comprende una valutazione funzionale gratuita e un breve percorso terapeutico.",
           "startingFrom": false,
-          "oldPrice": "900€",
-          "price": "682€",
+          "hideDiscount": true,
           "button": {
             "text": "Prenota ora",
-            "link": "/"
+            "link": "/prenota/?d=physiotherapy&province=TO"
           },
           "bottomText": {
-            "text": "Prova di testo INATTIVO",
+            "text": "Pacchetto base",
             "highlighted": false
           }
         },
         {
-          "title": "Badante convivente giorno e notte",
-          "text": "Si occupa di assistenza costante. Si trasferisce a casa della persona assistita per garantire presenza e cure a tempo pieno. L'assistenza è erogabile a partire da un minimo di 2 mesi.",
+          "code": "physiotherapyOrdinaryTreatment5Package",
+          "title": "5 sedute a domicilio",
+          "text": "Ideale per fastidi ricorrenti e disturbi legati a piccoli traumi.<br /><br />Pacchetto intermedio che comprende una valutazione funzionale gratuita e un percorso terapeutico più lungo. ",
           "startingFrom": false,
-          "oldPrice": "1300€",
-          "price": "1030€",
           "button": {
             "text": "Prenota ora",
             "link": "/"
           },
           "bottomText": {
-            "text": "Prova di testo ATTIVO",
-            "highlighted": true
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        },
+        {
+          "code": "physiotherapyOrdinaryTreatment10Package",
+          "title": "10 sedute a domicilio",
+          "text": "Ideale per la riabilitazione motoria e il dolore cronico.<br /><br />Pacchetto avanzato che comprende una valutazione funzionale gratuita e un percorso terapeutico più intenso.",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
           }
         }
       ]
@@ -150,7 +155,7 @@
     ]
   },
   "hint-card": {
-    "title": "Hai un dubbio? <br/> Chiedi al fisioterapista",
+    "title": "Hai un dubbio? <br /> Chiedi al fisioterapista",
     "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "price": "Videoconsulto specialistico 25€",
     "bkg-color": "#F5F8FF",

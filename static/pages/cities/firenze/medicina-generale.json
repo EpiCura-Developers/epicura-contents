@@ -25,7 +25,7 @@
           "path": "common",
           "name": "booking"
         },
-        "title": "Prenota in pochi click",
+        "title": "Prenota in pochi clic",
         "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
       },
       {
@@ -39,10 +39,11 @@
     ]
   },
   "booking-card": {
+    "code": "generalMedicinePhysical_",
     "title": "Visita medica a domicilio a Firenze",
     "disciplineTitle": "Prenditi cura di te, senza muoverti da casa",
-    "text": "Hai bisogno di una visita o un parere medico ma vuoi evitare scomodi spostamenti? Con EpiCura i migliori medici ti raggiungono comodamente a casa tua, 7 giorni su 7. Prenota in pochi clic e prenditi cura della tua salute.",
-    "price": "A soli 60€",
+    "text": "Hai bisogno di una visita o un parere medico ma vuoi evitare scomodi spostamenti?<br />Con EpiCura i migliori medici ti raggiungono comodamente a casa tua, 7 giorni su 7. Prenota in pochi clic e prenditi cura della tua salute.",
+    "price": "Costo fisso 60€",
     "prenotaOnlineText": "Prenota ora"
   },
   "advantages": {
