@@ -634,6 +634,48 @@
               "option-style-object-like": "",
               "option-is-new": true,
               "option-is-amp": true
+            },
+            {
+              "option-link": "/endocrinologo-videoconsulto/",
+              "option-label": "Endocrinologo",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/reumatologo-videoconsulto/",
+              "option-label": "Reumatologo",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/ginecologo-videoconsulto/",
+              "option-label": "Ginecologo",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/allergologo-videoconsulto/",
+              "option-label": "Allergologo",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/medico-dello-sport-videoconsulto/",
+              "option-label": "Medico dello sport",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/fisiatra-videoconsulto/",
+              "option-label": "Fisiatra",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
             }
           ]
         },
