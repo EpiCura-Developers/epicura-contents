@@ -26,9 +26,9 @@
           "option-is-amp": false
         },
         {
-          "option-link": "/contattaci/",
+          "option-link": "https://share.hsforms.com/1CZItMEkXQ16DCV1LVw-T5g4ebbs",
           "option-label": "Richiedi informazioni",
-          "option-is-complex": true,
+          "option-is-complex": false,
           "option-is-amp": false
         }
       ]
