@@ -3,296 +3,150 @@
     "title": "Osteopata a Bologna",
     "description": "Osteopati a domicilio a Bologna e area metropolitana. Linfodrenaggio, osteopata per bambino, osteopatia in gravidanza a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "prezzi_title": "I prezzi di Osteopatia a Bologna",
-  "come_funziona": {
-    "title": "Come funziona",
-    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno rende la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Bologna e area metropolitana grazie a 3 semplici passaggi:",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "scegli-soluzione"
-        },
-        "title": "Scegli la soluzione",
-        "text": "EpiCura offre un’ampia scelta di servizi per permettere al paziente di trovare esattamente ciò di cui ha bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "prenota-seduta"
-        },
-        "title": "Prenota la seduta",
-        "text": "Contattaci telefonicamente o prenota direttamente online, troveremo il miglior specialista che ti guiderà nel percorso terapeutico. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "migliora-salute"
-        },
-        "title": "Migliora la tua salute",
-        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo corpo. Potrai contattarci per qualunque esigenza."
-      }
-    ]
-  },
-  "come_funzionaFbAdw": {
-    "title": "Come funziona",
-    "text": "EpiCura, con oltre 800 figure, è il primo poliambulatorio digitale in Italia. Abbiamo creato un sistema rapido per evitare <b>disorganizzazione, disagi e attese</b> ai nostri pazienti. Ecco come funziona:",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "scegli-soluzione"
-        },
-        "title": "Scegli la soluzione",
-        "text": "Trova il servizio adatto alle tue necessità oppure spiegaci la tua situazione. Ascolteremo i tuoi bisogni e ti aiuteremo a scegliere la migliore soluzione per te."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "prenota-seduta"
-        },
-        "title": "Prenota la seduta",
-        "text": "Chiamaci o prenota direttamente online. Troveremo il miglior specialista per te e potrai ricevere il servizio in tempi brevi, senza alcuna lista d’attesa e con la massima comodità."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "migliora-salute"
-        },
-        "title": "Migliora la tua salute",
-        "text": "Preparati a ricevere a casa tua il nostro specialista. Ti affiancherà in modo professionale nel migliorare la tua salute. Per qualsiasi dubbio o necessità, potrai chiamarci in ogni momento."
-      }
-    ]
-  },
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
-    "textColor": "dark",
-    "professionistaText": "Sei un professionista?",
-    "professionistaUrl": "/professionisti-lavoro/",
     "titleBig": "Osteopati a domicilio a Bologna",
-    "subtitleBig": "Per chi vuole riallineare ed equilibrare il proprio corpo.",
-    "description1": "Per aiutarti a ritrovare il benessere di corpo e mente. Interventi 7 giorni su 7, senza liste di attesa, anche in orari serali.",
-    "description2": "EpiCura porta l’osteopatia ovunque tu ne abbia bisogno, in tutta Bologna e area metropolitana, in qualunque giorno e orario tu voglia.",
-    "askInfoButtonText": "Richiedi informazioni"
+    "description1": "EpiCura porta l'osteopatia comodamente a domicilio, in tutta Bologna e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
+    "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa."
   },
-  "subheaderFbAdw": {
-    "prenotaOnlineText": "Prenota ora",
-    "textColor": "dark",
-    "professionistaText": "",
-    "professionistaUrl": "/professionisti-lavoro/",
-    "titleBig": "Osteopati a domicilio a Bologna",
-    "subtitleBig": "Ci prendiamo cura di te",
-    "description1": "Senza liste d'attesa, 7 giorni su 7.",
-    "description2": "Con EpiCura puoi prenotare percorsi osteopatici a domicilio in tutta Bologna e area metropolitana, in qualunque giorno e orario tu voglia.",
-    "askInfoButtonText": "Richiedi informazioni"
-  },
-  "nostri_professionisti": {
-    "title": "I nostri professionisti",
-    "text": "",
-    "professionisti": [
-      {
-        "name": "Stefania Tavaglione",
-        "disciplina": "Osteopata",
-        "prestazioni": [],
-        "avatar": "stefania-tavaglione"
-      },
-      {
-        "name": "Cosimo Pacini",
-        "disciplina": "Osteopata",
-        "prestazioni": [],
-        "avatar": "cosimo-pacini"
-      },
-      {
-        "name": "Federica Costamagna",
-        "disciplina": "Osteopata",
-        "prestazioni": [],
-        "avatar": "federica-costamagna"
-      },
-      {
-        "name": "Alessandro Caroleo",
-        "disciplina": "Osteopata",
-        "prestazioni": [],
-        "avatar": "alessandro-caroleo"
-      }
-    ]
-  },
-  "prenotazione": {
-    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
-    "subtitle": "Inizia subito il tuo percorso di osteopatia con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
-    "ctaCall": "Vuoi prenotare telefonicamente?"
-  },
-  "faqs": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Domande frequenti",
-    "list": [
-      {
-        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
-        "answer": "No, le prestazioni osteopatiche non sono considerate sanitarie e per questo non sono detraibili dalla dichiarazione dei redditi."
-      },
-      {
-        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
-        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
-      },
-      {
-        "question": "Avete un centro o uno studio dove avvengono le prestazioni?",
-        "answer": "Non abbiamo un nostro centro sul territorio, ma ci appoggiamo agli studi privati dei professionisti che collaborano con noi."
-      },
-      {
-        "question": "Cosa succede se non mi trovo bene con il professionista?",
-        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra professionista e paziente, per questo motivo se non ti trovi bene basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
-      }
-    ]
-  },
-  "latest_articles": {
-    "title": "Ultimi articoli su di noi",
-    "titleFbAdw": "Parlano di noi",
-    "allArticlesLink": "/rassegna-stampa/",
-    "allArticlesText": "Tutti gli articoli",
-    "readArticleText": "Leggi articolo",
-    "articles": [
-      {
-        "image": {
-          "path": "common",
-          "name": "ilsole24ore"
-        },
-        "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
-        "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "forbes"
-        },
-        "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
-        "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "corrieredellasera"
-        },
-        "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
-        "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "lastampa"
-        },
-        "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
-        "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
-      }
-    ]
-  },
-  "servizi_piu_richiesti": {
-    "title": "I servizi più richiesti",
-    "list": [
-      "Osteopatia per neonati a Bologna",
-      "Manipolazioni osteopatiche in gravidanza a Bologna",
-      "Osteopatia preventiva a Bologna",
-      "Trattamenti osteopatici per anziani a Bologna",
-      "Linfodrenaggio a Bologna",
-      "Osteopatia in età evolutiva a Bologna"
-    ]
-  },
-  "descrizione_servizio": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Equilibra il tuo corpo con l’osteopatia</h2><p>Dobbiamo considerare il nostro corpo come un'unica macchina che in armonia lavora per mantenere la nostra salute, il nostro benessere e il nostro equilibrio. Quando, però, un ingranaggio di questa macchina non è “ben oliato” l’intero sistema ne risente. </br> Detto in altre parole, a volte, il nostro corpo perde il suo equilibrio naturale e ha bisogno di essere riallineato attraverso manipolazioni e trattamenti. La disciplina che si occupa di questo è l’osteopatia che consente al paziente di ritrovare salute del proprio corpo e della propria mente grazie ad un approccio che va a trattare direttamente la causa del problema e non il sintomo. Alcune delle patologie più comuni che l’osteopatia tratta sono:</p><p><ul><li>ernia al disco</li><li>lombalgia</li></li><li>sciatica o sciatalgia</li><li>nevralgie</li><li>problemi digestivi</li><li>dolori articolari o fastidi muscolari</li><li>cefalee</li><li>disturbi del sonno</li></ul></p> <p>L’osteopatia considera la persona come un’unica entità che va a curare in maniera olistica e completa. In questa visione, l’osteopata, non separa mente e corpo, anzi, li tratta insieme in un unico percorso terapeutico. Proprio per questo trovarsi in uno stato mentale di calma e serenità consente di migliorare esponenzialmente i risultati della terapia. Trovarsi in un luogo familiare e confortevole, come la propria casa, quando si riceve il trattamento, è provato dalla comunità scientifica essere una variabile importante per riequilibrare il proprio corpo rapidamente e in maniera efficace.</p>",
+  "come_funziona": {
+    "title": "Osteopatia a domicilio, come funziona",
     "cards": [
       {
         "image": {
           "path": "common",
-          "name": "comodita-casa"
+          "name": "stetofonendoscopio"
         },
-        "title": "Dove vuoi tu",
-        "text": "I nostri specialisti operano dove preferisci. Ti raggiungono a casa o in ufficio con tutto il necessario per eseguire la prestazione o erogano la seduta direttamente in studio. Potrai rimettere a nuovo il tuo corpo dovunque tu voglia."
+        "title": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze."
       },
       {
         "image": {
           "path": "common",
-          "name": "percorsi-personalizzati"
+          "name": "booking"
         },
-        "title": "Percorsi personalizzati",
-        "text": "Ogni paziente ha le sue esigenze. Per questo offriamo percorsi personalizzati creati su misura. I nostri professionisti ti affiancheranno nel tuo percorso offrendoti i trattamenti giusti negli orari e giorni che preferisci."
+        "title": "Prenota in pochi clic",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata."
       },
       {
         "image": {
           "path": "common",
-          "name": "interventi-tempestivi"
+          "name": "love-home"
         },
-        "title": "Interventi tempestivi",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria seduta. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
-      }
-    ]
-  },
-  "descrizione_servizioFbAdw": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>L'osteopatia a casa tua</h2><p>I nostri professionisti <b>certificati e coperti da assicurazione</b> sono in grado di strutturare <b>percorsi personalizzati</b> studiati per le tue esigenze.</p><p>Porteranno con loro tutto quello di cui hanno bisogno per farti beneficiare a pieno del tuo percorso osteopatico direttamente <b>nel comfort di casa tua</b>. </br> Alcune delle patologie più comuni che l’osteopatia tratta sono:</p><p><ul><li>ernia al disco</li><li>lombalgia</li></li><li>sciatica o sciatalgia</li><li>nevralgie</li><li>problemi digestivi</li><li>dolori articolari o fastidi muscolari</li><li>cefalee</li><li>disturbi del sonno</li></ul></p>",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "Quando e dove vuoi",
-        "text": "Pensiamo a tutto noi. I nostri specialisti ti raggiungono a casa o ovunque tu voglia, con tutto il necessario per eseguire la prestazione."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "I nostri professionisti ti accompagneranno in un percorso creato su misura per te, offrendoti i trattamenti corretti sulla base delle tue esigenze, dove vuoi tu e quando vuoi tu."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
+        "title": "Ricevi l'intervento a domicilio",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
       }
     ]
   },
   "trattamenti": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "sectionTitle": "",
-    "showAllText": "Mostra tutti",
-    "hideAllText": "Mostra meno",
-    "title": "Percorsi di osteopatia a Bologna",
-    "textColor": "dark",
-    "description": "",
-    "tags": [],
+    "sectionTitle": "I nostri trattamenti di osteopatia a domicilio",
     "list": [
       {
         "title": "Osteopatia in gravidanza",
-        "description": "Sedute di osteopatia durante il periodo della gravidanza per supportare la naturale omeostasi del corpo a beneficio della madre e del nascituro preparando la donna ad affrontare il momento del parto."
+        "description": "mal di schiena, nausea gravidica, gambe gonfie, problemi digestivi, costipazione"
       },
       {
-        "title": "Osteopatia pediatrica o osteopatia neonatale",
-        "description": "Sedute di osteopatia per bambini o neonati per la prevenzione e il trattamento di problematiche dell’età pediatrica. Prestazione erogata da un professionista specializzato per rendere la crescita del bambino più serena possibile."
+        "title": "Osteopatia pediatrica",
+        "description": "coliche, stipsi, insonnia, iperattività, scoliosi, piede piatto, plagiocefalia"
       },
       {
-        "title": "Osteopatia geriatrica o per anziani",
-        "description": "Percorsi di osteopatia per anziani per riequilibrare il corpo e migliorare lo stato quotidiano di benessere. Prestazioni erogate da specialisti per migliorare la qualità della vita del paziente grazie a trattamenti dolci e indolori."
+        "title": "Osteopatia per anziani",
+        "description": "demenza senile, malattie neurologiche, artrosi, fratture, osteoporosi"
       },
       {
-        "title": "Manipolazioni osteopatiche",
-        "description": "Percorsi di osteopatia con manipolazioni dirette volte alla correzione della zona interessata o manipolazioni indirette per forzare il corpo ad azioni che da solo non farebbe, per consentire il suo riallineamento."
+        "title": "Dolore e infiammazione",
+        "description": "cervicalgia, mal di schiena, dolori articolari, sciatica, ernie, acufeni"
       },
       {
-        "title": "Trattamento e manipolazione viscerale",
-        "description": "Trattamenti osteopatici per ristabilire e rinnovare la mobilità e la vitalità di uno specifico organo. Prestazioni erogate da specialisti per aiutare l’organo a funzionare correttamente e ristabilire le relazioni che ha con l’intero corpo."
-      },
-      {
-        "title": "Trattamento cranio-sacrale",
-        "description": "Massaggi osteopatici cranio-sacrali per ristabilire, stimolare e assecondare il ritmo della persona. Il professionista, grazie a manipolazioni molto leggere, riesce ad intervenire sull’intero organismo tramite i collegamenti con il sistema cranio-sacrale."
+        "title": "Disturbi sistemici",
+        "description": "cefalea, bruxismo, disturbi del sonno, ansia, reflusso, gastrite, colon irritabile, fibromialgia"
       }
     ]
+  },
+  "solutions": [
+    {
+      "title": "Le soluzioni che abbiamo pensato per te",
+      "startingFromText": "",
+      "solutionsBig": [
+        {
+          "code": "osteopathyOrdinaryTreatment3Package",
+          "title": "3 sedute a domicilio",
+          "text": "Ideale per disturbi sporadici e infiammazioni localizzate.<br /><br />Pacchetto di base che comprende una valutazione funzionale gratuita e un breve percorso terapeutico. ",
+          "startingFrom": false,
+          "hideDiscount": true,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Pacchetto base",
+            "highlighted": false
+          }
+        },
+        {
+          "code": "osteopathyOrdinaryTreatment5Package",
+          "title": "5 sedute a domicilio",
+          "text": "Ideale per fastidi ricorrenti e disturbi legati a piccoli traumi.<br /><br />Pacchetto intermedio che comprende una valutazione funzionale gratuita e un percorso terapeutico più lungo. ",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        },
+        {
+          "code": "osteopathyOrdinaryTreatment10Package",
+          "title": "10 sedute a domicilio",
+          "text": "Ideale per il recupero di una buona funzionalità motoria e il dolore cronico.<br /><br />Pacchetto avanzato che comprende una valutazione funzionale gratuita e un percorso terapeutico più intenso. ",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        }
+      ]
+    }
+  ],
+  "advantages": {
+    "title": "I migliori osteopati a domicilio entro 24 ore",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "list": [
+      {
+        "image": { "path": "common", "name": "professionist" },
+        "title": "Solo professionisti qualificati",
+        "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
+      },
+      {
+        "image": { "path": "common", "name": "certificate" },
+        "title": "La tua soddisfazione è la nostra priorità",
+        "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
+      },
+      {
+        "image": { "path": "common", "name": "operator" },
+        "title": "Siamo sempre al tuo fianco",
+        "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
+      }
+    ]
+  },
+  "hint-card": {
+    "title": "Hai un dubbio? Chiedi all'osteopata",
+    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "price": "Videoconsulto specialistico 25€",
+    "bkg-color": "#F5F8FF",
+    "image": {
+      "path": "videoconsultation",
+      "name": "videoconsultation-banner"
+    },
+    "button-text": "Scopri di più",
+    "button-link": "/osteopata-videoconsulto/"
   }
 }

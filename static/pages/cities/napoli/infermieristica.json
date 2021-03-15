@@ -3,308 +3,84 @@
     "title": "Infermiere a Napoli",
     "description": "Infermieri a domicilio a Napoli e area metropolitana. Inieizioni, medicazioni, clistere a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "prezzi_title": "I prezzi di Infermieristica a Napoli",
   "come_funziona": {
-    "title": "Come funziona",
-    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno rende la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Napoli e area metropolitana grazie a 3 semplici passaggi:",
+    "title": "Infermiere a domicilio, come funziona",
     "cards": [
       {
         "image": {
           "path": "common",
-          "name": "scegli-soluzione"
+          "name": "stetofonendoscopio"
         },
-        "title": "Scegli la soluzione",
-        "text": "EpiCura offre un’ampia scelta di servizi per permettere al paziente di trovare esattamente ciò di cui ha bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
+        "title": "Scegli l'intervento",
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli l'intervento di cui hai bisogno, noi troveremo il miglior professionista per le tue esigenze."
       },
       {
         "image": {
           "path": "common",
-          "name": "prenota-seduta"
+          "name": "booking"
         },
-        "title": "Prenota la seduta",
-        "text": "Contattaci telefonicamente o prenota direttamente online, troveremo il miglior specialista che ti guiderà nel percorso terapeutico. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
+        "title": "Prenota in pochi clic",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
       },
       {
         "image": {
           "path": "common",
-          "name": "migliora-salute"
+          "name": "love-home"
         },
-        "title": "Migliora la tua salute",
-        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo corpo. Potrai contattarci per qualunque esigenza."
+        "title": "Ricevi l'infermiere a domicilio",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
       }
     ]
   },
-  "come_funzionaFbAdw": {
-    "title": "Come funziona",
-    "text": "EpiCura, con oltre 800 figure, è il primo poliambulatorio digitale in Italia. Abbiamo creato un sistema rapido per <b>evitare disorganizzazione, disagi e attese</b> ai nostri pazienti. Ecco come funziona:",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "scegli-soluzione"
-        },
-        "title": "Scegli la soluzione",
-        "text": "Trova il servizio adatto alle tue necessità oppure spiegaci la tua situazione. Ascolteremo i tuoi bisogni e ti aiuteremo a scegliere la migliore soluzione per te."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "prenota-seduta"
-        },
-        "title": "Prenota la prestazione",
-        "text": "Chiamaci o prenota direttamente online. Troveremo il miglior specialista per te e potrai ricevere il servizio in tempi brevi, senza alcuna lista d’attesa e con la massima comodità."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "migliora-salute"
-        },
-        "title": "Migliora la tua salute",
-        "text": "Preparati a ricevere a casa tua il nostro specialista. Ti affiancherà in modo professionale nel migliorare la tua salute. Per qualsiasi dubbio o necessità, potrai chiamarci in ogni momento."
-      }
-    ]
-  },
+  "prezzi_title": "I nostri infermieri a domicilio si occupano di",
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
-    "textColor": "dark",
-    "professionistaText": "Sei un professionista?",
-    "professionistaUrl": "/professionisti-lavoro/",
-    "titleBig": "Infermieri a domicilio a Napoli",
-    "subtitleBig": "Per chi ricerca un supporto affidabile, sicuro e tempestivo",
-    "description1": "Per sentirsi sereni e sicuri 7 giorni su 7, anche in orari serali.",
-    "description2": "EpiCura porta gli interventi infermieristici ovunque tu ne abbia bisogno, in tutta Napoli e area metropolitana, in qualunque giorno e orario tu voglia.",
-    "askInfoButtonText": "Richiedi informazioni"
+    "titleBig": "Infermiere a domicilio a Napoli",
+    "subtitleBig": "",
+    "description1": "EpiCura porta i migliori infermieri comodamente a domicilio, in tutta Napoli e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
+    "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa.",
+    "askInfoButtonText": "Prenota ora"
   },
-  "subheaderFbAdw": {
-    "prenotaOnlineText": "Prenota ora",
-    "textColor": "dark",
-    "professionistaText": "",
-    "professionistaUrl": "/professionisti-lavoro/",
-    "titleBig": "Infermieri a domicilio a Napoli",
-    "subtitleBig": "Ci prendiamo cura di te",
-    "description1": "Senza liste d'attesa, 7 giorni su 7.",
-    "description2": "Con EpiCura puoi prenotare interventi infermieristici in tutta Napoli e area metropolitana, in qualunque giorno e orario tu voglia.",
-    "askInfoButtonText": "Richiedi informazioni"
-  },
-  "nostri_professionisti": {
-    "title": "I nostri professionisti",
-    "text": "",
-    "professionisti": [
-      {
-        "name": "Simona Cardano",
-        "disciplina": "Infermiera",
-        "prestazioni": [],
-        "avatar": "simona-cardano"
-      },
-      {
-        "name": "Davide Sileo",
-        "disciplina": "Infermiere",
-        "prestazioni": [],
-        "avatar": "davide-sileo"
-      },
-      {
-        "name": "Elena Mancardo",
-        "disciplina": "Infermiera",
-        "prestazioni": [],
-        "avatar": "elena-mancardo"
-      },
-      {
-        "name": "Cristian Valeri",
-        "disciplina": "Infermiere",
-        "prestazioni": [],
-        "avatar": "cristian-valeri"
-      }
-    ]
-  },
-  "prenotazione": {
-    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
-    "subtitle": "Inizia subito il tuo percorso di cura con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
-    "ctaCall": "Vuoi prenotare telefonicamente?"
-  },
-  "faqs": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Domande frequenti",
+  "advantages": {
+    "title": "I migliori infermieri a domicilio entro 24 ore",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
     "list": [
       {
-        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
-        "answer": "Sì, tutte le prestazioni sanitarie sono detraibili dalla dichiarazione dei redditi. Per farlo basterà utilizzare la fattura che riceverai da EpiCura dopo il pagamento delle prestazioni."
+        "image": {
+          "path": "common",
+          "name": "professionist"
+        },
+        "title": "Solo professionisti qualificati",
+        "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
       },
       {
-        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
-        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
+        "image": {
+          "path": "common",
+          "name": "certificate"
+        },
+        "title": "La tua soddisfazione è la nostra priorità",
+        "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
       },
       {
-        "question": "Avete un centro o uno studio dove avvengono le prestazioni?",
-        "answer": "Non abbiamo un nostro centro sul territorio, ma ci appoggiamo agli studi privati dei professionisti che collaborano con noi."
-      },
-      {
-        "question": "Cosa succede se non mi trovo bene con il professionista?",
-        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra professionista e paziente, per questo motivo se non ti trovi bene basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
+        "image": {
+          "path": "common",
+          "name": "operator"
+        },
+        "title": "Siamo sempre al tuo fianco",
+        "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
       }
     ]
   },
-  "latest_articles": {
-    "title": "Ultimi articoli su di noi",
-    "titleFbAdw": "Parlano di noi",
-    "allArticlesLink": "/rassegna-stampa/",
-    "allArticlesText": "Tutti gli articoli",
-    "readArticleText": "Leggi articolo",
-    "articles": [
-      {
-        "image": {
-          "path": "common",
-          "name": "ilsole24ore"
-        },
-        "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
-        "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "forbes"
-        },
-        "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
-        "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "corrieredellasera"
-        },
-        "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
-        "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "lastampa"
-        },
-        "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
-        "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
-      }
-    ]
-  },
-  "servizi_piu_richiesti": {
-    "title": "I servizi più richiesti",
-    "list": [
-      "Iniezioni a Napoli",
-      "Rimozione punti di sutura a Napoli",
-      "Clistere a Napoli",
-      "Medicazione complessa a Napoli",
-      "Flebo a Napoli",
-      "Cateterismo a Napoli"
-    ]
-  },
-  "descrizione_servizio": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Interventi infermieristici tempestivi a domicilio</h2><p>Per favorire la guarigione e il benessere psicofisico dell’assistito è di cruciale importanza <b>trovarsi in un ambiente familiare e accogliente come la propria casa</b>.</p><p>Gli interventi infermieristici domiciliari di EpiCura permettono di <b>evitare l'ospedalizzazione</b> non necessaria, mettendo a suo agio il paziente e aiutandolo nel suo processo di guarigione.</p><p>I nostri <b>infermieri esperti e certificati</b> operano 7 giorni su 7 per aiutare chi ne ha bisogno a sentirsi sempre al sicuro.</p>",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "Quando e dove vuoi",
-        "text": "I nostri infermieri sono disponibili 24 ore su 24, 7 giorni su 7, per assistere chi ne ha bisogno. EpiCura mette a disposizione personale competente e coperto da assicurazione per aiutarti ovunque tu voglia."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Senza attese",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere l’intervento quando ce n’è bisogno. Noi di EpiCura garantiamo gli interventi infermieristici senza lista d’attesa, anche in orari serali per farti sentire sempre al sicuro."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Assistenza personalizzata",
-        "text": " Ogni paziente ha le sue esigenze. Per questo offriamo interventi o percorsi personalizzati creati su misura. I nostri professionisti ti affiancheranno nel tuo percorso offrendoti i trattamenti adatti al tuo specifico caso. Vuoi risolvere il tuo problema? Chiamaci subito allo 081 181 87652."
-      }
-    ]
-  },
-  "descrizione_servizioFbAdw": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Interventi infermieristici tempestivi a domicilio</h2><p>Per favorire la guarigione, la guarigione e il benessere psicofisico dell’assistito è importante trovarsi in un ambiente familiare e accogliente come la propria casa. </br>Gli interventi infermieristici permettono di evitare l’ospedalizzazione non necessaria, mettendo a proprio agio il paziente e aiutandolo nel processo di guarigione.",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "Quando e dove vuoi",
-        "text": "Pensiamo a tutto noi. I nostri specialisti ti raggiungono a casa o in ufficio, ovunque tu voglia, con tutto il necessario per eseguire la prestazione."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "I nostri professionisti ti accompagneranno in un percorso creato su misura per te, offrendoti i trattamenti corretti sulla base delle tue esigenze, dove vuoi tu e quando vuoi tu."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
-      }
-    ]
-  },
-  "trattamenti": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "sectionTitle": "",
-    "showAllText": "Mostra tutti",
-    "hideAllText": "Mostra meno",
-    "title": "Percorsi di fisioterapia e riabilitazione a Napoli",
-    "textColor": "dark",
-    "description": "",
-    "tags": [],
-    "list": [
-      {
-        "title": "Linfodrenaggio manuale",
-        "description": "Sedute di linfodrenaggio con metodo Vodder e metodo Leduc per drenare i liquidi in eccesso (come nel caso di cellulite o disturbi come edemi) accumulati nei tessuti del corpo. Migliora la circolazione e il tuo sistema immunitario senza alcun dolore provocato dalla terapia."
-      },
-      {
-        "title": "Riabilitazione geriatrica",
-        "description": "Sedute di fisioterapia riabilitativa erogate da professionisti che diagnosticano e curano l’anziano seguendolo a pieno nella guarigione. Un percorso di riabilitazione assistita a 360 gradi per riscoprire la salute."
-      },
-      {
-        "title": "Riabilitazione neurologica",
-        "description": "Percorso di fisioterapia riabilitativa a seguito di un danno neurologico provocato da malattie come il morbo di Parkinson. Sedute per il riacquisto di forza muscolare, equilibrio, comprensione cognitiva e controllo del dolore."
-      },
-      {
-        "title": "Riabilitazione ortopedica",
-        "description": "Sedute riabilitative ortopediche erogate da esperti, per permettere al paziente di ripristinare le proprie capacità e funzioni motorie perse o limitate da malattie o traumi."
-      },
-      {
-        "title": "Riabilitazione respiratoria",
-        "description": "Percorso riabilitativo per contrastare le patologie dell’apparato respiratorio. Migliora la resistenza e qualità fisica potenziando le capacità respiratorie e recuperando serenità nel quotidiano."
-      },
-      {
-        "title": "Ginnastica posturale",
-        "description": "Sedute di ginnastica posturale per riallineare il proprio corpo. Alleggerisci il carico sulla spina dorsale, diminuisci i dolori articolari e allenta le tensioni grazie ad esercizi mirati al riassetto della postura."
-      },
-      {
-        "title": "Riabilitazione post operatoria",
-        "description": "Sedute di fisioterapia per ripristinare la normale flessibilità e mobilità a seguito di un’operazione chirurgica o di un forte trauma. Percorso personalizzato strutturato su misura al caso specifico per la massima efficacia."
-      },
-      {
-        "title": "Terapie manuali",
-        "description": "Sedute di terapia manuale con valutazione dell’apparato locomotore e trattamenti mirati alla sua mobilizzazione. Percorsi di esercizi terapeutici funzionali a rendere più fluido il movimento."
-      },
-      {
-        "title": "Chinesiterapia",
-        "description": "Sedute di fisioterapia in cui il movimento del paziente viene utilizzato per trattare problematiche neuro-muscolo-scheletriche. Riacquista le normali funzionalità motorie grazie alla naturale azione del movimento, guidato da uno specialista."
-      }
-    ]
+  "hint-card": {
+    "title": "Hai un dubbio? Chiedi all'infermiere",
+    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "price": "Costo fisso 25€",
+    "bkg-color": "#F5F8FF",
+    "image": {
+      "path": "videoconsultation",
+      "name": "videoconsultation-banner"
+    },
+    "button-text": "Scopri il servizio",
+    "button-link": "/infermiere-videoconsulto/"
   }
 }

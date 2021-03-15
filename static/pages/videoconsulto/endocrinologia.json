@@ -12,8 +12,8 @@
   "card": {
     "title": "In cosa ti è utile il videoconsulto",
     "description": "Grazie al videoconsulto potrai fare domande sulla tua salute o quella dei tuoi cari, o avere una seconda opinione dopo una visita medica oppure di effettuare un colloquio conoscitivo prima della visita vera e propria.",
-    "whatIsIncludedLabel": "I casi più comuni su cui l’endocrinologo può aiutarti",
-    "bulletPoints": [
+    "subTitle": "I casi più comuni su cui l’endocrinologo può aiutarti",
+    "list": [
       "Malattie metaboliche (es. gotta) e disordini del metabolismo",
       "Diabete, colesterolo e ipertensione",
       "Malattie della tiroide e tiropatie",
@@ -27,9 +27,13 @@
       "Alimentazione e alterazioni dell’appetito (es. inappetenza)",
       "Consigli su visite specialistiche"
     ],
-    "price": "25€",
-    "priceUnit": "/20 minuti",
-    "bookNowBtnLabel": "Prenota ora"
+    "footer": {
+      "price": "25€",
+      "priceUnit": "/20 minuti",
+      "button": {
+        "text": "Prenota ora"
+      }
+    }
   },
   "faq": {
     "title": "Domande e risposte",

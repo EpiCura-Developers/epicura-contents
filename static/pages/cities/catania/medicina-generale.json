@@ -3,256 +3,80 @@
     "title": "Medico di base a Catania",
     "description": "Medici generici a domicilio a Catania e area metropolitana. Visite mediche, prescrizione farmaci a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "prezzi_title": "I prezzi di Medicina Generale a Catania",
-  "come_funziona": {
-    "title": "Come funziona",
-    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno rende la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Catania e area metropolitana grazie a 3 semplici passaggi:",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "scegli-soluzione"
-        },
-        "title": "Scegli la soluzione",
-        "text": "EpiCura offre un’ampia scelta di servizi per permettere al paziente di trovare esattamente ciò di cui ha bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "prenota-seduta"
-        },
-        "title": "Prenota la seduta",
-        "text": "Contattaci telefonicamente o prenota direttamente online, troveremo il miglior specialista che ti guiderà nel percorso terapeutico. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "migliora-salute"
-        },
-        "title": "Migliora la tua salute",
-        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo corpo. Potrai contattarci per qualunque esigenza."
-      }
-    ]
-  },
-  "come_funzionaFbAdw": {
-    "title": "Come funziona",
-    "text": "EpiCura, con oltre 800 figure, è il primo poliambulatorio digitale in Italia. Abbiamo creato un sistema rapido per evitare disorganizzazione, disagi e attese ai nostri pazienti. Ecco come funziona:",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "scegli-soluzione"
-        },
-        "title": "Scegli la soluzione",
-        "text": "Trova il servizio adatto alle tue necessità oppure spiegaci la tua situazione. Ascolteremo i tuoi bisogni e ti aiuteremo a scegliere la migliore soluzione per te."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "prenota-seduta"
-        },
-        "title": "Prenota la visita",
-        "text": "Chiamaci o prenota direttamente online. Troveremo il miglior specialista per te e potrai ricevere il servizio in tempi brevi, senza alcuna lista d’attesa e con la massima comodità."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "migliora-salute"
-        },
-        "title": "Migliora la tua salute",
-        "text": "Preparati a ricevere a casa tua il nostro specialista. Ti affiancherà in modo professionale nel migliorare la tua salute. Per qualsiasi dubbio o necessità, potrai chiamarci in ogni momento."
-      }
-    ]
-  },
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
-    "textColor": "light",
-    "professionistaText": "Sei un professionista?",
-    "professionistaUrl": "/professionisti-lavoro/",
-    "titleBig": "Medici generici a domicilio a Catania",
-    "subtitleBig": "Per chi ricerca un supporto affidabile, sicuro e senza attesa.",
-    "description1": "Per sentirsi sereni e sicuri 7 giorni su 7, 24 ore su 24.",
-    "description2": "EpiCura porta le visite mediche ovunque tu ne abbia bisogno, in tutta Catania e area metropolitana, in qualunque giorno e orario tu voglia.",
-    "askInfoButtonText": "Richiedi informazioni"
+    "titleBig": "Medico a domicilio a Catania",
+    "description1": "EpiCura porta i migliori medici comodamente a domicilio, in tutta Catania e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
+    "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa."
   },
-  "subheaderFbAdw": {
-    "prenotaOnlineText": "Prenota ora",
-    "textColor": "dark",
-    "professionistaText": "",
-    "professionistaUrl": "/professionisti-lavoro/",
-    "titleBig": "Medici generici a domicilio a Catania",
-    "subtitleBig": "Ci prendiamo cura di te",
-    "description1": "Senza liste di attesa, 7 giorni su 7",
-    "description2": "Con EpiCura puoi prenotare visite mediche a domicilio in tutta Catania e area metropolitana, in qualunque giorno e orario tu voglia.",
-    "askInfoButtonText": "Richiedi informazioni"
-  },
-  "nostri_professionisti": {
-    "title": "I nostri professionisti",
-    "text": "",
-    "professionisti": [
-      {
-        "name": "Daniele Bissacco",
-        "disciplina": "Medico Generico",
-        "prestazioni": [],
-        "avatar": "daniele-bissacco"
-      },
-      {
-        "name": "Iole Gaudino",
-        "disciplina": "Medico Generico",
-        "prestazioni": [],
-        "avatar": "iole-gaudino"
-      },
-      {
-        "name": "Ali Saad",
-        "disciplina": "Medico Generico",
-        "prestazioni": [],
-        "avatar": "ali-saad"
-      },
-      {
-        "name": "Giulia Serra",
-        "disciplina": "Medico Generico",
-        "prestazioni": [],
-        "avatar": "giulia-serra"
-      }
-    ]
-  },
-  "prenotazione": {
-    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
-    "subtitle": "Richiedi subito una visita medica con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
-    "ctaCall": "Vuoi prenotare telefonicamente?"
-  },
-  "faqs": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Domande frequenti",
-    "list": [
-      {
-        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
-        "answer": "Sì, tutte le prestazioni sanitarie sono detraibili dalla dichiarazione dei redditi. Per farlo basterà utilizzare la fattura che riceverai da EpiCura dopo il pagamento delle prestazioni."
-      },
-      {
-        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
-        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
-      },
-      {
-        "question": "Avete un centro o uno studio dove avvengono le prestazioni?",
-        "answer": "Non abbiamo un nostro centro sul territorio, ma ci appoggiamo agli studi privati dei professionisti che collaborano con noi."
-      },
-      {
-        "question": "Cosa succede se non mi trovo bene con il professionista?",
-        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra professionista e paziente, per questo motivo se non ti trovi bene basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
-      }
-    ]
-  },
-  "latest_articles": {
-    "title": "Ultimi articoli su di noi",
-    "titleFbAdw": "Parlano di noi",
-    "allArticlesLink": "/rassegna-stampa/",
-    "allArticlesText": "Tutti gli articoli",
-    "readArticleText": "Leggi articolo",
-    "articles": [
-      {
-        "image": {
-          "path": "common",
-          "name": "ilsole24ore"
-        },
-        "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
-        "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "forbes"
-        },
-        "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
-        "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "corrieredellasera"
-        },
-        "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
-        "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "lastampa"
-        },
-        "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
-        "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
-      }
-    ]
-  },
-  "servizi_piu_richiesti": {
-    "title": "I servizi più richiesti",
-    "list": [
-      "Visita generica a Catania",
-      "Prescrizione farmaci a Catania",
-      "Monitoraggio parametri vitali a Catania"
-    ]
-  },
-  "descrizione_servizio": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Quando rivolgersi ad un medico di base?</h2><p>Il medico di base (o medico di famiglia) è la figura a cui rivolgersi per la cura globale e primaria e per la prevenzione della tua salute. Il medico ti aiuterà a mantenere il controllo sul tuo stato di salute grazie alle sue competenze e la sua visione ampia in medicina. I disturbi e le malattie più comuni che il medico di base tratta sono:</p> <p><ul><li>malattie infettive (varicella, morbillo ecc.)</li><li>emicrania</li><li>ipertensione</li><li>diabete</li><li>emorroidi</li><li>cervicale</li><li>lombosciatalgia</li><li>acne</li><li>colite</li><li>gastrite</li></ul></p><p>Al giorno d’oggi le visite di medicina generale sono il sinonimo di lunghe attese e scomodità orarie. Per questo noi di EpiCura abbiamo deciso di rimuovere le liste di attesa dalle visite garantendo un intervento a domicilio 7 giorni su 7 anche in orari serali favorendo la guarigione e il benessere psicofisico del paziente. L’ambiente familiare, al contrario di uno studio medico freddo e asettico, mette il paziente a proprio agio aiutandolo e spronandolo a collaborare al meglio per raggiunge la sua guarigione.</p>",
+  "come_funziona": {
+    "title": "Come funziona",
     "cards": [
       {
         "image": {
           "path": "common",
-          "name": "comodita-casa"
+          "name": "calendar-blu"
         },
-        "title": "La comodità di casa",
-        "text": "I nostri specialisti ti raggiungono a casa con tutto il necessario per eseguire la visita. Pensiamo a tutto noi. Potrai rimettere a nuovo la tua salute senza doverti spostare da casa."
+        "title": "Scegli giorno e orario",
+        "text": "EpiCura ti permettere di adattare il servizio in  base alle tue esigenze. Sei tu a scegliere dove e quando ricevere l'intervento: i nostri professionisti ti raggiungeranno comodamente nel giorno e nell'ora indicati."
       },
       {
         "image": {
           "path": "common",
-          "name": "percorsi-personalizzati"
+          "name": "booking"
         },
-        "title": "Senza attese",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere la visita quando ce n’è bisogno. Noi di EpiCura garantiamo visite senza lista d’attesa, 7 giorni su 7, anche in orari serali per farti sentire sempre al sicuro."
+        "title": "Prenota in pochi clic",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
       },
       {
         "image": {
           "path": "common",
-          "name": "interventi-tempestivi"
+          "name": "love-home"
         },
-        "title": "Assistenza personalizzata",
-        "text": "Ogni paziente ha le sue esigenze. Per questo offriamo visite e percorsi personalizzati creati su misura. I nostri professionisti ti affiancheranno nel tuo percorso di guarigione fornendoti i trattamenti adatti al tuo specifico caso. Vuoi risolvere il tuo problema? Chiamaci subito allo 095 883 2068."
+        "title": "Ricevi l'intervento a domicilio",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
       }
     ]
   },
-  "descrizione_servizioFbAdw": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Quando rivolgersi ad un medico di base?</h2><p>Il medico di base (o medico di famiglia) è la figura a cui rivolgersi per la cura globale e primaria e per la prevenzione della tua salute. I nostri medici, coperti da assicurazione, porteranno con loro tutto il necessario direttamente <b>nel comfort di casa tua</b>. I disturbi più comuni che il medico di base tratta sono:</p> <p><ul><li>malattie infettive (varicella, morbillo ecc.)</li><li>emicrania</li><li>ipertensione</li><li>diabete</li><li>emorroidi</li><li>cervicale</li><li>lombosciatalgia</li><li>acne</li><li>colite</li><li>gastrite</li></ul></p>",
-    "cards": [
+  "booking-card": {
+    "code": "generalMedicinePhysical_",
+    "title": "Visita medica a domicilio a Catania",
+    "disciplineTitle": "Prenditi cura di te, senza muoverti da casa",
+    "text": "Hai bisogno di una visita o un parere medico ma vuoi evitare scomodi spostamenti?<br />Con EpiCura i migliori medici ti raggiungono comodamente a casa tua, 7 giorni su 7. Prenota in pochi clic e prenditi cura della tua salute.",
+    "price": "Costo fisso 60€",
+    "prenotaOnlineText": "Prenota ora"
+  },
+  "advantages": {
+    "title": "I migliori medici a domicilio entro 24 ore",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "list": [
       {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "Quando e dove vuoi",
-        "text": "Pensiamo a tutto noi. I nostri specialisti ti raggiungono a casa o ovunque tu voglia, con tutto il necessario per eseguire la prestazione."
+        "image": { "path": "common", "name": "professionist" },
+        "title": "Solo professionisti qualificati",
+        "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
       },
       {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "I nostri professionisti ti accompagneranno in un percorso creato su misura per te, offrendoti i trattamenti corretti sulla base delle tue esigenze, dove vuoi tu e quando vuoi tu."
+        "image": { "path": "common", "name": "certificate" },
+        "title": "La tua soddisfazione è la nostra priorità",
+        "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
       },
       {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
+        "image": { "path": "common", "name": "operator" },
+        "title": "Siamo sempre al tuo fianco",
+        "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
       }
     ]
+  },
+  "hint-card": {
+    "title": "Hai un dubbio? Chiedi al medico",
+    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "price": "Costo fisso 25€",
+    "bkg-color": "#F5F8FF",
+    "image": {
+      "path": "videoconsultation",
+      "name": "videoconsultation-banner"
+    },
+    "button-text": "Scopri il servizio",
+    "button-link": "/medico-di-base-videoconsulto/"
   }
 }

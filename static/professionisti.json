@@ -1,0 +1,671 @@
+{
+    "title": {
+        "fisioterapia": "Troviamo noi il fisioterapista più adatto",
+        "osteopatia": "Troviamo noi l'osteopata più adatto",
+        "massaggi": "Troviamo noi il massoterapista più adatto",
+        "psicologo-psicoterapeuta-online": "Troviamo noi lo psicologo o lo psicoterapeuta per te",
+        "veterinaria": "Troviamo noi il veterinario più adatto",
+        "nutrizione": "Troviamo noi il nutrizionista più adatto",
+        "infermieristica": "Troviamo noi l'infermiere più adatto",
+        "medicina-generale": "Troviamo noi il medico più adatto",
+        "pediatria": "Troviamo noi il pediatra più adatto",
+        "assistente-domiciliare": "Assistenti domiciliari qualificati e con esperienza",
+        "badante": "Badanti con esperienza e referenziate"
+    },
+    "cityTitle": "Troviamo noi lo specialista più adatto",
+    "caregiverTitle": "Badanti e assistenti domiciliari qualificati e referenziati",
+    "text": "In questo modo ti garantiamo un servizio tempestivo e su misura",
+    "caregiverText": "Scegliamo con cura i nostri professionisti per garantirti serenità e affidabilità.",
+    "list": [
+        {
+          "name": "Nicolò G.",
+          "discipline": "fisioterapia",
+          "discipline_label": "Fisioterapista",
+          "prestazioni": [],
+          "image": {
+            "path": "specialists",
+            "name": "nicolo-giordano"
+          }
+        },
+        {
+          "name": "Alessandro M.",
+          "discipline": "fisioterapia",
+          "discipline_label": "Fisioterapista",
+          "prestazioni": [],
+          "image": {
+            "path": "specialists",
+            "name": "alessandro-mancini"
+          }
+        },
+        {
+          "name": "Camilla C.",
+          "discipline": "fisioterapia",
+          "discipline_label": "Fisioterapista",
+          "prestazioni": [],
+          "image": {
+            "path": "specialists",
+            "name": "camilla-calosso"
+          }
+        },
+        {
+          "name": "Andrea D.",
+          "discipline": "fisioterapia",
+          "discipline_label": "Fisioterapista",
+          "prestazioni": [],
+          "image": {
+            "path": "specialists",
+            "name": "andrea-decarlini"
+          }
+        },
+        {
+            "name": "Davide A.",
+            "discipline": "fisioterapia",
+            "discipline_label": "Fisioterapista",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "davide-armeri"
+              }
+          },
+          {
+            "name": "Davide S.",
+            "discipline": "fisioterapia",
+            "discipline_label": "Fisioterapista",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "davide-siccardi"
+              }
+          },
+          {
+            "name": "Federico S.",
+            "discipline": "fisioterapia",
+            "discipline_label": "Fisioterapista",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "federico-storgato"
+              }
+          },
+          {
+            "name": "Luca D.",
+            "discipline": "fisioterapia",
+            "discipline_label": "Fisioterapista",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "luca-donati"
+              }
+          },
+          {
+            "name": "Marco M.",
+            "discipline": "fisioterapia",
+            "discipline_label": "Fisioterapista",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "marco-mangione"
+              }
+          },
+          {
+            "name": "Alessandro C.",
+            "discipline": "osteopatia",
+            "discipline_label": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "alessandro-caroleo"
+              }
+          },
+          {
+            "name": "Alessandro P.",
+            "discipline": "osteopatia",
+            "discipline_label": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "alessandro-pellini"
+              }
+          },
+          {
+            "name": "Benedetta B.",
+            "discipline": "osteopatia",
+            "discipline_label": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "bendetta-bottani"
+              }
+          },
+          {
+            "name": "Chiara B.",
+            "discipline": "osteopatia",
+            "discipline_label": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "chiara-bertoldo"
+              }
+          },
+          {
+            "name": "Cosimo P.",
+            "discipline": "osteopatia",
+            "discipline_label": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "cosimo-pacini"
+              }
+          },
+          {
+            "name": "Elisa D. P.",
+            "discipline": "osteopatia",
+            "discipline_label": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "elisa-delprete"
+              }
+          },
+          {
+            "name": "Federica C.",
+            "discipline": "osteopatia",
+            "discipline_label": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "federica-costamagna"
+              }
+          },
+          {
+            "name": "Ginevra M.",
+            "discipline": "osteopatia",
+            "discipline_label": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "ginevra-malegori"
+              }
+          },
+          {
+            "name": "Jacopo M.",
+            "discipline": "osteopatia",
+            "discipline_label": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "jacopo-mele"
+              }
+          },
+          {
+            "name": "Jordan B.",
+            "discipline": "osteopatia",
+            "discipline_label": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "jordan-bellucci"
+              }
+          },
+          {
+            "name": "Maurilio R.",
+            "discipline": "osteopatia",
+            "discipline_label": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "maurilio-rizzi"
+              }
+          },
+          {
+            "name": "Stefania T.",
+            "discipline": "osteopatia",
+            "discipline_label": "Osteopata",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "stefania-tavaglione"
+              }
+          },
+          {
+            "name": "Elisa P.",
+            "discipline":"massaggi",
+            "discipline_label": "Massoterapista",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "elisa-parma"
+              }
+          },
+          {
+            "name": "Lorenzo C.",
+            "discipline":"massaggi",
+            "discipline_label": "Massoterapista",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "lorenzo-colle"
+              }
+          },
+          {
+            "name": "Camilla S.",
+            "discipline":"massaggi",
+            "discipline_label": "Massoterapista",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "camilla-santarelli"
+              }
+          },
+          {
+            "name": "Antonio C.",
+            "discipline": "infermieristica",
+            "discipline_label": "Infermiere",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "antonio-caricato"
+              }
+          },
+          {
+            "name": "Cristian V.",
+            "discipline": "infermieristica",
+            "discipline_label": "Infermiere",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "cristian-valeri"
+              }
+          },
+          {
+            "name": "Francesca F.",
+            "discipline": "infermieristica",
+            "discipline_label": "Infermiera",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "francesca-fasoli"
+              }
+          },
+          {
+            "name": "Immacolata D.",
+            "discipline": "infermieristica",
+            "discipline_label": "Infermiera",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "immacolata-damiani"
+              }
+          },
+          {
+            "name": "Laura M.",
+            "discipline": "infermieristica",
+            "discipline_label": "Infermiera",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "laura-mattio"
+              }
+          },
+          {
+            "name": "Leonardo P.",
+            "discipline": "infermieristica",
+            "discipline_label": "Infermiere",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "leonardo-piccioni"
+              }
+          },
+          {
+            "name": "Sara M.",
+            "discipline": "infermieristica",
+            "discipline_label": "Infermiera",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "sara-muzzicato"
+              }
+          },
+          {
+            "name": "Simona C.",
+            "discipline": "infermieristica",
+            "discipline_label": "Infermiera",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "simona-cardano"
+              }
+          },
+          {
+            "name": "Ali S.",
+            "discipline": "medicina-generale",
+            "discipline_label": "Medico generico",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "ali-saad"
+              }
+          },
+          {
+            "name": "Daniele B.",
+            "discipline": "medicina-generale",
+            "discipline_label": "Medico generico",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "daniele-bissacco"
+              }
+          },
+          {
+            "name": "Giulia S.",
+            "discipline": "medicina-generale",
+            "discipline_label": "Medico generico",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "giulia-serra"
+              }
+          },
+          {
+            "name": "Iole G.",
+            "discipline": "medicina-generale",
+            "discipline_label": "Medico generico",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "iole-gaudino"
+              }
+          },
+          {
+            "name": "Marco J.",
+            "discipline": "medicina-generale",
+            "discipline_label": "Medico generico",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "marco-jacobitti"
+              }
+          },
+          {
+            "name": "Mariano A.",
+            "discipline": "medicina-generale",
+            "discipline_label": "Medico generico",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "mariano-amendola"
+              }
+          },
+          {
+            "name": "Nicolò M.",
+            "discipline": "medicina-generale",
+            "discipline_label": "Medico generico",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "nicolò-minghetti"
+              }
+          },
+          {
+            "name": "Veronica R.",
+            "discipline": "medicina-generale",
+            "discipline_label": "Medico generico",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "veronica-reusmann"
+              }
+          },
+          {
+            "name": "Anna V.",
+            "discipline": "nutrizione",
+            "discipline_label": "Nutrizionista",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "anna-virano"
+              }
+          },
+          {
+            "name": "Filomena V.",
+            "discipline": "nutrizione",
+            "discipline_label": "Nutrizionista",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "filomena-vitale"
+              }
+          },
+          {
+            "name": "Marianna M.",
+            "discipline": "nutrizione",
+            "discipline_label": "Nutrizionista",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "marianna-mastroianni"
+              }
+          },
+          {
+            "name": "Valentina B.",
+            "discipline": "nutrizione",
+            "discipline_label": "Nutrizionista",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "valentina-bisciotti"
+              }
+          },
+          {
+            "name": "Daniele T.",
+            "discipline": "pediatria",
+            "discipline_label": "Pediatra",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "daniele-tessaris"
+              }
+          },
+          {
+            "name": "Alessandro C.",
+            "discipline": "veterinaria",
+            "discipline_label": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "alessandro-cannella"
+              }
+          },
+          {
+            "name": "Fabiana B.",
+            "discipline": "veterinaria",
+            "discipline_label": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "fabiana-baini"
+              }
+          },
+          {
+            "name": "Franca M.",
+            "discipline": "veterinaria",
+            "discipline_label": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "franca-muggiana"
+              }
+          },
+          {
+            "name": "Rosamaria P.",
+            "discipline": "veterinaria",
+            "discipline_label": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "rosamaria-pellegrini"
+              }
+          },
+          {
+            "name": "Alessandro L.",
+            "discipline": "psicologo",
+            "discipline_label": "Psicologo",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "alessandro-longo"
+              }
+          },
+          {
+            "name": "Anna D.",
+            "discipline": "psicologo",
+            "discipline_label": "Psicologa",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "anna-demicco"
+              }
+          },
+          {
+            "name": "Eugenia F.",
+            "discipline": "psicologo",
+            "discipline_label": "Psicologa",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "eugenia-ferrara"
+              }
+          },
+          {
+            "name": "Irene C.",
+            "discipline": "psicologo",
+            "discipline_label": "Psicologa",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "irene-certa"
+              }
+          },
+          {
+            "name": "Letizia F.",
+            "discipline": "psicologo",
+            "discipline_label": "Psicologa",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "letizia-foti"
+              }
+          },
+          {
+            "name": "Maria F.",
+            "discipline": "psicologo",
+            "discipline_label": "Psicologa",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "maria-forte"
+              }
+          },
+          {
+            "name": "Agnese P.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "agnese-pisano"
+            }
+          },
+          {
+            "name": "Annamaria M.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "annamaria-mattiacci"
+            }
+          },
+          {
+            "name": "Antonio E.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "antonio-esposito"
+            }
+          },
+          {
+            "name": "Derrick T.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "derrick-tasto"
+            }
+          },
+          {
+            "name": "Lauraine K.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "lauraine-koassou"
+            }
+          },
+          {
+            "name": "Lise N.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "lise-nuel"
+            }
+          },
+          {
+            "name": "Marina R.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "marina-ricca"
+            }
+          },
+          {
+            "name": "Morena R.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "morena-russo"
+            }
+          },
+          {
+            "name": "Veronica A.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "veronica-affatato"
+            }
+          },
+          {
+            "name": "Vincenzo S.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "vincenzo-schiano"
+            }
+          }
+      ]
+}

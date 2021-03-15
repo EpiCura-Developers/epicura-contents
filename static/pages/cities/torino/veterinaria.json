@@ -3,334 +3,194 @@
     "title": "Veterinario a Torino",
     "description": "Veterinari a domicilio a Torino e area metropolitana. Visite veterinarie, eutanasia, prelievi per cani e gatti, esami feci e urine a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "prezzi_title": "I prezzi di Veterinaria a Torino",
   "come_funziona": {
     "title": "Come funziona",
-    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno rende la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Torino e area metropolitana grazie a 3 semplici passaggi:",
     "cards": [
       {
         "image": {
           "path": "common",
-          "name": "scegli-soluzione"
+          "name": "stetofonendoscopio-cane"
         },
-        "title": "Scegli la soluzione",
-        "text": "EpiCura offre un’ampia scelta di servizi per permetterti di trovare esattamente ciò di cui hai bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te e al tuo animale."
+        "title": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura al meglio del tuo amico a quattro zampe. Scegli il pacchetto più adatto, noi troveremo il miglior veterinario per soddisfare le sue esigenze."
       },
       {
         "image": {
           "path": "common",
-          "name": "prenota-seduta"
+          "name": "booking"
         },
-        "title": "Prenota la seduta",
-        "text": "Contattaci o prenota direttamente online e troveremo il miglior specialista per il tuo caso che ti guiderà nel percorso terapeutico del tuo animale. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità"
+        "title": "Prenota in pochi clic",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
       },
       {
         "image": {
           "path": "common",
-          "name": "migliora-salute"
+          "name": "love-home"
         },
-        "title": "Migliora la sua salute",
-        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo animale. Potrai contattarci per qualunque esigenza."
-      }
-    ]
-  },
-  "come_funzionaFbAdw": {
-    "title": "Come funziona",
-    "text": "EpiCura, con oltre 800 figure, è il primo poliambulatorio digitale in Italia. Abbiamo creato un sistema rapido per evitare disorganizzazione, disagi e attese ai nostri pazienti. Ecco come funziona:",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "scegli-soluzione"
-        },
-        "title": "Scegli la soluzione",
-        "text": "Trova il servizio adatto alle necessità del tuo cane o gatto, oppure spiegaci la situazione. Ascolteremo i tuoi bisogni e ti aiuteremo a scegliere la migliore soluzione per il tuo animale."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "prenota-seduta"
-        },
-        "title": "Prenota la prestazione",
-        "text": "Chiamaci o prenota direttamente online. Troveremo il miglior specialista per te e potrai ricevere il servizio in tempi brevi, senza alcuna lista d’attesa e con la massima comodità."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "migliora-salute"
-        },
-        "title": "Migliora la sua salute",
-        "text": "Preparati a ricevere a casa tua il nostro specialista. Ti affiancherà in modo professionale nel migliorare la salute del tuo animale. Per qualsiasi dubbio o necessità, potrai chiamarci in ogni momento."
+        "title": "Ricevi il veterinario a domicilio",
+        "text": "I nostri veterinari ti raggiungono dove e quando vuoi, 7 giorni su 7. Con EpiCura avrai la certezza di ricevere interventi solo dai migliori professionisti, per prenderti cura del tuo amico a quattro zampe senza pensieri."
       }
     ]
   },
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
-    "textColor": "dark",
-    "professionistaText": "Sei un professionista?",
-    "professionistaUrl": "/professionisti-lavoro/",
     "titleBig": "Veterinari a domicilio a Torino",
     "subtitleBig": "Per chi tiene alla salute del proprio animale.",
     "description1": "Prenditi cura del tuo animale, interventi 7 giorni su 7, senza liste di attesa, anche in orari serali.",
     "description2": "EpiCura porta la medicina veterinaria ovunque tu ne abbia bisogno, in tutta Torino e area metropolitana, in qualunque giorno e orario tu voglia.",
     "askInfoButtonText": "Richiedi informazioni"
   },
-  "subheaderFbAdw": {
-    "prenotaOnlineText": "Prenota ora",
-    "textColor": "dark",
-    "professionistaText": "",
-    "professionistaUrl": "",
-    "titleBig": "Veterinari a domicilio a Torino",
-    "subtitleBig": "Ci prendiamo cura del tuo cane o gatto",
-    "description1": "Senza liste d'attesa, 7 giorni su 7.",
-    "description2": "Con EpiCura puoi prenotare visite veterinarie a domicilio in tutta Torino e area metropolitana, in qualunque giorno e orario tu voglia.",
-    "askInfoButtonText": "Richiedi informazioni"
+  "booking-card": {
+    "code": "veterinaryExamination",
+    "title": "Visita veterinaria a domicilio a Torino",
+    "disciplineTitle": "I migliori professionisti a casa tua",
+    "text": "Il tuo animale domestico ha bisogno di una visita ma muoversi da casa è scomodo e difficile? <br />Con EpiCura puoi prenotare in pochi clic visite veterinarie comodamente a domicilio, senza stress per te e il tuo amico a quattro zampe.",
+    "price": "Costo fisso 60€",
+    "prenotaOnlineText": "Prenota ora"
   },
-  "nostri_professionisti": {
-    "title": "I nostri professionisti",
-    "text": "",
-    "professionisti": [
-      {
-        "name": "Martina Nanotti",
-        "disciplina": "Veterinario",
-        "prestazioni": [],
-        "avatar": "martina-nanotti"
+  "solutions": [
+    {
+      "title": "Le soluzioni per il tuo cane",
+      "image": {
+        "path": "veterinary",
+        "name": "dog"
       },
-      {
-        "name": "Denise Albanese",
-        "disciplina": "Veterinario",
-        "prestazioni": [],
-        "avatar": "denise-albanese"
-      },
-      {
-        "name": "Manuela Grippa",
-        "disciplina": "Veterinario",
-        "prestazioni": [],
-        "avatar": "manuela-grippa"
-      },
-      {
-        "name": "Angelica Pitrola",
-        "disciplina": "Veterinario",
-        "prestazioni": [],
-        "avatar": "angelica-pitrola"
-      }
-    ]
-  },
-  "prenotazione": {
-    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
-    "subtitle": "Prenditi subito cura del tuo animale con il miglior specialista certificato per le tue esigenze.",
-    "ctaCall": "Vuoi prenotare telefonicamente?"
-  },
-  "faqs": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Domande frequenti",
-    "list": [
-      {
-        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
-        "answer": "No, le prestazioni veterinarie non rientrano tra le spese mediche. Tuttavia vi sono ugualmente delle agevolazioni per detrarre entro certi limiti le spese veterinarie dalla dichiarazione dei redditi."
-      },
-      {
-        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
-        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
-      },
-      {
-        "question": "Avete un centro o uno studio in cui avvengono le prestazioni?",
-        "answer": "Il nostro è un servizio a domicilio, non abbiamo un nostro centro sul territorio. Tuttavia, nel caso volessi ricevere gli interventi in un ambulatorio veterinario, è possibile. Ci appoggiamo agli studi privati dei professionisti che collaborano con noi."
-      },
-      {
-        "question": "Cosa succede se non mi trovo bene con il professionista?",
-        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra professionista e utente, per questo motivo se non ti trovi bene con lo Specialist basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
-      }
-    ]
-  },
-  "latest_articles": {
-    "title": "Ultimi articoli su di noi",
-    "titleFbAdw": "Parlano di noi",
-    "allArticlesLink": "/rassegna-stampa/",
-    "allArticlesText": "Tutti gli articoli",
-    "readArticleText": "Leggi articolo",
-    "articles": [
-      {
-        "image": {
-          "path": "common",
-          "name": "ilsole24ore"
-        },
-        "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
-        "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "forbes"
-        },
-        "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
-        "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "corrieredellasera"
-        },
-        "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
-        "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "lastampa"
-        },
-        "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
-        "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
-      }
-    ]
-  },
-  "soluzioni_su_misura": {
-    "title": "Le soluzioni create su misura",
-    "infoButtonText": "Richiedi informazioni",
-    "pacchetto1": {
-      "title": "Pacchetto Cucciolo Cane e Gatto",
-      "qty": "",
-      "price": "145€",
-      "text": "Comprende tutti i trattamenti, obbligatori e non, per garantire il benessere del tuo cucciolo. Il pacchetto prevede: prima visita veterinaria generale, vaccinazioni, microchip e sverminazione."
-    },
-    "pacchetto2": {
-      "title": "Pacchetto Pet Care Dog e Pet Care Cat",
-      "qty": "",
-      "price": "245€",
-      "oldPrice": "",
-      "text": "Comprende tutti i trattamenti, obbligatori e non, per mantenere la salute e il benessere del tuo cane o gatto. Il pacchetto prevede: visita, richiami vaccinazioni, esami feci, urine e sangue, esami specifici per cane e gatto (es. esame leishmaniosi o filaria)."
-    },
-    "teleconsulto": {
-      "bgImage": "teleconsulto-bg",
-      "textColor": "dark",
-      "title": "Assistenza Teleconsulto",
-      "price": "20€",
       "startingFromText": "A partire da",
-      "text": "Per chi vuole il parere di un esperto su uno specifico problema. Parla direttamente con un nostro veterinario al telefono che ti consiglierà esattamente cosa fare per migliorare la salute del tuo animale."
+      "solutionsBig": [
+        {
+          "code": "veterinaryPuppyPackage",
+          "title": "Pacchetto Cucciolo",
+          "text": "Un check-up completo per il tuo cucciolo.<br /><br />Comprende:<ul><li>prima visita specialistica</li><li>vaccino eptavalente</li><li>sverminazione</li><li>applicazione microchip</li><li>trattamento anti-parassitario</li></ul>",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        },
+        {
+          "code": "veterinaryPetCareDogPackage",
+          "title": "Pacchetto Pet Care",
+          "text": "È consigliato per un controllo specialistico sullo stato di salute almeno ogni 12 mesi.<br /><br />Comprende:<ul><li>visita specialistica completa</li><li>vaccino eptavalente</li></ul>",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        },
+        {
+          "code": "veterinaryProphylaxisDogPackage",
+          "title": "Pacchetto Prevenzione",
+          "text": "Consigliato per un check-up sullo stato di salute e il contrasto di malattie infettive.<br /><br />Comprende:<ul><li>visita specialistica completa</li><li>test per leishmania oppure filaria</li></ul>",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        }
+      ]
+    },
+    {
+      "title": "Le soluzioni per il tuo gatto",
+      "image": {
+        "path": "veterinary",
+        "name": "cat"
+      },
+      "startingFromText": "A partire da",
+      "solutionsBig": [
+        {
+          "code": "veterinaryKittenPackage",
+          "title": "Pacchetto Cucciolo",
+          "text": "Un check-up completo per il tuo cucciolo.<br /><br />Comprende:<ul><li>prima visita specialistica</li><li>vaccino quadrivalente (trivalente+FeLV)</li><li>sverminazione</li><li>trattamento anti-parassitario</li></ul>",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        },
+        {
+          "code": "veterinaryPetCareCatPackage",
+          "title": "Pacchetto Pet Care",
+          "text": "È consigliato per un controllo specialistico sullo stato di salute almeno ogni 12 mesi.<br /><br />Comprende:<ul><li>visita specialistica completa</li><li>vaccino trivalente</li></ul>",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        },
+        {
+          "code": "veterinaryProphylaxisCatPackage",
+          "title": "Pacchetto Prevenzione",
+          "text": "Consigliato per un check-up sullo stato di salute e la prevenzione della leucemia felina.<br /><br />Comprende:<ul><li>visita specialistica completa</li><li>vaccino FeLV</li></ul>",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        }
+      ]
     }
-  },
-  "servizi_piu_richiesti": {
-    "title": "I servizi più richiesti",
-    "list": [
-      "Visita veterinaria a Torino",
-      "Sverminazione a Torino",
-      "Eutanasia a Torino",
-      "Esami feci/esami urine a Torino",
-      "Vaccino a Torino",
-      "Applicazione/identificazione microchip a Torino",
-      "Esami del sangue a Torino"
-    ]
-  },
-  "descrizione_servizio": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Cura la sua salute</h2><p> Da quando è un cucciolo a quando è anziano, l’animale di compagnia va curato e seguito. Questa decisione va presa in modo consapevole altrimenti si rischia di danneggiare la sua salute e il rapporto che hai con lui. Il veterinario si occupa di prendersi cura dell’animale migliorando la sua qualità di vita ed evitando sofferenze. Lo specialista si occupa di curare la salute dell’animale in vari ambiti, dall’igiene alla riproduzione. <br />Sappiamo quanto, a volte, sia difficile e scomodo il trasporto fino allo studio veterinario. Quando l'animale è anziano, malato o addirittura quando è cucciolo spesso è proibitivo spostarsi. Per questo EpiCura offre interventi di veterinari professionisti a domicilio per evitare attese e scomodi spostamenti. Per dare il massimo al tuo animale e farlo sentire sempre curato e al sicuro garantiamo i servizi 7 giorni su 7 anche in orari serali e senza liste di attesa. Sei tu che decidi ora e giorno.</p>",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "La comodità di casa",
-        "text": "I nostri specialisti ti raggiungono a casa o in ufficio con tutto il necessario per eseguire la prestazione. Pensiamo a tutto noi. Il tuo animale si sentirà curato e tranquillo direttamente nel confort di casa."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "Ogni animale ha le sue esigenze. Per questo offriamo percorsi personalizzati creati su misura. I nostri professionisti affiancheranno il tuo animale nel suo percorso offrendogli i trattamenti giusti negli orari e giorni che preferisci."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere un intervento quando ce n’è bisogno. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
-      }
-    ]
-  },
-  "descrizione_servizioFbAdw": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Cura la sua salute</h2><p>I nostri professionisti certificati e coperti da assicurazione sono in grado di strutturare percorsi personalizzati studiati per le tue esigenze e per quelle del tuo animale. Porteranno con loro tutto quello di cui hanno bisogno per farti beneficiare a pieno dell'intervento veterinario direttamente nel comfort di casa tua.</p> ",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "Quando e dove vuoi",
-        "text": "Pensiamo a tutto noi. I nostri specialisti sono disponibili a domicilio con tutto il necessario per eseguire la prestazione."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "I nostri professionisti accompagneranno il tuo animale in un percorso creato su misura per lui, offrendo i trattamenti corretti sulla base delle esigenze, dove vuoi tu e quando vuoi tu."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
-      }
-    ]
-  },
-  "trattamenti": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "sectionTitle": "",
-    "showAllText": "Mostra tutti",
-    "hideAllText": "Mostra meno",
-    "title": "Interventi veterinari a Torino",
-    "textColor": "dark",
-    "description": "",
-    "tags": [],
+  ],
+  "advantages": {
+    "title": "I migliori veterinari a domicilio entro 24 ore",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
     "list": [
       {
-        "title": "Visita veterinaria generale",
-        "description": "Visite veterinarie a domicilio in tutta Torino e area metropolitana, 7 giorni su 7, anche in orari serali, senza liste di attesa. Per assicurare al tuo animale la migliore salute possibile."
+        "image": { "path": "common", "name": "professionist" },
+        "title": "Solo professionisti qualificati",
+        "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
       },
       {
-        "title": "Iniezione farmaco",
-        "description": "Intervento veterinario per la somministrazione al tuo animale di un farmaco tramite iniezione. Prestazione erogata da specialisti certificati e con esperienza in qualsiasi giorno, orario e luogo tu voglia."
+        "image": { "path": "common", "name": "certificate" },
+        "title": "La tua soddisfazione è la nostra priorità",
+        "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
       },
       {
-        "title": "Eutanasia cane e gatto",
-        "description": "Intervento veterinario curato da esperti certificati in tutta Torino e area metropolitana. Per consentire al tuo animale di non soffrire e alleviare il suo dolore."
-      },
-      {
-        "title": "Esami urine e feci",
-        "description": "Prestazione veterinaria a domicilio offerta da specialisti certificati e con esperienza in tutta Torino e area metropolitana. Assicura la salute del tuo animale con delle analisi specifiche e dettagliate."
-      },
-      {
-        "title": "Applicazione e identificazione microchip",
-        "description": "Prestazione veterinaria per l’applicazione del microchip di riconoscimento a domicilio in tutta Torino e area metropolitana. Assicura al tuo animale di essere riconosciuto in qualunque luogo o momento per non perderlo mai di vista."
-      },
-      {
-        "title": "Antirabbica",
-        "description": "Vaccino antirabbico a domicilio per assicurare la salute del tuo cane. Prestazione erogata da professionisti certificati e con esperienza in tutta Torino e area metropolitana, 7 giorni su 7 anche in orari serali."
-      },
-      {
-        "title": "Prelievo ematico",
-        "description": "Prelievo del sangue a domicilio per il controllo della salute dell’animale e l’accertamento del suo stato di forma. Prestazione erogata da professionisti certificati, 7 giorni su 7, anche in orari serali."
-      },
-      {
-        "title": "Vaccinazioni",
-        "description": "Vaccinazioni animali da veterinari professionisti e specializzati. Proteggi il tuo animale dalle malattie che potrebbero colpirlo grazie a dei vaccini specifici somministrati a domicilio, in qualsiasi giorno e orario tu voglia."
-      },
-      {
-        "title": "Sverminazione",
-        "description": "Intervento veterinario a domicilio per la sverminazione del tuo animale. Assicura la sua salute grazie a professionisti che rimuovono e ostacolano la riproduzione dei vermi intestinali. Prestazioni erogate 7 giorni su 7, anche in orari serali."
+        "image": { "path": "common", "name": "operator" },
+        "title": "Siamo sempre al tuo fianco",
+        "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
       }
     ]
+  },
+  "hint-card": {
+    "title": "Hai un dubbio? Chiedi al veterinario",
+    "content": "Se il tuo animale deve intraprendere un percorso specialistico per la prima volta o vuoi ricevere un secondo parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "price": "Costo fisso 25€",
+    "bkg-color": "#F5F8FF",
+    "image": {
+      "path": "videoconsultation",
+      "name": "videoconsultation-banner"
+    },
+    "button-text": "Scopri il servizio",
+    "button-link": "/veterinario-videoconsulto/"
   }
 }

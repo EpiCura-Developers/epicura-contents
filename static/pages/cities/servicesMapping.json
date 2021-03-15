@@ -1,39 +1,39 @@
 {
   "fisioterapia": {
     "fullName": "Fisioterapia",
-    "specialists": "Fisioterapisti a domicilio"
+    "specialists": "Fisioterapista a domicilio"
   },
   "osteopatia": {
     "fullName": "Osteopatia",
-    "specialists": "Osteopati a domicilio"
+    "specialists": "Osteopata a domicilio"
   },
   "assistenza-domiciliare": {
     "fullName": "Assistenza domiciliare",
-    "specialists": "Assistenti domiciliari"
+    "specialists": "Assistente domiciliare"
   },
   "infermieristica": {
     "fullName": "Infermieristica",
-    "specialists": "Infermieri a domicilio"
+    "specialists": "Infermiere a domicilio"
   },
   "pediatria": {
     "fullName": "Pediatria",
-    "specialists": "Pediatri a domicilio"
+    "specialists": "Pediatra a domicilio"
   },
   "veterinaria": {
     "fullName": "Veterinaria",
-    "specialists": "Veterinari a domicilio"
+    "specialists": "Veterinario a domicilio"
   },
   "medicina-generale": {
     "fullName": "Medicina generale",
-    "specialists": "Medici di base a domicilio"
+    "specialists": "Medico generico a domicilio"
   },
   "massaggi": {
-    "fullName": "Massaggi",
-    "specialists": "Massaggiatori Professionali a domicilio"
+    "fullName": "Massoterapia",
+    "specialists": "Massoterapista a domicilio"
   },
   "psicologia": {
     "fullName": "Psicologia",
-    "specialists": "Psicologi"
+    "specialists": "Psicologo"
   },
   "psicoterapia": {
     "fullName": "Psicoterapia",
@@ -41,7 +41,7 @@
   },
   "nutrizione": {
     "fullName": "Nutrizione",
-    "specialists": "Nutrizionisti a domicilio"
+    "specialists": "Nutrizionista a domicilio"
   },
   "servizio-ricerca-badanti": {
     "fullName": "Servizio Ricerca Badanti",
