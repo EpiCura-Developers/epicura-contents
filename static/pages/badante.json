@@ -123,8 +123,8 @@
     ]
   },
   "come_funziona": {
-    "title": "Sei in cerca di una badante? Ecco come funziona.*",
-    "text": "<span class='green'>*Servizio attivo in tutta Italia</span>",
+    "title": "Sei in cerca di una badante? Ecco come funziona",
+    "text": "<span class='green'>Servizio attivo in tutta Italia</span>",
     "cards": [
       {
         "image": {
@@ -177,7 +177,8 @@
           },
           "title": "Badante convivente giorno e notte",
           "text": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L'assistenza è erogabile per un minimo di 2 mesi.",
-          "price": "1344 Euro",
+          "startingFrom": true,
+          "price": "1.344 Euro al mese",
           "button": {
             "text": "Scopri di più",
             "link": "/badante/badante-convivente/"
@@ -194,7 +195,8 @@
           },
           "title": "Badante diurna",
           "text": "Presta assistenza part-time durante il giorno. È un supporto fondamentale per le attività quotidiane di persone autosufficienti e non.",
-          "price": "682 Euro",
+          "startingFrom": true,
+          "price": "682 Euro al mese",
           "button": {
             "text": "Scopri di più",
             "link": "/badante/badante-diurna/"
@@ -211,7 +213,8 @@
           },
           "title": "Badante notturna",
           "text": "Si occupa del monitoraggio della persona assistita durante la notte, garantendo le cure e le attenzioni necessarie anche in caso di emergenza.",
-          "price": "1122 Euro",
+          "startingFrom": true,
+          "price": "1.122 Euro al mese",
           "button": {
             "text": "Scopri di più",
             "link": "/badante/badante-notturna/"
@@ -226,7 +229,7 @@
   ],
   "assistenza-ore": {
     "title": "Hai bisogno di assistenza a ore?",
-    "text": "L'assistenza a ore è ideale per persone autosufficienti e non che hanno bisogno di supporto solo in specifici giorni o per attività che non riescono a svolgere in autonomia (spesa, pulizia della casa, visite mediche). Il servizio è erogabile a partire da un minimo di 3 ore consecutive.",
+    "text": "L'assistenza a ore è ideale per persone autosufficienti e non, che hanno bisogno di supporto solo in specifici giorni o per attività che non riescono a svolgere in autonomia (spesa, pulizia della casa, visite mediche). Il servizio è erogabile a partire da un minimo di 3 ore consecutive.",
     "city": {
       "title": "Scopri il nostro servizio di assistenza a ore nella tua città:"
     }
