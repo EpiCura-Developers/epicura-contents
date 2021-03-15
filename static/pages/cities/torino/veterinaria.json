@@ -145,7 +145,7 @@
         {
           "code": "veterinaryProphylaxisCatPackage",
           "title": "Pacchetto Prevenzione",
-          "text": "Consigliato per un check-up sullo stato di salute e la prevenzione della leucemia felina.<br /><br />Comprende:<ul><li>visita specialistica completa</li><li>vaccino trivalente + FeLV</li></ul>",
+          "text": "Consigliato per un check-up sullo stato di salute e la prevenzione della leucemia felina.<br /><br />Comprende:<ul><li>visita specialistica completa</li><li>vaccino FeLV</li></ul>",
           "startingFrom": false,
           "button": {
             "text": "Prenota ora",
