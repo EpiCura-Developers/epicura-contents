@@ -134,7 +134,7 @@
             "prestazioni": [],
             "image": {
                 "path": "specialists",
-                "name": "bendetta-bottani"
+                "name": "benedetta-bottani"
               }
           },
           {
@@ -245,16 +245,6 @@
             "image": {
                 "path": "specialists",
                 "name": "lorenzo-colle"
-              }
-          },
-          {
-            "name": "Camilla S.",
-            "discipline":"massaggi",
-            "discipline_label": "Massoterapista",
-            "prestazioni": [],
-            "image": {
-                "path": "specialists",
-                "name": "camilla-santarelli"
               }
           },
           {
@@ -404,7 +394,7 @@
             "prestazioni": [],
             "image": {
                 "path": "specialists",
-                "name": "nicolò-minghetti"
+                "name": "nicolo-minghetti"
               }
           },
           {
