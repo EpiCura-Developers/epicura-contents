@@ -2,5 +2,29 @@
     "metaDescription": {
         "title": "Videoconsulto specialistico",
         "description": "Il videoconsulto di EpiCura è terminato. Speriamo sia andato tutto bene"
+    },
+    "title": "Videoconsulto specialistico",
+    "subtitle": "Grazie per aver scelto il nostro servizio.",
+    "patient": {
+        "text": "Speriamo che sia andato tutto come previsto e che il professionista ti abbia fornito il giusto supporto.",
+        "button": {
+            "text": "Vuoi prenotare un nuovo videoconsulto?",
+            "link": "/videoconsulti"
+        },
+        "psycho": {
+            "text": "Per proseguire il tuo percorso di psicologia online, compila il seguente form:",
+            "button": {
+                "text": "Continua il percorso",
+                "link": "https://share.hsforms.com/1BfQRU1lIQWu4NB8n40H5Yw4ebbs"
+            }
+        }
+    },
+    "specialist": {
+        "text": "Speriamo che sia andato tutto come previsto.",
+        "button": {
+            "text": "Visita il sito",
+            "link": "/"
+        }
     }
+
 }
