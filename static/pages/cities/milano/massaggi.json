@@ -1,301 +1,151 @@
 {
   "metaDescription": {
-    "title": "Massaggiatore professionale a Milano",
-    "description": "Massaggiatori professionali a domicilio a Milano e area metropolitana. Massaggi relax, massaggi decontratturanti, massaggio linfatici a casa, 7 giorni su 7, nessuna lista d'attesa"
-  },
-  "prezzi_title": "I prezzi dei Massaggi professionali a Milano",
-  "come_funziona": {
-    "title": "Come funziona",
-    "text": "Il settore della sanità, oggi, è spesso caratterizzato da disorganizzazione, disagi e ore di attesa. EpiCura, con oltre 800 figure mediche presenti al suo interno, dedica il suo lavoro a rendere la sanità efficace, comoda e flessibile. Siamo il primo poliambulatorio digitale in Italia e siamo in grado di fornire un’azione tempestiva in tutta Milano e area metropolitana grazie a 3 semplici passaggi:",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "scegli-soluzione"
-        },
-        "title": "Scegli la soluzione",
-        "text": "Contattaci o prenota direttamente online e spiegaci di cosa hai bisogno. EpiCura offre un’ampia scelta di servizi per permettere al paziente di trovare esattamente ciò di cui ha bisogno. Se vuoi aiuto, spiegaci la tua situazione. Ti ascolteremo e ti aiuteremo a capire qual è la soluzione più adatta a te."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "prenota-seduta"
-        },
-        "title": "Prenota la seduta",
-        "text": "Contattaci o prenota direttamente online e troveremo il miglior specialista per il tuo caso che ti guiderà nel tuo percorso terapeutico. A quel punto, senza alcuna lista d’attesa, potrai ricevere il servizio in rapidità e comodità."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "migliora-salute"
-        },
-        "title": "Mettiti comodo",
-        "text": "Rilassati e preparati a ricevere lo specialista direttamente a casa tua. Ti affiancheremo nel percorso di cura e di miglioramento della salute del tuo corpo. Potrai contattarci per qualunque esigenza."
-      }
-    ]
-  },
-  "come_funzionaFbAdw": {
-    "title": "Come funziona",
-    "text": "EpiCura, con oltre 800 figure, è il primo poliambulatorio digitale in Italia. Abbiamo creato un sistema rapido per evitare <b>disorganizzazione, disagi e attese</b> ai nostri pazienti. Ecco come funziona:",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "scegli-soluzione"
-        },
-        "title": "Scegli la soluzione",
-        "text": "Trova il servizio adatto alle tue necessità oppure spiegaci la tua situazione. Ascolteremo i tuoi bisogni e ti aiuteremo a scegliere la migliore soluzione per te."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "prenota-seduta"
-        },
-        "title": "Prenota la seduta",
-        "text": "Chiamaci o prenota direttamente online. Troveremo il miglior specialista per te e potrai ricevere il servizio in tempi brevi, senza alcuna lista d’attesa e con la massima comodità."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "migliora-salute"
-        },
-        "title": "Migliora la tua salute",
-        "text": "Preparati a ricevere a casa tua il nostro specialista. Ti affiancherà in modo professionale nel migliorare la tua salute. Per qualsiasi dubbio o necessità, potrai chiamarci in ogni momento."
-      }
-    ]
+    "title": "Massoterapista a Milano",
+    "description": "Massoterapista a domicilio a Milano e area metropolitana. Massaggi relax, massaggi decontratturanti, massaggio linfatici a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
   "subheader": {
-    "prenotaOnlineText": "Prenota online",
-    "textColor": "dark",
-    "professionistaText": "Sei un professionista?",
-    "professionistaUrl": "/professionisti-lavoro/",
-    "titleBig": "Massaggiatori professionali a domicilio a Milano",
-    "subtitleBig": "Per chi vuole rilassare il proprio corpo e rimuovere lo stress accumulato.",
-    "description1": "Intervento 7 giorni su 7, senza liste di attesa, anche in orari serali.",
-    "description2": "EpiCura porta i massaggi terapeutici, per sportivi e di benessere ovunque tu ne abbia bisogno, in tutta Milano e area metropolitana, in qualunque giorno e orario tu voglia. Per aiutarti a rimuovere tensioni e ritrovare il benessere del tuo corpo.",
-    "askInfoButtonText": "Richiedi informazioni"
+    "prenotaOnlineText": "Prenota ora",
+    "titleBig": "Massoterapista a domicilio a Milano",
+    "description1": "EpiCura porta la massoterapia comodamente a domicilio, in tutta Milano e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
+    "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa."
   },
-  "subheaderFbAdw": {
-    "prenotaOnlineText": "Prenota online",
-    "textColor": "dark",
-    "professionistaText": "",
-    "professionistaUrl": "",
-    "titleBig": "Massaggi professionali a domicilio a Milano",
-    "subtitleBig": "Ci prendiamo cura di te",
-    "description1": "Senza liste d'attesa, 7 giorni su 7.",
-    "description2": "Con EpiCura puoi prenotare massaggi professionali a domicilio in tutta Milano e area metropolitana, in qualunque giorno e orario tu voglia.",
-    "askInfoButtonText": "Richiedi informazioni"
-  },
-  "nostri_professionisti": {
-    "title": "I nostri professionisti",
-    "text": "",
-    "professionisti": [
-      {
-        "name": "Filippo Gasparotti",
-        "disciplina": "Massaggiatore professionista",
-        "prestazioni": [],
-        "avatar": "filippo-gasparotti"
-      },
-      {
-        "name": "Tiziana Cerutti",
-        "disciplina": "Massaggiatore professionista",
-        "prestazioni": [],
-        "avatar": "tiziana-cerutti"
-      },
-      {
-        "name": "Stefano Serraino",
-        "disciplina": "Massaggiatore professionista",
-        "prestazioni": [],
-        "avatar": "stefano-serraino"
-      },
-      {
-        "name": "Valentina Perrucca",
-        "disciplina": "Massaggiatore professionista",
-        "prestazioni": [],
-        "avatar": "valentina-perucca"
-      }
-    ]
-  },
-  "prenotazione": {
-    "title": "Puoi prenotare il servizio di cui hai bisogno direttamente qui in modo rapido e in completa autonomia.",
-    "subtitle": "Inizia subito il tuo percorso benessere con il miglior specialista certificato per le tue esigenze pronto a prendersi cura di te.",
-    "ctaCall": "Vuoi prenotare telefonicamente?"
-  },
-  "faqs": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "title": "Domande frequenti",
-    "list": [
-      {
-        "question": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
-        "answer": "Dipende. Il massaggio, in generale, non è considerato sanitario, quindi non è detraibile. Tuttavia se si è in possesso di una prescrizione medica la seduta può essere detratta."
-      },
-      {
-        "question": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
-        "answer": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
-      },
-      {
-        "question": "Avete un centro o uno studio in cui avvengono le prestazioni?",
-        "answer": "Non abbiamo un nostro centro sul territorio, ma ci appoggiamo agli studi privati dei professionisti che collaborano con noi."
-      },
-      {
-        "question": "Cosa succede se non mi trovo bene con il professionista?",
-        "answer": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra professionista e paziente, per questo motivo se non ti trovi bene con lo specialist basterà comunicarcelo e ne troveremo un altro disponibile per prendersi cura di te."
-      }
-    ]
-  },
-  "latest_articles": {
-    "title": "Ultimi articoli su di noi",
-    "titleFbAdw": "Parlano di noi",
-    "allArticlesLink": "/rassegna-stampa/",
-    "allArticlesText": "Tutti gli articoli",
-    "readArticleText": "Leggi articolo",
-    "articles": [
-      {
-        "image": {
-          "path": "common",
-          "name": "ilsole24ore"
-        },
-        "text": "Il primo poliambulatorio digitale d'Italia. Nell'intervista i fondatori raccontano come è nata l'idea, come l'hanno realizzata, quali difficoltà hanno dovuto affrontare e quali sono le prossime sfide legate al mondo della sanità, settore cruciale in un Paese che invecchia come l'Italia.",
-        "url": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "forbes"
-        },
-        "text": "Nel complesso mondo della sanità innovare non è sempre facile. Eppure ci sono tecnologie che promettono di migliorare la vita e la salute delle persone.",
-        "url": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "corrieredellasera"
-        },
-        "text": "In Italia mancava. Cosa? Il servizio sanitario domiciliare.  In emergenza  o per chi non può muoversi da casa, il fisioterapista/l’assistente notturno/l’infermiere può essere risolutivo.",
-        "url": "https://nuvola.corriere.it/2018/11/30/gianluca-c-tre-under-30-hanno-varato-i-servizi-sanitari-a-domicilio/?refresh_ce-cp"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "lastampa"
-        },
-        "text": "Abbiamo l’obiettivo di diventare una soluzione di riferimento per le famiglie e per farlo stiamo costruendo un servizio che punta su tempestività di intervento, flessibilità e vicinanza al paziente.",
-        "url": "https://www.lastampa.it/economia/2019/06/12/news/epicura-raccoglie-un-milione-di-euro-1.36540478"
-      }
-    ]
-  },
-  "servizi_piu_richiesti": {
-    "title": "I servizi più richiesti",
-    "list": [
-      "Massaggio sportivo a Milano",
-      "Massaggio svedese a Milano",
-      "Massaggio terapeutico a Milano",
-      "Massaggio linfodrenante a Milano",
-      "Massaggio connettivale a Milano",
-      "Terapie fisiche a Milano"
-    ]
-  },
-  "descrizione_servizio": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Migliora la salute del tuo corpo</h2><p>Molte persone sono talmente prese dalla loro vita frenetica che entrano in un circolo di stress e impegni che non permette loro di prendere una boccata d’aria e rilassarsi. Lo stress causa problemi al nostro corpo che a loro volta, se non trattati, possono recare danni seri alla nostra salute. Rilassarsi e allentare le tensioni sono alla base della salute del nostro corpo e della nostra mente. Il massaggiatore professionista aiuta in questo, fornendo servizi terapeutici, per sportivi e di benessere, che permettono di:</p><p><ul><li>Migliorare il benessere complessivo, rinforzando il sistema immunitario. Il massaggiatore aiuta la persona ad entrare in un circolo virtuoso nel quale le tensioni e le tossine vengono eliminate, favorendo un miglior drenaggio dei liquidi del nostro corpo e, di conseguenza, un miglior benessere a livello immunitario;</li><li>Diminuire lo stress e le tensioni muscolari grazie alle tecniche di massaggio, calibrate sulla base delle esigenze dell’utente;</li><li>Eliminare inestetismi della pelle come cellulite, smagliature, ecc;</li><li>Migliorare le prestazioni sportive, la concentrazione a lavoro e l'umore in famiglia.</li></ul></p><p>Per consentire a chiunque abbia bisogno di un massaggio di beneficiarne a pieno, noi di EpiCura abbiamo reso i nostri servizi comodi e flessibili. I nostri massaggiatori operano a domicilio o ovunque tu voglia in tutta Milano e area metropolitana. Trovarsi in un luogo familiare e confortevole, come la propria casa, quando si ricevere il trattamento aiuta mente e corpo a rilassarsi migliorando i benefici della prestazione. In più i nostri professionisti operano tutti i giorni della settimana, anche in orari serali, per consentire una massima comodità ed efficienza.</p>",
+  "come_funziona": {
+    "title": "Massoterapia a domicilio, come funziona",
     "cards": [
       {
         "image": {
           "path": "common",
-          "name": "comodita-casa"
+          "name": "stetofonendoscopio"
         },
-        "title": "La comodità di casa ",
-        "text": "I nostri specialisti ti raggiungono a casa o in ufficio con tutto il necessario per eseguire la prestazione. Pensiamo a tutto noi. Potrai rimettere a nuovo il tuo corpo senza doverti spostare da casa tua."
+        "title": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze."
       },
       {
         "image": {
           "path": "common",
-          "name": "percorsi-personalizzati"
+          "name": "booking"
         },
-        "title": "Percorsi personalizzati",
-        "text": "Ogni paziente ha le sue esigenze. Per questo offriamo percorsi personalizzati creati su misura. I nostri professionisti ti affiancheranno nel tuo percorso offrendoti i trattamenti giusti negli orari e giorni che preferisci."
+        "title": "Prenota in pochi clic",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata."
       },
       {
         "image": {
           "path": "common",
-          "name": "interventi-tempestivi"
+          "name": "love-home"
         },
-        "title": "Interventi tempestivi",
-        "text": "Sappiamo quanto possa essere frustrante dover attendere la propria seduta. Noi di EpiCura garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
-      }
-    ]
-  },
-  "descrizione_servizioFbAdw": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "htmlText": "<h2>Cura la sua salute</h2><p>I nostri professionisti <b>certificati e coperti da assicurazione</b> sono in grado di strutturare percorsi personalizzati studiati in base alle tue esigenze. Porteranno con loro tutto quello di cui hanno bisogno per farti beneficiare a pieno del massaggio professionale direttamente nel <b>comfort di casa tua>/b>.</p> I massaggi sono utili per: <p><ul><li>Diminuire stress e tensioni muscolari </li><li>Rinforzare il sistema immunitario attraverso il drenaggio dei liquidi e l'eliminazione di tossine</li><li>Migliora le prestazioni sportive, la concentrazione e l'umore</li></ul></p> ",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "comodita-casa"
-        },
-        "title": "Quando e dove vuoi",
-        "text": "Pensiamo a tutto noi. I nostri specialisti sono disponibili a domicilio con tutto il necessario per eseguire la prestazione."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "percorsi-personalizzati"
-        },
-        "title": "Percorsi personalizzati",
-        "text": "I nostri professionisti ti accompagneranno in un percorso creato su misura per te, offrendo i trattamenti corretti sulla base delle tue esigenze, dove vuoi tu e quando vuoi tu."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "interventi-tempestivi"
-        },
-        "title": "Interventi tempestivi",
-        "text": "Garantiamo un intervento senza lista d’attesa, 7 giorni su 7, anche in orari serali."
+        "title": "Ricevi l'intervento a domicilio",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
       }
     ]
   },
   "trattamenti": {
-    "askInfoText": "Richiedi informazioni",
-    "prenotaText": "Prenota online",
-    "sectionTitle": "",
-    "showAllText": "Mostra tutti",
-    "hideAllText": "Mostra meno",
-    "title": "Massaggi professionali a Milano",
-    "textColor": "dark",
-    "description": "La prima prestazione comprende la valutazione funzionale",
-    "tags": [],
+    "sectionTitle": "I nostri trattamenti di massoterapia a domicilio",
     "list": [
       {
-        "title": "Massaggio svedese (massaggio benessere classico)",
-        "description": "Massaggi di benessere a domicilio che coinvolgono tutto il corpo per raggiungere il rilassamento del corpo e della mente. Manipolazioni con oli erogate da professionisti 7 giorni su 7, anche in orari serali."
+        "title": "Massaggio rilassante",
+        "description": "stress, ansia, insonnia, disturbi psicosomatici, tensioni muscolari"
       },
       {
         "title": "Massaggio decontratturante",
-        "description": "Massaggio a scopo terapeutico a domicilio per sciogliere e decontrarre i muscoli tesi, riducendo dolore, pesantezza e stress. Servizio erogato 7 giorni su 7, senza liste di attesa in tutta Milano e area metropolitana."
+        "description": "cefalea muscolo-tensiva, cervicalgia, mal di schiena, dolori articolari, stress, contratture muscolari"
       },
       {
         "title": "Massaggio sportivo",
-        "description": "Massaggio a domicilio per migliorare la prestazione atletica grazie a trattamenti eseguiti su specifiche aree del corpo per ridurre le tensioni muscolari, lo stress e per prevenire infortuni. Trattamenti 7 giorni su 7, anche in orari serali."
+        "description": "prevenzione degli infortuni, rigidità e affaticamento muscolare, contratture, dolori articolari, distorsioni, tendinite, edemi"
       },
       {
-        "title": "Massoterapia (o massaggio terapeutico)",
-        "description": "Trattamenti massoterapici a domicilio per alleviare disagi e sensazioni di disconfort causati da cattive posture, stress e traumi. Manipolazioni manuali eseguite 7 giorni su 7, anche in orari serali, in tutta Milano e area metropolitana."
+        "title": "Massaggio terapeutico",
+        "description": "emicrania, cervicalgia, tendinite, ernia, dolori articolari, nervo sciatico, fibromialgia, gravidanza, problemi digestivi, dolori articolari"
       },
       {
         "title": "Massaggio connettivale",
-        "description": "Massaggio connettivale a domicilio per contrastare e alleviare disturbi in specifiche aree del corpo tramite manipolazioni manuali. Aumenta la mobilità articolare e rilassa la muscolatura grazie ai massaggi erogati 7 giorni su 7."
-      },
-      {
-        "title": "Terapie fisiche",
-        "description": "Terapie fisiche a domicilio per recuperare la normale elasticità e mobilità del proprio corpo con trattamenti che operano direttamente tra i muscoli e le fasce che li rivestono. Trattamenti 7 giorni su 7, anche in orari serali."
+        "description": "infiammazioni, contratture, rigidità muscolare"
       },
       {
         "title": "Massaggio linfodrenante",
-        "description": "Massaggio linfodrenante a domicilio, 7 giorni su 7, per migliorare le difese immunitarie dell’organismo, depurando i tessuti e rinnovando i liquidi del nostro corpo. Ideale per trattare ritenzione idrica e inestetismi della pelle."
+        "description": "cellulite, edemi, ritenzione idrica, tonificare le gambe, rassodare i glutei, grasso localizzato, arti gonfi,  gambe con capillari"
+      }
+    ]
+  },
+  "solutions": [
+    {
+      "title": "Le soluzioni che abbiamo pensato per te",
+      "startingFromText": "",
+      "solutionsBig": [
+        {
+          "code": "massagesTreatment3Package",
+          "title": "Pacchetto 3 sedute",
+          "text": "Pacchetto base, che comprende 3 sedute di massoterapia comodamente a domicilio.<br /><br />Per benefici terapeutici su corpo e mente.",
+          "startingFrom": false,
+          "hideDiscount": true,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Pacchetto base",
+            "highlighted": false
+          }
+        },
+        {
+          "code": "massagesTreatment5Package",
+          "title": "Pacchetto 5 sedute",
+          "text": "Pacchetto intermedio, che comprende 5 sedute di massoterapia comodamente a domicilio.<br /><br />Per benefici terapeutici su corpo e mente.",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        },
+        {
+          "code": "massagesTreatment10Package",
+          "title": "Pacchetto 10 sedute",
+          "text": "Pacchetto avanzato, che comprende 10 sedute di massoterapia comodamente a domicilio.<br /><br />Per benefici terapeutici a lungo termine.",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        }
+      ]
+    }
+  ],
+  "booking-card": {
+    "code": "massagesTreatment_",
+    "title": "Seduta di massaggio a domicilio a Milano",
+    "disciplineTitle": "I migliori professionisti a casa tua",
+    "text": "Rimuovi stress e tensioni e ritrova l'armonia del tuo corpo senza muoverti da casa. Con EpiCura i migliori massoterapisti arrivano comodamente a domicilio, 7 giorni su 7. <br /> Prenota in pochi clic e prenditi cura del tuo benessere.",
+    "price": "Seduta singola 60€",
+    "prenotaOnlineText": "Prenota ora"
+  },
+  "advantages": {
+    "title": "I migliori massoterapisti a domicilio entro 24 ore",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "list": [
+      {
+        "image": { "path": "common", "name": "professionist" },
+        "title": "Solo professionisti qualificati",
+        "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
+      },
+      {
+        "image": { "path": "common", "name": "certificate" },
+        "title": "La tua soddisfazione è la nostra priorità",
+        "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
+      },
+      {
+        "image": { "path": "common", "name": "operator" },
+        "title": "Siamo sempre al tuo fianco",
+        "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
       }
     ]
   }

@@ -12,8 +12,8 @@
   "card": {
     "title": "In cosa ti è utile il videoconsulto",
     "description": "Grazie al videoconsulto potrai fare domande sulla salute del tuo animale domestico, avere un'opinione specialistica su cure e terapie o chiedere un parere prima della visita vera e propria.",
-    "whatIsIncludedLabel": "I casi più comuni su cui il veterinario può aiutarti",
-    "bulletPoints": [
+    "subTitle": "I casi più comuni su cui il veterinario può aiutarti",
+    "list": [
       "Problemi agli occhi, alle orecchie, alla pelle, ai denti",
       "Alimentazione",
       "Punture e morsi",
@@ -24,9 +24,13 @@
       "Comunicazione ed educazione animale",
       "Consulti successivi a operazioni e vaccini"
     ],
-    "price": "25€",
-    "priceUnit": "/20 minuti",
-    "bookNowBtnLabel": "Prenota ora"
+    "footer": {
+      "price": "25€",
+      "priceUnit": "/20 minuti",
+      "button": {
+        "text": "Prenota ora"
+      }
+    }
   },
   "faq": {
     "title": "Domande e risposte",

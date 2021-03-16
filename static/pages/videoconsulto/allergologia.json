@@ -1,0 +1,55 @@
+{
+  "metaDescription": {
+    "title": "Videoconsulti e consulti di allergologia online",
+    "description": "Consulti per richiedere pareri specialistici ai migliori allergologi. Veloce, comodo e semplice. Il professionista sul tuo telefono!"
+  },
+  "header": {
+    "title": "Videoconsulto di Allergologia",
+    "subtitle": "Servizio garantito entro 24 ore, 7 giorni su 7. Consulti online con allergologi certificati e con esperienza",
+    "bkgColor": "#F5F8FF",
+    "textColor": "dark"
+  },
+  "card": {
+    "title": "In cosa ti è utile il videoconsulto",
+    "description": "Grazie al videoconsulto potrai fare domande sulla tua salute o quella dei tuoi cari, o avere una seconda opinione dopo una visita medica oppure di effettuare un colloquio conoscitivo prima della visita vera e propria.",
+    "subTitle": "I casi più comuni su cui l'allergologo può aiutarti",
+    "list": [
+      "Immunologia e immunologia evolutiva",
+      "Immunoterapia",
+      "Test intolleranze alimentari",
+      "Test sostanze inalanti e per allergie ai farmaci",
+      "Rast test o test di radio-allergo-assorbimento",
+      "Asma e rinite allergica",
+      "Allergie cutanee",
+      "Malattie funzionali e infiammatorie",
+      "Alimentazione e alterazioni dell’appetito",
+      "Consulti farmacologici",
+      "Consulto pre-operatorio",
+      "Consigli su visite specialistiche"
+    ],
+    "footer": {
+      "price": "25€",
+      "priceUnit": "/20 minuti",
+      "button": {
+        "text": "Prenota ora"
+      }
+    }
+  },
+  "faq": {
+    "title": "Domande e risposte",
+    "list": [
+      {
+        "question": "Come avverrà il videoconsulto?",
+        "answer": "Dopo il pagamento e la conferma della prestazione, riceverai una mail contenente il link per collegarti alla tua videosessione e parlare con lo specialista. Non è necessario scaricare alcuna App, né registrarsi."
+      },
+      {
+        "question": "Cosa posso richiedere durante un videoconsulto?",
+        "answer": "Potrai richiedere consulenza su patologia già accertata o sulla tipologia di trattamenti e terapie da attuare (già prescritte); consigli di tipo specialistico su segni clinici e sintomi presenti al momento del videoconsulto; dubbi su qualunque elemento concernente la propria salute o quella dei propri cari."
+      },
+      {
+        "question": "Quanto dura un videoconsulto?",
+        "answer": "Indicativamente, la durata del consulto è di 15-20 minuti."
+      }
+    ]
+  }
+}

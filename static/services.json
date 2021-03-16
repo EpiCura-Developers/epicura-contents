@@ -1,0 +1,694 @@
+{
+    "label": "Tutti i servizi",
+    "list": [
+        {
+            "title": "Visite a domicilio",
+            "options": [
+              {
+                "option-label": "Fisioterapista",
+                "options": [
+                    {
+                        "option-link": "/milano/fisioterapista/",
+                        "option-label": "Milano",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    },
+                    {
+                        "option-link": "/roma/fisioterapista/",
+                        "option-label": "Roma",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    },
+                    {
+                      "option-link": "/torino/fisioterapista/",
+                      "option-label": "Torino",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                    },
+                    {
+                        "option-link": "/napoli/fisioterapista/",
+                        "option-label": "Napoli",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    },
+                    {
+                        "option-link": "/bologna/fisioterapista/",
+                        "option-label": "Bologna",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    },
+                    {
+                        "option-link": "/catania/fisioterapista/",
+                        "option-label": "Catania",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    },
+                    {
+                        "option-link": "/firenze/fisioterapista/",
+                        "option-label": "Firenze",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    },
+                    {
+                        "option-link": "/genova/fisioterapista/",
+                        "option-label": "Genova",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    },
+                    {
+                        "option-link": "/verona/fisioterapista/",
+                        "option-label": "Verona",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    },
+                    {
+                        "option-link": "/brescia/fisioterapista/",
+                        "option-label": "Brescia",
+                        "option-style-object-like": "",
+                        "option-is-new": false
+                    }
+                  ]
+              },
+              {
+                "option-label": "Osteopata",
+                "options": [
+                  {
+                      "option-link": "/milano/osteopata/",
+                      "option-label": "Milano",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/roma/osteopata/",
+                      "option-label": "Roma",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                    "option-link": "/torino/osteopata/",
+                    "option-label": "Torino",
+                    "option-style-object-like": "",
+                    "option-is-new": false
+                  },
+                  {
+                      "option-link": "/napoli/osteopata/",
+                      "option-label": "Napoli",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/bologna/osteopata/",
+                      "option-label": "Bologna",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/catania/osteopata/",
+                      "option-label": "Catania",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/firenze/osteopata/",
+                      "option-label": "Firenze",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/genova/osteopata/",
+                      "option-label": "Genova",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/verona/osteopata/",
+                      "option-label": "Verona",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/brescia/osteopata/",
+                      "option-label": "Brescia",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  }
+                ]
+              },
+              {
+                "option-label": "Massoterapista",
+                "options": [
+                  {
+                      "option-link": "/milano/massaggiatore-professionale/",
+                      "option-label": "Milano",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/roma/massaggiatore-professionale/",
+                      "option-label": "Roma",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                    "option-link": "/torino/massaggiatore-professionale/",
+                    "option-label": "Torino",
+                    "option-style-object-like": "",
+                    "option-is-new": false
+                  },
+                  {
+                      "option-link": "/verona/massaggiatore-professionale/",
+                      "option-label": "Verona",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  }
+                ]
+              },
+              {
+                "option-label": "Veterinario",
+                "options": [
+                  {
+                      "option-link": "/milano/veterinario/",
+                      "option-label": "Milano",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/roma/veterinario/",
+                      "option-label": "Roma",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                    "option-link": "/torino/veterinario/",
+                    "option-label": "Torino",
+                    "option-style-object-like": "",
+                    "option-is-new": false
+                  },
+                  {
+                      "option-link": "/napoli/veterinario/",
+                      "option-label": "Napoli",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/bologna/veterinario/",
+                      "option-label": "Bologna",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/catania/veterinario/",
+                      "option-label": "Catania",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/firenze/veterinario/",
+                      "option-label": "Firenze",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/genova/veterinario/",
+                      "option-label": "Genova",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/verona/veterinario/",
+                      "option-label": "Verona",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/brescia/veterinario/",
+                      "option-label": "Brescia",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  }
+                ]
+              },
+              {
+                "option-label": "Nutrizionista",
+                "options": [
+                  {
+                      "option-link": "/milano/nutrizionista/",
+                      "option-label": "Milano",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/roma/nutrizionista/",
+                      "option-label": "Roma",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                    "option-link": "/torino/nutrizionista/",
+                    "option-label": "Torino",
+                    "option-style-object-like": "",
+                    "option-is-new": false
+                  },
+                  {
+                      "option-link": "/napoli/nutrizionista/",
+                      "option-label": "Napoli",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/bologna/nutrizionista/",
+                      "option-label": "Bologna",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/firenze/nutrizionista/",
+                      "option-label": "Firenze",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/genova/nutrizionista/",
+                      "option-label": "Genova",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  }
+                ]
+              },
+              {
+                "option-label": "Infermiere",
+                "options": [
+                  {
+                      "option-link": "/milano/infermiere/",
+                      "option-label": "Milano",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/roma/infermiere/",
+                      "option-label": "Roma",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                    "option-link": "/torino/infermiere/",
+                    "option-label": "Torino",
+                    "option-style-object-like": "",
+                    "option-is-new": false
+                  },
+                  {
+                      "option-link": "/napoli/infermiere/",
+                      "option-label": "Napoli",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/bologna/infermiere/",
+                      "option-label": "Bologna",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/catania/infermiere/",
+                      "option-label": "Catania",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/firenze/infermiere/",
+                      "option-label": "Firenze",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/genova/infermiere/",
+                      "option-label": "Genova",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/verona/infermiere/",
+                      "option-label": "Verona",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/brescia/infermiere/",
+                      "option-label": "Brescia",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  }
+                ]
+              },
+              {
+                "option-label": "Medico",
+                "options": [
+                  {
+                      "option-link": "/milano/medico-di-base/",
+                      "option-label": "Milano",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/roma/medico-di-base/",
+                      "option-label": "Roma",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                    "option-link": "/torino/medico-di-base/",
+                    "option-label": "Torino",
+                    "option-style-object-like": "",
+                    "option-is-new": false
+                  },
+                  {
+                      "option-link": "/napoli/medico-di-base/",
+                      "option-label": "Napoli",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/bologna/medico-di-base/",
+                      "option-label": "Bologna",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                    "option-link": "/catania/medico-di-base/",
+                    "option-label": "Catania",
+                    "option-style-object-like": "",
+                    "option-is-new": false
+                },
+                  {
+                      "option-link": "/firenze/medico-di-base/",
+                      "option-label": "Firenze",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/verona/medico-di-base/",
+                      "option-label": "Verona",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  }
+                ]
+              },
+              {
+                "option-label": "Pediatra",
+                "options": [
+                  {
+                      "option-link": "/milano/pediatra/",
+                      "option-label": "Milano",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                      "option-link": "/roma/pediatra/",
+                      "option-label": "Roma",
+                      "option-style-object-like": "",
+                      "option-is-new": false
+                  },
+                  {
+                    "option-link": "/torino/pediatra/",
+                    "option-label": "Torino",
+                    "option-style-object-like": "",
+                    "option-is-new": false
+                  }
+                ]
+              }
+            ]
+        },
+        {
+          "title": "Ricerca badanti",
+          "options": [
+            {
+              "option-link": "/badante/",
+              "option-label": "Scopri il servizio",
+              "option-style-object-like": {
+                "color": "#909090"
+              },
+              "option-is-new": false
+            },
+            {
+              "option-link": "/badante/badante-convivente/",
+              "option-label": "Convivente",
+              "option-is-new": false
+            },
+            {
+              "option-link": "/badante/badante-diurna/",
+              "option-label": "Solo di giorno",
+              "option-is-new": false
+            },
+            {
+              "option-link": "/badante/badante-notturna/",
+              "option-label": "Solo di notte",
+              "option-is-new": false
+            },
+            {
+              "option-label": "Ad ore",
+              "options": [
+                {
+                  "option-link": "/milano/assistente-domiciliare/",
+                  "option-label": "Milano",
+                  "option-style-object-like": "",
+                  "option-is-new": false
+              },
+              {
+                  "option-link": "/roma/assistente-domiciliare/",
+                  "option-label": "Roma",
+                  "option-style-object-like": "",
+                  "option-is-new": false
+              },
+              {
+                "option-link": "/torino/assistente-domiciliare/",
+                "option-label": "Torino",
+                "option-style-object-like": "",
+                "option-is-new": false
+              },
+              {
+                  "option-link": "/napoli/assistente-domiciliare/",
+                  "option-label": "Napoli",
+                  "option-style-object-like": "",
+                  "option-is-new": false
+              },
+              {
+                  "option-link": "/bologna/assistente-domiciliare/",
+                  "option-label": "Bologna",
+                  "option-style-object-like": "",
+                  "option-is-new": false
+              },
+              {
+                  "option-link": "/catania/assistente-domiciliare/",
+                  "option-label": "Catania",
+                  "option-style-object-like": "",
+                  "option-is-new": false
+              },
+              {
+                  "option-link": "/firenze/assistente-domiciliare/",
+                  "option-label": "Firenze",
+                  "option-style-object-like": "",
+                  "option-is-new": false
+              },
+              {
+                  "option-link": "/genova/assistente-domiciliare/",
+                  "option-label": "Genova",
+                  "option-style-object-like": "",
+                  "option-is-new": false
+              },
+              {
+                  "option-link": "/verona/assistente-domiciliare/",
+                  "option-label": "Verona",
+                  "option-style-object-like": "",
+                  "option-is-new": false
+              },
+              {
+                  "option-link": "/brescia/assistente-domiciliare/",
+                  "option-label": "Brescia",
+                  "option-style-object-like": "",
+                  "option-is-new": false
+              }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Videoconsulti",
+          "options": [
+            {
+              "option-link": "/videoconsulti/",
+              "option-label": "Scopri il servizio",
+              "option-style-object-like": {
+                "color": "#909090"
+              },
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/fisioterapista-videoconsulto/",
+              "option-label": "Fisioterapista",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/osteopata-videoconsulto/",
+              "option-label": "Osteopata",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/veterinario-videoconsulto/",
+              "option-label": "Veterinario",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/pediatra-videoconsulto/",
+              "option-label": "Pediatra",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/medico-di-base-videoconsulto/",
+              "option-label": "Medico di base",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/infermiere-videoconsulto/",
+              "option-label": "Infermiere",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/psicologo-videoconsulto/",
+              "option-label": "Psicologo",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/nutrizionista-videoconsulto/",
+              "option-label": "Nutrizionista",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/psichiatra-videoconsulto/",
+              "option-label": "Psichiatra",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/senologo-videoconsulto/",
+              "option-label": "Senologo",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/neuropsicomotricista-videoconsulto/",
+              "option-label": "Neuropsicomotricista",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/ostetrico-videoconsulto/",
+              "option-label": "Ostetrico",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/otorinolaringoiatra-videoconsulto/",
+              "option-label": "Otorinolaringoiatra",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/chirurgo-generale-videoconsulto/",
+              "option-label": "Chirurgo generale",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/neuropsicologo-videoconsulto/",
+              "option-label": "Neuropsicologo",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/logopedista-videoconsulto/",
+              "option-label": "Logopedista",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/endocrinologo-videoconsulto/",
+              "option-label": "Endocrinologo",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/reumatologo-videoconsulto/",
+              "option-label": "Reumatologo",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/ginecologo-videoconsulto/",
+              "option-label": "Ginecologo",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/allergologo-videoconsulto/",
+              "option-label": "Allergologo",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/medico-dello-sport-videoconsulto/",
+              "option-label": "Medico dello sport",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            },
+            {
+              "option-link": "/fisiatra-videoconsulto/",
+              "option-label": "Fisiatra",
+              "option-style-object-like": "",
+              "option-is-new": true,
+              "option-is-amp": true
+            }
+          ]
+        },
+        {
+          "title": "Psicologia online",
+          "options": [
+            {
+              "option-link": "/psicologo-psicoterapeuta-online/",
+              "option-label": "Scopri il servizio",
+              "option-style-object-like": "",
+              "option-is-new": false
+            }
+          ]
+        }
+      ]
+}

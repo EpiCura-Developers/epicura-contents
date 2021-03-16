@@ -95,6 +95,43 @@
       "discipline": "logopedia",
       "specialist": "logopedista",
       "company": "laginestra"
+    },
+
+    {
+      "reservationUrl": "/teleconsulting/?discipline=endocrinology",
+      "discipline": "endocrinologia",
+      "specialist": "endocrinologo",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=rheumatology",
+      "discipline": "reumatologia",
+      "specialist": "reumatologo",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=gynecology",
+      "discipline": "ginecologia",
+      "specialist": "ginecologo",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=allergology",
+      "discipline": "allergologia",
+      "specialist": "allergologo",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=sportsMedicine",
+      "discipline": "medicina-dello-sport",
+      "specialist": "medico-dello-sport",
+      "company": "laginestra"
+    },
+    {
+      "reservationUrl": "/teleconsulting/?discipline=physiatry",
+      "discipline": "fisiatria",
+      "specialist": "fisiatra",
+      "company": "laginestra"
     }
   ]
 }
