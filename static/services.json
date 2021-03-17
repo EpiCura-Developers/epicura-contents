@@ -431,21 +431,21 @@
             },
             {
               "option-link": "/badante/badante-convivente/",
-              "option-label": "Convivente",
+              "option-label": "Badante convivente",
               "option-is-new": false
             },
             {
               "option-link": "/badante/badante-diurna/",
-              "option-label": "Solo di giorno",
+              "option-label": "Badante diurna",
               "option-is-new": false
             },
             {
               "option-link": "/badante/badante-notturna/",
-              "option-label": "Solo di notte",
+              "option-label": "Badante notturna",
               "option-is-new": false
             },
             {
-              "option-label": "Ad ore",
+              "option-label": "Assistenza a ore",
               "options": [
                 {
                   "option-link": "/milano/assistente-domiciliare/",

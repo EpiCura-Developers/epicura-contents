@@ -25,6 +25,7 @@
     "footer": {
       "text": "A partire da",
       "price": "1.344€",
+      "priceIncludes": "(include stipendio, TFR, contributi e tredicesima)",
       "button": {
         "text": "Richiedi preventivo gratuito",
         "link": "https://share.hsforms.com/1wA8mORR2T4WZyk5AZpCJZA4ebbs"
