@@ -350,22 +350,22 @@
     }
   },
   "advantages": {
-    "title": "RIVEDERE IL TITOLO",
+    "title": "I migliori professionisti a domicilio entro 24 ore",
     "list": [
       {
         "image": { "path": "common", "name": "professionist" },
-        "title": "Professionisti qualificati",
+        "title": "Solo professionisti qualificati",
         "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
       },
       {
         "image": { "path": "common", "name": "certificate" },
-        "title": "TESTO IN REVISIONE",
-        "description": "TESTO IN REVISIONE TESTO IN REVISIONE TESTO IN REVISIONE TESTO IN REVISIONE"
+        "title": "La tua soddisfazione è la nostra priorità",
+        "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
       },
       {
         "image": { "path": "common", "name": "badge" },
-        "title": "TESTO IN REVISIONE",
-        "description": "I nostri professionisti utilizzano le più moderne tecniche terapeutiche, scientificamente validate."
+        "title": "Siamo sempre al tuo fianco",
+        "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
       }
     ]
   },

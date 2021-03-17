@@ -8,10 +8,10 @@
     "description1": "Le più importanti testate parlano di noi"
   },
   "site-press-bkg": { "path": "common", "name": "press-bkg" },
-  "site-press-contact-us-img": { "path": "common", "name": "press-manitto" },
-  "site-press-contact-us-name": "Gianluca Manitto",
-  "site-press-contact-us-role": "Co-Founder & CEO",
-  "site-press-contact-us-mail": "gianluca.manitto@epicuramed.it",
+  "site-press-contact-us-img": { "path": "common", "name": "marketing-contact" },
+  "site-press-contact-us-name": "EpiCura Marketing",
+  "site-press-contact-us-role": "Sezione Ufficio Stampa",
+  "site-press-contact-us-mail": "marketing@epicuramed.it",
   "site-press-content-carousel-articles": [
     {
       "img": { "path": "common", "name": "lastampa" },
