@@ -343,6 +343,7 @@
   },
   "advantages": {
     "title": "I migliori professionisti a domicilio entro 24 ore",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
     "list": [
       {
         "image": { "path": "common", "name": "professionist" },
