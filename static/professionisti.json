@@ -428,6 +428,16 @@
               }
           },
           {
+            "name": "Raffaele P.",
+            "discipline": "nutrizione",
+            "discipline_label": "Nutrizionista",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "raffaele-porcaro"
+              }
+            },
+          {
             "name": "Marianna M.",
             "discipline": "nutrizione",
             "discipline_label": "Nutrizionista",
