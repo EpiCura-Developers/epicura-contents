@@ -121,7 +121,7 @@
       {
         "specialist": "psicologo",
         "title": "Psicologia e psicoterapia online",
-        "link": "/psicologia-psicoterapia-online/",
+        "link": "/psicologo-psicoterapeuta-online/",
         "image": {
           "path": "psychology",
           "name": "psychology"
@@ -419,6 +419,7 @@
   },
   "advantages": {
     "title": "I migliori professionisti a domicilio entro 24 ore",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
     "list": [
       {
         "image": { "path": "common", "name": "professionist" },
