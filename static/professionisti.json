@@ -518,6 +518,16 @@
               }
           },
           {
+            "name": "Chiara P.",
+            "discipline": "psicologo",
+            "discipline_label": "Psicologa",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "chiara-piscopia"
+              }
+          },
+          {
             "name": "Anna D.",
             "discipline": "psicologo",
             "discipline_label": "Psicologa",
@@ -558,6 +568,16 @@
               }
           },
           {
+            "name": "Giovanni S.",
+            "discipline": "psicologo",
+            "discipline_label": "Psicologo",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "giovanni-stornaiuolo"
+              }
+          },
+          {
             "name": "Maria F.",
             "discipline": "psicologo",
             "discipline_label": "Psicologa",
@@ -565,6 +585,56 @@
             "image": {
                 "path": "specialists",
                 "name": "maria-forte"
+              }
+          },
+          {
+            "name": "Luca P.",
+            "discipline": "psicologo",
+            "discipline_label": "Psicologo",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "luca-pizzi"
+              }
+          },
+          {
+            "name": "Francesca M.",
+            "discipline": "psicologo",
+            "discipline_label": "Psicologa",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "francesca-monoli"
+              }
+          },
+          {
+            "name": "Greta C.",
+            "discipline": "psicologo",
+            "discipline_label": "Psicologa",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "greta-casiraghi"
+              }
+          },
+          {
+            "name": "Giuditta S.",
+            "discipline": "psicologo",
+            "discipline_label": "Psicologa",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "giuditta-seassaro"
+              }
+          },
+          {
+            "name": "Sara O.",
+            "discipline": "psicologo",
+            "discipline_label": "Psicologa",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "sara-oberti"
               }
           },
           {
