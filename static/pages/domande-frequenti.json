@@ -9,6 +9,10 @@
     "path": "common",
     "name": "faqs-bck-img"
   },
+  "site-faqs-page-img-mobile": {
+    "path": "common",
+    "name": "question_mobile"
+  },
   "site-faqs-page-color": "#CEF5F2",
   "faqs-contact": {
     "text": "Non hai trovato la risposta che cercavi?",

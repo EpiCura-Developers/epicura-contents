@@ -8,6 +8,7 @@
     "description1": "Le più importanti testate parlano di noi"
   },
   "site-press-bkg": { "path": "common", "name": "press-bkg" },
+  "site-press-bkg-mobile": { "path": "common", "name": "press_mobile" },
   "site-press-contact-us-img": { "path": "common", "name": "marketing-contact" },
   "site-press-contact-us-name": "EpiCura Marketing",
   "site-press-contact-us-role": "Sezione Ufficio Stampa",
