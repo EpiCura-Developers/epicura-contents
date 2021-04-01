@@ -87,9 +87,10 @@
           "Certificato di laurea",
           "Tesserino di iscrizione all'Albo Professionale (se richiesto)",
           "Assicurazione di responsabilità professionale",
-          "Partita IVA e regime forfettario",
+          "Partita IVA *",
           "Essere in possesso e avere dimestichezza con almeno uno dei principali strumenti digitali (smartphone, tablet, laptop)"
-        ]
+        ],
+        "note": "*Nota: per i professionisti non sanitari (es. veterinari, osteopati, massaggiatori professionali) è richiesta Partiva Iva a regime forfettario."
       },
       {
         "tab-name": "Assistenti domiciliari",
