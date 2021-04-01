@@ -418,6 +418,16 @@
               }
           },
           {
+            "name": "Angela C.",
+            "discipline": "nutrizione",
+            "discipline_label": "Nutrizionista",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "angela-cavolina"
+              }
+          },
+          {
             "name": "Filomena V.",
             "discipline": "nutrizione",
             "discipline_label": "Nutrizionista",
@@ -518,6 +528,16 @@
               }
           },
           {
+            "name": "Chiara B.",
+            "discipline": "psicologo",
+            "discipline_label": "Psicologa",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "chiara-bergese"
+              }
+          },
+          {
             "name": "Chiara P.",
             "discipline": "psicologo",
             "discipline_label": "Psicologa",
@@ -535,16 +555,6 @@
             "image": {
                 "path": "specialists",
                 "name": "anna-demicco"
-              }
-          },
-          {
-            "name": "Eugenia F.",
-            "discipline": "psicologo",
-            "discipline_label": "Psicologa",
-            "prestazioni": [],
-            "image": {
-                "path": "specialists",
-                "name": "eugenia-ferrara"
               }
           },
           {
@@ -658,13 +668,73 @@
             }
           },
           {
-            "name": "Antonio E.",
+            "name": "Annamaria M.",
             "discipline": "assistente-domiciliare",
             "discipline_label": "Assistente domiciliare",
             "prestazioni": [],
             "image": {
               "path": "specialists",
-              "name": "antonio-esposito"
+              "name": "annamaria-mattiacci"
+            }
+          },
+          {
+            "name": "Davide Fernando Ivan T.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "davide-tenchio"
+            }
+          },
+          {
+            "name": "Maria M.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "maria-mendonca"
+            }
+          },
+          {
+            "name": "Paolo V.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "paolo-venditti"
+            }
+          },
+          {
+            "name": "Monica A.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "monica-agri"
+            }
+          },
+          {
+            "name": "Stela R.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "stela-robu"
+            }
+          },
+          {
+            "name": "Teresa S.",
+            "discipline": "assistente-domiciliare",
+            "discipline_label": "Assistente domiciliare",
+            "prestazioni": [],
+            "image": {
+              "path": "specialists",
+              "name": "teresa-suraci"
             }
           },
           {
