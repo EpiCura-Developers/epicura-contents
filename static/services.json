@@ -525,13 +525,6 @@
             "option-is-amp": true
           },
           {
-            "option-link": "/allergologo-videoconsulto/",
-            "option-label": "Allergologo",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
             "option-link": "/chirurgo-generale-videoconsulto/",
             "option-label": "Chirurgo generale",
             "option-style-object-like": "",
@@ -541,13 +534,6 @@
           {
             "option-link": "/endocrinologo-videoconsulto/",
             "option-label": "Endocrinologo",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/fisiatra-videoconsulto/",
-            "option-label": "Fisiatra",
             "option-style-object-like": "",
             "option-is-new": true,
             "option-is-amp": true

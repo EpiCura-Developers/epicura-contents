@@ -116,21 +116,9 @@
       "company": "laginestra"
     },
     {
-      "reservationUrl": "/teleconsulting/?discipline=allergology",
-      "discipline": "allergologia",
-      "specialist": "allergologo",
-      "company": "laginestra"
-    },
-    {
       "reservationUrl": "/teleconsulting/?discipline=sportsMedicine",
       "discipline": "medicina-dello-sport",
       "specialist": "medico-dello-sport",
-      "company": "laginestra"
-    },
-    {
-      "reservationUrl": "/teleconsulting/?discipline=physiatry",
-      "discipline": "fisiatria",
-      "specialist": "fisiatra",
       "company": "laginestra"
     }
   ]
