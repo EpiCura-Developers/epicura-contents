@@ -444,9 +444,7 @@
           {
             "option-link": "/videoconsulti/",
             "option-label": "Scopri il servizio",
-            "option-style-object-like": {
-              "color": "#909090"
-            },
+            "option-is-generic-service-link": true,
             "option-is-new": true,
             "option-is-amp": true
           },
