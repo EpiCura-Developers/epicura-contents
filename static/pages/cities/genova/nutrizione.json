@@ -39,43 +39,6 @@
       }
     ]
   },
-  "trattamenti": {
-    "sectionTitle": "I nostri nutrizionisti a domicilio si occupano di",
-    "list": [
-      {
-        "title": "Perdita e aumento di peso",
-        "description": "sovrappeso, obesità, sottopeso"
-      },
-      {
-        "title": "Nutrizione al femminile",
-        "description": "gravidanza, menopausa, ovaio policistico, endometriosi, amenorrea"
-      },
-      {
-        "title": "Nutrizione pediatrica",
-        "description": "sovrappeso, obesità, inappetenza, diabete, allergie e intolleranze alimentari, anemia"
-      },
-      {
-        "title": "Nutrizione per anziani",
-        "description": "patologie cardiache, diabete, inappetenza, osteoporosi, demenza senile"
-      },
-      {
-        "title": "Disturbi alimentari",
-        "description": "anoressia, bulimia, binge eating (fame compulsiva)"
-      },
-      {
-        "title": "Nutrizione per sportivi",
-        "description": "aumento della massa muscolare, alimentazione per atleti"
-      },
-      {
-        "title": "Nutrizione per patologie",
-        "description": "tumore, ipotiroidismo, ipertiroidismo, diabete, colon irritabile, diverticolite, gastrite, insufficienza renale, sclerosi multipla"
-      },
-      {
-        "title": "Allergie e intolleranze",
-        "description": "celiachia, allergie alimentari, allergia al nichel"
-      }
-    ]
-  },
   "solutions": [
     {
       "title": "Le soluzioni che abbiamo pensato per te",

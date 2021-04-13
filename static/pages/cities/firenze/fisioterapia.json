@@ -39,47 +39,6 @@
     "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa.",
     "askInfoButtonText": "Richiedi informazioni"
   },
-  "trattamenti": {
-    "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
-    "list": [
-      {
-        "title": "Fisioterapia per anziani",
-        "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria"
-      },
-      {
-        "title": "Fisioterapia pediatrica",
-        "description": "torcicollo, plagiocefalia neonatale, piede piatto valgo, scoliosi, dorso curvo, fratture."
-      },
-      {
-        "title": "Fisioterapia in gravidanza",
-        "description": "gonfiore degli arti, mal di schiena, lombalgia, scialtalgia, disturbi del pavimento pelvico"
-      },
-      {
-        "title": "Riabilitazione respiratoria",
-        "description": "ginnastica respiratoria, fisioterapia polmonare"
-      },
-      {
-        "title": "Riabilitazione motoria",
-        "description": "alluce valgo, protesi anca, frattura femore, fisioterapia per ginocchio, protesi ginocchio, rafforzamento muscolare."
-      },
-      {
-        "title": "Linfodrenaggio manuale",
-        "description": "cellulite, edemi, ritenzione idrica, vene varicose"
-      },
-      {
-        "title": "Chinesiterapia",
-        "description": "riacquisizione delle funzionalità motorie"
-      },
-      {
-        "title": "Disturbi patologici",
-        "description": "artrosi, artrite reumatoide, distrofia muscolare, fibromialgia, ictus, sclerosi multipla, spondilite anchilosante, tremore essenziale"
-      },
-      {
-        "title": "Dolore e infiammazione",
-        "description": "acufene, cervicale, emicrania, ernie, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite"
-      }
-    ]
-  },
   "solutions": [
     {
       "title": "Le soluzioni che abbiamo pensato per te",

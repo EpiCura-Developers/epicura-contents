@@ -38,35 +38,6 @@
       }
     ]
   },
-  "trattamenti": {
-    "sectionTitle": "I nostri trattamenti di massoterapia a domicilio",
-    "list": [
-      {
-        "title": "Massaggio rilassante",
-        "description": "stress, ansia, insonnia, disturbi psicosomatici, tensioni muscolari"
-      },
-      {
-        "title": "Massaggio decontratturante",
-        "description": "cefalea muscolo-tensiva, cervicalgia, mal di schiena, dolori articolari, stress, contratture muscolari"
-      },
-      {
-        "title": "Massaggio sportivo",
-        "description": "prevenzione degli infortuni, rigidità e affaticamento muscolare, contratture, dolori articolari, distorsioni, tendinite, edemi"
-      },
-      {
-        "title": "Massaggio terapeutico",
-        "description": "emicrania, cervicalgia, tendinite, ernia, dolori articolari, nervo sciatico, fibromialgia, gravidanza, problemi digestivi, dolori articolari"
-      },
-      {
-        "title": "Massaggio connettivale",
-        "description": "infiammazioni, contratture, rigidità muscolare"
-      },
-      {
-        "title": "Massaggio linfodrenante",
-        "description": "cellulite, edemi, ritenzione idrica, tonificare le gambe, rassodare i glutei, grasso localizzato, arti gonfi,  gambe con capillari"
-      }
-    ]
-  },
   "solutions": [
     {
       "title": "Le soluzioni che abbiamo pensato per te",

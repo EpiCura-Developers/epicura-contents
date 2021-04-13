@@ -38,31 +38,6 @@
       }
     ]
   },
-  "trattamenti": {
-    "sectionTitle": "I nostri trattamenti di osteopatia a domicilio",
-    "list": [
-      {
-        "title": "Osteopatia in gravidanza",
-        "description": "mal di schiena, nausea gravidica, gambe gonfie, problemi digestivi, costipazione"
-      },
-      {
-        "title": "Osteopatia pediatrica",
-        "description": "coliche, stipsi, insonnia, iperattività, scoliosi, piede piatto, plagiocefalia"
-      },
-      {
-        "title": "Osteopatia per anziani",
-        "description": "demenza senile, malattie neurologiche, artrosi, fratture, osteoporosi"
-      },
-      {
-        "title": "Dolore e infiammazione",
-        "description": "cervicalgia, mal di schiena, dolori articolari, sciatica, ernie, acufeni"
-      },
-      {
-        "title": "Disturbi sistemici",
-        "description": "cefalea, bruxismo, disturbi del sonno, ansia, reflusso, gastrite, colon irritabile, fibromialgia"
-      }
-    ]
-  },
   "solutions": [
     {
       "title": "Le soluzioni che abbiamo pensato per te",

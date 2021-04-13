@@ -1,19 +1,52 @@
 {
     "discipline-specialist": "Nutrizionista",
-    "discipline-text-with-price": "A partire da 30€",
     "discipline-image": {
         "path": "nutrition",
         "name": "nutrition"
     },
-    "discipline-description": "Educazione alimentare e diete su misura.",
-    "discipline-background-color": "#FFDBE6",
-    "discipline-link": "/nutrizionista/",
-    "discipline-specialities": [
-        "Valutazione apporto alimentare",
-        "Elaborazione diete su misura",
-        "Misurazione adipometrica",
-        "Supporto nel dimagrimento",
-        "Cura dei disturbi alimentari",
-        "Regimi alimentari per sportivi"
-    ]
+    "trattamenti": {
+        "sectionTitle": "I nostri nutrizionisti a domicilio si occupano di",
+        "list": [
+          {
+            "link": "/perdita-e-aumento-di-peso",
+            "title": "Perdita e aumento di peso",
+            "description": "sovrappeso, obesità, sottopeso"
+          },
+          {
+            "link": "/nutrizione-al-femminile",
+            "title": "Nutrizione al femminile",
+            "description": "gravidanza, menopausa, ovaio policistico, endometriosi, amenorrea"
+          },
+          {
+            "link": "/nutrizione-pediatrica",
+            "title": "Nutrizione pediatrica",
+            "description": "sovrappeso, obesità, inappetenza, diabete, allergie e intolleranze alimentari, anemia"
+          },
+          {
+            "link": "/nutrizione-per-anziani",
+            "title": "Nutrizione per anziani",
+            "description": "patologie cardiache, diabete, inappetenza, osteoporosi, demenza senile"
+          },
+          {
+            "link": "/disturbi-alimentari",
+            "title": "Disturbi alimentari",
+            "description": "anoressia, bulimia, binge eating (fame compulsiva)"
+          },
+          {
+            "link": "/nutrizione-per-sportivi",
+            "title": "Nutrizione per sportivi",
+            "description": "aumento della massa muscolare, alimentazione per atleti"
+          },
+          {
+            "link": "/nutrizione-per-patologie",
+            "title": "Nutrizione per patologie",
+            "description": "tumore, ipotiroidismo, ipertiroidismo, diabete, colon irritabile, diverticolite, gastrite, insufficienza renale, sclerosi multipla"
+          },
+          {
+            "link": "/allergie-e-intolleranze",
+            "title": "Allergie e intolleranze",
+            "description": "celiachia, allergie alimentari, allergia al nichel"
+          }
+        ]
+      }
 }

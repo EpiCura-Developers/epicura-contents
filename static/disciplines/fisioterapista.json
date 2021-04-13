@@ -1,24 +1,57 @@
 {
     "discipline-specialist": "Fisioterapista",
-    "discipline-text-with-price": "A partire da 30€",
     "discipline-image": {
         "path": "physiotherapy",
         "name": "physiotherapy"
     },
-    "discipline-description": "Riabilitazione motoria, prevenzione e cura del dolore.",
-    "discipline-background-color": "#FFEEED",
-    "discipline-link": "/fisioterapista/",
-    "discipline-specialities": [
-        "Riabilitazione ortopedica",
-        "Problemi legati alla postura",
-        "Riabilitazione respiratoria",
-        "Artrosi e artrite reumatoide",
-        "Osteoporosi",
-        "Ernie e protrusioni",
-        "Cefalee muscolo-tensive",
-        "Linfodrenaggio",
-        "Rieducazione posturale",
-        "Traumi sportivi",
-        "Pubalgia"
-    ]
+    "trattamenti": {
+        "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
+        "list": [
+          {
+            "link": "/fisioterapia-per-anziani",
+            "title": "Fisioterapia per anziani",
+            "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria"
+          },
+          {
+            "link": "/fisioterapia-pediatrica",
+            "title": "Fisioterapia pediatrica",
+            "description": "torcicollo, plagiocefalia neonatale, piede piatto valgo, scoliosi, dorso curvo, fratture."
+          },
+          {
+            "link": "/fisioterapia-in-gravidanza",
+            "title": "Fisioterapia in gravidanza",
+            "description": "gonfiore degli arti, mal di schiena, lombalgia, scialtalgia, disturbi del pavimento pelvico"
+          },
+          {
+            "link": "/riabilitazione-respiratoria",
+            "title": "Riabilitazione respiratoria",
+            "description": "ginnastica respiratoria, fisioterapia polmonare"
+          },
+          {
+            "link": "/riabilitazione-motoria",
+            "title": "Riabilitazione motoria",
+            "description": "alluce valgo, protesi anca, frattura femore, fisioterapia per ginocchio, protesi ginocchio, rafforzamento muscolare."
+          },
+          {
+            "link": "/linfodrenaggio-manuale",
+            "title": "Linfodrenaggio manuale",
+            "description": "cellulite, edemi, ritenzione idrica, vene varicose"
+          },
+          {
+            "link": "/chinesiterapia",
+            "title": "Chinesiterapia",
+            "description": "riacquisizione delle funzionalità motorie"
+          },
+          {
+            "link": "/disturbi-patologici",
+            "title": "Disturbi patologici",
+            "description": "artrosi, artrite reumatoide, distrofia muscolare, fibromialgia, ictus, sclerosi multipla, spondilite anchilosante, tremore essenziale"
+          },
+          {
+            "link": "/dolore-e-infiammazione",
+            "title": "Dolore e infiammazione",
+            "description": "acufene, cervicale, emicrania, ernie, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite"
+          }
+        ]
+      }
 }
