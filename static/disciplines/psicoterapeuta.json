@@ -1,18 +1,7 @@
 {
     "discipline-specialist": "Psicoterapeuta",
-    "discipline-text-with-price": "A partire da 30€",
     "discipline-image": {
         "path": "psychotherapy",
         "name": "psychotherapy"
-    },
-    "discipline-description": "In studio, a domicilio oppure in videoconsulto. Percorsi personalizzati di terapia individuale o di coppia.",
-    "discipline-background-color": "#E2F0FF",
-    "discipline-link": "/psicologo-psicoterapeuta-online/",
-    "discipline-specialities": [
-        "Psicoanalisi",
-        "Psicoterapia cognitiva",
-        "Psicoterapia costruittivista",
-        "Psicoterapia psicodinamica",
-        "Psicoterapia sistemico-familiare"
-    ]
+    }
 }

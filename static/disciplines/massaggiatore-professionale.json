@@ -1,19 +1,42 @@
 {
     "discipline-specialist": "Massoterapista",
-    "discipline-text-with-price": "A partire da 30€",
     "discipline-image": {
         "path": "massages",
         "name": "massages"
     },
-    "discipline-description": "Alleviamento di stress e contratture, rilassamento",
-    "discipline-background-color": "#FFEACC",
-    "discipline-link": "/massaggiatore-professionale/",
-    "discipline-specialities": [
-        "Massaggio sportivo",
-        "Massaggio svedese",
-        "Massaggio terapeutico",
-        "Massaggio linfodrenante",
-        "Massaggio connettivale",
-        "Terapie fisiche"
-    ]
+    "trattamenti": {
+        "sectionTitle": "I nostri trattamenti di massoterapia a domicilio",
+        "list": [
+          {
+            "link": "/massaggio-rilassante",
+            "title": "Massaggio rilassante",
+            "description": "stress, ansia, insonnia, disturbi psicosomatici, tensioni muscolari"
+          },
+          {
+            "link": "/massaggio-decontratturante",
+            "title": "Massaggio decontratturante",
+            "description": "cefalea muscolo-tensiva, cervicalgia, mal di schiena, dolori articolari, stress, contratture muscolari"
+          },
+          {
+            "link": "/massaggio-sportivo",
+            "title": "Massaggio sportivo",
+            "description": "prevenzione degli infortuni, rigidità e affaticamento muscolare, contratture, dolori articolari, distorsioni, tendinite, edemi"
+          },
+          {
+            "link": "/massaggio-terapeutico",
+            "title": "Massaggio terapeutico",
+            "description": "emicrania, cervicalgia, tendinite, ernia, dolori articolari, nervo sciatico, fibromialgia, gravidanza, problemi digestivi, dolori articolari"
+          },
+          {
+            "link": "/massaggio-connettivale",
+            "title": "Massaggio connettivale",
+            "description": "infiammazioni, contratture, rigidità muscolare"
+          },
+          {
+            "link": "/massaggio-linfodrenante",
+            "title": "Massaggio linfodrenante",
+            "description": "cellulite, edemi, ritenzione idrica, tonificare le gambe, rassodare i glutei, grasso localizzato, arti gonfi,  gambe con capillari"
+          }
+        ]
+      }
 }
