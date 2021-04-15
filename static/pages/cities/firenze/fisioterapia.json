@@ -9,17 +9,5 @@
     "description1": "EpiCura porta la fisioterapia comodamente a domicilio, in tutta Firenze e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
     "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa.",
     "askInfoButtonText": "Richiedi informazioni"
-  },
-  "hint-card": {
-    "title": "Hai un dubbio? <br /> Chiedi al fisioterapista",
-    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
-    "price": "Videoconsulto specialistico 25€",
-    "bkg-color": "#F5F8FF",
-    "image": {
-      "path": "videoconsultation",
-      "name": "videoconsultation-banner"
-    },
-    "button-text": "Scopri di più",
-    "button-link": "/fisioterapista-videoconsulto/"
   }
 }
