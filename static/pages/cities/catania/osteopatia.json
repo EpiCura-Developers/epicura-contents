@@ -9,59 +9,6 @@
     "description1": "EpiCura porta l'osteopatia comodamente a domicilio, in tutta Catania e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
     "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa."
   },
-  "solutions": [
-    {
-      "title": "Le soluzioni che abbiamo pensato per te",
-      "startingFromText": "",
-      "solutionsBig": [
-        {
-          "code": "osteopathyOrdinaryTreatment3Package",
-          "title": "3 sedute a domicilio",
-          "text": "Ideale per disturbi sporadici e infiammazioni localizzate.<br /><br />Pacchetto di base che comprende una valutazione funzionale gratuita e un breve percorso terapeutico. ",
-          "startingFrom": false,
-          "hideDiscount": true,
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          },
-          "bottomText": {
-            "text": "Pacchetto base",
-            "highlighted": false
-          }
-        },
-        {
-          "code": "osteopathyOrdinaryTreatment5Package",
-          "title": "5 sedute a domicilio",
-          "text": "Ideale per fastidi ricorrenti e disturbi legati a piccoli traumi.<br /><br />Pacchetto intermedio che comprende una valutazione funzionale gratuita e un percorso terapeutico più lungo. ",
-          "startingFrom": false,
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          },
-          "bottomText": {
-            "text": "Risparmi ",
-            "highlighted": true,
-            "showDiscount": true
-          }
-        },
-        {
-          "code": "osteopathyOrdinaryTreatment10Package",
-          "title": "10 sedute a domicilio",
-          "text": "Ideale per il recupero di una buona funzionalità motoria e il dolore cronico.<br /><br />Pacchetto avanzato che comprende una valutazione funzionale gratuita e un percorso terapeutico più intenso. ",
-          "startingFrom": false,
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          },
-          "bottomText": {
-            "text": "Risparmi ",
-            "highlighted": true,
-            "showDiscount": true
-          }
-        }
-      ]
-    }
-  ],
   "advantages": {
     "title": "I migliori osteopati a domicilio entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
