@@ -1,52 +1,177 @@
 {
-    "discipline-specialist": "Nutrizionista",
-    "discipline-image": {
-        "path": "nutrition",
-        "name": "nutrition"
-    },
-    "trattamenti": {
-        "sectionTitle": "I nostri nutrizionisti a domicilio si occupano di",
-        "list": [
-          {
-            "link": "/perdita-e-aumento-di-peso",
-            "title": "Perdita e aumento di peso",
-            "description": "sovrappeso, obesità, sottopeso"
-          },
-          {
-            "link": "/nutrizione-al-femminile",
-            "title": "Nutrizione al femminile",
-            "description": "gravidanza, menopausa, ovaio policistico, endometriosi, amenorrea"
-          },
-          {
-            "link": "/nutrizione-pediatrica",
-            "title": "Nutrizione pediatrica",
-            "description": "sovrappeso, obesità, inappetenza, diabete, allergie e intolleranze alimentari, anemia"
-          },
-          {
-            "link": "/nutrizione-per-anziani",
-            "title": "Nutrizione per anziani",
-            "description": "patologie cardiache, diabete, inappetenza, osteoporosi, demenza senile"
-          },
-          {
-            "link": "/disturbi-alimentari",
-            "title": "Disturbi alimentari",
-            "description": "anoressia, bulimia, binge eating (fame compulsiva)"
-          },
-          {
-            "link": "/nutrizione-per-sportivi",
-            "title": "Nutrizione per sportivi",
-            "description": "aumento della massa muscolare, alimentazione per atleti"
-          },
-          {
-            "link": "/nutrizione-per-patologie",
-            "title": "Nutrizione per patologie",
-            "description": "tumore, ipotiroidismo, ipertiroidismo, diabete, colon irritabile, diverticolite, gastrite, insufficienza renale, sclerosi multipla"
-          },
-          {
-            "link": "/allergie-e-intolleranze",
-            "title": "Allergie e intolleranze",
-            "description": "celiachia, allergie alimentari, allergia al nichel"
-          }
-        ]
+  "discipline-specialist": "Nutrizionista",
+  "discipline-image": {
+    "path": "nutrition",
+    "name": "nutrition"
+  },
+  "trattamenti": {
+    "sectionTitle": "I nostri nutrizionisti a domicilio si occupano di",
+    "list": [
+      {
+        "link": "/perdita-e-aumento-di-peso",
+        "title": "Perdita e aumento di peso",
+        "description": "sovrappeso, obesità, sottopeso"
+      },
+      {
+        "link": "/nutrizione-al-femminile",
+        "title": "Nutrizione al femminile",
+        "description": "gravidanza, menopausa, ovaio policistico, endometriosi, amenorrea"
+      },
+      {
+        "link": "/nutrizione-pediatrica",
+        "title": "Nutrizione pediatrica",
+        "description": "sovrappeso, obesità, inappetenza, diabete, allergie e intolleranze alimentari, anemia"
+      },
+      {
+        "link": "/nutrizione-per-anziani",
+        "title": "Nutrizione per anziani",
+        "description": "patologie cardiache, diabete, inappetenza, osteoporosi, demenza senile"
+      },
+      {
+        "link": "/disturbi-alimentari",
+        "title": "Disturbi alimentari",
+        "description": "anoressia, bulimia, binge eating (fame compulsiva)"
+      },
+      {
+        "link": "/nutrizione-per-sportivi",
+        "title": "Nutrizione per sportivi",
+        "description": "aumento della massa muscolare, alimentazione per atleti"
+      },
+      {
+        "link": "/nutrizione-per-patologie",
+        "title": "Nutrizione per patologie",
+        "description": "tumore, ipotiroidismo, ipertiroidismo, diabete, colon irritabile, diverticolite, gastrite, insufficienza renale, sclerosi multipla"
+      },
+      {
+        "link": "/allergie-e-intolleranze",
+        "title": "Allergie e intolleranze",
+        "description": "celiachia, allergie alimentari, allergia al nichel"
       }
+    ]
+  },
+  "come_funziona": {
+    "title": "Nutrizionista a domicilio, come funziona",
+    "text": "",
+    "cards": [
+      {
+        "image": {
+          "path": "common",
+          "name": "stetofonendoscopio"
+        },
+        "title": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a diversi percorsi nutrizionali per permetterti di scegliere in base ai tuoi obiettivi e necessità. Scegli il percorso nutrizionale più adatto, noi troveremo il miglior professionista per le tue esigenze."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "booking"
+        },
+        "title": "Prenota in pochi clic",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "love-home"
+        },
+        "title": "Ricevi la visita a domicilio",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
+      }
+    ]
+  },
+  "solutions": [
+    {
+      "title": "Le soluzioni che abbiamo pensato per te",
+      "startingFromText": "",
+      "solutionsBig": [
+        {
+          "code": "nutrition3ExaminationBundle",
+          "title": "Percorso basic",
+          "text": "Comprende una prima visita di controllo e 2 sedute di follow-up con lo stesso nutrizionista.<br /><br />Ideale per un primo approccio nutrizionistico con piano alimentare su misura.",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        },
+        {
+          "code": "nutrition5ExaminationBundle",
+          "title": "Percorso plus",
+          "text": "Comprende una prima visita di controllo e 4 sedute di follow-up con lo stesso nutrizionista.<br /><br />Consigliato per instaurare buoni abitudini alimentari, ritrovando salute e forma fisica.",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        },
+        {
+          "code": "nutrition7ExaminationBundle",
+          "title": "Percorso standard",
+          "text": "Comprende una prima visita di controllo e 6 sedute di follow-up con lo stesso nutrizionista.<br /><br />Ideale per il raggiungimento il mantenimento degli obiettivi prefissati.",
+          "startingFrom": false,
+          "button": {
+            "text": "Prenota ora",
+            "link": "/"
+          },
+          "bottomText": {
+            "text": "Risparmi ",
+            "highlighted": true,
+            "showDiscount": true
+          }
+        }
+      ]
+    }
+  ],
+  "advantages": {
+    "title": "I migliori nutrizionisti a domicilio entro 24 ore",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "list": [
+      {
+        "image": {
+          "path": "common",
+          "name": "professionist"
+        },
+        "title": "Solo professionisti qualificati",
+        "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "certificate"
+        },
+        "title": "La tua soddisfazione è la nostra priorità",
+        "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "operator"
+        },
+        "title": "Siamo sempre al tuo fianco",
+        "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
+      }
+    ]
+  },
+  "hint-card": {
+    "title": "Hai un dubbio? <br /> Chiedi al nutrizionista",
+    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "price": "Videoconsulto specialistico 25€",
+    "bkg-color": "#F5F8FF",
+    "image": {
+      "path": "videoconsultation",
+      "name": "videoconsultation-banner"
+    },
+    "button-text": "Scopri il servizio",
+    "button-link": "/nutrizionista-videoconsulto/"
+  }
 }
