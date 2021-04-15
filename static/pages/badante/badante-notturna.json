@@ -61,36 +61,6 @@
       }
     ]
   },
-  "come_funziona": {
-    "title": "Lavoriamo solo con badanti qualificate",
-    "text": "Soltanto il 10% dei candidati passa i nostri rigidi processi di selezione, garantendoti un servizio di qualità.",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "requirement"
-        },
-        "title": "VERIFICA DEI REQUISITI",
-        "text": "Verifichiamo nel dettaglio i requisiti minimi d'accesso di tutti i candidati, selezionando solo personale con esperienza e qualificato."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "colloquio"
-        },
-        "title": "COLLOQUIO E VERIFICA REFERENZE",
-        "text": "Attraverso il colloquio, eseguito da personale qualificato, i candidati attraversano una doppia verifica dove vengono accertate le referenze."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "verify"
-        },
-        "title": "VERIFICA PROFILO CON LA FAMIGLIA",
-        "text": "Selezionati i migliori candidati, le badanti affrontano un colloquio conoscitivo con la famiglia, che sceglierà il profilo più adeguato per le proprie esigenze."
-      }
-    ]
-  },
   "familyTutor": {
     "bkg-color": "#F5F8FF",
     "title": "Cerchi una badante? Chiedi al family tutor.",
