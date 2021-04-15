@@ -9,59 +9,6 @@
     "description1": "EpiCura porta la massoterapia comodamente a domicilio, in tutta Roma e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
     "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa."
   },
-  "solutions": [
-    {
-      "title": "Le soluzioni che abbiamo pensato per te",
-      "startingFromText": "",
-      "solutionsBig": [
-        {
-          "code": "massagesTreatment3Package",
-          "title": "Pacchetto 3 sedute",
-          "text": "Pacchetto base, che comprende 3 sedute di massoterapia comodamente a domicilio.<br /><br />Per benefici terapeutici su corpo e mente.",
-          "startingFrom": false,
-          "hideDiscount": true,
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          },
-          "bottomText": {
-            "text": "Pacchetto base",
-            "highlighted": false
-          }
-        },
-        {
-          "code": "massagesTreatment5Package",
-          "title": "Pacchetto 5 sedute",
-          "text": "Pacchetto intermedio, che comprende 5 sedute di massoterapia comodamente a domicilio.<br /><br />Per benefici terapeutici su corpo e mente.",
-          "startingFrom": false,
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          },
-          "bottomText": {
-            "text": "Risparmi ",
-            "highlighted": true,
-            "showDiscount": true
-          }
-        },
-        {
-          "code": "massagesTreatment10Package",
-          "title": "Pacchetto 10 sedute",
-          "text": "Pacchetto avanzato, che comprende 10 sedute di massoterapia comodamente a domicilio.<br /><br />Per benefici terapeutici a lungo termine.",
-          "startingFrom": false,
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          },
-          "bottomText": {
-            "text": "Risparmi ",
-            "highlighted": true,
-            "showDiscount": true
-          }
-        }
-      ]
-    }
-  ],
   "booking-card": {
     "code": "massagesTreatment_",
     "title": "Seduta di massaggio a domicilio a Roma",
