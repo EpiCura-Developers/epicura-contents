@@ -12,7 +12,6 @@
     "subtitleBig": "",
     "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br />Scopri le nostre soluzioni di assistenza, senza costi di attivazione."
   },
-  "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",
   "check_list": {
     "title": "Il servizio di badante diurna comprende:",
     "list": [
@@ -31,35 +30,6 @@
         "link": "https://share.hsforms.com/1uTUh1GvDTFKhu6YuZ5pliA4ebbs"
       }
     }
-  },
-  "talks_about_us": {
-    "title": "Parlano di noi",
-    "list": [
-      {
-        "image": {
-          "path": "common",
-          "name": "skytg24"
-        }
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "lastampa"
-        }
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "corrieredellasera"
-        }
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "ilsole24ore"
-        }
-      }
-    ]
   },
   "caregiverTasks": {
     "title": "Cosa fa la badante diurna? Ecco le principali mansioni",
