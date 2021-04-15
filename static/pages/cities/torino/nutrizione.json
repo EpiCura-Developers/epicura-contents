@@ -9,59 +9,6 @@
     "description1": "EpiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Torino e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
     "description2": "Prenota in pochi clic e prenditi cura del tuo corpo e del tuo benessere in modo semplice e veloce."
   },
-  "solutions": [
-    {
-      "title": "Le soluzioni che abbiamo pensato per te",
-      "startingFromText": "",
-      "solutionsBig": [
-        {
-          "code": "nutrition3ExaminationBundle",
-          "title": "Percorso basic",
-          "text": "Comprende una prima visita di controllo e 2 sedute di follow-up con lo stesso nutrizionista.<br /><br />Ideale per un primo approccio nutrizionistico con piano alimentare su misura.",
-          "startingFrom": false,
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          },
-          "bottomText": {
-            "text": "Risparmi ",
-            "highlighted": true,
-            "showDiscount": true
-          }
-        },
-        {
-          "code": "nutrition5ExaminationBundle",
-          "title": "Percorso plus",
-          "text": "Comprende una prima visita di controllo e 4 sedute di follow-up con lo stesso nutrizionista.<br /><br />Consigliato per instaurare buoni abitudini alimentari, ritrovando salute e forma fisica.",
-          "startingFrom": false,
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          },
-          "bottomText": {
-            "text": "Risparmi ",
-            "highlighted": true,
-            "showDiscount": true
-          }
-        },
-        {
-          "code": "nutrition7ExaminationBundle",
-          "title": "Percorso standard",
-          "text": "Comprende una prima visita di controllo e 6 sedute di follow-up con lo stesso nutrizionista.<br /><br />Ideale per il raggiungimento il mantenimento degli obiettivi prefissati.",
-          "startingFrom": false,
-          "button": {
-            "text": "Prenota ora",
-            "link": "/"
-          },
-          "bottomText": {
-            "text": "Risparmi ",
-            "highlighted": true,
-            "showDiscount": true
-          }
-        }
-      ]
-    }
-  ],
   "booking-card": {
     "code": "nutritionExamination_",
     "title": "Visita nutrizionistica a domicilio a Torino",
