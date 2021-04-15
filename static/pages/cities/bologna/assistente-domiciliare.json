@@ -50,48 +50,6 @@
       }
     ]
   },
-  "come_funziona": {
-    "title": "Assistenza domiciliare a ore, come funziona",
-    "text": "",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "family-icon"
-        },
-        "title": "Analizziamo le tue esigenze",
-        "text": "Attraverso una consulenza dedicata, i nostri operatori individueranno le necessità della tua famiglia, costruendo un piano assistenziale su misura.",
-        "button": {
-          "link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
-          "text": "Richiedi preventivo gratuito"
-        }
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "badante-icon"
-        },
-        "title": "Troviamo il professionista più adatto",
-        "text": "In base alle tue richieste, ci occuperemo di trovare l'assistente domiciliare più idoneo per le tue esigenze. Lavoriamo solo con personale esperto e qualificato.",
-        "button": {
-          "link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
-          "text": "Richiedi preventivo gratuito"
-        }
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "contract-icon"
-        },
-        "title": "Eroghiamo l'assistenza dove vuoi",
-        "text": "I nostri assistenti domiciliari ti raggiungono dove e quando vuoi, 7 giorni su 7. Con EpiCura avrai la certezza di ricevere assistenza solo dai migliori professionisti.",
-        "button": {
-          "link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
-          "text": "Richiedi preventivo gratuito"
-        }
-      }
-    ]
-  },
   "caregiverTasks": {
     "title": "Assistente domiciliare: di cosa si occupa?",
     "tasks": [
