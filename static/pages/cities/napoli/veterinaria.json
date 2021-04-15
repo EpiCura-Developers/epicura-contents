@@ -3,35 +3,6 @@
     "title": "Veterinario a Napoli",
     "description": "Veterinari a domicilio a Napoli e area metropolitana. Visite veterinarie, eutanasia, prelievi per cani e gatti, esami feci e urine a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "come_funziona": {
-    "title": "Veterinario a domicilio come funziona",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "stetofonendoscopio-cane"
-        },
-        "title": "Scopri le nostre soluzioni",
-        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura al meglio del tuo amico a quattro zampe. Scegli il pacchetto più adatto, noi troveremo il miglior veterinario per soddisfare le sue esigenze."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "booking"
-        },
-        "title": "Prenota in pochi clic",
-        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "love-home"
-        },
-        "title": "Ricevi il veterinario a domicilio",
-        "text": "I nostri veterinari ti raggiungono dove e quando vuoi, 7 giorni su 7. Con EpiCura avrai la certezza di ricevere interventi solo dai migliori professionisti, per prenderti cura del tuo amico a quattro zampe senza pensieri."
-      }
-    ]
-  },
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
     "titleBig": "Veterinari a domicilio a Napoli",
