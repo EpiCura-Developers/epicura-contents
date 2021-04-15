@@ -3,35 +3,6 @@
     "title": "Infermiere a Catania",
     "description": "Infermieri a domicilio a Catania e area metropolitana. Inieizioni, medicazioni, clistere a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "come_funziona": {
-    "title": "Infermiere a domicilio, come funziona",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "stetofonendoscopio"
-        },
-        "title": "Scegli l'intervento",
-        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli l'intervento di cui hai bisogno, noi troveremo il miglior professionista per le tue esigenze."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "booking"
-        },
-        "title": "Prenota in pochi clic",
-        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "love-home"
-        },
-        "title": "Ricevi l'infermiere a domicilio",
-        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
-      }
-    ]
-  },
   "prezzi_title": "I nostri infermieri a domicilio si occupano di",
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
