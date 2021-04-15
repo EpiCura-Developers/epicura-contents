@@ -3,35 +3,6 @@
     "title": "Fisioterapista a Bologna",
     "description": "Fisioterapisti esperti a domicilio a Bologna e area metropolitana. Riabilitazione a domicilio, linfodrenaggio, sedute fisioterapiche a casa, 7 giorni su 7, senza liste d'attesa."
   },
-  "come_funziona": {
-    "title": "Fisioterapia a domicilio, come funziona",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "stetofonendoscopio"
-        },
-        "title": "Scopri le nostre soluzioni",
-        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "booking"
-        },
-        "title": "Prenota in pochi clic",
-        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "love-home"
-        },
-        "title": "Ricevi l'intervento a domicilio",
-        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
-      }
-    ]
-  },
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
     "titleBig": "Fisioterapisti a domicilio <br /> a Bologna",
