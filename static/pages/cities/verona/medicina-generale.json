@@ -9,35 +9,6 @@
     "description1": "EpiCura porta i migliori medici comodamente a domicilio, in tutta Verona e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
     "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa."
   },
-  "come_funziona": {
-    "title": "Come funziona",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "calendar-blu"
-        },
-        "title": "Scegli giorno e orario",
-        "text": "EpiCura ti permettere di adattare il servizio in  base alle tue esigenze. Sei tu a scegliere dove e quando ricevere l'intervento: i nostri professionisti ti raggiungeranno comodamente nel giorno e nell'ora indicati."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "booking"
-        },
-        "title": "Prenota in pochi clic",
-        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "love-home"
-        },
-        "title": "Ricevi l'intervento a domicilio",
-        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
-      }
-    ]
-  },
   "booking-card": {
     "code": "generalMedicinePhysical_",
     "title": "Visita medica a domicilio a Verona",
