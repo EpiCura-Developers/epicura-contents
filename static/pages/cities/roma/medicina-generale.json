@@ -16,17 +16,5 @@
     "text": "Hai bisogno di una visita o un parere medico ma vuoi evitare scomodi spostamenti?<br />Con EpiCura i migliori medici ti raggiungono comodamente a casa tua, 7 giorni su 7. Prenota in pochi clic e prenditi cura della tua salute.",
     "price": "Costo fisso 60€",
     "prenotaOnlineText": "Prenota ora"
-  },
-  "hint-card": {
-    "title": "Hai un dubbio? Chiedi al medico",
-    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
-    "price": "Costo fisso 25€",
-    "bkg-color": "#F5F8FF",
-    "image": {
-      "path": "videoconsultation",
-      "name": "videoconsultation-banner"
-    },
-    "button-text": "Scopri il servizio",
-    "button-link": "/medico-di-base-videoconsulto/"
   }
 }
