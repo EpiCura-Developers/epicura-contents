@@ -18,17 +18,5 @@
     "text": "Il tuo animale domestico ha bisogno di una visita ma muoversi da casa è scomodo e difficile? <br />Con EpiCura puoi prenotare in pochi clic visite veterinarie comodamente a domicilio, senza stress per te e il tuo amico a quattro zampe.",
     "price": "Costo fisso 60€",
     "prenotaOnlineText": "Prenota ora"
-  },
-  "hint-card": {
-    "title": "Hai un dubbio? Chiedi al veterinario",
-    "content": "Se il tuo animale deve intraprendere un percorso specialistico per la prima volta o vuoi ricevere un secondo parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
-    "price": "Costo fisso 25€",
-    "bkg-color": "#F5F8FF",
-    "image": {
-      "path": "videoconsultation",
-      "name": "videoconsultation-banner"
-    },
-    "button-text": "Scopri il servizio",
-    "button-link": "/veterinario-videoconsulto/"
   }
 }
