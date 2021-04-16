@@ -6,6 +6,7 @@
   },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di osteopatia a domicilio",
+    "altri_trattamenti": "Altri interventi di osteopatia",
     "list": [
       {
         "link": "/osteopatia-in-gravidanza",
@@ -36,6 +37,7 @@
   },
   "come_funziona": {
     "title": "Osteopatia a domicilio, come funziona",
+    "tratmentsTitle": ", come funziona",
     "cards": [
       {
         "image": {
@@ -148,5 +150,7 @@
     },
     "button-text": "Scopri di più",
     "button-link": "/osteopata-videoconsulto/"
-  }
+  },
+  "provincesTitle": "I nostri osteopati a domicilio sono attivi nelle città di",
+  "provincesTitleTreatments": "Il servizio di <strong>osteopatia</strong> è attivo nelle seguenti città"
 }

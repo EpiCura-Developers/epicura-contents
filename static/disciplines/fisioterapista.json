@@ -6,6 +6,7 @@
   },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
+    "altri_trattamenti": "Altri interventi di fisioterapia",
     "list": [
       {
         "link": "/fisioterapia-per-anziani",
@@ -15,7 +16,7 @@
       {
         "link": "/fisioterapia-pediatrica",
         "title": "Fisioterapia pediatrica",
-        "description": "torcicollo, plagiocefalia neonatale, piede piatto valgo, scoliosi, dorso curvo, fratture."
+        "description": "torcicollo, plagiocefalia neonatale, piede piatto valgo, scoliosi, dorso curvo, fratture"
       },
       {
         "link": "/fisioterapia-in-gravidanza",
@@ -30,7 +31,7 @@
       {
         "link": "/riabilitazione-motoria",
         "title": "Riabilitazione motoria",
-        "description": "alluce valgo, protesi anca, frattura femore, fisioterapia per ginocchio, protesi ginocchio, rafforzamento muscolare."
+        "description": "alluce valgo, protesi anca, frattura femore, fisioterapia per ginocchio, protesi ginocchio, rafforzamento muscolare"
       },
       {
         "link": "/linfodrenaggio-manuale",
@@ -169,5 +170,7 @@
     },
     "button-text": "Scopri di più",
     "button-link": "/fisioterapista-videoconsulto/"
-  }
+  },
+  "provincesTitle": "I nostri fisioterapisti a domicilio sono attivi nelle città di",
+  "provincesTitleTreatments": "Il servizio di <strong>fisioterapia</strong> è attivo nelle seguenti città"
 }

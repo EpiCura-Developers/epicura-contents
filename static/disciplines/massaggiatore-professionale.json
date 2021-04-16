@@ -6,6 +6,7 @@
   },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di massoterapia a domicilio",
+    "altri_trattamenti": "Altri interventi di massoterapia",
     "list": [
       {
         "link": "/massaggio-rilassante",
@@ -41,6 +42,7 @@
   },
   "come_funziona": {
     "title": "Massoterapia a domicilio, come funziona",
+    "tratmentsTitle": ", come funziona",
     "cards": [
       {
         "image": {
@@ -141,5 +143,7 @@
         "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
       }
     ]
-  }
+  },
+  "provincesTitle": "I nostri massoterapisti a domicilio sono attivi nelle città di",
+  "provincesTitleTreatments": "Il servizio di <strong>massoterapia</strong> è attivo nelle seguenti città"
 }

@@ -10,6 +10,7 @@
   },
   "come_funziona": {
     "title": "Psicologo online, come funziona",
+    "tratmentsTitle": ", come funziona",
     "cards": [
       {
         "image": {
@@ -51,36 +52,45 @@
   },
   "trattamenti": {
     "sectionTitle": "I nostri psicologi online si occupano di ",
+    "altri_trattamenti": "Altri interventi di psicologia",
     "list": [
       {
+        "link": "/ansia",
         "title": "Ansia",
         "description": "Paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
       },
       {
+        "link": "/sofferenza-psicologica",
         "title": "Sofferenza psicologica",
         "description": "Stress, mobbing, burnout"
       },
       {
+        "link": "/dipendenze",
         "title": "Dipendenze",
         "description": "Affettiva, alcol, droga, gioco d’azzardo (ludopatia), social network, videogiochi, sesso"
       },
       {
+        "link": "/depressione",
         "title": "Depressione",
         "description": "Lutto, divorzio, fine relazione, patologie, malati oncologici, malattie croniche"
       },
       {
+        "link": "/disturbo-della-personalita",
         "title": "Disturbo della personalità",
         "description": "Disturbo ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
       },
       {
+        "link": "/disturbi-alimentari",
         "title": "Disturbi alimentari",
         "description": "Anoressia, bulimia, fame compulsiva (binge-eating)"
       },
       {
+        "link": "/terapia-di-coppia",
         "title": "Terapia di coppia",
         "description": "Coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, frustrazione"
       },
       {
+        "link": "/terapia-familiare",
         "title": "Terapia familiare",
         "description": "Conflittualità familiari, disagi dell’età adolescenziale e pre-adolescenziale"
       }

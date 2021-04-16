@@ -6,6 +6,7 @@
   },
   "trattamenti": {
     "sectionTitle": "I nostri nutrizionisti a domicilio si occupano di",
+    "altri_trattamenti": "Altri interventi di nutrizione",
     "list": [
       {
         "link": "/perdita-e-aumento-di-peso",
@@ -28,7 +29,7 @@
         "description": "patologie cardiache, diabete, inappetenza, osteoporosi, demenza senile"
       },
       {
-        "link": "/disturbi-alimentari",
+        "link": "/nutrizione-disturbi-alimentari",
         "title": "Disturbi alimentari",
         "description": "anoressia, bulimia, binge eating (fame compulsiva)"
       },
@@ -51,6 +52,7 @@
   },
   "come_funziona": {
     "title": "Nutrizionista a domicilio, come funziona",
+    "tratmentsTitle": ", come funziona",
     "text": "",
     "cards": [
       {
@@ -173,5 +175,7 @@
     },
     "button-text": "Scopri il servizio",
     "button-link": "/nutrizionista-videoconsulto/"
-  }
+  },
+  "provincesTitle": "I nostri nutrizionisti a domicilio sono attivi nelle città di",
+  "provincesTitleTreatments": "Il servizio di <strong>nutrizione</strong> è attivo nelle seguenti città"
 }
