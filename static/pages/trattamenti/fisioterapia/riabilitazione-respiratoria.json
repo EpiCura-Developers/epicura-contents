@@ -1,0 +1,20 @@
+{
+  "metaDescription": {
+    "title": "Riabilitazione respiratoria",
+    "description": "Ginnastica respiratoria, fisioterapia polmonare"
+  },
+  "title": "Riabilitazione respiratoria",
+  "whatIs": {
+    "title": "Cos’è la riabilitazione respiratoria",
+    "text": "La rieducazione respiratoria permette di contrastare e trattare disturbi e patologie che non consentono un corretto apporto di ossigeno nel corpo.<br />Si tratta di una fisioterapia dedicata in particolar modo a soggetti che, a causa di particolari malattie (come la broncopneumopatia), soffrono di difficoltà e disfunzioni respiratorie. L’obiettivo è quello di migliorare le capacità fisiche, aumentando la resistenza allo sforzo e riducendo i sintomi.",
+    "hint": "Il percorso fisioterapico consente di migliorare e, laddove possibile, recuperare gradualmente le capacità respiratorie, migliorando disturbi come la dispnea e influendo positivamente sulla qualità della vita. "
+  },
+  "check_list": {
+    "title": "Quando è consigliata la riabilitazione respiratoria",
+    "footer": {
+      "button": {
+        "text": "Scegli le soluzioni"
+      }
+    }
+  }
+}

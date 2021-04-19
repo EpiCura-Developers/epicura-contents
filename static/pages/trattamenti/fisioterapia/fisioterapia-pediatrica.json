@@ -1,0 +1,20 @@
+{
+  "metaDescription": {
+    "title": "Fisioterapia pediatrica e neonatale",
+    "description": "Torcicollo, asimmetrie cranio-facciali, plagiocefalia, piede piatto valgo, piede cavo valgo, scoliosi, dorso curvo (ipercifosi), fratture"
+  },
+  "title": "Fisioterapia pediatrica e neonatale",
+  "whatIs": {
+    "title": "Cos’è la fisioterapia pediatrica e neonatale",
+    "text": "La fisioterapia pediatrica è particolarmente utile nel trattamento di patologie a carico dell’apparato muscolo-scheletrico, quali scoliosi, dorso curvo e piede piatto, comuni nei bambini in età scolastica.<br />Il fisioterapista, con un approccio ludico, aiuta il bambino a ritrovare una buona postura, armonizzando il corpo ed eliminando eventuali disturbi quali dolore e infiammazione.<br />Le manipolazioni fisioterapiche permettono inoltre la cura di asimmetrie cranio-facciali tipiche dei lattanti (plagiocefalia, brachicefalia e scafocefalia).",
+    "hint": "Il trattamento fisioterapico dedicato ai bambini consente la ripresa di una piena mobilità (anche in caso di fratture), l’eliminazione del dolore e il ripristino di simmetrie fisiche e posturali."
+  },
+  "check_list": {
+    "title": "Quando è consigliata la fisioterapia pediatrica e neonatale",
+    "footer": {
+      "button": {
+        "text": "Scegli le soluzioni"
+      }
+    }
+  }
+}
