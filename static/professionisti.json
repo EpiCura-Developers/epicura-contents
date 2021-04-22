@@ -488,6 +488,16 @@
               }
           },
           {
+            "name": "Marco P.",
+            "discipline": "veterinaria",
+            "discipline_label": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "marco-pilia"
+              }
+          },
+          {
             "name": "Fabiana B.",
             "discipline": "veterinaria",
             "discipline_label": "Veterinario",
