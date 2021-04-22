@@ -508,6 +508,26 @@
               }
           },
           {
+            "name": "Manuela G.",
+            "discipline": "veterinaria",
+            "discipline_label": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "manuela-grippa"
+              }
+          },
+          {
+            "name": "Fausto C.",
+            "discipline": "veterinaria",
+            "discipline_label": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "fausto-cucinotta"
+              }
+          },
+          {
             "name": "Franca M.",
             "discipline": "veterinaria",
             "discipline_label": "Veterinario",
