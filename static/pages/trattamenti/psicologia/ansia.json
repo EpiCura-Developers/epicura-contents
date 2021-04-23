@@ -17,6 +17,10 @@
         }
       }
     },
-    "price_title": "Scopri i prezzi di ansia nella tua città"
+    "price_title": "Scopri i prezzi di ansia nella tua città",
+    "image": {
+      "path": "psychology",
+      "name": "Ansia"
+    }
   }
   

@@ -17,6 +17,10 @@
         }
       }
     },
-    "price_title": "Scopri i prezzi di terapia di coppia nella tua città"
+    "price_title": "Scopri i prezzi di terapia di coppia nella tua città",
+    "image": {
+      "path": "psychology",
+      "name": "Terapia-di-coppia"
+    }
   }
   

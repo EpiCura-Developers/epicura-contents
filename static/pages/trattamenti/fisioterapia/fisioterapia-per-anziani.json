@@ -17,5 +17,9 @@
       }
     }
   },
-  "price_title": "Scopri i prezzi della fisioterapia per anziani nella tua città"
+  "price_title": "Scopri i prezzi della fisioterapia per anziani nella tua città",
+  "image": {
+    "path": "physiotherapy",
+    "name": "Fisioterapia-per-anziani"
+  }
 }

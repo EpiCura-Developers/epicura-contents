@@ -17,6 +17,10 @@
         }
       }
     },
-    "price_title": "Scopri i prezzi di depressione nella tua città"
+    "price_title": "Scopri i prezzi di depressione nella tua città",
+    "image": {
+      "path": "psychology",
+      "name": "Depressione"
+    }
   }
   

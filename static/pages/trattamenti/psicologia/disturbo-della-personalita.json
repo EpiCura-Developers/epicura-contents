@@ -17,6 +17,10 @@
         }
       }
     },
-    "price_title": "Scopri i prezzi per i disturbi della personalità nella tua città"
+    "price_title": "Scopri i prezzi per i disturbi della personalità nella tua città",
+    "image": {
+      "path": "psychology",
+      "name": "Disturbo-della-personalità"
+    }
   }
   

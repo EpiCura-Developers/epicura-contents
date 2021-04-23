@@ -17,6 +17,10 @@
         }
       }
     },
-    "price_title": "Scopri i prezzi di chinesiterapia nella tua città"
+    "price_title": "Scopri i prezzi di chinesiterapia nella tua città",
+    "image": {
+      "path": "nutrition",
+      "name": "Allergie-e-intolleranze"
+    }
   }
   
