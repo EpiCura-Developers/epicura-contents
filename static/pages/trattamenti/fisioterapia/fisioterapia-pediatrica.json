@@ -17,5 +17,9 @@
       }
     }
   },
-  "price_title": "Scopri i prezzi della fisioterapia pediatrica nella tua città"
+  "price_title": "Scopri i prezzi della fisioterapia pediatrica nella tua città",
+  "image": {
+    "path": "physiotherapy",
+    "name": "Fisioterapia-pediatrica"
+  }
 }

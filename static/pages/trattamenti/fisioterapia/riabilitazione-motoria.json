@@ -17,5 +17,9 @@
       }
     }
   },
-  "price_title": "Scopri i prezzi della riabilitazione motoria nella tua città"
+  "price_title": "Scopri i prezzi della riabilitazione motoria nella tua città",
+  "image": {
+    "path": "physiotherapy",
+    "name": "Riabilitazione-motoria"
+  }
 }

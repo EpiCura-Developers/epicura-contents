@@ -17,6 +17,10 @@
         }
       }
     },
-    "price_title": "Scopri i prezzi per il trattamento di disturbi sistemici e psicosomatici nella tua città"
+    "price_title": "Scopri i prezzi per il trattamento di disturbi sistemici e psicosomatici nella tua città",
+    "image": {
+      "path": "osteopathy",
+      "name": "Disturbi-sistemici"
+    }
   }
   

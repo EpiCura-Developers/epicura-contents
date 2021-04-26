@@ -17,6 +17,10 @@
         }
       }
     },
-    "price_title": "Scopri i prezzi per il trattamento del dolore e dell'infiammazione nella tua città"
+    "price_title": "Scopri i prezzi per il trattamento del dolore e dell'infiammazione nella tua città",
+    "image": {
+      "path": "osteopathy",
+      "name": "Osteopatia-dolore-e-infiammazione"
+    }
   }
   

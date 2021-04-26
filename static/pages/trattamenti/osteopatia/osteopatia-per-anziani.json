@@ -17,6 +17,10 @@
         }
       }
     },
-    "price_title": "Scopri i prezzi dell'osteopatia per anziani nella tua città"
+    "price_title": "Scopri i prezzi dell'osteopatia per anziani nella tua città",
+    "image": {
+      "path": "osteopathy",
+      "name": "Osteopatia-per-anziani"
+    }
   }
   

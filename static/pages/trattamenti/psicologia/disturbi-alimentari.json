@@ -17,6 +17,10 @@
         }
       }
     },
-    "price_title": "Scopri i prezzi dei disturbi alimentari nella tua città"
+    "price_title": "Scopri i prezzi dei disturbi alimentari nella tua città",
+    "image": {
+      "path": "psychology",
+      "name": "Psicologia-disturbi-alimentari"
+    }
   }
   

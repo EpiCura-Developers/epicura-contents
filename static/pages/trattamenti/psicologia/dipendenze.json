@@ -17,6 +17,10 @@
         }
       }
     },
-    "price_title": "Scopri i prezzi delle dipendenze nella tua città"
+    "price_title": "Scopri i prezzi delle dipendenze nella tua città",
+    "image": {
+      "path": "psychology",
+      "name": "Dipendenze"
+    }
   }
   

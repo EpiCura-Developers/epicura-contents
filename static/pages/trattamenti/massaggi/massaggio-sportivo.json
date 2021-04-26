@@ -17,6 +17,10 @@
         }
       }
     },
-    "price_title": "Scopri i prezzi del massaggio sportivo nella tua città"
+    "price_title": "Scopri i prezzi del massaggio sportivo nella tua città",
+    "image": {
+      "path": "massages",
+      "name": "Massoterapia-generica"
+    }
   }
   
