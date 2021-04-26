@@ -15,7 +15,8 @@
             "text": "Per proseguire il tuo percorso di psicologia online, compila il seguente form:",
             "button": {
                 "text": "Continua il percorso",
-                "link": "https://share.hsforms.com/1BfQRU1lIQWu4NB8n40H5Yw4ebbs"
+                "link": "https://share.hsforms.com/1BfQRU1lIQWu4NB8n40H5Yw4ebbs",
+                "linkStaging": "https://share.hsforms.com/13BRA4uJsRSWEJuBbMp76nA5kab9"
             }
         }
     },
