@@ -6,6 +6,7 @@
   "subheader": {
     "prenotaOnlineText": "Richiedi preventivo gratuito",
     "prenotaUrl": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
+    "prenotaUrlStaging": "https://share.hsforms.com/1VzC5zyyKT2GtgcxGmm1UTA5kab9",
     "professionistaText": "",
     "professionistaUrl": "",
     "titleBig": "Assistenza a ore a Genova",
@@ -19,6 +20,7 @@
     "hint": "*Il servizio è erogabile a partire da un minimo di 3 ore consecutive",
     "price": "Tariffa: 14€/h",
     "prenotaOnlineText": "Richiedi preventivo gratuito",
-    "link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs"
+    "link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
+    "linkStaging": "https://share.hsforms.com/1VzC5zyyKT2GtgcxGmm1UTA5kab9"
   }
 }
