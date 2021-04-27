@@ -1,23 +1,23 @@
 {
     "metaDescription": {
-      "title": "Chinesiterapia",
-      "description": "Riacquisizione delle funzionalità motorie"
+      "title": "Allergie e intolleranze alimentari",
+      "description": "celiachia, allergie alimentari, allergia al nichel, intolleranza al lattosio"
     },
-    "title": "Chinesiterapia",
+    "title": "Allergie e intolleranze alimentari",
     "whatIs": {
-      "title": "Cos’è la chinesiterapia",
-      "text": "La chinesiterapia è una tecnica fisioterapica che permette il ripristino delle abilità motorie perdute o alterate a causa di patologie o disturbi muscolo-scheletrici.<br />Il trattamento consiste nella cura di differenti problematiche motorie attraverso il movimento passivo o assistito. Questo è basato su un insieme di movimenti guidati dal fisioterapista ed è in grado di restituire gradualmente una corretta funzionalità del corpo.",
-      "hint": "La chinesiterapia è particolarmente indicata per i soggetti che, a causa di traumi, patologie o interventi chirurgici, hanno ridotte capacità di movimento e desiderano riacquisire maggiore autonomia e capacità motoria."
+      "title": "La nutrizione per allergie e intolleranze",
+      "text": "Le allergie e le intolleranze alimentari sono reazioni dell’organismo a specifiche sostanze contenute nei cibi: chi ne soffre ha necessità di rivedere la propria nutrizione, al fine di evitare disturbi e malesseri derivanti dall’assunzione di questi alimenti. <br/> Soffrire di allergie o intolleranze può rischiare di limitare la propria alimentazione, causando uno squilibrio nell’assunzione dei macro-nutrienti.",
+      "hint": "Il supporto nutrizionistico rappresenta un vero e proprio percorso terapeutico, che consente a chi soffre di allergie di mangiare in modo sano ed equilibrato e, per chi soffre di intolleranze, persino curarne i sintomi, proteggendo l’organismo."
     },
     "check_list": {
-      "title": "Quando è consigliata la chinesiterapia",
+      "title": "Quando è consigliata la visita nutrizionistica",
       "footer": {
         "button": {
           "text": "Scegli le soluzioni"
         }
       }
     },
-    "price_title": "Scopri i prezzi di chinesiterapia nella tua città",
+    "price_title": "Scopri i prezzi di nutrizionistica nella tua città",
     "image": {
       "path": "nutrition",
       "name": "Allergie-e-intolleranze"
