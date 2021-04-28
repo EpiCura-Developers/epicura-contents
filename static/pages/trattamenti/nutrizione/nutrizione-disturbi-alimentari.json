@@ -1,24 +1,24 @@
 {
-    "metaDescription": {
-      "title": "Chinesiterapia",
-      "description": "Riacquisizione delle funzionalità motorie"
-    },
-    "title": "Chinesiterapia",
-    "whatIs": {
-      "title": "Cos’è la chinesiterapia",
-      "text": "La chinesiterapia è una tecnica fisioterapica che permette il ripristino delle abilità motorie perdute o alterate a causa di patologie o disturbi muscolo-scheletrici.<br />Il trattamento consiste nella cura di differenti problematiche motorie attraverso il movimento passivo o assistito. Questo è basato su un insieme di movimenti guidati dal fisioterapista ed è in grado di restituire gradualmente una corretta funzionalità del corpo.",
-      "hint": "La chinesiterapia è particolarmente indicata per i soggetti che, a causa di traumi, patologie o interventi chirurgici, hanno ridotte capacità di movimento e desiderano riacquisire maggiore autonomia e capacità motoria."
-    },
-    "check_list": {
-      "title": "Quando è consigliata la chinesiterapia",
-      "footer": {
-        "button": {
-          "text": "Scegli le soluzioni"
-        }
+  "metaDescription": {
+    "title": "Nutrizione per disturbi alimentari",
+    "description": "anoressia, bulimia, binge eating (fame compulsiva)"
+  },
+  "title": "Disturbi alimentari",
+  "whatIs": {
+    "title": "La nutrizione per i disturbi alimentari",
+    "text": "I disturbi alimentari sono comportamenti messi in atto al fine controllare il proprio peso corporeo. Tali comportamenti però, essendo disfunzionali, possono danneggiare seriamente la propria salute, influendo negativamente anche sul benessere psicologico. <br/> Un intervento tempestivo in casi simili è molto importante per ripristinare uno stile alimentare sano, adeguato alle proprie necessità fisiologiche e che permetta di ritrovare equilibrio e armonia.",
+    "hint": "Il supporto di un nutrizionista è fondamentale nel processo di cura dei disturbi alimentari, costituendo un valido aiuto per rieducare al mangiar sano, permettendo di ritrovare il proprio benessere psico-fisico."
+  },
+  "check_list": {
+    "title": "Quando è consigliata la visita nutrizionistica",
+    "footer": {
+      "button": {
+        "text": "Scegli le soluzioni"
       }
-    },
-    "price_title": "Scopri i prezzi di chinesiterapia nella tua città",
-    "image": {
+    }
+  },
+  "price_title": "Scopri i prezzi di nutrizionistica nella tua città",
+  "image": {
       "path": "nutrition",
       "name": "Disturbi-alimentari"
     }

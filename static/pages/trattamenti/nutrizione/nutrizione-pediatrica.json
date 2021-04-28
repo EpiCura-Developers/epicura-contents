@@ -1,24 +1,24 @@
 {
-    "metaDescription": {
-      "title": "Chinesiterapia",
-      "description": "Riacquisizione delle funzionalità motorie"
-    },
-    "title": "Chinesiterapia",
-    "whatIs": {
-      "title": "Cos’è la chinesiterapia",
-      "text": "La chinesiterapia è una tecnica fisioterapica che permette il ripristino delle abilità motorie perdute o alterate a causa di patologie o disturbi muscolo-scheletrici.<br />Il trattamento consiste nella cura di differenti problematiche motorie attraverso il movimento passivo o assistito. Questo è basato su un insieme di movimenti guidati dal fisioterapista ed è in grado di restituire gradualmente una corretta funzionalità del corpo.",
-      "hint": "La chinesiterapia è particolarmente indicata per i soggetti che, a causa di traumi, patologie o interventi chirurgici, hanno ridotte capacità di movimento e desiderano riacquisire maggiore autonomia e capacità motoria."
-    },
-    "check_list": {
-      "title": "Quando è consigliata la chinesiterapia",
-      "footer": {
-        "button": {
-          "text": "Scegli le soluzioni"
-        }
+  "metaDescription": {
+    "title": "Nutrizione pediatrica",
+    "description": "sovrappeso, obesità, inappetenza, diabete, allergie e intolleranze alimentari, anemia"
+  },
+  "title": "Nutrizione pediatrica",
+  "whatIs": {
+    "title": "La nutrizione dedicata ai bambini",
+    "text": "Le esigenze alimentari dei bambini sono molto diverse da quelli degli adulti: l’età e lo stile di vita, infatti, influenzano notevolmente il fabbisogno giornaliero di nutrienti che, se non rispettato, può provocare alcuni scompensi. <br/> In Italia sono oggi milioni i bambini che presentano problemi di peso dovuti a un’alimentazione eccessiva o, al contrario, a inappetenza. A questi si aggiungono problematiche che vanno curate con un’alimentazione adeguata, come diabete infantile, anemia o allergie alimentari.",
+    "hint": "La figura di un nutrizionista è fondamentale nei casi in cui i bambini presentino disturbi o esigenze legate all’alimentazione: con il giusto percorso nutrizionale è possibile garantire salute e benessere, contribuendo a una crescita sana e armoniosa."
+  },
+  "check_list": {
+    "title": "Quando è consigliata la visita nutrizionistica",
+    "footer": {
+      "button": {
+        "text": "Scegli le soluzioni"
       }
-    },
-    "price_title": "Scopri i prezzi di chinesiterapia nella tua città",
-    "image": {
+    }
+  },
+  "price_title": "Scopri i prezzi di nutrizionistica nella tua città",
+  "image": {
       "path": "nutrition",
       "name": "Nutrizione-pediatrica"
     }
