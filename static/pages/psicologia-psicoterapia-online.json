@@ -67,17 +67,17 @@
       {
         "link": "/dipendenze",
         "title": "Dipendenze",
-        "description": "Affettiva, alcol, droga, gioco d’azzardo (ludopatia), social network, videogiochi, sesso"
+        "description": "altre persone (affettiva), alcol, droga, gioco d’azzardo (ludopatia), social network, videogiochi, sesso"
       },
       {
         "link": "/depressione",
         "title": "Depressione",
-        "description": "Lutto, divorzio, fine relazione, patologie, malati oncologici, malattie croniche"
+        "description": "Lutto, divorzio, fine relazione, patologie, malattie oncologiche, malattie croniche"
       },
       {
         "link": "/disturbo-della-personalita",
         "title": "Disturbo della personalità",
-        "description": "Disturbo ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
+        "description": "ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
       },
       {
         "link": "/disturbi-alimentari",
@@ -87,7 +87,7 @@
       {
         "link": "/terapia-di-coppia",
         "title": "Terapia di coppia",
-        "description": "Coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, frustrazione"
+        "description": "Coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, stati di frustrazione"
       },
       {
         "link": "/terapia-familiare",

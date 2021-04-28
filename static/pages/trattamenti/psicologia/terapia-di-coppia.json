@@ -1,7 +1,7 @@
 {
     "metaDescription": {
       "title": "Terapia di coppia",
-      "description": "Coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, frustrazione"
+      "description": "Coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, stati di frustrazione"
     },
     "title": "Terapia di coppia",
     "whatIs": {
@@ -17,7 +17,7 @@
         }
       }
     },
-    "price_title": "Scopri i prezzi di terapia di coppia nella tua città",
+    "price_title": "",
     "image": {
       "path": "psychology",
       "name": "Terapia-di-coppia"
