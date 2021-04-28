@@ -6,7 +6,7 @@
   },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di massoterapia a domicilio",
-    "altri_trattamenti": "Altri interventi di massoterapia",
+    "altri_trattamenti": "Altri interventi di massoterapia a domicilio",
     "list": [
       {
         "link": "/massaggio-rilassante",
@@ -145,5 +145,5 @@
     ]
   },
   "provincesTitle": "I nostri massoterapisti a domicilio sono attivi nelle città di",
-  "provincesTitleTreatments": "Il servizio di <strong>massoterapia</strong> a domicilio è attivo nelle seguenti città"
+  "provincesTitleTreatments": "Il servizio di <strong>massoterapia a domicilio</strong> è attivo nelle seguenti città"
 }
