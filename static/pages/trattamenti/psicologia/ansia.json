@@ -5,19 +5,19 @@
     },
     "title": "Ansia",
     "whatIs": {
-      "title": "Cos’è l'ansia",
+      "title": "Curare l'ansia",
       "text": "L’ansia è una reazione naturale del corpo alla percezione di situazioni considerate minacciose o pericolose. Tuttavia, quando gli stati ansiosi si manifestano in modo ripetuto, l’ansia può trasformarsi in uno malessere generale costante, che influisce negativamente sulla qualità della vita.<br />I sintomi dell’ansia, infatti, sono molteplici e vanno dalla tachicardia, alla nausea fino alle vertigini e alla sensazione di soffocare.",
       "hint": "Il supporto psicologico o psicoterapeutico può aiutare non solo a gestire gli stati ansiosi ma anche a prevenirli, ritrovando una maggiore serenità e affrontando la propria vita con più sicurezza e tranquillità."
     },
     "check_list": {
-      "title": "Quando è consigliata l'ansia",
+      "title": "La terapia online può aiutarti in caso di",
       "footer": {
         "button": {
           "text": "Inizia il tuo percorso online"
         }
       }
     },
-    "price_title": "Scopri i prezzi di ansia nella tua città",
+    "price_title": "",
     "image": {
       "path": "psychology",
       "name": "Ansia"

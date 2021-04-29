@@ -6,7 +6,7 @@
   },
   "trattamenti": {
     "sectionTitle": "I nostri nutrizionisti a domicilio si occupano di",
-    "altri_trattamenti": "Altri interventi di nutrizione",
+    "altri_trattamenti": "Altri interventi di nutrizionistica a domicilio",
     "list": [
       {
         "link": "/perdita-e-aumento-di-peso",
@@ -46,7 +46,7 @@
       {
         "link": "/allergie-e-intolleranze",
         "title": "Allergie e intolleranze",
-        "description": "celiachia, allergie alimentari, allergia al nichel"
+        "description": "celiachia, allergie alimentari, allergia al nichel, intolleranza al lattosio"
       }
     ]
   },
@@ -176,5 +176,5 @@
     "button-link": "/nutrizionista-videoconsulto/"
   },
   "provincesTitle": "I nostri nutrizionisti a domicilio sono attivi nelle città di",
-  "provincesTitleTreatments": "Il servizio di <strong>nutrizionistica</strong> a domicilio è attivo nelle seguenti città"
+  "provincesTitleTreatments": "Il servizio di <strong>nutrizionistica a domicilio</strong> è attivo nelle seguenti città"
 }

@@ -5,19 +5,19 @@
     },
     "title": "Osteopatia per anziani",
     "whatIs": {
-      "title": "Cos’è l'osteopatia per anziani",
+      "title": "L'osteopatia dedicata agli anziani",
       "text": "L’osteopatia geriatrica è rivolta a persone anziane che necessitano di migliorare forma fisica e funzionalità motorie a causa di cambiamenti dovuti all’avanzare dell’età (come la rigidità muscolare) o di patologie senili (quali alzheimer e osteoporosi).<br />Il trattamento osteopatico permette di prevenire infortuni e disturbi muscolo-scheletrici, con effetti positivi sull’autonomia del paziente e sul benessere psico-fisico.",
       "hint": "L’osteopatia allevia i dolori, migliora l’equilibrio e la coordinazione, previene le fratture e potenzia le abilità motorie, anche residue, di soggetti anziani e patologie senili."
     },
     "check_list": {
-      "title": "Quando è consigliata l'osteopatia per anziani",
+      "title": "Quando è consigliata l'osteopatia geriatrica",
       "footer": {
         "button": {
-          "text": "Scegli le soluzioni"
+          "text": "Scopri le soluzioni"
         }
       }
     },
-    "price_title": "Scopri i prezzi dell'osteopatia per anziani nella tua città",
+    "price_title": "Scopri i prezzi di osteopatia a domicilio nella tua città",
     "image": {
       "path": "osteopathy",
       "name": "Osteopatia-per-anziani"
