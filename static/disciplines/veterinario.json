@@ -167,7 +167,7 @@
     ]
   },
   "hint-card": {
-    "title": "Hai un dubbio? Chiedi al veterinario",
+    "title": "Hai un dubbio? <br/> Chiedi al veterinario",
     "content": "Se il tuo animale deve intraprendere un percorso specialistico per la prima volta o vuoi ricevere un secondo parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "price": "Costo fisso 25€",
     "bkg-color": "#F5F8FF",
