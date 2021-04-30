@@ -31,7 +31,7 @@
           {
             "code": "psychotherapyMonthlyFamilySubscription2Sessions",
             "title": "Percorso basic",
-            "text": "Inizia il tuo percorso con 2 videosedute mensili.<br /><br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te. ",
+            "text": "Iniziate il vostro percorso con 2 videosedute mensili.<br /><br />Se state affrontando un momento difficile e desiderate confrontarvi con un terapeuta, questa soluzione fa per voi. ",
             "startingFrom": false,
             "hideDiscount": true,
             "button": {
@@ -47,7 +47,7 @@
           {
             "code": "psychotherapyMonthlyFamilySubscription3Sessions",
             "title": "Percorso plus",
-            "text": "Questo percorso ti consente di accedere a 3 videosedute mensili, comodamente da smartphone, pc o tablet.<br /><br />Ideale per chi si approccia per la prima volta alla terapia psicologica. ",
+            "text": "Questo percorso vi consente di accedere a 3 videosedute mensili, comodamente da smartphone, pc o tablet.<br /><br />Ideale per chi si approccia per la prima volta alla terapia di coppia. ",
             "startingFrom": false,
             "button": {
               "text": "Parla con un tutor",
@@ -63,7 +63,7 @@
           {
             "code": "psychotherapyMonthlyFamilySubscription4Sessions",
             "title": "Percorso standard",
-            "text": "Percorso terapeutico che comprende 4 videosedute mensili, particolarmente efficace per lavorare su sofferenze e disturbi di lungo periodo.<br /><br />Ideale per un supporto psicologico costante.",
+            "text": "Percorso terapeutico che comprende 4 videosedute mensili, particolarmente efficace per lavorare su problematiche di lungo periodo.<br /><br />Ideale per un supporto terapeutico costante.",
             "startingFrom": false,
             "button": {
               "text": "Parla con un tutor",
