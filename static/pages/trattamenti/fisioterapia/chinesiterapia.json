@@ -1,0 +1,25 @@
+{
+  "metaDescription": {
+    "title": "Chinesiterapia",
+    "description": "Riacquisizione delle funzionalità motorie"
+  },
+  "title": "Chinesiterapia",
+  "whatIs": {
+    "title": "Cos'è la chinesiterapia?",
+    "text": "La chinesiterapia è una tecnica fisioterapica che permette il ripristino delle abilità motorie perdute o alterate a causa di patologie o disturbi muscolo-scheletrici.<br />Il trattamento consiste nella cura di differenti problematiche motorie attraverso il movimento passivo o assistito. Questo è basato su un insieme di movimenti guidati dal fisioterapista ed è in grado di restituire gradualmente una corretta funzionalità del corpo.",
+    "hint": "La chinesiterapia è particolarmente indicata per i soggetti che, a causa di traumi, patologie o interventi chirurgici, hanno ridotte capacità di movimento e desiderano riacquisire maggiore autonomia e capacità motoria."
+  },
+  "check_list": {
+    "title": "La chinesiterapia è utile per",
+    "footer": {
+      "button": {
+        "text": "Scopri le soluzioni"
+      }
+    }
+  },
+  "price_title": "Scopri i prezzi di fisioterapia a domicilio nella tua città",
+  "image": {
+    "path": "physiotherapy",
+    "name": "Chinesiterapia"
+  }
+}

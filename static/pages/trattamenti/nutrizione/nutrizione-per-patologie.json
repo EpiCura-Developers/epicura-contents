@@ -1,0 +1,26 @@
+{
+  "metaDescription": {
+    "title": "Nutrizione oncologica e per patologie",
+    "description": "tumore, ipotiroidismo, ipertiroidismo, diabete, insulino resistenza, colon irritabile, diverticolite, gastrite, insufficienza renale, sclerosi multipla"
+  },
+  "title": "Nutrizione per patologie",
+  "whatIs": {
+    "title": "La nutrizione per il trattamento delle patologie",
+    "text": "L’importanza di una sana alimentazione è scientificamente riconosciuta come elemento fondamentale per mantenere un buono stato di salute. <br/> In caso di malattie croniche, infiammatorie o tumori, un’alimentazione adeguata può essere un importante coadiuvante alla terapia farmacologica, contribuendo al benessere psicofisico e rispondendo a nuove esigenze alimentari.",
+    "hint": "Un percorso nutrizionale personalizzato sulla base delle proprie necessità, costituisce un valido supporto per aiutare l’organismo a ritrovare il proprio equilibrio, contribuendo a un maggiore benessere psico-fisico anche in caso di patologie."
+  },
+  "check_list": {
+    "title": "Quando è consigliata la visita nutrizionistica",
+    "footer": {
+      "button": {
+        "text": "Scopri le soluzioni"
+      }
+    }
+  },
+  "price_title": "Scopri i prezzi di nutrizionistica a domicilio nella tua città",
+  "image": {
+      "path": "nutrition",
+      "name": "Nutrizione-generica"
+    }
+  }
+  

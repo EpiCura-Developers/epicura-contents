@@ -1,0 +1,26 @@
+{
+  "metaDescription": {
+    "title": "Nutrizione per anziani",
+    "description": "patologie cardiache, diabete, inappetenza, osteoporosi, demenza senile"
+  },
+  "title": "Nutrizione per anziani",
+  "whatIs": {
+    "title": "La nutrizione dedicata agli anziani",
+    "text": "Con l’avanzare dell’età è inevitabile che le esigenze alimentari cambino: è necessario, di fatti, prestare maggiore attenzione alla propria alimentazione, orientandola verso una nutrizione sana, volta a prevenire e contrastare patologie tipiche della terza età. <br/> Una buona alimentazione è fondamentale per mantenere il proprio corpo in salute, sia in ottica di prevenzione che di cura, favorendo il benessere dell’organismo.",
+    "hint": "Il supporto di un nutrizionista può aiutare a ritrovare una buona salute attraverso uno stile nutrizionale adeguato a ogni esigenza, creato su misura per favorire la corretta funzionalità degli organi anche in caso di patologie."
+  },
+  "check_list": {
+    "title": "Quando è consigliata la visita nutrizionistica",
+    "footer": {
+      "button": {
+        "text": "Scopri le soluzioni"
+      }
+    }
+  },
+  "price_title": "Scopri i prezzi di nutrizionistica a domicilio nella tua città",
+  "image": {
+      "path": "nutrition",
+      "name": "Nutrizione-generica"
+    }
+  }
+  

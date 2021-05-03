@@ -1,7 +1,6 @@
 # epicura-static-content
 
 Static content for the public site
-Ciao
 
 Rispetto al vecchio repository epicura-static-contest sono state rimosse
 

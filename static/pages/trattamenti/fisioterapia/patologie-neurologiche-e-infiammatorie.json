@@ -1,0 +1,25 @@
+{
+  "metaDescription": {
+    "title": "Fisioterapia per patologie neurologiche e infiammatorie",
+    "description": "Artrosi, artrite reumatoide, alluce valgo, coxartrosi, distrofia muscolare, fibromialgia, gonartrosi, ictus, sclerosi multipla, spondilite anchilosante, tremore essenziale"
+  },
+  "title": "Fisioterapia per malattie neurologiche e infiammatorie",
+  "whatIs": {
+    "title": "La fisioterapia per la cura delle patologie",
+    "text": "Il trattamento delle malattie neurologiche e infiammatorie attraverso la fisioterapia consente sia un graduale recupero della mobilità che la diminuzione del dolore dovuto a stati infiammatori, aiutando a ritrovare una maggiore indipendenza e un maggior benessere psico-fisico.<br />Patologie quali artrosi, artrite, distrofia muscolare e sclerosi multipla possono influire negativamente sull’autonomia del paziente, a causa degli effetti sulle abilità motorie: in questi casi, una terapia mirata è importante per preservare la mobilità, rinforzare muscoli e ossa e migliorare lo stato di salute generale.",
+    "hint": "La fisioterapia è in grado di curare gli stati dolorosi, migliorare le capacità motorie residue e ripristinare una corretta mobilità attraverso il recupero della forza muscolare, dell’equilibrio e della coordinazione."
+  },
+  "check_list": {
+    "title": "La fisioterapia è utile per il trattamento di",
+    "footer": {
+      "button": {
+        "text": "Scopri le soluzioni"
+      }
+    }
+  },
+  "price_title": "Scopri i prezzi di fisioterapia a domicilio nella tua città",
+"image": {
+  "path": "physiotherapy",
+  "name": "Disturbi-patologici"
+}
+}

@@ -1,0 +1,83 @@
+{
+    "metaDescription": {
+      "title": "Terapia di coppia",
+      "description": "Coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, stati di frustrazione"
+    },
+    "title": "Terapia di coppia",
+    "whatIs": {
+      "title": "Cos’è la terapia di coppia",
+      "text": "Nella terapia di coppia, il focus principale riguarda la relazione tra due persone: l’obiettivo è riconoscere eventuali problematiche, imparando ad affrontarle insieme, ritrovando armonia e serenità.<br />Il terapista aiuta la coppia a concentrarsi sui cambiamenti che si possono apportare per il reciproco benessere, affrontando difficoltà quali infedeltà, problemi di comunicazione, gelosia, dipendenze affettive e problemi sessuali.<br />Lo scopo della terapia è quello di superare la crisi, recuperando l’intesa e vivendo la propria relazione in modo sano, costruttivo e soddisfacente.",
+      "hint": "Il percorso psicoterapeutico permette di promuovere il benessere della coppia attraverso l’instaurazione di un rapporto costruttivo, fondato sul dialogo e sul confronto, che permetta di ritrovare nella propria relazione soddisfazione e serenità."
+    },
+    "check_list": {
+      "title": "Quando è consigliata la terapia di coppia",
+      "footer": {
+        "button": {
+          "text": "Inizia il tuo percorso online"
+        }
+      }
+    },
+    "price_title": "",
+    "image": {
+      "path": "psychology",
+      "name": "Terapia-di-coppia"
+    },
+    "solutions": [
+      {
+        "title": "Continua la terapia con un percorso su misura",
+        "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato?<br />Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
+        "startingFromText": "",
+        "solutionsBig": [
+          {
+            "code": "psychotherapyMonthlyFamilySubscription2Sessions",
+            "title": "Percorso basic",
+            "text": "Iniziate il vostro percorso con 2 videosedute mensili.<br /><br />Se state affrontando un momento difficile e desiderate confrontarvi con un terapeuta, questa soluzione fa per voi. ",
+            "startingFrom": false,
+            "hideDiscount": true,
+            "button": {
+              "text": "Parla con un tutor",
+              "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
+              "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
+            },
+            "bottomText": {
+              "text": "Pacchetto base",
+              "highlighted": false
+            }
+          },
+          {
+            "code": "psychotherapyMonthlyFamilySubscription3Sessions",
+            "title": "Percorso plus",
+            "text": "Questo percorso vi consente di accedere a 3 videosedute mensili, comodamente da smartphone, pc o tablet.<br /><br />Ideale per chi si approccia per la prima volta alla terapia di coppia. ",
+            "startingFrom": false,
+            "button": {
+              "text": "Parla con un tutor",
+              "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
+              "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
+            },
+            "bottomText": {
+              "text": "Risparmi ",
+              "highlighted": true,
+              "showDiscount": true
+            }
+          },
+          {
+            "code": "psychotherapyMonthlyFamilySubscription4Sessions",
+            "title": "Percorso standard",
+            "text": "Percorso terapeutico che comprende 4 videosedute mensili, particolarmente efficace per lavorare su problematiche di lungo periodo.<br /><br />Ideale per un supporto terapeutico costante.",
+            "startingFrom": false,
+            "button": {
+              "text": "Parla con un tutor",
+              "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
+              "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
+            },
+            "bottomText": {
+              "text": "Risparmi ",
+              "highlighted": true,
+              "showDiscount": true
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

@@ -488,6 +488,16 @@
               }
           },
           {
+            "name": "Marco P.",
+            "discipline": "veterinaria",
+            "discipline_label": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "marco-pilia"
+              }
+          },
+          {
             "name": "Fabiana B.",
             "discipline": "veterinaria",
             "discipline_label": "Veterinario",
@@ -498,13 +508,43 @@
               }
           },
           {
-            "name": "Franca M.",
+            "name": "Manuela G.",
             "discipline": "veterinaria",
             "discipline_label": "Veterinario",
             "prestazioni": [],
             "image": {
                 "path": "specialists",
-                "name": "franca-muggiana"
+                "name": "manuela-grippa"
+              }
+          },
+          {
+            "name": "Fausto C.",
+            "discipline": "veterinaria",
+            "discipline_label": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "fausto-cucinotta"
+              }
+          },
+          {
+            "name": "Fausto C.",
+            "discipline": "veterinaria",
+            "discipline_label": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "fausto-cucinotta"
+              }
+          },
+          {
+            "name": "Aurora B.",
+            "discipline": "veterinaria",
+            "discipline_label": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "aurora-busti"
               }
           },
           {
@@ -655,16 +695,6 @@
             "image": {
               "path": "specialists",
               "name": "agnese-pisano"
-            }
-          },
-          {
-            "name": "Annamaria M.",
-            "discipline": "assistente-domiciliare",
-            "discipline_label": "Assistente domiciliare",
-            "prestazioni": [],
-            "image": {
-              "path": "specialists",
-              "name": "annamaria-mattiacci"
             }
           },
           {

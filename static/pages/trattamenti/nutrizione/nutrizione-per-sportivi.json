@@ -1,0 +1,26 @@
+{
+  "metaDescription": {
+    "title": "Nutrizione per sportivi",
+    "description": "aumento della massa muscolare, alimentazione per atleti"
+  },
+  "title": "Nutrizione per sportivi",
+  "whatIs": {
+    "title": "La nutrizione dedicata agli sportivi",
+    "text": "Chi pratica sport sa quanto un’alimentazione adeguata sia un fattore di estrema importanza per consentire al corpo di massimizzare le proprie performance. <br/> La nutrizionistica dedicata agli sportivi è un settore che si occupa di bilanciare correttamente l’apporto nutritivo in base alle esigenze alimentari degli atleti, sia agonistici che amatoriali.",
+    "hint": "Il supporto di un nutrizionista è importante per chi, dedicandosi allo sport, desidera il massimo dalle proprie prestazioni, raggiungendo inoltre la forma fisica desiderata."
+  },
+  "check_list": {
+    "title": "Quando è consigliata la visita nutrizionistica",
+    "footer": {
+      "button": {
+        "text": "Scopri le soluzioni"
+      }
+    }
+  },
+  "price_title": "Scopri i prezzi di nutrizionistica a domicilio nella tua città",
+  "image": {
+      "path": "nutrition",
+      "name": "Nutrizione-per-sportivi"
+    }
+  }
+  

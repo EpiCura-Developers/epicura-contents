@@ -1,0 +1,26 @@
+{
+    "metaDescription": {
+      "title": "Depressione",
+      "description": "Lutto, divorzio, fine relazione, patologie, malattie oncologiche, malattie croniche"
+    },
+    "title": "Depressione",
+    "whatIs": {
+      "title": "Curare la depressione",
+      "text": "La depressione è una vera e propria patologia, che si manifesta con un umore negativo persistente e una totale mancanza di vitalità. La persona depressa sperimenta soltanto emozioni negative, come dolore e tristezza, e sente che la propria vita è vuota e priva di significato.<br />La depressione può derivare da traumi o eventi dolorosi (come un lutto, una malattia o la fine di una relazione) e si caratterizza per una serie di disturbi che influiscono negativamente sulla qualità della vita, portando la persona depressa a perdere interesse o piacere nello svolgimento di qualunque attività.",
+      "hint": "L’aiuto di uno specialista è fondamentale per affrontare correttamente la depressione: attraverso il contributo di uno psicologo o di uno psicoterapeuta è possibile guarire, trovando la forza per uscirne e tornare a vivere con felicità e serenità."
+    },
+    "check_list": {
+      "title": "La terapia online può aiutarti in caso di",
+      "footer": {
+        "button": {
+          "text": "Inizia il tuo percorso online"
+        }
+      }
+    },
+    "price_title": "",
+    "image": {
+      "path": "psychology",
+      "name": "Depressione"
+    }
+  }
+  

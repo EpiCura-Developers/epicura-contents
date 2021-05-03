@@ -1,0 +1,25 @@
+{
+  "metaDescription": {
+    "title": "Fisioterapia per la cura di dolore e infiammazione",
+    "description": "Acufene, cervicale (cervicalgia), distorsione, emicrania, ernia del disco – cervicale – iatale, fascite, ginnastica posturale, lombosciatalgia, lombalgia, mal di schiena, mal di testa, nervo sciatico, pubalgia, sciatica, sciatalgia, tunnel carpale, tendinite"
+  },
+  "title": "Fisioterapia contro dolore e infiammazione",
+  "whatIs": {
+    "title": "Fisioterapia per curare dolore e infiammazione",
+    "text": "La continua assunzione di posture scorrette e uno stile di vita sedentario possono favorire la comparsa di disturbi muscolo-scheletrici anche cronici, causando dolore, infiammazione e difficoltà di movimento.<br />Il mancato trattamento di problemi quali cervicalgia, mal di schiena e tendinite può condurre a una cronicizzazione del dolore, incidendo negativamente sulle abilità motorie e causando stati infiammatori che influenzano il benessere psico-fisico.",
+    "hint": "La fisioterapia è in grado di curare numerosi disturbi, dal mal di testa fino  all’ernia, permettendo il pieno recupero della mobilità e l’eliminazione di dolore e infiammazione."
+  },
+  "check_list": {
+    "title": "Quando è consigliato il trattamento del dolore e dell’infiammazione",
+    "footer": {
+      "button": {
+        "text": "Scopri le soluzioni"
+      }
+    }
+  },
+  "price_title": "Scopri i prezzi di fisioterapia a domicilio nella tua città",
+  "image": {
+    "path": "physiotherapy",
+    "name": "Dolore-e-infiammazione"
+  }
+}

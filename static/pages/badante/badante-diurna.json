@@ -6,13 +6,13 @@
   "subheader": {
     "prenotaOnlineText": "Richiedi preventivo gratuito",
     "prenotaUrl": "https://share.hsforms.com/1uTUh1GvDTFKhu6YuZ5pliA4ebbs",
+    "prenotaUrlStaging": "https://share.hsforms.com/19uilapueSuSCb0NDsGoTQQ5kab9",
     "professionistaText": "",
     "professionistaUrl": "",
     "titleBig": "Badante diurna nella tua città",
     "subtitleBig": "",
     "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br />Scopri le nostre soluzioni di assistenza, senza costi di attivazione."
   },
-  "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",
   "check_list": {
     "title": "Il servizio di badante diurna comprende:",
     "list": [
@@ -28,68 +28,10 @@
       "priceIncludes": "(include stipendio, TFR, contributi e tredicesima)",
       "button": {
         "text": "RICHIEDI PREVENTIVO GRATUITO",
-        "link": "https://share.hsforms.com/1uTUh1GvDTFKhu6YuZ5pliA4ebbs"
+        "link": "https://share.hsforms.com/1uTUh1GvDTFKhu6YuZ5pliA4ebbs",
+        "link-staging": "https://share.hsforms.com/19uilapueSuSCb0NDsGoTQQ5kab9"
       }
     }
-  },
-  "talks_about_us": {
-    "title": "Parlano di noi",
-    "list": [
-      {
-        "image": {
-          "path": "common",
-          "name": "skytg24"
-        }
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "lastampa"
-        }
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "corrieredellasera"
-        }
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "ilsole24ore"
-        }
-      }
-    ]
-  },
-  "come_funziona": {
-    "title": "Lavoriamo solo con badanti qualificate",
-    "text": "Soltanto il 10% dei candidati passa i nostri rigidi processi di selezione, garantendoti un servizio di qualità.",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "requirement"
-        },
-        "title": "VERIFICA DEI REQUISITI",
-        "text": "Verifichiamo nel dettaglio i requisiti minimi d'accesso di tutti i candidati, selezionando solo personale con esperienza e qualificato."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "colloquio"
-        },
-        "title": "COLLOQUIO E VERIFICA REFERENZE",
-        "text": "Attraverso il colloquio, eseguito da personale qualificato, i candidati attraversano una doppia verifica dove vengono accertate le referenze."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "verify"
-        },
-        "title": "VERIFICA PROFILO CON LA FAMIGLIA",
-        "text": "Selezionati i migliori candidati, le badanti affrontano un colloquio conoscitivo con la famiglia, che sceglierà il profilo più adeguato per le proprie esigenze."
-      }
-    ]
   },
   "caregiverTasks": {
     "title": "Cosa fa la badante diurna? Ecco le principali mansioni",
@@ -140,14 +82,15 @@
   },
   "familyTutor": {
     "bkg-color": "#F5F8FF",
-    "title": "Cerchi una badante? Chiedi al family tutor.",
-    "content": "Se un tuo caro ha bisogno di assistenza ma non sai da dove iniziare, i nostri consulenti sono a disposizione per ascoltare le tue esigenze e guidarti verso il percorso assistenziale più adeguato. Ritrova serenità, prenota adesso un colloquio gratuito.",
+    "title": "Cerchi una badante? <br/> Chiedi al family tutor.",
+    "content": "Se un tuo caro ha bisogno di assistenza ma non sai da dove iniziare, i nostri consulenti sono a disposizione per ascoltare le tue esigenze e guidarti verso il percorso assistenziale più adeguato. <br/> Ritrova serenità, prenota adesso un colloquio gratuito.",
     "image": {
       "path": "caregiver",
       "name": "family-tutor"
     },
     "button-text": "PRENOTA UN COLLOQUIO GRATUITO",
-    "button-link": "https://share.hsforms.com/1uTUh1GvDTFKhu6YuZ5pliA4ebbs"
+    "button-link": "https://share.hsforms.com/1uTUh1GvDTFKhu6YuZ5pliA4ebbs",
+    "button-link-staging": "https://share.hsforms.com/19uilapueSuSCb0NDsGoTQQ5kab9"
   },
   "discount": {
     "title": "Prenotando un servizio di assistenza a ore o badante, ricevi subito il 10% di sconto su tutti i servizi EpiCura",

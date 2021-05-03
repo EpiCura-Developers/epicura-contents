@@ -6,13 +6,13 @@
   "subheader": {
     "prenotaOnlineText": "Richiedi preventivo gratuito",
     "prenotaUrl": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
+    "prenotaUrlStaging": "https://share.hsforms.com/1VzC5zyyKT2GtgcxGmm1UTA5kab9",
     "professionistaText": "",
     "professionistaUrl": "",
     "titleBig": "Assistenza a ore a Verona",
     "subtitleBig": "",
     "description1": "EpiCura si prende cura di anziani, malati o disabili con assistenti domiciliari qualificati e con esperienza, che ti raggiungono a domicilio, in ospedale o in casa di riposo. <br /> Scopri le nostre soluzioni di assistenza a domicilio e ritrova serenità."
   },
-  "certificate": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.",
   "booking-card": {
     "code": "homecareHomeAssistance",
     "title": "Assistenti domiciliari a Verona <br /> per anziani, malati e disabili",
@@ -20,135 +20,7 @@
     "hint": "*Il servizio è erogabile a partire da un minimo di 3 ore consecutive",
     "price": "Tariffa: 14€/h",
     "prenotaOnlineText": "Richiedi preventivo gratuito",
-    "link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs"
-  },
-  "talks_about_us": {
-    "title": "Parlano di noi",
-    "list": [
-      {
-        "image": {
-          "path": "common",
-          "name": "skytg24"
-        }
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "lastampa"
-        }
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "corrieredellasera"
-        }
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "ilsole24ore"
-        }
-      }
-    ]
-  },
-  "come_funziona": {
-    "title": "Assistenza domiciliare a ore, come funziona",
-    "text": "",
-    "cards": [
-      {
-        "image": {
-          "path": "common",
-          "name": "family-icon"
-        },
-        "title": "Analizziamo le tue esigenze",
-        "text": "Attraverso una consulenza dedicata, i nostri operatori individueranno le necessità della tua famiglia, costruendo un piano assistenziale su misura.",
-        "button": {
-          "link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
-          "text": "Richiedi preventivo gratuito"
-        }
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "badante-icon"
-        },
-        "title": "Troviamo il professionista più adatto",
-        "text": "In base alle tue richieste, ci occuperemo di trovare l'assistente domiciliare più idoneo per le tue esigenze. Lavoriamo solo con personale esperto e qualificato.",
-        "button": {
-          "link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
-          "text": "Richiedi preventivo gratuito"
-        }
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "contract-icon"
-        },
-        "title": "Eroghiamo l'assistenza dove vuoi",
-        "text": "I nostri assistenti domiciliari ti raggiungono dove e quando vuoi, 7 giorni su 7. Con EpiCura avrai la certezza di ricevere assistenza solo dai migliori professionisti.",
-        "button": {
-          "link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
-          "text": "Richiedi preventivo gratuito"
-        }
-      }
-    ]
-  },
-  "caregiverTasks": {
-    "title": "Assistente domiciliare: di cosa si occupa?",
-    "tasks": [
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "meal"
-        },
-        "text": "Prepara i pasti e fornisce supporto per la loro assunzione"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "cleaning"
-        },
-        "text": "Aiuta nella gestione delle attività giornaliere e di pulizia della casa"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "hygiene"
-        },
-        "text": "Veste la persona e ne garantisce la cura e l'igiene quotidiana"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "cognitive-func"
-        },
-        "text": "Stimola le capacità comunicative e l’attività motoria all’aperto"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "drugs"
-        },
-        "text": "Supporta nell’assunzione di terapie e accompagna alle visite"
-      },
-      {
-        "image": {
-          "path": "caregiver",
-          "name": "24h-supervision"
-        },
-        "text": "Monitora e sorveglia la persona assistita con cura e costanza"
-      }
-    ]
-  },
-  "familyTutor": {
-    "bkg-color": "#F5F8FF",
-    "title": "Cerchi assistenza domiciliare? <br /> Richiedi una consulenza.",
-    "content": "Se un tuo caro ha bisogno di assistenza ma non sai da dove iniziare, i nostri consulenti sono a disposizione per ascoltare le tue esigenze e guidarti verso il percorso assistenziale più adeguato. <br /> Ritrova serenità, prenota adesso un colloquio gratuito.",
-    "image": {
-      "path": "caregiver",
-      "name": "family-tutor"
-    },
-    "button-text": "Prenota una consulenza gratuita",
-    "button-link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs"
+    "link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
+    "linkStaging": "https://share.hsforms.com/1VzC5zyyKT2GtgcxGmm1UTA5kab9"
   }
 }

@@ -1,0 +1,26 @@
+{
+  "metaDescription": {
+    "title": "Nutrizione per dimagrimento o aumento di peso",
+    "description": "sovrappeso, obesità, sottopeso"
+  },
+  "title": "Nutrizione per dimagrire o prendere peso",
+  "whatIs": {
+    "title": "La nutrizione per dimagrire o aumentare di peso",
+    "text": "Alimentazione e forma fisica costituiscono un connubio imprescindibile per mantenere un buono stato di salute. <br/> Sovrappeso e obesità, ma anche un’eccessiva magrezza, possono costituire nel lungo periodo un problema per il proprio benessere psico-fisico, facendo insorgere numerosi disturbi.",
+    "hint": "Il supporto di un nutrizionista è prezioso in questi casi, non solo per raggiungere la forma fisica desiderata ma anche per ritrovare un nuovo equilibrio per il proprio benessere."
+  },
+  "check_list": {
+    "title": "Quando è consigliata la visita nutrizionistica",
+    "footer": {
+      "button": {
+        "text": "Scopri le soluzioni"
+      }
+    }
+  },
+  "price_title": "Scopri i prezzi di nutrizionistica a domicilio nella tua città",
+  "image": {
+      "path": "nutrition",
+      "name": "Aumento-e-perdita-di-peso"
+    }
+  }
+  

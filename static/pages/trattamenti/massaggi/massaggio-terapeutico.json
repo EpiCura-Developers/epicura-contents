@@ -1,0 +1,26 @@
+{
+    "metaDescription": {
+      "title": "Massaggio terapeutico",
+      "description": "Emicrania, cervicalgia, tendinite, ernia, dolori articolari, nervo sciatico, fibromialgia, gravidanza, problemi digestivi, dolori articolari, muscoli indolenziti"
+    },
+    "title": "Massaggio terapeutico",
+    "whatIs": {
+      "title": "Cos’è il massaggio terapeutico",
+      "text": "La massoterapia è una tipologia di massaggio dedicata alla riduzione di disturbi causati da cattive posture, traumi, manifestazioni psicosomatiche e patologie (anche croniche).<br />Le manipolazioni sono eseguite per alleviare la sensazione di discomfort provocata da rigidità e indolenzimento muscolare, permettendo una mobilità più fluida e agendo positivamente anche dal punto di vista psicologico.",
+      "hint": "Il massaggio terapeutico consente di migliorare le capacità motorie, riducendo dolori e tensioni muscolari, con effetti positivi anche sul riposo notturno e la riduzione dello stress. "
+    },
+    "check_list": {
+      "title": "Quando è consigliato il massaggio terapeutico",
+      "footer": {
+        "button": {
+          "text": "Scopri le soluzioni"
+        }
+      }
+    },
+    "price_title": "Scopri i prezzi di massoterapia a domicilio nella tua città",
+    "image": {
+      "path": "massages",
+      "name": "Massoterapia-generica"
+    }
+  }
+  
