@@ -5,7 +5,7 @@
   },
   "title": "Fisioterapia in gravidanza",
   "whatIs": {
-    "title": "Cos’è la fisioterapia in gravidanza",
+    "title": "La fisioterapia per le donne in gravidanza",
     "text": "La gravidanza è un periodo di grande cambiamento per le future mamme: la fisioterapia consente di adattare il corpo ai mutamenti tipici di questa fase, prevenendo e curando fastidi quali arti gonfi, dolori alla schiena e disturbi del pavimento pelvico.<br />Il fisioterapista è una figura di particolare importanza in questo delicato momento, in grado di guidare il corpo della donna verso il parto nel modo più armonico possibile, con effetti benefici anche per il nascituro.",
     "hint": "La fisioterapia in gravidanza è un trattamento privo di rischi e consente alle future mamme di vivere questo gioioso periodo con più serenità, evitando i disturbi più comuni e preparandosi al meglio al momento del parto."
   },
@@ -13,11 +13,11 @@
     "title": "Quando è consigliata la fisioterapia in gravidanza",
     "footer": {
       "button": {
-        "text": "Scegli le soluzioni"
+        "text": "Scopri le soluzioni"
       }
     }
   },
-  "price_title": "Scopri i prezzi della fisioterapia in gravidanza nella tua città",
+  "price_title": "Scopri i prezzi di fisioterapia a domicilio nella tua città",
   "image": {
     "path": "physiotherapy",
     "name": "Fisioterapia-in-gravidanza"

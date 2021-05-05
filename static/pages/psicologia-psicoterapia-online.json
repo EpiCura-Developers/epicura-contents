@@ -10,7 +10,6 @@
   },
   "come_funziona": {
     "title": "Psicologo online, come funziona",
-    "tratmentsTitle": ", come funziona",
     "cards": [
       {
         "image": {
@@ -67,17 +66,17 @@
       {
         "link": "/dipendenze",
         "title": "Dipendenze",
-        "description": "Affettiva, alcol, droga, gioco d’azzardo (ludopatia), social network, videogiochi, sesso"
+        "description": "affettiva, alcol, droga, gioco d’azzardo (ludopatia), social network, videogiochi, sesso"
       },
       {
         "link": "/depressione",
         "title": "Depressione",
-        "description": "Lutto, divorzio, fine relazione, patologie, malati oncologici, malattie croniche"
+        "description": "Lutto, divorzio, fine relazione, patologie, malattie oncologiche, malattie croniche"
       },
       {
         "link": "/disturbo-della-personalita",
         "title": "Disturbo della personalità",
-        "description": "Disturbo ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
+        "description": "ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
       },
       {
         "link": "/disturbi-alimentari",
@@ -87,7 +86,7 @@
       {
         "link": "/terapia-di-coppia",
         "title": "Terapia di coppia",
-        "description": "Coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, frustrazione"
+        "description": "Coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, stati di frustrazione"
       },
       {
         "link": "/terapia-familiare",
@@ -110,7 +109,8 @@
           "hideDiscount": true,
           "button": {
             "text": "Parla con un tutor",
-            "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs"
+            "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
+            "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
           },
           "bottomText": {
             "text": "Pacchetto base",
@@ -124,7 +124,8 @@
           "startingFrom": false,
           "button": {
             "text": "Parla con un tutor",
-            "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs"
+            "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
+            "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
           },
           "bottomText": {
             "text": "Risparmi ",
@@ -139,7 +140,8 @@
           "startingFrom": false,
           "button": {
             "text": "Parla con un tutor",
-            "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs"
+            "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
+            "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
           },
           "bottomText": {
             "text": "Risparmi ",
@@ -192,7 +194,7 @@
     ]
   },
   "test": {
-    "title": "Ansia, stress, depressione? Scoprilo con un test.",
+    "title": "Ansia, stress, depressione? <br/> Scoprilo con un test.",
     "text": "Irritabilità, tristezza, angoscia: è solo un momento o c'è qualcosa di più? Analizza i sintomi con i nostri test e inizia un percorso su misura per recuperare serenità.",
     "image": { "path": "psychology", "name": "test" },
     "list": [

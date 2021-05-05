@@ -1,0 +1,59 @@
+{
+  "metaDescription": {
+    "title": "Domande frequenti su EpiCura",
+    "description": "Hai dubbi? Ecco qui alcune delle domande che più spesso ci vengono poste, se non trovi risposta contattaci al numero verde gratuito."
+  },
+  "site-faqs-page-title": "Domande frequenti",
+  "site-faqs-page-subtitle": "Abbiamo tutte le risposte che cerchi.",
+  "site-faqs-page-img": {
+    "path": "common",
+    "name": "faqs-bck-img"
+  },
+  "site-faqs-page-img-mobile": {
+    "path": "common",
+    "name": "faq-mobile"
+  },
+  "site-faqs-page-color": "#CEF5F2",
+  "categories": [
+    {
+      "link": "/generiche",
+      "title": "Come funziona EpiCura",
+      "image": {
+        "path": "common",
+        "name": "faq-generic"
+      }
+    },
+    {
+      "link": "/badanti",
+      "title": "Badanti",
+      "image": {
+        "path": "common",
+        "name": "faq-badanti"
+      }
+    },
+    {
+      "link": "/assistenza-domiciliare",
+      "title": "Assistenza a ore",
+      "image": {
+        "path": "common",
+        "name": "faq-AD"
+      }
+    },
+    {
+      "link": "/videoconsulti",
+      "title": "Videoconsulti specialistici",
+      "image": {
+        "path": "common",
+        "name": "faq-videoconsulto"
+      }
+    },
+    {
+      "link": "/psicologia-psicoterapia-online",
+      "title": "Psicologia online",
+      "image": {
+        "path": "common",
+        "name": "faq-psicologia"
+      }
+    }
+  ]
+}

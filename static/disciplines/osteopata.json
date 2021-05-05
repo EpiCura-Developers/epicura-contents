@@ -6,7 +6,7 @@
   },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di osteopatia a domicilio",
-    "altri_trattamenti": "Altri interventi di osteopatia",
+    "altri_trattamenti": "Altri interventi di osteopatia a domicilio",
     "list": [
       {
         "link": "/osteopatia-in-gravidanza",
@@ -37,7 +37,6 @@
   },
   "come_funziona": {
     "title": "Osteopatia a domicilio, come funziona",
-    "tratmentsTitle": ", come funziona",
     "cards": [
       {
         "image": {
@@ -140,7 +139,7 @@
     ]
   },
   "hint-card": {
-    "title": "Hai un dubbio? Chiedi all'osteopata",
+    "title": "Hai un dubbio? <br/> Chiedi all'osteopata",
     "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "price": "Videoconsulto specialistico 25€",
     "bkg-color": "#F5F8FF",
@@ -152,5 +151,5 @@
     "button-link": "/osteopata-videoconsulto/"
   },
   "provincesTitle": "I nostri osteopati a domicilio sono attivi nelle città di",
-  "provincesTitleTreatments": "Il servizio di <strong>osteopatia</strong> è attivo nelle seguenti città"
+  "provincesTitleTreatments": "Il servizio di <strong>osteopatia a domicilio</strong> è attivo nelle seguenti città"
 }

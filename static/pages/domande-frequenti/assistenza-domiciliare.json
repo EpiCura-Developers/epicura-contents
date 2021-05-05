@@ -1,0 +1,71 @@
+{
+  "metaDescription": {
+    "title": "Domande frequenti su assistenza domiciliare di EpiCura",
+    "description": "Tutte le risposte su assistenza domiciliare"
+  },
+  "site-faqs-page-title": "Domande frequenti su assistenza a ore",
+  "site-faqs-page-subtitle": "Abbiamo tutte le risposte che cerchi.",
+  "site-faqs-page-img": {
+    "path": "common",
+    "name": "faq-AD"
+  },
+  "site-faqs-page-img-mobile": {
+    "path": "common",
+    "name": "faq-AD-mobile"
+  },
+  "site-faqs-page-color": "#faebff",
+  "faqs-contact": {
+    "text": "Non hai trovato la risposta che cercavi?",
+    "contact-us": {
+      "link": "https://share.hsforms.com/1CZItMEkXQ16DCV1LVw-T5g4ebbs",
+      "link-staging": "https://share.hsforms.com/1C2v2qPBhSVaQDKdTIJfwMQ5kab9",
+      "text": "Contattaci"
+    }
+  },
+  "faqs": [
+    {
+      "title": "Che differenza c’è fra assistente domiciliare e badante?",
+      "content": "La differenza è legata alla durata dell’assistenza e alla tipologia di rapporto.<br /><br />Nel caso dell’assistenza domiciliare, la durata è limitata nel tempo e il servizio è erogato a ore. Ad esempio, l’assistente domiciliare può erogare il servizio solo qualche giorno alla settimana, per un tempo limitato.<br /><br />La badante, invece, è una figura che presuppone una durata dell’assistenza maggiore, tanto che generalmente (ma non necessariamente) convive in casa con l’assistito."
+    },
+    {
+      "title": "Dove è attivo il servizio di assistenza domiciliare a ore?",
+      "content": "Il servizio di assistenza domiciliare è disponibile nelle città di Torino, Milano, Roma, Bologna, Brescia, Verona, Genova, Firenze, Napoli e Catania, inclusa area metropolitana (prima provincia)."
+    },
+    {
+      "title": "Come posso prenotare un intervento di assistenza domiciliare?",
+      "content": "Puoi prenotare comodamente in pochi clic attraverso il form di prenotazione a questo <a href='https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs' title='Form' target='_blank'>link</a>.<br />Inviata la richiesta, verrai ricontattato da un nostro consulente dedicato, che ti darà tutte le informazioni necessarie per trovare la soluzione di assistenza più adeguata."
+    },
+    {
+      "title": "Posso scegliere io l’assistente domiciliare?",
+      "content": "Una volta effettuata la prenotazione, selezioneremo il miglior professionista in base alle tue esigenze e ti invieremo un messaggio con il riepilogo della prenotazione e i dati del professionista disponibile nel giorno e nella fascia oraria prescelta, cosicché tu possa contattarlo in caso di bisogno."
+    },
+    {
+      "title": "Gli assistenti domiciliari scelti da EpiCura sono affidabili?",
+      "content": "I professionisti che collaborano con EpiCura vengono scelti con cura da un team dedicato, che utilizza rigidissimi processi di selezione.<br />Collaboriamo solo con professionisti con almeno 1 anno di esperienza e con documentazione in regola. Inoltre, possiamo erogare il servizio con assistenti muniti di ulteriori certificazioni, come OSS e OSA."
+    },
+    {
+      "title": "Quante ore è necessario acquistare per attivare il servizio di assistenza domiciliare?",
+      "content": "Ogni intervento di assistenza è prenotabile per un minimo di 3 ore."
+    },
+    {
+      "title": "Se l’assistente domiciliare che si è candidato non mi sembra adatto?",
+      "content": "Tutti gli specialisti che collaborano con EpiCura sono professionisti qualificati, in possesso dei requisiti necessari per svolgere la propria attività e con esperienza alle spalle.<br />Tuttavia, nell’eventualità in cui non fossi convinto del profilo che si è reso disponibile per te, puoi comunicarcelo via mail o telefono e provvederemo a un nuovo professionista in linea con le tue esigenze."
+    },
+    {
+      "title": "Devo modificare il giorno/orario/luogo dell’appuntamento, come faccio?",
+      "content": "Non preoccuparti! Sarà sufficiente contattarci via mail a [customercare@epicuramed.it](mailto:customercare@epicuramed.it) e comunicarci le tue nuove disponibilità. Qualora lo specialista che aveva preso in carico la richiesta non fosse più disponibile, ti forniremo le nuove disponibilità di un altro specialista."
+    },
+    {
+      "title": "Cosa succede se non mi trovo bene con l'assistente domiciliare?",
+      "content": "Siamo consapevoli dell'importanza del rapporto personale che si instaura tra assistente domiciliare e assistito: per questo motivo, se non dovessi trovarti bene con il professionista scelto, basterà comunicarcelo.<br />Troveremo in tempi rapidi un altro assistente domiciliare per prendersi cura di te o dei tuoi cari al meglio."
+    },
+    {
+      "title": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
+      "content": "I costi relativi all'Assistenza Domiciliare sono detraibili solo entro certi limiti e a seconda delle caratteristiche del contribuente. Per approfondire clicca <a href='https://www.fiscoetasse.com/approfondimenti/13065-spese-per-addetti-all-assistenza-personale-le-regole-di-detrazione-.htm' title='Fiscotasse' target='_blank'>qui</a>."
+    },
+    {
+      "title": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
+      "content": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
+    }
+  ]
+}

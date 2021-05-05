@@ -5,7 +5,7 @@
     },
     "title": "Osteopatia pediatrica e neonatale",
     "whatIs": {
-      "title": "Cos’è l'osteopatia pediatrica e neonatale",
+      "title": "L'osteopatia dedicata a bambini e neonati",
       "text": "L’osteopatia pediatrica e neonatale accompagna i bambini verso una crescita sana e serena, aiutandoli a risolvere problematiche tipiche dell’età infantile come posture scorrette, insonnia e problemi intestinali.<br />Il trattamento osteopatico, inoltre, è indicato per la cura di problematiche frequenti nei neonati, quali coliche e asimmetrie del cranio (plagiocefalia, brachicefalia e scafocefalia).",
       "hint": "La terapia osteopatica dedicata ai bambini è un modo semplice e naturale per favorire una crescita armonica, prevenendo e trattando sia problemi di natura posturale che psicosomatica."
     },
@@ -13,11 +13,11 @@
       "title": "Quando è consigliata l'osteopatia pediatrica e neonatale",
       "footer": {
         "button": {
-          "text": "Scegli le soluzioni"
+          "text": "Scopri le soluzioni"
         }
       }
     },
-    "price_title": "Scopri i prezzi dell'osteopatia pediatrica e neonatale nella tua città",
+    "price_title": "Scopri i prezzi di osteopatia a domicilio nella tua città",
     "image": {
       "path": "osteopathy",
       "name": "Osteopatia-pediatrica"

@@ -1,0 +1,75 @@
+{
+  "metaDescription": {
+    "title": "Domande frequenti su EpiCura",
+    "description": "Tutte le risposte su EpiCura"
+  },
+  "site-faqs-page-title": "Domande frequenti su EpiCura",
+  "site-faqs-page-subtitle": "Abbiamo tutte le risposte che cerchi.",
+  "site-faqs-page-img": {
+    "path": "common",
+    "name": "faq-generic"
+  },
+  "site-faqs-page-img-mobile": {
+    "path": "common",
+    "name": "faq-generic-mobile"
+  },
+  "site-faqs-page-color": "#CEF5F2",
+  "faqs-contact": {
+    "text": "Non hai trovato la risposta che cercavi?",
+    "contact-us": {
+      "link": "https://share.hsforms.com/1CZItMEkXQ16DCV1LVw-T5g4ebbs",
+      "link-staging": "https://share.hsforms.com/1C2v2qPBhSVaQDKdTIJfwMQ5kab9",
+      "text": "Contattaci"
+    }
+  },
+  "faqs": [
+    {
+      "title": "Cos’è EpiCura?",
+      "content": "EpiCura è il primo poliambulatorio digitale d’Italia che riunisce professionisti sanitari e socio-assistenziali. La nostra rete, attiva in tutto il territorio nazionale, comprende badanti, assistenti domiciliari, fisioterapisti, osteopati, medici, infermieri, pediatri, veterinari, nutrizionisti, psicologi, psicoterapeuti e massoterapisti, che erogano il servizio comodamente a domicilio e, in alcuni casi, anche attraverso videoconsulto da smartphone, pc o tablet."
+    },
+    {
+      "title": "Dove siete attivi?",
+      "content": "I principali servizi a domicilio di EpiCura sono disponibili nelle città di Torino, Milano, Roma, Bologna, Brescia, Verona, Genova, Firenze, Napoli e Catania, prima provincia inclusa. Il servizio di badanti per anziani, malati e disabili è invece attivo in tutta Italia. <br /><br />I servizi di videoconsulto specialistico e di videoseduta psicologica e psicoterapeutica sono erogabili ovunque, attraverso smartphone, pc o tablet."
+    },
+    {
+      "title": "EpiCura ha sedi fisiche?",
+      "content": "No, EpiCura non ha sedi fisiche: siamo un poliambulatorio digitale, che ha scommesso sulle nuove tecnologie per rendere i servizi sanitari e assistenziali più rapidi, comodi e flessibili. Per questo motivo, grazie a una rete di professionisti attiva in tutta Italia, eroghiamo prestazioni e trattamenti specialistici in tutta la città e area metropolitana, 7 giorni su 7, anche in orari serali."
+    },
+    {
+      "title": "Le prestazioni sono erogate solo a domicilio?",
+      "content": "EpiCura ti raggiunge ovunque desideri: potrai ricevere visite e interventi specialistici a casa, in ospedale, sul luogo di lavoro e in casa di riposo. Alcuni dei nostri professionisti hanno anche a disposizione uno studio professionale dove, su richiesta, possono ricevere i pazienti.<br /><br />I videoconsulti specialistici, inoltre, sono erogabili ovunque, comodamente da smartphone, pc o tablet."
+    },
+    {
+      "title": "Come posso prenotare un intervento?",
+      "content": "Con EpiCura la prenotazione è semplice e veloce: potrai compilare il modulo di prenotazione comodamente sul nostro sito, in pochi clic (<a href='/prenota/' title='Prenota' target='_blank'>www.epicuramed.it/prenota</a>)."
+    },
+    {
+      "title": "Posso scegliere io il professionista?",
+      "content": "Il nostro servizio si distingue per essere molto più rapido di quello offerto dalle strutture tradizionali. Possiamo contare su una vasta rete di professionisti su tutto il territorio, in grado di rispondere a ogni situazione o necessità. Questo ci permette di selezionare il miglior specialista per te in meno di 24 ore, abbattendo sensibilmente i tempi di attesa e rendendo il servizio tempestivo e adeguato a ogni tua esigenza oraria."
+    },
+    {
+      "title": "Cosa succede quando invio una richiesta di prenotazione?",
+      "content": "Una volta effettuata la prenotazione, ti invieremo un messaggio con il riepilogo dell’intervento e i dati dello specialista disponibile nel giorno (o nei giorni) e nella fascia oraria prescelta. In questo modo potrai contattare il professionista in caso di bisogno."
+    },
+    {
+      "title": "Cosa fare se volessi ricevere solo una consulenza e non una visita?",
+      "content": "EpiCura ti dà la possibilità di ricevere consulti medici e specialistici a distanza, ovunque tu sia. Scopri il nostro servizio di videoconsulti cliccando <a href='/videoconsulti/' title='Videoconsulti' target='_blank'>qui</a>."
+    },
+    {
+      "title": "Se il professionista che si è candidato non mi sembra adatto?",
+      "content": "Tutti gli specialisti che collaborano con EpiCura sono professionisti qualificati, in possesso delle certificazioni necessarie per svolgere la propria attività e con esperienza alle spalle. Tuttavia, nell’eventualità in cui non fossi convinto del profilo che si è reso disponibile per te, puoi comunicarcelo via mail e provvederemo a trovare un professionista in linea con le tue esigenze."
+    },
+    {
+      "title": "Devo modificare il giorno/orario/luogo dell’appuntamento, come faccio?",
+      "content": "Nessun problema: sarà sufficiente contattarci via mail a [customercare@epicuramed.it](mailto:customercare@epicuramed.it) e comunicarci le tue nuove disponibilità. Qualora lo specialista che aveva preso in carico la richiesta non fosse più disponibile, troveremo per te un altro professionista."
+    },
+    {
+      "title": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
+      "content": "Dipende dalla tipologia di intervento richiesto. EpiCura garantisce la detraibilità di tutte le spese riconosciute come sanitarie, proprio come un qualsiasi poliambulatorio o centro medico.<br />Per farlo basterà utilizzare la fattura che riceverai dopo il pagamento delle prestazioni. Alcuni costi, ad esempio quelli relativi all'Assistenza Domiciliare, sono detraibili solo entro certi limiti e a seconda delle caratteristiche del contribuente (per approfondire clicca <a href='https://www.fiscoetasse.com/approfondimenti/13065-spese-per-addetti-all-assistenza-personale-le-regole-di-detrazione-.html' title='Fiscotasse' target='_blank'>qui</a>).<br />Ricordiamo che l'Osteopatia e la Massoterapia non sono considerate prestazioni sanitarie, per cui non è possibile portarle in detrazione."
+    },
+    {
+      "title": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
+      "content": "Sì, se previsto dal contratto che intercorre tra te e l’ente assicurativo."
+    }
+  ]
+}

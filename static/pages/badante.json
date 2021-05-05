@@ -6,6 +6,7 @@
   "subheader": {
     "prenotaOnlineText": "Richiedi preventivo gratuito",
     "prenotaUrl": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs",
+    "prenotaUrlStaging": "https://share.hsforms.com/1upU3-7-VSOmliziiZCsFig5kab9",
     "professionistaText": "",
     "professionistaUrl": "",
     "titleBig": "Badanti e assistenti a ore per anziani, malati e disabili",
@@ -135,7 +136,8 @@
         "text": "Attraverso una consulenza dedicata, i nostri Family Tutor individueranno le necessità della tua famiglia, costruendo un piano assistenziale su misura.",
         "button": {
           "text": "Richiedi preventivo gratuito",
-          "link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs"
+          "link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs",
+          "link-staging": "https://share.hsforms.com/1upU3-7-VSOmliziiZCsFig5kab9"
         }
       },
       {
@@ -147,7 +149,8 @@
         "text": "In base alle tue richieste, ci occuperemo di trovare le persone più idonee da presentarti. Lavoriamo solo con personale esperto e referenziato.",
         "button": {
           "text": "Richiedi preventivo gratuito",
-          "link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs"
+          "link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs",
+          "link-staging": "https://share.hsforms.com/1upU3-7-VSOmliziiZCsFig5kab9"
         }
       },
       {
@@ -159,7 +162,8 @@
         "text": "EpiCura si occupa totalmente della gestione burocratica e fiscale, sollevandoti da ogni incombenza gestionale, per offrirti un servizio 'senza pensieri'.",
         "button": {
           "text": "Richiedi preventivo gratuito",
-          "link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs"
+          "link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs",
+          "link-staging": "https://share.hsforms.com/1upU3-7-VSOmliziiZCsFig5kab9"
         }
       }
     ]
@@ -229,21 +233,22 @@
   ],
   "assistenza-ore": {
     "title": "Hai bisogno di assistenza a ore?",
-    "text": "L'assistenza a ore è ideale per persone autosufficienti e non, che hanno bisogno di supporto solo in specifici giorni o per attività che non riescono a svolgere in autonomia (spesa, pulizia della casa, visite mediche). Il servizio è erogabile a partire da un minimo di 3 ore consecutive.",
+    "text": "L'assistenza a ore è ideale per persone autosufficienti e non, che hanno bisogno di supporto solo in specifici giorni o per attività che non riescono a svolgere in autonomia (igiene personale, aiuto nella deambulazione, preparazioni dei pasti). <br/> <br/> Il servizio di assistenza diurna è erogabile a partire da un minimo di 3 ore consecutive.",
     "city": {
       "title": "Scopri il nostro servizio di assistenza a ore nella tua città:"
     }
   },
   "familyTutor": {
     "bkg-color": "#F5F8FF",
-    "title": "Cerchi una badante? Chiedi al family tutor.",
-    "content": "Se un tuo caro ha bisogno di assistenza ma non sai da dove iniziare, i nostri consulenti sono a disposizione per ascoltare le tue esigenze e guidarti verso il percorso assistenziale più adeguato. Ritrova serenità, prenota adesso un colloquio gratuito.",
+    "title": "Cerchi una badante? <br/> Chiedi al family tutor.",
+    "content": "Se un tuo caro ha bisogno di assistenza ma non sai da dove iniziare, i nostri consulenti sono a disposizione per ascoltare le tue esigenze e guidarti verso il percorso assistenziale più adeguato. <br/> Ritrova serenità, prenota adesso un colloquio gratuito.",
     "image": {
       "path": "caregiver",
       "name": "family-tutor"
     },
     "button-text": "PRENOTA UN COLLOQUIO GRATUITO",
-    "button-link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs"
+    "button-link": "https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs",
+    "button-link-staging": "https://share.hsforms.com/1upU3-7-VSOmliziiZCsFig5kab9"
   },
   "ourCaregiver": {
     "title": "Badanti e assistenti domiciliari qualificati e referenziati",
@@ -251,7 +256,7 @@
   },
   "caregiver": {
     "bkg-color": "#F5F8FF",
-    "title": "Sei una badante? Lavora con noi",
+    "title": "Sei una badante? <br/> Lavora con noi",
     "content": "Se hai esperienza nel campo dell'assistenza alla persona, svolgi il tuo lavoro con professionalità e hai referenze dimostrabili, invia il tuo curriculum per entrare a far parte della rete di professionisti EpiCura, attiva in tutta Italia.",
     "image": {
       "path": "homecare",

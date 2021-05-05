@@ -1,24 +1,24 @@
 {
-    "metaDescription": {
-      "title": "Chinesiterapia",
-      "description": "Riacquisizione delle funzionalità motorie"
-    },
-    "title": "Chinesiterapia",
-    "whatIs": {
-      "title": "Cos’è la chinesiterapia",
-      "text": "La chinesiterapia è una tecnica fisioterapica che permette il ripristino delle abilità motorie perdute o alterate a causa di patologie o disturbi muscolo-scheletrici.<br />Il trattamento consiste nella cura di differenti problematiche motorie attraverso il movimento passivo o assistito. Questo è basato su un insieme di movimenti guidati dal fisioterapista ed è in grado di restituire gradualmente una corretta funzionalità del corpo.",
-      "hint": "La chinesiterapia è particolarmente indicata per i soggetti che, a causa di traumi, patologie o interventi chirurgici, hanno ridotte capacità di movimento e desiderano riacquisire maggiore autonomia e capacità motoria."
-    },
-    "check_list": {
-      "title": "Quando è consigliata la chinesiterapia",
-      "footer": {
-        "button": {
-          "text": "Scegli le soluzioni"
-        }
+  "metaDescription": {
+    "title": "Nutrizione al femminile",
+    "description": "gravidanza, menopausa, ovaio policistico, endometriosi, amenorrea"
+  },
+  "title": "Nutrizione al femminile",
+  "whatIs": {
+    "title": "La nutrizione dedicata alle donne",
+    "text": "Se una sana alimentazione è fondamentale per mantenere un buono stato di salute, per le donne mangiar sano è ancora più importante a causa del delicato equilibrio ormonale che ne contraddistingue le diverse fasi della vita. <br/> I livelli di estrogeni e progesterone, infatti, sono capaci di influenzare umore, metabolismo e ritenzione di liquidi, provocando cambiamenti anche sul corpo, spesso percepiti come inestetismi.",
+    "hint": "Intraprendere un percorso nutrizionistico personalizzato, sulla base delle proprie esigenze, può aiutare ad affrontare con serenità i cambiamenti dovuti a eventi come gravidanze e menopausa, ritrovando benessere e forma fisica."
+  },
+  "check_list": {
+    "title": "Quando è consigliata la visita nutrizionistica",
+    "footer": {
+      "button": {
+        "text": "Scopri le soluzioni"
       }
-    },
-    "price_title": "Scopri i prezzi di chinesiterapia nella tua città",
-    "image": {
+    }
+  },
+  "price_title": "Scopri i prezzi di nutrizionistica a domicilio nella tua città",
+  "image": {
       "path": "nutrition",
       "name": "Nutrizione-generica"
     }

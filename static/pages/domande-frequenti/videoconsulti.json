@@ -1,0 +1,67 @@
+{
+  "metaDescription": {
+    "title": "Domande frequenti sui videoconsulti specialistici EpiCura",
+    "description": "Tutte le risposte sui videoconsulti specialistici"
+  },
+  "site-faqs-page-title": "Domande frequenti sui videoconsulti",
+  "site-faqs-page-subtitle": "Abbiamo tutte le risposte che cerchi.",
+  "site-faqs-page-img": {
+    "path": "common",
+    "name": "faq-videoconsulto"
+  },
+  "site-faqs-page-img-mobile": {
+    "path": "common",
+    "name": "faq-videoconsulto-mobile"
+  },
+  "site-faqs-page-color": "#f5f8ff",
+  "faqs-contact": {
+    "text": "Non hai trovato la risposta che cercavi?",
+    "contact-us": {
+      "link": "https://share.hsforms.com/1CZItMEkXQ16DCV1LVw-T5g4ebbs",
+      "link-staging": "https://share.hsforms.com/1C2v2qPBhSVaQDKdTIJfwMQ5kab9",
+      "text": "Contattaci"
+    }
+  },
+  "faqs": [
+    {
+      "title": "Dove è attivo il servizio di videoconsulti?",
+      "content": "Il servizio, accessibile comodamente da smartphone, pc o tablet, è disponibile in tutta Italia."
+    },
+    {
+      "title": "Posso scegliere l'ora in cui ricevere il videoconsulto?",
+      "content": "Sì, sarai tu a indicare la fascia oraria che preferisci per ricevere il consulto online.<br />Ne potrai parlare comunque con il professionista, subito dopo il pagamento."
+    },
+    {
+      "title": "Posso scegliere io il professionista?",
+      "content": "Il nostro servizio si distingue per essere molto più rapido di quello offerto dalle strutture tradizionali. Possiamo contare su una vasta rete di professionisti su tutto il territorio, in grado di rispondere a ogni situazione o necessità. Questo ci permette di selezionare il miglior specialista per te in meno di 24 ore, abbattendo sensibilmente i tempi di attesa e rendendo il servizio tempestivo e adeguato a ogni tua esigenza oraria."
+    },
+    {
+      "title": "Come avverrà il videoconsulto?",
+      "content": "Dopo il pagamento e la conferma della prenotazione, riceverai una mail contenente le generalità del professionista che effettuerà il consulto e il link per collegarti alla tua video-sessione.<br /><br />Dal momento in cui accederai al videoconsulto, il link rimarrà attivo per 60 minuti. Qualora avessi problemi di accesso, puoi scriverci a [customercare@epicuramed.it](mailto:customercare@epicuramed.it).<br /><br />Ti ricordiamo che per partecipare al videoconsulto non è necessario scaricare nessuna app, né registrarsi."
+    },
+    {
+      "title": "Cosa posso richiedere durante un videoconsulto?",
+      "content": "Potrai richiedere consulenza su patologia già accertata o sulla tipologia di trattamenti e terapie da attuare (già prescritte), consigli di tipo specialistico su segni clinici e sintomi presenti al momento del videoconsulto.<br />Potrai inoltre risolvere qualunque dubbio su sintomi riguardanti la tua salute o quella dei tuoi cari."
+    },
+    {
+      "title": "Quanto dura un videoconsulto?",
+      "content": "La durata indicativa del consulto è di circa 15-20 minuti."
+    },
+    {
+      "title": "Il videoconsulto tutela la mia privacy?",
+      "content": "Assolutamente sì. Tutto ciò che verrà detto tra te e lo specialista è strettamente confidenziale e legato al segreto professionale, garantendo quindi la massima riservatezza.<br /><br />Inoltre, a completa garanzia della tua privacy, non è possibile registrare né audio né video della sessione.<br />Qualora desiderassi avere una registrazione del consulto, è necessario concordarlo direttamente con il professionista."
+    },
+    {
+      "title": "Perché dovrei scegliere il videoconsulto?",
+      "content": "L'opportunità di avere consulti specialistici a portata di smartphone, senza attese o scomodi spostamenti, è una soluzione particolarmente veloce e flessibile, capace di adeguarsi a ogni esigenza.<br />Nel particolare momento storico che viviamo, inoltre, i videoconsulti sono consigliabili per evitare spostamenti e affollamenti."
+    },
+    {
+      "title": "Il costo del videoconsulto è detraibile dalla dichiarazione dei redditi?",
+      "content": "Il servizio di videoconsulti non è detraibile dalla dichiarazione dei redditi, poiché non rientra fra le prestazioni considerate di tipo sanitario."
+    },
+    {
+      "title": "È possibile ricevere la prescrizione di farmaci durante il videoconsulto?",
+      "content": "Trattandosi di un consulto a distanza, la prescrizione farmacologica è a completa discrezione del professionista."
+    }
+  ]
+}

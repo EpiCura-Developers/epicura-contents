@@ -6,7 +6,7 @@
   },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di fisioterapia a domicilio",
-    "altri_trattamenti": "Altri interventi di fisioterapia",
+    "altri_trattamenti": "Altri interventi di fisioterapia a domicilio",
     "list": [
       {
         "link": "/fisioterapia-per-anziani",
@@ -44,12 +44,12 @@
         "description": "riacquisizione delle funzionalità motorie"
       },
       {
-        "link": "/disturbi-patologici",
+        "link": "/patologie-neurologiche-e-infiammatorie",
         "title": "Disturbi patologici",
         "description": "artrosi, artrite reumatoide, distrofia muscolare, fibromialgia, ictus, sclerosi multipla, spondilite anchilosante, tremore essenziale"
       },
       {
-        "link": "/dolore-e-infiammazione",
+        "link": "/fisioterapia-dolore-e-infiammazione",
         "title": "Dolore e infiammazione",
         "description": "acufene, cervicale, emicrania, ernie, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite"
       }
@@ -57,7 +57,6 @@
   },
   "come_funziona": {
     "title": "Fisioterapia a domicilio, come funziona",
-    "tratmentsTitle": ", come funziona",
     "cards": [
       {
         "image": {
@@ -172,5 +171,5 @@
     "button-link": "/fisioterapista-videoconsulto/"
   },
   "provincesTitle": "I nostri fisioterapisti a domicilio sono attivi nelle città di",
-  "provincesTitleTreatments": "Il servizio di <strong>fisioterapia</strong> è attivo nelle seguenti città"
+  "provincesTitleTreatments": "Il servizio di <strong>fisioterapia a domicilio</strong> è attivo nelle seguenti città"
 }

@@ -5,7 +5,7 @@
   },
   "title": "Fisioterapia per anziani",
   "whatIs": {
-    "title": "Cos’è la fisioterapia per anziani",
+    "title": "La fisioterapia dedicata agli anziani",
     "text": "In età avanzata le cadute dovute alla perdita d’equilibrio sono un fenomeno molto diffuso. Spesso la conseguenza è quella di fratture (per esempio al femore, al bacino o al polso) che possono condizionare negativamente l’autonomia dell’anziano.<br />La fisioterapia può prevenire questo fenomeno attraverso esercizi mirati che permettono all’anziano di mantenersi in forma, rinforzando muscoli e ossa e migliorando l’equilibrio e la coordinazione.",
     "hint": "La fisioterapia per anziani non solo è efficace nel prevenire fratture e infortuni, ma permette anche di far riacquisire le abilità motorie perdute a causa di patologie o operazioni chirurgiche."
   },
@@ -13,11 +13,11 @@
     "title": "Quando è consigliata la fisioterapia per anziani",
     "footer": {
       "button": {
-        "text": "Scegli le soluzioni"
+        "text": "Scopri le soluzioni"
       }
     }
   },
-  "price_title": "Scopri i prezzi della fisioterapia per anziani nella tua città",
+  "price_title": "Scopri i prezzi di fisioterapia a domicilio nella tua città",
   "image": {
     "path": "physiotherapy",
     "name": "Fisioterapia-per-anziani"

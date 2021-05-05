@@ -6,7 +6,7 @@
   },
   "trattamenti": {
     "sectionTitle": "I nostri trattamenti di massoterapia a domicilio",
-    "altri_trattamenti": "Altri interventi di massoterapia",
+    "altri_trattamenti": "Altri interventi di massoterapia a domicilio",
     "list": [
       {
         "link": "/massaggio-rilassante",
@@ -42,7 +42,6 @@
   },
   "come_funziona": {
     "title": "Massoterapia a domicilio, come funziona",
-    "tratmentsTitle": ", come funziona",
     "cards": [
       {
         "image": {
@@ -145,5 +144,5 @@
     ]
   },
   "provincesTitle": "I nostri massoterapisti a domicilio sono attivi nelle città di",
-  "provincesTitleTreatments": "Il servizio di <strong>massoterapia</strong> è attivo nelle seguenti città"
+  "provincesTitleTreatments": "Il servizio di <strong>massoterapia a domicilio</strong> è attivo nelle seguenti città"
 }

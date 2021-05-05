@@ -1,23 +1,23 @@
 {
     "metaDescription": {
       "title": "Disturbi della personalità",
-      "description": "Disturbo ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
+      "description": "ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
     },
     "title": "Disturbi della personalità",
     "whatIs": {
-      "title": "Cosa sono i disturbi della personalità",
+      "title": "Curare i disturbi della personalità",
       "text": "I disturbi della personalità riguardano modi disadattivi in cui un individuo percepisce e si relaziona con il mondo esterno. Questo può influire negativamente sulle proprie capacità sociali, portando verso una situazione di disagio relazionale e sfiducia nel prossimo.<br />I disturbi di personalità si manifestano come una vera e propria rigidità mentale che non consente, a chi ne soffre, di adattarsi facilmente ai cambiamenti della vita, rispondendo inappropriatamente (in modo, appunto, disadattivo).<br />Tra i disturbi della personalità più comuni vi sono il disturbo ossessivo-compulsivo, il disturbo borderline e il narcisismo. Questa problematica rende spesso difficile la creazione di rapporti con gli altri, impedendo di avere una vita sociale soddisfacente.<br />Ansia, disturbi alimentari e sintomi depressivi sono alcuni dei campanelli d’allarme, che derivano da un’insoddisfazione costante nei confronti della propria vita.",
       "hint": "Il trattamento psicologico o psicoterapeutico si configura come una terapia particolarmente efficace per aiutare chi soffre di disturbi della personalità a riprendere in mano la propria vita, aiutando a riconoscere i propri comportamenti disadattivi e modificandoli per il proprio benessere mentale e relazionale."
     },
     "check_list": {
-      "title": "Quando sono consigliati i disturbi della personalità",
+      "title": "I disturbi di personalità per cui la terapia può aiutarti:",
       "footer": {
         "button": {
           "text": "Inizia il tuo percorso online"
         }
       }
     },
-    "price_title": "Scopri i prezzi per i disturbi della personalità nella tua città",
+    "price_title": "",
     "image": {
       "path": "psychology",
       "name": "Disturbo-della-personalità"

@@ -17,6 +17,7 @@
         "text": "Attraverso una consulenza dedicata, i nostri operatori individueranno le necessità della tua famiglia, costruendo un piano assistenziale su misura.",
         "button": {
           "link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
+          "link-staging": "https://share.hsforms.com/1VzC5zyyKT2GtgcxGmm1UTA5kab9",
           "text": "Richiedi preventivo gratuito"
         }
       },
@@ -29,6 +30,7 @@
         "text": "In base alle tue richieste, ci occuperemo di trovare l'assistente domiciliare più idoneo per le tue esigenze. Lavoriamo solo con personale esperto e qualificato.",
         "button": {
           "link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
+          "link-staging": "https://share.hsforms.com/1VzC5zyyKT2GtgcxGmm1UTA5kab9",
           "text": "Richiedi preventivo gratuito"
         }
       },
@@ -41,6 +43,7 @@
         "text": "I nostri assistenti domiciliari ti raggiungono dove e quando vuoi, 7 giorni su 7. Con EpiCura avrai la certezza di ricevere assistenza solo dai migliori professionisti.",
         "button": {
           "link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
+          "link-staging": "https://share.hsforms.com/1VzC5zyyKT2GtgcxGmm1UTA5kab9",
           "text": "Richiedi preventivo gratuito"
         }
       }
@@ -132,7 +135,14 @@
       "name": "family-tutor"
     },
     "button-text": "Prenota una consulenza gratuita",
-    "button-link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs"
+    "button-link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
+    "button-link-staging": "https://share.hsforms.com/1VzC5zyyKT2GtgcxGmm1UTA5kab9"
   },
-  "provincesTitle": "I nostri assistenti domiciliari sono attivi nelle città di"
+  "provincesTitle": "I nostri assistenti domiciliari sono attivi nelle città di",
+  "price": {
+    "title": "I nostri servizi di assistenza domiciliare a ",
+    "buttonText": "Richiedi preventivo gratuito",
+    "link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
+    "linkStaging": "https://share.hsforms.com/1VzC5zyyKT2GtgcxGmm1UTA5kab9"
+  }
 }
