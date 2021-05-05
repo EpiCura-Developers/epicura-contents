@@ -22,83 +22,46 @@
       "text": "Contattaci"
     }
   },
-  "faqs-with-category": [
+  "faqs": [
     {
-      "category": "Chi siamo",
-      "faqs": [
-        {
-          "title": "Cos’è EpiCura?",
-          "content": "EpiCura è il **primo poliambulatorio digitale** in Italia che riunisce **badanti**, **assistenti domiciliari**, **fisioterapisti**, **osteopati**, **infermieri**, **veterinari**, **nutrizionisti**, **pediatri**, **massoterapisti**, **medici generici**, **psicologi** e **psicoterapeuti** che erogano il servizio direttamente a **domicilio**. Non abbiamo una sede fisica, abbiamo creato una **rete di professionisti** che arrivano ovunque in città e cintura, 365 giorni all’anno."
-        },
-        {
-          "title": "Avete anche un centro o uno studio dove avvengono le prestazioni?",
-          "content": "EpiCura raggiunge il paziente dove lo desidera! EpiCura eroga il servizio a **casa**, in **ospedale**, sul **luogo di lavoro** e in **casa di riposo**. Alcuni dei nostri professionisti hanno anche a disposizione uno **studio professionale** dove possono ricevere i pazienti."
-        }
-      ]
+      "title": "Dove è attivo il servizio di videoconsulti?",
+      "content": "Il servizio, accessibile comodamente da smartphone, pc o tablet, è disponibile in tutta Italia."
     },
-
     {
-      "category": "Prenotare una visita",
-      "faqs": [
-        {
-          "title": "Non voglio prenotare ma vorrei solo un consulto, è possibile?",
-          "content": "**Sì**. Abbiamo la possibilità di fornire consulti medici a distanza: [clicca qui](/videoconsulti/) per prenotare e saperne di più.",
-          "showContact": true
-        },
-        {
-          "title": "Come posso prenotare un trattamento?",
-          "content": "Crediamo che sia fondamentale garantire la massima **flessibilità** ed è per questo che diamo la possibilità di prenotare in molti modi diversi: potrai completare il [modulo di prenotazione](/prenota/) sul nostro sito prenotando comodamente online in 5 minuti o [scriverci](mailto:prenotazioni@epicuramed.it) via mail.",
-          "showContact": true
-        }
-      ]
+      "title": "Posso scegliere l'ora in cui ricevere il videoconsulto?",
+      "content": "Sì, sarai tu a indicare la fascia oraria che preferisci per ricevere il consulto online.<br />Ne potrai parlare comunque con il professionista, subito dopo il pagamento."
     },
-
     {
-      "category": "Erogazione del servizio",
-      "faqs": [
-        {
-          "title": "Cosa succede quando invio una richiesta di prenotazione?",
-          "content": "Una volta raccolte tutte le informazioni necessarie, invieremo la richiesta a tutta la **rete di specialisti** attivi nella tua zona e comunicheremo loro il **giorno** (o i giorni) e le **fasce orarie** prescelti. Il primo professionista che si renderà disponibile prenderà in carico la tua richiesta. Successivamente, ti invieremo un messaggio con il **riepilogo della prenotazione** e i **dati dello specialista**, cosicché tu possa contattarlo in caso di bisogno.",
-          "showContact": true
-        },
-        {
-          "title": "Posso scegliere io il professionista?",
-          "content": "**No**. Il nostro servizio si distingue per essere molto più **tempestivo** di quello offerto dalle strutture tradizionali. Ci riusciamo perché inviamo una **richiesta unica** a tutta la rete di specialisti attivi sul territorio, permettendo a chiunque di loro di prendere in carico la richiesta, dandovi dunque la possibilità di trovare un terapista nel giro di **poche ore**. Tutto ciò non sarebbe possibile se fosse prevista la possibilità di scegliere un singolo professionista: dovreste sperare che lui/lei sia disponibile in quella fascia oraria, quel giorno e a quell’indirizzo!",
-          "showContact": true
-        }
-      ]
+      "title": "Posso scegliere io il professionista?",
+      "content": "Il nostro servizio si distingue per essere molto più rapido di quello offerto dalle strutture tradizionali. Possiamo contare su una vasta rete di professionisti su tutto il territorio, in grado di rispondere a ogni situazione o necessità. Questo ci permette di selezionare il miglior specialista per te in meno di 24 ore, abbattendo sensibilmente i tempi di attesa e rendendo il servizio tempestivo e adeguato a ogni tua esigenza oraria."
     },
-
     {
-      "category": "Modifiche alla prenotazione",
-      "faqs": [
-        {
-          "title": "Se il professionista che si è candidato non mi sembra adatto?",
-          "content": "Tutti gli specialisti che fanno parte della rete di EpiCura sono **professionisti qualificati**, in possesso dei **diplomi** necessari per svolgere la propria attività e con esperienza alle spalle. Tuttavia, nell’eventualità in cui non fossi convinto del profilo che si è reso disponibile per te, puoi comunicarcelo via mail o telefono e provvederemo a inoltrare una nuova richiesta.",
-          "showContact": true
-        },
-        {
-          "title": "Devo modificare il giorno/orario/luogo dell’appuntamento, come faccio?",
-          "content": "**Non preoccuparti!** Sarà sufficiente [contattarci](mailto:prenotazioni@epicuramed.it) via mail e comunicarci le tue nuove disponibilità. Qualora lo specialista che aveva preso in carico la richiesta non fosse più disponibile, inoltreremo nuovamente la richiesta alla rete, fornendo le **nuove disponibilità**, ed un altro specialista si renderà presto disponibile.",
-          "showContact": true
-        }
-      ]
+      "title": "Come avverrà il videoconsulto?",
+      "content": "Dopo il pagamento e la conferma della prenotazione, riceverai una mail contenente le generalità del professionista che effettuerà il consulto e il link per collegarti alla tua video-sessione.<br /><br />Dal momento in cui accederai al videoconsulto, il link rimarrà attivo per 60 minuti. Qualora avessi problemi di accesso, puoi scriverci a [customercare@epicuramed.it](mailto:customercare@epicuramed.it).<br /><br />Ti ricordiamo che per partecipare al videoconsulto non è necessario scaricare nessuna app, né registrarsi."
     },
-
     {
-      "category": "Detrazioni e rimborsi",
-      "faqs": [
-        {
-          "title": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
-          "content": "**Dipende dalla tipologia di intervento richiesto**. EpiCura garantisce la detraibilità di tutte le spese riconosciute come sanitarie, proprio come un qualsiasi poliambulatorio o centro medico. Per farlo basterà utilizzare la **fattura** che riceverai dopo il pagamento delle prestazioni. Alcuni costi, ad esempio quelli relativi all'Assistenza Domiciliare (per approfondire clicca [qui](https://www.fiscoetasse.com/approfondimenti/13065-spese-per-addetti-all-assistenza-personale-le-regole-di-detrazione-.html)), sono detraibili solo entro certi limiti e a seconda delle caratteristiche del contribuente. Ricordiamo che l'Osteopatia non è considerata prestazione sanitaria per cui non è possibile portarla in detrazione.",
-          "showContact": true
-        },
-        {
-          "title": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
-          "content": "**Sì**, se previsto dal contratto che intercorre tra te e l’**ente assicurativo**.",
-          "showContact": true
-        }
-      ]
+      "title": "Cosa posso richiedere durante un videoconsulto?",
+      "content": "Potrai richiedere consulenza su patologia già accertata o sulla tipologia di trattamenti e terapie da attuare (già prescritte), consigli di tipo specialistico su segni clinici e sintomi presenti al momento del videoconsulto.<br />Potrai inoltre risolvere qualunque dubbio su sintomi riguardanti la tua salute o quella dei tuoi cari."
+    },
+    {
+      "title": "Quanto dura un videoconsulto?",
+      "content": "La durata indicativa del consulto è di circa 15-20 minuti."
+    },
+    {
+      "title": "Il videoconsulto tutela la mia privacy?",
+      "content": "Assolutamente sì. Tutto ciò che verrà detto tra te e lo specialista è strettamente confidenziale e legato al segreto professionale, garantendo quindi la massima riservatezza.<br /><br />Inoltre, a completa garanzia della tua privacy, non è possibile registrare né audio né video della sessione.<br />Qualora desiderassi avere una registrazione del consulto, è necessario concordarlo direttamente con il professionista."
+    },
+    {
+      "title": "Perché dovrei scegliere il videoconsulto?",
+      "content": "L'opportunità di avere consulti specialistici a portata di smartphone, senza attese o scomodi spostamenti, è una soluzione particolarmente veloce e flessibile, capace di adeguarsi a ogni esigenza.<br />Nel particolare momento storico che viviamo, inoltre, i videoconsulti sono consigliabili per evitare spostamenti e affollamenti."
+    },
+    {
+      "title": "Il costo del videoconsulto è detraibile dalla dichiarazione dei redditi?",
+      "content": "Il servizio di videoconsulti non è detraibile dalla dichiarazione dei redditi, poiché non rientra fra le prestazioni considerate di tipo sanitario."
+    },
+    {
+      "title": "È possibile ricevere la prescrizione di farmaci durante il videoconsulto?",
+      "content": "Trattandosi di un consulto a distanza, la prescrizione farmacologica è a completa discrezione del professionista."
     }
   ]
 }
