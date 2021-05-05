@@ -7,13 +7,13 @@
   "site-faqs-page-subtitle": "Abbiamo tutte le risposte che cerchi.",
   "site-faqs-page-img": {
     "path": "common",
-    "name": "faqs-bck-img"
+    "name": "faq-badanti"
   },
   "site-faqs-page-img-mobile": {
     "path": "common",
-    "name": "question_mobile"
+    "name": "faq-badanti-mobile"
   },
-  "site-faqs-page-color": "#CEF5F2",
+  "site-faqs-page-color": "#f8f3e9",
   "faqs-contact": {
     "text": "Non hai trovato la risposta che cercavi?",
     "contact-us": {
