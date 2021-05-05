@@ -1,0 +1,104 @@
+{
+  "metaDescription": {
+    "title": "Domande frequenti su EpiCura",
+    "description": "Hai dubbi? Ecco qui alcune delle domande che più spesso ci vengono poste, se non trovi risposta contattaci al numero verde gratuito."
+  },
+  "site-faqs-page-title": "Domande frequenti",
+  "site-faqs-page-subtitle": "Abbiamo tutte le risposte che cerchi.",
+  "site-faqs-page-img": {
+    "path": "common",
+    "name": "faq-videoconsulto"
+  },
+  "site-faqs-page-img-mobile": {
+    "path": "common",
+    "name": "faq-videoconsulto-mobile"
+  },
+  "site-faqs-page-color": "#f5f8ff",
+  "faqs-contact": {
+    "text": "Non hai trovato la risposta che cercavi?",
+    "contact-us": {
+      "link": "https://share.hsforms.com/1CZItMEkXQ16DCV1LVw-T5g4ebbs",
+      "link-staging": "https://share.hsforms.com/1C2v2qPBhSVaQDKdTIJfwMQ5kab9",
+      "text": "Contattaci"
+    }
+  },
+  "faqs-with-category": [
+    {
+      "category": "Chi siamo",
+      "faqs": [
+        {
+          "title": "Cos’è EpiCura?",
+          "content": "EpiCura è il **primo poliambulatorio digitale** in Italia che riunisce **badanti**, **assistenti domiciliari**, **fisioterapisti**, **osteopati**, **infermieri**, **veterinari**, **nutrizionisti**, **pediatri**, **massoterapisti**, **medici generici**, **psicologi** e **psicoterapeuti** che erogano il servizio direttamente a **domicilio**. Non abbiamo una sede fisica, abbiamo creato una **rete di professionisti** che arrivano ovunque in città e cintura, 365 giorni all’anno."
+        },
+        {
+          "title": "Avete anche un centro o uno studio dove avvengono le prestazioni?",
+          "content": "EpiCura raggiunge il paziente dove lo desidera! EpiCura eroga il servizio a **casa**, in **ospedale**, sul **luogo di lavoro** e in **casa di riposo**. Alcuni dei nostri professionisti hanno anche a disposizione uno **studio professionale** dove possono ricevere i pazienti."
+        }
+      ]
+    },
+
+    {
+      "category": "Prenotare una visita",
+      "faqs": [
+        {
+          "title": "Non voglio prenotare ma vorrei solo un consulto, è possibile?",
+          "content": "**Sì**. Abbiamo la possibilità di fornire consulti medici a distanza: [clicca qui](/videoconsulti/) per prenotare e saperne di più.",
+          "showContact": true
+        },
+        {
+          "title": "Come posso prenotare un trattamento?",
+          "content": "Crediamo che sia fondamentale garantire la massima **flessibilità** ed è per questo che diamo la possibilità di prenotare in molti modi diversi: potrai completare il [modulo di prenotazione](/prenota/) sul nostro sito prenotando comodamente online in 5 minuti o [scriverci](mailto:prenotazioni@epicuramed.it) via mail.",
+          "showContact": true
+        }
+      ]
+    },
+
+    {
+      "category": "Erogazione del servizio",
+      "faqs": [
+        {
+          "title": "Cosa succede quando invio una richiesta di prenotazione?",
+          "content": "Una volta raccolte tutte le informazioni necessarie, invieremo la richiesta a tutta la **rete di specialisti** attivi nella tua zona e comunicheremo loro il **giorno** (o i giorni) e le **fasce orarie** prescelti. Il primo professionista che si renderà disponibile prenderà in carico la tua richiesta. Successivamente, ti invieremo un messaggio con il **riepilogo della prenotazione** e i **dati dello specialista**, cosicché tu possa contattarlo in caso di bisogno.",
+          "showContact": true
+        },
+        {
+          "title": "Posso scegliere io il professionista?",
+          "content": "**No**. Il nostro servizio si distingue per essere molto più **tempestivo** di quello offerto dalle strutture tradizionali. Ci riusciamo perché inviamo una **richiesta unica** a tutta la rete di specialisti attivi sul territorio, permettendo a chiunque di loro di prendere in carico la richiesta, dandovi dunque la possibilità di trovare un terapista nel giro di **poche ore**. Tutto ciò non sarebbe possibile se fosse prevista la possibilità di scegliere un singolo professionista: dovreste sperare che lui/lei sia disponibile in quella fascia oraria, quel giorno e a quell’indirizzo!",
+          "showContact": true
+        }
+      ]
+    },
+
+    {
+      "category": "Modifiche alla prenotazione",
+      "faqs": [
+        {
+          "title": "Se il professionista che si è candidato non mi sembra adatto?",
+          "content": "Tutti gli specialisti che fanno parte della rete di EpiCura sono **professionisti qualificati**, in possesso dei **diplomi** necessari per svolgere la propria attività e con esperienza alle spalle. Tuttavia, nell’eventualità in cui non fossi convinto del profilo che si è reso disponibile per te, puoi comunicarcelo via mail o telefono e provvederemo a inoltrare una nuova richiesta.",
+          "showContact": true
+        },
+        {
+          "title": "Devo modificare il giorno/orario/luogo dell’appuntamento, come faccio?",
+          "content": "**Non preoccuparti!** Sarà sufficiente [contattarci](mailto:prenotazioni@epicuramed.it) via mail e comunicarci le tue nuove disponibilità. Qualora lo specialista che aveva preso in carico la richiesta non fosse più disponibile, inoltreremo nuovamente la richiesta alla rete, fornendo le **nuove disponibilità**, ed un altro specialista si renderà presto disponibile.",
+          "showContact": true
+        }
+      ]
+    },
+
+    {
+      "category": "Detrazioni e rimborsi",
+      "faqs": [
+        {
+          "title": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
+          "content": "**Dipende dalla tipologia di intervento richiesto**. EpiCura garantisce la detraibilità di tutte le spese riconosciute come sanitarie, proprio come un qualsiasi poliambulatorio o centro medico. Per farlo basterà utilizzare la **fattura** che riceverai dopo il pagamento delle prestazioni. Alcuni costi, ad esempio quelli relativi all'Assistenza Domiciliare (per approfondire clicca [qui](https://www.fiscoetasse.com/approfondimenti/13065-spese-per-addetti-all-assistenza-personale-le-regole-di-detrazione-.html)), sono detraibili solo entro certi limiti e a seconda delle caratteristiche del contribuente. Ricordiamo che l'Osteopatia non è considerata prestazione sanitaria per cui non è possibile portarla in detrazione.",
+          "showContact": true
+        },
+        {
+          "title": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
+          "content": "**Sì**, se previsto dal contratto che intercorre tra te e l’**ente assicurativo**.",
+          "showContact": true
+        }
+      ]
+    }
+  ]
+}
