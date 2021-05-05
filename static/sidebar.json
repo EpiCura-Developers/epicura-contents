@@ -61,23 +61,12 @@
         }
     },
     {
-        "option-link": "https://share.hsforms.com/1CZItMEkXQ16DCV1LVw-T5g4ebbs",
-        "option-link-staging": "https://share.hsforms.com/1C2v2qPBhSVaQDKdTIJfwMQ5kab9",
-        "option-label": "Richiedi informazioni",
-        "option-is-complex": false,
-        "option-is-amp": false,
-        "option-style-object-like": {
-            "margin-top": "30px",
-            "font-size": "1.25rem"
-        }
-    },
-    {
         "option-link": "/privacy-policy/",
         "option-label": "Privacy Policy",
         "option-is-complex": true,
         "option-is-amp": false,
         "option-style-object-like": {
-            "margin-top": "5px",
+            "margin-top": "30px",
             "font-size": "1.25rem"
         }
     },
