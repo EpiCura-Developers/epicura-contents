@@ -66,5 +66,21 @@
     "button-text": "Scopri il servizio",
     "button-link": "/medico-di-base-videoconsulto/"
   },
+  "banner-info": {
+    "title": "Hai un dubbio sul servizio di<br /> medicina?",
+    "title-colored": "",
+    "content": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi di EpiCura più adatti alle tue esigenze.",
+    "image": {
+      "path": "common",
+      "name": "info-medicina-generale"
+    },
+    "image-mobile": {
+      "path": "common",
+      "name": "info-medicina-generale-mobile"
+    },
+    "button-text": "Richiedi informazioni",
+    "button-link-production": "https://share.hsforms.com/1CZItMEkXQ16DCV1LVw-T5g4ebbs",
+    "button-link-staging": "https://share.hsforms.com/1C2v2qPBhSVaQDKdTIJfwMQ5kab9"
+  },
   "provincesTitle": "I nostri medici a domicilio sono attivi nelle città di"
 }
