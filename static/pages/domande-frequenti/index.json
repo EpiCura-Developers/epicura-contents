@@ -17,7 +17,7 @@
   "categories": [
     {
       "link": "/generiche",
-      "title": "Domande generiche",
+      "title": "Come funziona EpiCura",
       "image": {
         "path": "common",
         "name": "faq-generic"
@@ -33,7 +33,7 @@
     },
     {
       "link": "/assistenza-domiciliare",
-      "title": "Assistenza domiciliare",
+      "title": "Assistenza a ore",
       "image": {
         "path": "common",
         "name": "faq-AD"
@@ -41,7 +41,7 @@
     },
     {
       "link": "/videoconsulti",
-      "title": "Videoconsulti",
+      "title": "Videoconsulti specialistici",
       "image": {
         "path": "common",
         "name": "faq-videoconsulto"
@@ -49,7 +49,7 @@
     },
     {
       "link": "/psicologia-psicoterapia-online",
-      "title": "Psicologia e psicoterapia",
+      "title": "Psicologia online",
       "image": {
         "path": "common",
         "name": "faq-psicologia"

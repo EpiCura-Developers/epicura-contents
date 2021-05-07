@@ -36,10 +36,11 @@
   "prezzi_title": "I nostri infermieri a domicilio si occupano di",
   "subheader": {
     "prenotaOnlineText": "Prenota ora",
-    "titleBig": "Infermieri a domicilio a Firenze",
-    "subtitleBig": "Per chi ricerca un supporto affidabile, sicuro e tempestivo",
-    "description1": "Per sentirsi sereni e sicuri 7 giorni su 7, anche in orari serali.",
-    "description2": "EpiCura porta gli interventi infermieristici ovunque tu ne abbia bisogno, in tutta Firenze e area metropolitana, in qualunque giorno e orario tu voglia."
+    "titleBig": "Infermiere a domicilio a Firenze",
+    "subtitleBig": "",
+    "description1": "EpiCura porta i migliori infermieri comodamente a domicilio, in tutta Firenze e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
+    "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa.",
+    "askInfoButtonText": "Richiedi informazioni"
   },
   "advantages": {
     "title": "I migliori infermieri a domicilio entro 24 ore",
