@@ -56,12 +56,12 @@
       {
         "link": "/ansia",
         "title": "Ansia",
-        "description": "Paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
+        "description": "paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
       },
       {
         "link": "/sofferenza-psicologica",
         "title": "Sofferenza psicologica",
-        "description": "Stress, mobbing, burnout"
+        "description": "stress, mobbing, burnout"
       },
       {
         "link": "/dipendenze",
@@ -71,7 +71,7 @@
       {
         "link": "/depressione",
         "title": "Depressione",
-        "description": "Lutto, divorzio, fine relazione, patologie, malattie oncologiche, malattie croniche"
+        "description": "lutto, divorzio, fine relazione, patologie, malattie oncologiche, malattie croniche"
       },
       {
         "link": "/disturbo-della-personalita",
@@ -81,17 +81,17 @@
       {
         "link": "/disturbi-alimentari",
         "title": "Disturbi alimentari",
-        "description": "Anoressia, bulimia, fame compulsiva (binge-eating)"
+        "description": "anoressia, bulimia, fame compulsiva (binge-eating)"
       },
       {
         "link": "/terapia-di-coppia",
         "title": "Terapia di coppia",
-        "description": "Coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, stati di frustrazione"
+        "description": "coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, stati di frustrazione"
       },
       {
         "link": "/terapia-familiare",
         "title": "Terapia familiare",
-        "description": "Conflittualità familiari, disagi dell’età adolescenziale e pre-adolescenziale"
+        "description": "conflittualità familiari, disagi dell’età adolescenziale e pre-adolescenziale"
       }
     ]
   },
