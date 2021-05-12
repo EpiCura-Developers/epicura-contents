@@ -528,6 +528,16 @@
               }
           },
           {
+            "name": "Anna L.",
+            "discipline": "veterinaria",
+            "discipline_label": "Veterinario",
+            "prestazioni": [],
+            "image": {
+                "path": "specialists",
+                "name": "anna-lombardo"
+              }
+          },
+          {
             "name": "Aurora B.",
             "discipline": "veterinaria",
             "discipline_label": "Veterinario",
