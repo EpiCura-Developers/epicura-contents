@@ -86,7 +86,8 @@
   },
   "solutions": [
     {
-      "title": "Le soluzioni che abbiamo pensato per te",
+      "title": "Prezzi di fisioterapia a {{city}}",
+      "subtitle": "Le soluzioni che abbiamo pensato per te",
       "startingFromText": "A partire da",
       "solutionsBig": [
         {

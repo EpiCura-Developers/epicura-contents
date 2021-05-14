@@ -71,7 +71,8 @@
   },
   "solutions": [
     {
-      "title": "Le soluzioni che abbiamo pensato per te",
+      "title": "Prezzi di massaggio a domicilio a {{city}}",
+      "subtitle": "Le soluzioni che abbiamo pensato per te",
       "startingFromText": "",
       "solutionsBig": [
         {
