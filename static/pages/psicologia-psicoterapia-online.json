@@ -10,17 +10,19 @@
   },
   "come_funziona": {
     "title": "Psicologo online, come funziona",
+    "text": "Il primo videoconsulto è gratuito",
     "cards": [
       {
         "image": {
           "path": "common",
-          "name": "videoseduta"
+          "name": "test-questionario"
         },
-        "title": "Inizia dal videoconsulto a 25€",
-        "text": "Inizia la terapia con un videoconsulto a soli 25 Euro: potrai confrontarti con un professionista scelto apposta per te, che ti guiderà nei primi passi del percorso terapeutico comodamente da pc, smartphone o tablet.",
+        "title": "Compila il questionario",
+        "text": "Attraverso il questionario, potrai raccontarci di te e delle tue esigenze: noi ti assegneremo lo specialista più adatto per ritrovare armonia e serenità.",
         "button": {
-          "link": "/teleconsulting/?discipline=psychology",
-          "text": "Prenota il videoconsulto"
+          "link": "https://epicuramed.typeform.com/to/pkPBYBjU?utm_campaign=Videoconsulto_gratuito_psicologia&utm_source=Sito&utm_medium=CTA",
+          "link-staging": "https://epicuramed.typeform.com/to/wocfjSGc?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx",
+          "text": "Inizia il tuo percorso"
         }
       },
       {
@@ -28,23 +30,25 @@
           "path": "common",
           "name": "booking"
         },
-        "title": "Scegli il percorso più adatto",
-        "text": "Dopo aver effettuato il primo videoconsulto, potrai decidere come continuare il percorso terapeutico: parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
+        "title": "Prenota il videoconsulto gratuito",
+        "text": "Sei tu a scegliere quando ricevere il videoconsulto gratuito. In fase di prenotazione, seleziona data e orario che preferisci, noi lo comunicheremo al tuo terapeuta.",
         "button": {
-          "link": "/teleconsulting/?discipline=psychology",
-          "text": "Prenota il videoconsulto"
+          "link": "https://epicuramed.typeform.com/to/pkPBYBjU?utm_campaign=Videoconsulto_gratuito_psicologia&utm_source=Sito&utm_medium=CTA",
+          "link-staging": "https://epicuramed.typeform.com/to/wocfjSGc?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx",
+          "text": "Inizia il tuo percorso"
         }
       },
       {
         "image": {
           "path": "common",
-          "name": "follow-up"
+          "name": "videoconsulto-pc"
         },
-        "title": "Fai terapia comodamente online",
-        "text": "Con EpiCura potrai accedere alle videosedute 7 giorni su 7, dove e quando vuoi: collegati da smartphone, pc o tablet e ricevi il supporto dei migliori psicologi e psicoterapeuti in totale comodità e sicurezza.",
+        "title": "Inizia la terapia online",
+        "text": "Cliccando sul link che riceverai via mail potrai usufruire del primo videconsulto gratuito. Accedi comodamente da smartphone, pc o tablet e parla con il professionista scelto apposta per te.",
         "button": {
-          "link": "/teleconsulting/?discipline=psychology",
-          "text": "Prenota il videoconsulto"
+          "link": "https://epicuramed.typeform.com/to/pkPBYBjU?utm_campaign=Videoconsulto_gratuito_psicologia&utm_source=Sito&utm_medium=CTA",
+          "link-staging": "https://epicuramed.typeform.com/to/wocfjSGc?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx",
+          "text": "Inizia il tuo percorso"
         }
       }
     ]
