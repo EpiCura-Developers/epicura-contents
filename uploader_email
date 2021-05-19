@@ -1,0 +1,7 @@
+aws s3 sync email/ s3://contents-staging-contentbucket-1i3oxfvogesot/email/ --delete
+aws s3 sync development/ s3://contents-staging-contentbucket-1i3oxfvogesot/development/ --delete
+aws s3 sync email/ s3://contents-production-contentbucket-11b84mfqyzoqa/email/ --delete
+aws s3 sync development/ s3://contents-production-contentbucket-11b84mfqyzoqa/development/ --delete
+
+aws cloudfront create-invalidation --distribution-id E1BHYAC1W4BGGZ --paths "/*"
+aws cloudfront create-invalidation --distribution-id E3VLX0IT8V8QXH --paths "/*"
