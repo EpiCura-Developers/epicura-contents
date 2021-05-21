@@ -28,7 +28,7 @@
       {
         "image": {
           "path": "common",
-          "name": "booking"
+          "name": "scelta_percorso"
         },
         "title": "Prenota il videoconsulto gratuito",
         "text": "Sei tu a scegliere quando ricevere il videoconsulto gratuito. In fase di prenotazione, seleziona data e orario che preferisci, noi lo comunicheremo al tuo terapeuta.",
