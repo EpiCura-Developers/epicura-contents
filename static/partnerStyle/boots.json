@@ -1,9 +1,10 @@
 {
   "websiteURL": "https://www.boots.it/",
-  "logoURL": "https://prismic-io.s3.amazonaws.com/epicura/094124ae-b5e6-4ee5-8735-5a805b15ba18_boots.svg",
+  "logoURL": "https://images.prismic.io/epicura/39ede32f-7bab-4f16-92bc-575ae6cd7fcd_boot-white-png.png?auto=compress,format",
+  "logoMobileURL": "https://images.prismic.io/epicura/14cfc169-441d-4a34-b9c7-25892f80f12a_logo-boots.png?auto=compress,format",
   "logoWidth": "124.5",
-  "logoHeight": "75",
+  "logoHeight": "70",
   "textColor": "#004990",
   "mainColor": "#004990",
-  "headerColor": "#ffffff"
+  "headerColor": "#d5e6f7"
 }

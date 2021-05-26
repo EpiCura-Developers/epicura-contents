@@ -1,8 +1,9 @@
 {
   "websiteURL": "https://www.europassistance.it/",
   "logoURL": "https://prismic-io.s3.amazonaws.com/epicura/02c4a838-a54d-4dbc-bcd6-1e38da4afbde_europassistance.svg?auto=compress,format",
-  "logoWidth": "84",
-  "logoHeight": "52",
+  "logoMobileURL": "https://images.prismic.io/epicura/5c99cbf9-ab49-499c-baaa-f6dbdbf33b2d_Europ+assistance+logo.png?auto=compress,format",
+  "logoWidth": "90",
+  "logoHeight": "54",
   "textColor": "#000000",
   "mainColor": "#00239c",
   "headerColor": "#00239c"
