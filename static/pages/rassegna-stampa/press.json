@@ -1,4 +1,58 @@
-[
+[ 
+  {
+    "logo": { "path": "common", "name": "techprincess" },
+    "title": "Tech Princess - I consigli di EpiCura per un’estate mindful",
+    "date": "11 Luglio 2021",
+    "link": "https://techprincess.it/epicura-estate-consigli/"
+  },
+  {
+    "logo": { "path": "common", "name": "innovationnation" },
+    "title": "Innovation Nation - Depressione post Covid: ecco EpiCura, l'app per il supporto psicologico online",
+    "date": "11 Giugno 2021",
+    "link": "https://www.innovation-nation.it/depressione-post-covid-ecco-epicura-lapp-per-il-supporto-psicologico/"
+  },
+  {
+    "logo": { "path": "common", "name": "sanitadigitale" },
+    "title": "Sanità Digitale - EpiCura: il poliambulatorio digitale per la terapia online",
+    "date": "10 Giugno 2021",
+    "link": "https://www.sanita-digitale.com/cura/epicura-il-poliambulatorio-digitale-per-la-terapia-online/"
+  },
+  {
+    "logo": { "path": "common", "name": "socialandtech" },
+    "title": "Social and Tech - EpiCura, il primo poliambulatorio digitale in Italia",
+    "date": "1 Giugno 2021",
+    "link": "https://socialandtech.net/epicura-il-primo-poliambulatorio-digitale-in-italia/"
+  },
+  {
+  "logo": { "path": "common", "name": "techprincess" },
+  "title": "Tech Princess - EpiCura è il primo poliambulatorio digitale in Italia",
+  "date": "1 Giugno 2021",
+  "link": "https://techprincess.it/epicura-il-primo-poliambulatorio-digitale/"
+},
+  {
+    "logo": { "path": "common", "name": "economy_magazine" },
+    "title": "Economy Magazine - Epicura al fianco delle donne nella gestione della salute dei propri cari",
+    "date": "25 Maggio 2021",
+    "link": "https://www.economymagazine.it/news/2021/05/25/news/epicura-al-fianco-delle-donne-nella-gestione-della-salute-dei-propri-cari-61748/"
+  },
+  {
+    "logo": { "path": "common", "name": "linnovatore" },
+    "title": "L'Innovatore - In forma per l’estate con Epicura",
+    "date": "24 Maggio 2021",
+    "link": "https://linnovatore.it/in-forma-per-estate-con-epicura/"
+  },
+  {
+    "logo": { "path": "common", "name": "italianotizie24" },
+    "title": "Italia Notizie 24 - Cani a rischio in primavera, ecco i consigli dei veterinari di EpiCura",
+    "date": "31 Marzo 2021",
+    "link": "https://www.italianotizie24.it/cani-a-rischio-in-primavera-ecco-i-consigli-dei-veterinari-di-epicura/"
+  },
+  {
+    "logo": { "path": "common", "name": "today-logo" },
+    "title": "Today - Smart Working, da EpiCura ecco 5 consigli pratici per la perfetta postazione di lavoro in casa",
+    "date": "23 Febbraio 2021",
+    "link": "https://www.today.it/innovazione/smart-working-postazione.html"
+  },
   {
     "logo": { "path": "common", "name": "startupitalia" },
     "title": "StartupItalia - Top 100: le migliori startup italiane del 2020",

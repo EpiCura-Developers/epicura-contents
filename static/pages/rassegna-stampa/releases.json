@@ -1,6 +1,12 @@
 [
   {
     "logo": { "path": "common", "name": "logo_epicura_2color" },
+    "title": "Comunicato stampa 16 settembre 2021",
+    "date": "16 settembre 2021",
+    "link": "/press/EpiCura_Operazione_AUCAP_160921.pdf"
+  },
+  {
+    "logo": { "path": "common", "name": "logo_epicura_2color" },
     "title": "Comunicato stampa 28 ottobre 2020",
     "date": "28 ottobre 2020",
     "link": "/press/CS_Epicura_Anziani_281020.pdf"
