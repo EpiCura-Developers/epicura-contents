@@ -1,5 +1,23 @@
 [ 
   {
+    "logo": { "path": "common", "name": "forbes" },
+    "title": "Forbes - Questi due ragazzi hanno appena raccolto 5 milioni di euro per portare il loro poliambulatorio digitale in tutta Italia",
+    "date": "17 Settembre 2021",
+    "link": "https://forbes.it/2021/09/17/epicura-poliambulatorio-digitale-raccoglie-altri-5-milioni-euro/"
+  },
+  {
+    "logo": { "path": "common", "name": "startupitalia" },
+    "title": "Startup Italia - Epicura chiude terzo round da 5 milioni di euro. L’operazione è guidata da Europ Assistance",
+    "date": "17 Settembre 2021",
+    "link": "https://startupitalia.eu/162392-20210916-epicura-chiude-un-terzo-round-da-5-milioni-di-euro-loperazione-e-guidata-da-europ-assistance"
+  },
+  {
+    "logo": { "path": "common", "name": "larepubblica" },
+    "title": "La Repubblica - Europ Assistance scommette sul poliambulatorio digitale Epicura: round da 5 milioni",
+    "date": "16 Settembre 2021",
+    "link": "https://www.repubblica.it/economia/finanza/2021/09/16/news/europ_assistance_scommette_sul_poliambulatorio_digitale_epicura_round_da_5_milioni-318099065/"
+  },
+  {
     "logo": { "path": "common", "name": "ilsole24ore" },
     "title": "Il Sole 24 ORE - Il poliambulatorio digitale Epicura chiude un terzo round da 5 milioni",
     "date": "16 Settembre 2021",
