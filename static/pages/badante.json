@@ -284,15 +284,15 @@
           "path": "common",
           "name": "money"
         },
-        "title": "Nessun costo di attivazione",
-        "description": "Il pagamento verrà effettuato solo ad avvenuta ricerca e inserimento della badante in famiglia."
+        "title": "Solo badanti referenziate",
+        "description": "I nostri iter di selezione sono rigidissimi e prevedono la verifica di almeno due referenze e comprovata esperienza."
       },
       {
         "image": {
           "path": "common",
           "name": "ricerca"
         },
-        "title": "Sostituzione gratuita badante",
+        "title": "Sostituzione gratuita",
         "description": "Se per qualsiasi motivo dovesse sostituire la figura selezionata, ci occuperemo gratuitamente della nuova ricerca."
       },
       {
