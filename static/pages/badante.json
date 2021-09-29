@@ -282,7 +282,7 @@
       {
         "image": {
           "path": "common",
-          "name": "orologio_icon"
+          "name": "clock_icon"
         },
         "title": "Attivazione in 24 ore",
         "description": "Alla firma del mandato, il nostro team di ricerca si attiverà entro 24 ore per trovare la badante più adatta."
@@ -290,7 +290,7 @@
       {
         "image": {
           "path": "common",
-          "name": "curriculum_icon"
+          "name": "requirements_icon"
         },
         "title": "Solo badanti referenziate",
         "description": "I nostri iter di selezione sono rigidissimi e prevedono la verifica di almeno due referenze e comprovata esperienza."
