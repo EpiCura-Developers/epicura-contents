@@ -282,7 +282,15 @@
       {
         "image": {
           "path": "common",
-          "name": "money"
+          "name": "orologio_icon"
+        },
+        "title": "Attivazione in 24 ore",
+        "description": "Alla firma del mandato, il nostro team di ricerca si attiverà entro 24 ore per trovare la badante più adatta."
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "curriculum_icon"
         },
         "title": "Solo badanti referenziate",
         "description": "I nostri iter di selezione sono rigidissimi e prevedono la verifica di almeno due referenze e comprovata esperienza."
@@ -290,18 +298,10 @@
       {
         "image": {
           "path": "common",
-          "name": "ricerca"
-        },
-        "title": "Sostituzione gratuita",
-        "description": "Se per qualsiasi motivo dovesse sostituire la figura selezionata, ci occuperemo gratuitamente della nuova ricerca."
-      },
-      {
-        "image": {
-          "path": "common",
           "name": "tutor"
         },
-        "title": "Un Family Tutor dedicato",
-        "description": "Un consulente dedicato seguirà la famiglia in ogni fase del piano assistenziale"
+        "title": "Family Tutor dedicato",
+        "description": "Un consulente dedicato seguirà la famiglia in ogni fase del piano assistenziale, garantendo un supporto costante."
       }
     ]
   }
