@@ -11,7 +11,7 @@
     "professionistaUrl": "",
     "titleBig": "Badanti e assistenti a ore per anziani, malati e disabili",
     "subtitleBig": "",
-    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio di anziani, malati e disabili, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br />Scopri le nostre soluzioni di assistenza, senza costi di attivazione."
+    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio di anziani, malati e disabili, in ospedale o in casa di riposo con badanti qualificate e referenziate."
   },
   "services": [
     {
@@ -170,8 +170,8 @@
   },
   "solutions": [
     {
-      "title": "La nostra offerta senza costi di attivazione",
-      "subtitle": "Paghi soltanto dopo l’inserimento della badante in famiglia",
+      "title": "Le nostre offerte, tutto incluso",
+      "subtitle": "I nostri prezzi comprendono stipendio, TFR, contributi e tredicesima",
       "startingFromText": "A partire da",
       "solutionsBig": [
         {
