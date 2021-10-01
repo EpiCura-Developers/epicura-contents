@@ -11,7 +11,7 @@
     "professionistaUrl": "",
     "titleBig": "Badanti e assistenti a ore per anziani, malati e disabili",
     "subtitleBig": "",
-    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio di anziani, malati e disabili, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br />Scopri le nostre soluzioni di assistenza, senza costi di attivazione."
+    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio di anziani, malati e disabili, in ospedale o in casa di riposo con badanti qualificate e referenziate."
   },
   "services": [
     {
@@ -170,8 +170,8 @@
   },
   "solutions": [
     {
-      "title": "La nostra offerta senza costi di attivazione",
-      "subtitle": "Paghi soltanto dopo l’inserimento della badante in famiglia",
+      "title": "Le nostre offerte, tutto incluso",
+      "subtitle": "I nostri prezzi comprendono stipendio, TFR, contributi e tredicesima",
       "startingFromText": "A partire da",
       "solutionsBig": [
         {
@@ -282,26 +282,26 @@
       {
         "image": {
           "path": "common",
-          "name": "money"
+          "name": "clock_icon"
         },
-        "title": "Nessun costo di attivazione",
-        "description": "Il pagamento verrà effettuato solo ad avvenuta ricerca e inserimento della badante in famiglia."
+        "title": "Attivazione in 24 ore",
+        "description": "Alla firma del mandato, il nostro team di ricerca si attiverà entro 24 ore per trovare la badante più adatta."
       },
       {
         "image": {
           "path": "common",
-          "name": "ricerca"
+          "name": "requirements_icon"
         },
-        "title": "Sostituzione gratuita badante",
-        "description": "Se per qualsiasi motivo dovesse sostituire la figura selezionata, ci occuperemo gratuitamente della nuova ricerca."
+        "title": "Solo badanti referenziate",
+        "description": "I nostri iter di selezione sono rigidissimi e prevedono la verifica di almeno due referenze e comprovata esperienza."
       },
       {
         "image": {
           "path": "common",
           "name": "tutor"
         },
-        "title": "Un Family Tutor dedicato",
-        "description": "Un consulente dedicato seguirà la famiglia in ogni fase del piano assistenziale"
+        "title": "Family Tutor dedicato",
+        "description": "Un consulente dedicato seguirà la famiglia in ogni fase del piano assistenziale, garantendo un supporto costante."
       }
     ]
   }
