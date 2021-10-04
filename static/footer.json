@@ -1,12 +1,12 @@
-  {
-    "fbLink": "https://www.facebook.com/EpiCuraMed/",
-    "igLink": "https://www.instagram.com/EpiCura/",
-    "linkedinLink": "https://www.linkedin.com/company/epicuramed/",
-    "youtubeLink": "https://www.youtube.com/channel/UC1ibdsGsslcFBLxH2tkyZOw",
-    "twitterLink": "https://twitter.com/EpiCuraMed",
-    "copyright": "EpiCura S.r.l. - Corso Carlo e Nello Rosselli 91, 10129 Torino (TO) - P.Iva 11744440014 - © 2021 - Tutti i diritti riservati",
-    "belowCopyright": "Made with love in Turin ❤️",
-    "sections": [
+{
+  "fbLink": "https://www.facebook.com/EpiCuraMed/",
+  "igLink": "https://www.instagram.com/EpiCura/",
+  "linkedinLink": "https://www.linkedin.com/company/epicuramed/",
+  "youtubeLink": "https://www.youtube.com/channel/UC1ibdsGsslcFBLxH2tkyZOw",
+  "twitterLink": "https://twitter.com/EpiCuraMed",
+  "copyright": "EpiCura S.r.l. - Corso Carlo e Nello Rosselli 91, 10129 Torino (TO) - P.Iva 11744440014 - © 2021 - Tutti i diritti riservati",
+  "belowCopyright": "Made with love in Turin ❤️",
+  "sections": [
     {
       "column-name": "EpiCura",
       "column-options": [
@@ -78,6 +78,12 @@
           "option-link": "/avvertenza-di-rischio/",
           "option-label": "Avvertenza di rischio",
           "option-is-complex": true,
+          "option-is-amp": false
+        },
+        {
+          "option-link": "https://contents-staging.epicuramed.it/documents/referral_badanti.pdf",
+          "option-label": "Referral badanti",
+          "option-is-complex": false,
           "option-is-amp": false
         }
       ]
