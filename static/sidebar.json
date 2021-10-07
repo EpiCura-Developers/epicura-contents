@@ -10,9 +10,9 @@
         }
     },
     {
-        "option-link": "/professionisti-lavoro/",
-        "option-label": "Sei un professionista?",
-        "option-is-complex": true,
+        "option-link": "#",
+        "option-label": "Piani in abbonamento",
+        "option-is-complex": false,
         "option-is-amp": false,
         "option-style-object-like": {
             "font-weight": "bold",
@@ -21,8 +21,19 @@
         }
     },
     {
-        "option-link": "/blog/",
-        "option-label": "Leggi il magazine",
+        "option-link": "#",
+        "option-label": "Scarica l'app",
+        "option-is-complex": false,
+        "option-is-amp": false,
+        "option-style-object-like": {
+            "font-weight": "bold",
+            "margin-top": "5px",
+            "font-size": "1.25rem"
+        }
+    },
+    {
+        "option-link": "/professionisti-lavoro/",
+        "option-label": "Sei un professionista?",
         "option-is-complex": true,
         "option-is-amp": false,
         "option-style-object-like": {
@@ -41,32 +52,12 @@
         }
     },
     {
-        "option-link": "https://www.feedaty.com/feedaty/reviews/epicuramed",
-        "option-label": "Tutte le recensioni",
-        "option-is-complex": false,
-        "option-is-amp": false,
-        "option-style-object-like": {
-            "margin-top": "5px",
-            "font-size": "1.25rem"
-        }
-    },
-    {
-        "option-link": "/rassegna-stampa/",
-        "option-label": "Rassegna stampa",
-        "option-is-complex": true,
-        "option-is-amp": true,
-        "option-style-object-like": {
-            "margin-top": "5px",
-            "font-size": "1.25rem"
-        }
-    },
-    {
         "option-link": "/privacy-policy/",
         "option-label": "Privacy Policy",
         "option-is-complex": true,
         "option-is-amp": false,
         "option-style-object-like": {
-            "margin-top": "30px",
+            "margin-top": "5px",
             "font-size": "1.25rem"
         }
     },
