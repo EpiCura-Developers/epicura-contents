@@ -10,34 +10,26 @@
         }
     },
     {
-        "option-link": "#",
-        "option-label": "Piani in abbonamento",
-        "option-is-complex": false,
-        "option-is-amp": false,
-        "option-style-object-like": {
-            "font-weight": "bold",
-            "margin-top": "5px",
-            "font-size": "1.25rem"
-        }
-    },
-    {
-        "option-link": "#appstore",
-        "option-label": "Scarica l'app",
-        "option-is-complex": false,
-        "option-is-amp": false,
-        "option-style-object-like": {
-            "font-weight": "bold",
-            "margin-top": "5px",
-            "font-size": "1.25rem"
-        }
-    },
-    {
         "option-link": "/professionisti-lavoro/",
         "option-label": "Sei un professionista?",
         "option-is-complex": true,
         "option-is-amp": false,
         "option-style-object-like": {
-            "margin-top": "30px",
+            "font-weight": "bold",
+            "margin-top": "5px",
+            "font-size": "1.25rem",
+            "border-bottom": "1px solid rgba(0,0,0,0.161)",
+            "padding-bottom": "15px"
+        }
+    },
+    {
+        "option-link": "/rassegna-stampa/",
+        "option-label": "Rassegna stampa",
+        "option-is-complex": false,
+        "option-is-amp": false,
+        "option-style-object-like": {
+            "font-weight": "600",
+            "margin-top": "20px",
             "font-size": "1.25rem"
         }
     },
@@ -47,7 +39,29 @@
         "option-is-complex": true,
         "option-is-amp": false,
         "option-style-object-like": {
+            "font-weight": "600",
             "margin-top": "5px",
+            "font-size": "1.25rem"
+        }
+    },
+    {
+        "option-link": "https://www.feedaty.com/feedaty/reviews/epicuramed",
+        "option-label": "Tutte le recensioni",
+        "option-is-complex": true,
+        "option-is-amp": false,
+        "option-style-object-like": {
+            "font-weight": "600",
+            "margin-top": "5px",
+            "font-size": "1.25rem"
+        }
+    },
+    {
+        "option-link": "/termini-e-condizioni/",
+        "option-label": "Termini e Condizioni",
+        "option-is-complex": true,
+        "option-is-amp": false,
+        "option-style-object-like": {
+            "margin-top": "30px",
             "font-size": "1.25rem"
         }
     },
@@ -62,13 +76,26 @@
         }
     },
     {
-        "option-link": "/termini-e-condizioni/",
-        "option-label": "Termini e Condizioni",
+        "option-link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "option-label": "apple app store",
         "option-is-complex": true,
         "option-is-amp": false,
+        "is-image": true,
+        "img-url": "/img/Download_on_the_App_Store_Badge_IT_RGB_wht_100317.png",
         "option-style-object-like": {
-            "margin-top": "5px",
-            "font-size": "1.25rem"
+            "margin-top": "30px",
+            "margin-bottom": "0"
+        }
+    },
+    {
+        "option-link": "https://play.google.com/store/apps/details?id=com.epicuramed.epicurapro",
+        "option-label": "google play store",
+        "option-is-complex": true,
+        "option-is-amp": false,
+        "is-image": true,
+        "img-url": "/img/Google_Play_Store_badge_IT.png",
+        "option-style-object-like": {
+            "margin-top": "1px"
         }
     }
 ]

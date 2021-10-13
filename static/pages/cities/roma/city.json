@@ -23,7 +23,7 @@
         "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli l'intervento di cui hai bisogno, noi troveremo il miglior professionista per le tue esigenze.",
         "button": {
           "text": "Prenota ora",
-          "link": "/prenota/"
+          "link": "https://app.epicura.it"
         }
       },
       {
@@ -35,7 +35,7 @@
         "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza utilizzando carta di credito, bancomat o prepagata.",
         "button": {
           "text": "Prenota ora",
-          "link": "/prenota/"
+          "link": "https://app.epicura.it"
         }
       },
       {
@@ -47,7 +47,7 @@
         "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
         "button": {
           "text": "Prenota ora",
-          "link": "/prenota/"
+          "link": "https://app.epicura.it"
         }
       }
     ]
@@ -885,17 +885,26 @@
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "list": [
       {
-        "image": { "path": "common", "name": "professionist" },
+        "image": {
+          "path": "common",
+          "name": "professionist"
+        },
         "title": "Solo professionisti qualificati",
         "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
       },
       {
-        "image": { "path": "common", "name": "certificate" },
+        "image": {
+          "path": "common",
+          "name": "certificate"
+        },
         "title": "La tua soddisfazione è la nostra priorità",
         "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
       },
       {
-        "image": { "path": "common", "name": "badge" },
+        "image": {
+          "path": "common",
+          "name": "badge"
+        },
         "title": "Siamo sempre al tuo fianco",
         "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
       }
@@ -906,7 +915,7 @@
       "title": "Paga comodamente online in modo semplice e sicuro",
       "description": "Prenota e paga in pochi clic, in totale sicurezza: accettiamo carte di credito, bancomat e prepagate. Puoi inoltre effettuare pagamenti tramite bonifico per le spese superiori a 150€, con un costo di 5€ per la gestione della pratica.",
       "cta-text": "Prenota ora",
-      "cta-link": "/prenota/",
+      "cta-link": "https://app.epicura.it",
       "image": {
         "path": "common",
         "name": "payment-with-card"
@@ -916,7 +925,7 @@
       "title": "Personale certificato, salute assicurata",
       "description": "Lavoriamo solo con professionisti qualificati e certificati. Tutte le prestazioni sono inoltre coperte da assicurazione. E se ti servisse un rimborso da parte del tuo ente assicurativo? Presentando la fattura avrai diritto ai rimborsi previsti.",
       "cta-text": "Prenota ora",
-      "cta-link": "/prenota/",
+      "cta-link": "https://app.epicura.it",
       "image": {
         "path": "common",
         "name": "insurance"
@@ -926,7 +935,7 @@
       "title": "Detraibilità fiscale garantita per le spese sanitarie",
       "description": "EpiCura garantisce la detraibilità di tutte le spese sanitarie proprio come un qualsiasi poliambulatorio o centro medico. Per usufruire delle detrazioni sarà sufficiente utilizzare la fattura ricevuta dopo il pagamento.",
       "cta-text": "Prenota ora",
-      "cta-link": "/prenota/",
+      "cta-link": "https://app.epicura.it",
       "image": {
         "path": "common",
         "name": "tax-deductions"
