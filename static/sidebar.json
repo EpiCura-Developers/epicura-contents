@@ -6,7 +6,7 @@
     "option-is-amp": true,
     "option-style-object-like": {
       "font-weight": "bold",
-      "font-size": "1.25rem"
+      "font-size": "1rem"
     }
   },
   {
@@ -17,9 +17,21 @@
     "option-style-object-like": {
       "font-weight": "bold",
       "margin-top": "5px",
-      "font-size": "1.25rem",
+      "font-size": "1rem",
       "border-bottom": "1px solid rgba(0,0,0,0.161)",
       "padding-bottom": "15px"
+    }
+  },
+  {
+    "option-link": "/blog/",
+    "option-label": "Megazine",
+    "option-is-complex": true,
+    "option-is-amp": false,
+    "only-mobile": true,
+    "option-style-object-like": {
+      "font-weight": "500",
+      "margin-top": "5px",
+      "font-size": "1rem"
     }
   },
   {
@@ -28,9 +40,9 @@
     "option-is-complex": false,
     "option-is-amp": false,
     "option-style-object-like": {
-      "font-weight": "600",
+      "font-weight": "500",
       "margin-top": "20px",
-      "font-size": "1.25rem"
+      "font-size": "1rem"
     }
   },
   {
@@ -39,9 +51,9 @@
     "option-is-complex": true,
     "option-is-amp": false,
     "option-style-object-like": {
-      "font-weight": "600",
+      "font-weight": "500",
       "margin-top": "5px",
-      "font-size": "1.25rem"
+      "font-size": "1rem"
     }
   },
   {
@@ -50,9 +62,9 @@
     "option-is-complex": true,
     "option-is-amp": false,
     "option-style-object-like": {
-      "font-weight": "600",
+      "font-weight": "500",
       "margin-top": "5px",
-      "font-size": "1.25rem"
+      "font-size": "1rem"
     }
   },
   {
@@ -62,7 +74,7 @@
     "option-is-amp": false,
     "option-style-object-like": {
       "margin-top": "30px",
-      "font-size": "1.25rem"
+      "font-size": "1rem"
     }
   },
   {
@@ -72,7 +84,21 @@
     "option-is-amp": false,
     "option-style-object-like": {
       "margin-top": "5px",
-      "font-size": "1.25rem"
+      "margin-bottom": "30px",
+      "font-size": "1rem"
+    }
+  },
+  {
+    "option-link": "tel:800909209",
+    "option-label": "Chiamaci",
+    "option-content": "800909209",
+    "option-is-complex": true,
+    "option-is-amp": true,
+    "only-mobile": true,
+    "option-style-object-like": {
+      "margin-top": "5px",
+      "margin-bottom": "10px",
+      "font-size": "1rem"
     }
   },
   {
@@ -83,7 +109,7 @@
     "is-image": true,
     "img-url": "/img/Download_on_the_App_Store_Badge_IT_RGB_wht_100317@2x.png",
     "option-style-object-like": {
-      "margin-top": "30px",
+      "margin-top": "10px",
       "margin-bottom": "0"
     }
   },
@@ -95,7 +121,8 @@
     "is-image": true,
     "img-url": "/img/Google_Play_Store_badge_IT@2x.png",
     "option-style-object-like": {
-      "margin-top": "1px"
+      "margin-top": "10px",
+      "margin-bottom": "0"
     }
   }
 ]
