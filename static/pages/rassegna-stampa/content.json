@@ -3,7 +3,7 @@
     "title": "Rassegna stampa",
     "description": "Rassegna stampa EpiCura"
   },
-  "subheader":{
+  "subheader": {
     "titleBig": "Articoli e comunicati stampa",
     "description1": "Le più importanti testate parlano di noi"
   },
@@ -12,7 +12,7 @@
   "site-press-contact-us-img": { "path": "common", "name": "marketing-contact" },
   "site-press-contact-us-name": "EpiCura Marketing",
   "site-press-contact-us-role": "Sezione Ufficio Stampa",
-  "site-press-contact-us-mail": "marketing@epicuramed.it",
+  "site-press-contact-us-mail": "marketing@epicura.it",
   "site-press-content-carousel-articles": [
     {
       "img": { "path": "common", "name": "lastampa" },

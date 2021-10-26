@@ -3,7 +3,7 @@
     "title": "EpiCura - Chi siamo?",
     "description": "Siamo il primo poliambulatorio digitale in Italia."
   },
-  "subheader":{
+  "subheader": {
     "titleBig": "Il primo poliambulatorio digitale in Italia",
     "description1": "Rendiamo la sanità più semplice, rapida e attenta ai bisogni delle persone."
   },
@@ -86,7 +86,7 @@
     {
       "site-who-we-are-contact-img": { "path": "common", "name": "card-1" },
       "site-who-we-are-contact-text": "Per enti, aziende e privati",
-      "site-who-we-are-contact-email": "informazioni@epicuramed.it",
+      "site-who-we-are-contact-email": "informazioni@epicura.it",
       "site-who-we-are-contact-btn-text": "Parliamoci"
     },
     {
