@@ -92,6 +92,7 @@
     "option-link": "tel:800909209",
     "option-label": "Chiamaci",
     "option-content": "800909209",
+    "is-tel": true,
     "option-is-complex": true,
     "option-is-amp": true,
     "only-mobile": true,
