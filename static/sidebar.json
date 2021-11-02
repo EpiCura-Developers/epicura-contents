@@ -1,5 +1,19 @@
 [
   {
+    "option-link": "",
+    "option-label": "Accedi",
+    "option-is-complex": true,
+    "option-is-amp": true,
+    "is-app-link": true,
+    "option-style-object-like": {
+      "font-weight": "bold",
+      "margin-top": "5px",
+      "font-size": "1rem",
+      "border-bottom": "1px solid rgba(0,0,0,0.161)",
+      "padding-bottom": "15px"
+    }
+  },
+  {
     "option-link": "/chi-siamo/",
     "option-label": "Chi siamo",
     "option-is-complex": true,
