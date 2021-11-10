@@ -5,6 +5,7 @@
     "option-is-complex": true,
     "option-is-amp": true,
     "is-app-link": true,
+    "only-mobile": true,
     "option-style-object-like": {
       "font-weight": "bold",
       "margin-top": "5px",
