@@ -1,5 +1,11 @@
 [ 
   {
+    "logo": { "path": "common", "name": "corrieredellasera" },
+    "title": "Corriere della Sera – EpiCura, welfare aziendale e ambulatori hi tech",
+    "date": "8 Gennaio 2022",
+    "link": "/press/Epicura_Corriere_080122.pdf"
+  },
+  {
     "logo": { "path": "common", "name": "forbes" },
     "title": "Forbes - Questi due ragazzi hanno appena raccolto 5 milioni di euro per portare il loro poliambulatorio digitale in tutta Italia",
     "date": "17 Settembre 2021",
