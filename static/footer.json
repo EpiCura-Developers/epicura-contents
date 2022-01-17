@@ -54,6 +54,23 @@
       ]
     },
     {
+      "column-name": "EpiCura Prime",
+      "column-options": [
+        {
+          "option-link": "/",
+          "option-label": "App iOS",
+          "option-is-complex": true,
+          "option-is-amp": false
+        },
+        {
+          "option-link": "/",
+          "option-label": "App Android",
+          "option-is-complex": true,
+          "option-is-amp": false
+        }
+      ]
+    },
+    {
       "column-name": "Aspetti legali",
       "column-options": [
         {
