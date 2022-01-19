@@ -480,5 +480,411 @@
     "hide-image-mobile": true,
     "has-bg-color": false,
     "cta-content": []
-  }
+  },
+  "prime-table-compare": [
+    {
+      "is-prime": false,
+      "title": "EpiCura",
+      "small-text": "0€ per sempre",
+      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": false
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "image": "",
+        "variant": "outlined"
+      }
+    },
+    {
+      "is-prime": true,
+      "title": "EpiCura Prime",
+      "small-text": "180€ all’anno",
+      "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Prova gratis per 14 giorni",
+        "link": "/",
+        "image": "",
+        "variant": "filled"
+      }
+    }
+  ],
+  "app-banner": {
+    "title": "50% di sconto sulla prima visita. <br> Scarica l'app",
+    "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": true,
+    "hide-image-mobile": true,
+    "has-bg-color": true,
+    "cta-content": [
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/Download_on_the_App_Store_Badge_IT_RGB_wht_100317@2x.png",
+        "variant": "image"
+      },
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/Google_Play_Store_badge_IT@2x.png",
+        "variant": "image"
+      }
+    ]
+  },
+  "agreement-banner": {
+    "title": "Collaboriamo solo con le migliori cliniche e professionisti",
+    "subtitle": "",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": false,
+    "cta-content": []
+  },
+  "clinic-carousel": [
+    {
+      "title": "Poliambulatorio Santa Maria della Croce",
+      "text": "Torino - via Arcivescovado 189",
+      "image": "",
+      "url": "",
+      "discipline": ""
+    },
+    {
+      "title": "Poliambulatorio Santa Maria della Croce",
+      "text": "Torino - via Arcivescovado 189",
+      "image": "",
+      "url": "",
+      "discipline": ""
+    },
+    {
+      "title": "Poliambulatorio Santa Maria della Croce",
+      "text": "Torino - via Arcivescovado 189",
+      "image": "",
+      "url": "",
+      "discipline": ""
+    },
+    {
+      "title": "Poliambulatorio Santa Maria della Croce",
+      "text": "Torino - via Arcivescovado 189",
+      "image": "",
+      "url": "",
+      "discipline": ""
+    },
+    {
+      "title": "Poliambulatorio Santa Maria della Croce",
+      "text": "Torino - via Arcivescovado 189",
+      "image": "",
+      "url": "",
+      "discipline": ""
+    }
+  ],
+  "kpi-cards": {
+    "title": "Facciamo sul serio. Lo dicono i numeri.",
+
+    "cards": [
+      {
+        "title": "+5.000",
+        "text": "Famiglie che si sono fidate di noi, dimenticando finalmente le file infinte della sanità pubblica.",
+        "titleColor": "orange"
+      },
+      {
+        "title": "3 min",
+        "text": "Tempo medio per la presa in carico di un intervento.",
+        "titleColor": "red"
+      },
+      {
+        "title": "+97%",
+        "text": "Pazienti soddisfatti che ci sceglierebbero di nuovo.",
+        "titleColor": "green"
+      }
+    ]
+  },
+  "slider-banner": [
+    {
+      "title": "Paga comodamente online",
+      "subtitle": "Quanto è bello saltare le file agli sportelli? Paga direttamente online tramite pc, tablet o smartphone.",
+      "img": {
+        "path": "common",
+        "name": "header_home"
+      },
+      "has-absolute-image": false,
+      "first-image-order": false,
+      "hide-image-mobile": false,
+      "has-bg-color": false,
+      "cta-content": [
+        {
+          "label": "Entra in Epicura",
+          "link": "/",
+          "image": "",
+          "variant": "outlined"
+        }
+      ]
+    },
+    {
+      "title": "Paga comodamente online",
+      "subtitle": "Quanto è bello saltare le file agli sportelli? Paga direttamente online tramite pc, tablet o smartphone.",
+      "img": {
+        "path": "common",
+        "name": "header_home"
+      },
+      "has-absolute-image": false,
+      "first-image-order": false,
+      "hide-image-mobile": false,
+      "has-bg-color": false,
+      "cta-content": [
+        {
+          "label": "Entra in Epicura",
+          "link": "/",
+          "image": "",
+          "variant": "outlined"
+        }
+      ]
+    }
+  ],
+  "discipline-carousel": [
+    {
+      "title": "Fisioterapia",
+      "text": "A partire da 40€/seduta",
+      "image": "/img/card-image.png",
+      "url": "/fisioterapia",
+      "discipline": "physiotherapy"
+    },
+    {
+      "title": "Veterinaria",
+      "text": "A partire da 60€",
+      "image": "/img/card-image.png",
+      "url": "/veterinaria",
+      "discipline": "veterinary"
+    },
+    {
+      "title": "Nutrizione",
+      "text": "A partire da 40€/seduta",
+      "image": "/img/card-image.png",
+      "url": "/nutrizione",
+      "discipline": "nutrition"
+    },
+    {
+      "title": "Pediatria",
+      "text": "A partire da 40€/seduta",
+      "image": "/img/card-image.png",
+      "url": "/pediatria",
+      "discipline": "pediatrics"
+    },
+    {
+      "title": "Fisioterapia",
+      "text": "A partire da 40€/seduta",
+      "image": "/img/card-image.png",
+      "url": "/fisioterapia",
+      "discipline": "physiotherapy"
+    },
+    {
+      "title": "Veterinaria",
+      "text": "A partire da 60€",
+      "image": "/img/card-image.png",
+      "url": "/veterinaria",
+      "discipline": "veterinary"
+    },
+    {
+      "title": "Nutrizione",
+      "text": "A partire da 40€/seduta",
+      "image": "/img/card-image.png",
+      "url": "/nutrizione",
+      "discipline": "nutrition"
+    },
+    {
+      "title": "Pediatria",
+      "text": "A partire da 40€/seduta",
+      "image": "/img/card-image.png",
+      "url": "/pediatria",
+      "discipline": "pediatrics"
+    }
+  ],
+  "prime-cards": [
+    {
+      "title": "Videoconsulto Medico di base <strong>illimitato</strong>",
+      "text": "",
+      "textVariant": "",
+      "image": "/img/card-image-big.png",
+      "cta": [],
+      "variant": "prime",
+      "hasBgColor": false
+    },
+    {
+      "title": "Videoconsulto Veterinario <strong>illimitato</strong>",
+      "text": "",
+      "textVariant": "",
+      "image": "/img/card-image-big.png",
+      "cta": [],
+      "variant": "prime",
+      "hasBgColor": false
+    },
+    {
+      "title": "Videoconsulto Veterinario <strong>illimitato</strong>",
+      "text": "",
+      "textVariant": "",
+      "image": "/img/card-image-big.png",
+      "cta": [],
+      "variant": "prime",
+      "hasBgColor": false
+    },
+    {
+      "title": "Inizia ora i tuoi 14 giorni di prova gratuita",
+      "text": "Se non ti piace, disdici quando vuoi.",
+      "textVariant": "180€ all’anno",
+      "image": "",
+      "cta": [
+        {
+          "label": "Prova gratis",
+          "link": "",
+          "image": "",
+          "variant": "outlined"
+        }
+      ],
+      "variant": "prime",
+      "hasBgColor": true
+    }
+  ],
+  "contact-us": {
+    "title": "Vuoi saperne di più?",
+    "subtitle": "Costruiamo insieme il poliambulatorio digitale su misura per voi.",
+    "cta": [
+      {
+        "label": "Entriamo in contatto",
+        "link": "/",
+        "image": "",
+        "variant": "outlined"
+      }
+    ]
+  },
+  "price-cards": [
+    {
+      "is-highlighted": false,
+      "title": "Percorso basic",
+      "subtitle": "Inizia il tuo percorso con 2 videosedute mensili. Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te.",
+      "previous-price": "",
+      "price": "105 Euro",
+      "price-detail": "Pacchetto base",
+      "cta": [
+        {
+          "label": "Parla con un tutor",
+          "link": "/",
+          "image": "",
+          "variant": "outlined"
+        }
+      ]
+    },
+    {
+      "is-highlighted": true,
+      "title": "Percorso plus",
+      "subtitle": "Questo percorso ti consente di accedere a 3 videosedute mensili, comodamente da smartphone, pc o tablet. Ideale per chi si approccia per la prima volta alla terapia psicologica.",
+      "previous-price": "165",
+      "price": "153 Euro",
+      "price-detail": "Il più acquistato",
+      "cta": [
+        {
+          "label": "Parla con un tutor",
+          "link": "/",
+          "image": "",
+          "variant": "gradient"
+        }
+      ]
+    },
+    {
+      "is-highlighted": false,
+      "title": "Percorso standard",
+      "subtitle": "Percorso terapeutico che comprende 4 videosedute mensili, particolarmente efficace per lavorare su sofferenze e disturbi di lungo periodo. Ideale per un supporto psicologico costante.",
+      "previous-price": "220",
+      "price": "198 Euro",
+      "price-detail": "Risparmi 22 Euro",
+      "cta": [
+        {
+          "label": "Parla con un tutor",
+          "link": "/",
+          "image": "",
+          "variant": "outlined"
+        }
+      ]
+    }
+  ]
 }
