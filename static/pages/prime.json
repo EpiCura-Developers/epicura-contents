@@ -1,0 +1,299 @@
+{
+  "metaDescription": {
+    "title": "EpiCura",
+    "description": "Medici, infermieri, veterinari, badanti e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7."
+  },
+  "top_banner": {
+    "title": "<strong>EpiCura Prime</strong> ti fa risparmiare.",
+    "subtitle": "Abbiamo pensato a un abbonamento che ti fa risparmiare tempo. Lo provi gratis per 14 giorni, senza impegno, e se ti piace lo sottoscrivi per un anno. <br> <h5>180€ all’anno</h5>",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": false,
+    "cta-content": [
+      {
+        "label": "Prova gratis per 14 giorni",
+        "link": "/",
+        "image": "",
+        "variant": "filled"
+      }
+    ]
+  },
+  "prime-cards": {
+    "title": "I migliori professionisti <strong>a portata di click.</strong>",
+    "cards": [
+      {
+        "title": "Videoconsulto Medico di base <strong>illimitato</strong>",
+        "text": "",
+        "textVariant": "",
+        "image": "/img/card-image-big.png",
+        "cta": [],
+        "variant": "prime",
+        "hasBgColor": false
+      },
+      {
+        "title": "Videoconsulto Veterinario <strong>illimitato</strong>",
+        "text": "",
+        "textVariant": "",
+        "image": "/img/card-image-big.png",
+        "cta": [],
+        "variant": "prime",
+        "hasBgColor": false
+      },
+      {
+        "title": "Videoconsulto Veterinario <strong>illimitato</strong>",
+        "text": "",
+        "textVariant": "",
+        "image": "/img/card-image-big.png",
+        "cta": [],
+        "variant": "prime",
+        "hasBgColor": false
+      },
+      {
+        "title": "Inizia ora i tuoi 14 giorni di prova gratuita",
+        "text": "Se non ti piace, disdici quando vuoi.",
+        "textVariant": "180€ all’anno",
+        "image": "",
+        "cta": [
+          {
+            "label": "Prova gratis",
+            "link": "",
+            "image": "",
+            "variant": "outlined"
+          }
+        ],
+        "variant": "prime",
+        "hasBgColor": true
+      }
+    ]
+  },
+  "prime-banner": {
+    "title": "<strong>Epicura Prime</strong> è tutta salute",
+    "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": false,
+    "cta-content": []
+  },
+  "prime-table-compare": [
+    {
+      "is-prime": false,
+      "title": "EpiCura",
+      "small-text": "0€ per sempre",
+      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": false
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "image": "",
+        "variant": "outlined"
+      }
+    },
+    {
+      "is-prime": true,
+      "title": "EpiCura Prime",
+      "small-text": "180€ all’anno",
+      "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Prova gratis per 14 giorni",
+        "link": "/",
+        "image": "",
+        "variant": "filled"
+      }
+    }
+  ],
+  "app-banner": {
+    "title": "50% di sconto sulla prima visita. <br> Scarica l'app",
+    "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": true,
+    "hide-image-mobile": true,
+    "has-bg-color": true,
+    "cta-content": [
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/Download_on_the_App_Store_Badge_IT_RGB_wht_100317@2x.png",
+        "variant": "image"
+      },
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/Google_Play_Store_badge_IT@2x.png",
+        "variant": "image"
+      }
+    ]
+  },
+  "agreement-banner": {
+    "title": "Collaboriamo solo con le migliori cliniche e professionisti",
+    "subtitle": "",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": false,
+    "cta-content": []
+  },
+  "clinic-carousel": [
+    {
+      "title": "Poliambulatorio Santa Maria della Croce",
+      "text": "Torino - via Arcivescovado 189",
+      "image": "",
+      "url": "",
+      "discipline": ""
+    },
+    {
+      "title": "Poliambulatorio Santa Maria della Croce",
+      "text": "Torino - via Arcivescovado 189",
+      "image": "",
+      "url": "",
+      "discipline": ""
+    },
+    {
+      "title": "Poliambulatorio Santa Maria della Croce",
+      "text": "Torino - via Arcivescovado 189",
+      "image": "",
+      "url": "",
+      "discipline": ""
+    },
+    {
+      "title": "Poliambulatorio Santa Maria della Croce",
+      "text": "Torino - via Arcivescovado 189",
+      "image": "",
+      "url": "",
+      "discipline": ""
+    },
+    {
+      "title": "Poliambulatorio Santa Maria della Croce",
+      "text": "Torino - via Arcivescovado 189",
+      "image": "",
+      "url": "",
+      "discipline": ""
+    }
+  ],
+  "family-banner": {
+    "title": "Prenditi cura di <strong>tutta la famiglia</strong>",
+    "subtitle": "",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "list-details": [
+      {
+        "icon": "/img/visite-mediche.png",
+        "text": "Visite mediche a domicilio, in studio o in videoconsulto"
+      },
+      {
+        "icon": "/img/percorsi-psicologia.png",
+        "text": "Percorsi di psicologia e psicoterapia"
+      },
+      {
+        "icon": "/img/ricerca-badanti.png",
+        "text": "Ricerca badanti e assistenza anziani, malati e disabili"
+      }
+    ],
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": false,
+    "cta-content": [
+      {
+        "label": "Prova gratis per 14 giorni",
+        "link": "/",
+        "image": "",
+        "variant": "filled"
+      }
+    ]
+  }
+}
