@@ -780,51 +780,54 @@
       "discipline": "pediatrics"
     }
   ],
-  "prime-cards": [
-    {
-      "title": "Videoconsulto Medico di base <strong>illimitato</strong>",
-      "text": "",
-      "textVariant": "",
-      "image": "/img/card-image-big.png",
-      "cta": [],
-      "variant": "prime",
-      "hasBgColor": false
-    },
-    {
-      "title": "Videoconsulto Veterinario <strong>illimitato</strong>",
-      "text": "",
-      "textVariant": "",
-      "image": "/img/card-image-big.png",
-      "cta": [],
-      "variant": "prime",
-      "hasBgColor": false
-    },
-    {
-      "title": "Videoconsulto Veterinario <strong>illimitato</strong>",
-      "text": "",
-      "textVariant": "",
-      "image": "/img/card-image-big.png",
-      "cta": [],
-      "variant": "prime",
-      "hasBgColor": false
-    },
-    {
-      "title": "Inizia ora i tuoi 14 giorni di prova gratuita",
-      "text": "Se non ti piace, disdici quando vuoi.",
-      "textVariant": "180€ all’anno",
-      "image": "",
-      "cta": [
-        {
-          "label": "Prova gratis",
-          "link": "",
-          "image": "",
-          "variant": "outlined"
-        }
-      ],
-      "variant": "prime",
-      "hasBgColor": true
-    }
-  ],
+  "prime-cards": {
+    "title": "I migliori professionisti <strong>a portata di click.</strong>",
+    "cards": [
+      {
+        "title": "Videoconsulto Medico di base <strong>illimitato</strong>",
+        "text": "",
+        "textVariant": "",
+        "image": "/img/card-image-big.png",
+        "cta": [],
+        "variant": "prime",
+        "hasBgColor": false
+      },
+      {
+        "title": "Videoconsulto Veterinario <strong>illimitato</strong>",
+        "text": "",
+        "textVariant": "",
+        "image": "/img/card-image-big.png",
+        "cta": [],
+        "variant": "prime",
+        "hasBgColor": false
+      },
+      {
+        "title": "Videoconsulto Veterinario <strong>illimitato</strong>",
+        "text": "",
+        "textVariant": "",
+        "image": "/img/card-image-big.png",
+        "cta": [],
+        "variant": "prime",
+        "hasBgColor": false
+      },
+      {
+        "title": "Inizia ora i tuoi 14 giorni di prova gratuita",
+        "text": "Se non ti piace, disdici quando vuoi.",
+        "textVariant": "180€ all’anno",
+        "image": "",
+        "cta": [
+          {
+            "label": "Prova gratis",
+            "link": "",
+            "image": "",
+            "variant": "outlined"
+          }
+        ],
+        "variant": "prime",
+        "hasBgColor": true
+      }
+    ]
+  },
   "contact-us": {
     "title": "Vuoi saperne di più?",
     "subtitle": "Costruiamo insieme il poliambulatorio digitale su misura per voi.",
