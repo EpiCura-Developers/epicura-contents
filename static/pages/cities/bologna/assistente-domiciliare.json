@@ -3,23 +3,21 @@
     "title": "Assistenza a ore a Bologna",
     "description": "Assistenza a ore a Bologna per anziani, malati e disabili con assistenti domiciliari qualificati e con esperienza, che ti raggiungono a domicilio, in ospedale o in casa di riposo."
   },
-  "subheader": {
-    "prenotaOnlineText": "Richiedi preventivo gratuito",
-    "prenotaUrl": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
-    "prenotaUrlStaging": "https://share.hsforms.com/1VzC5zyyKT2GtgcxGmm1UTA5kab9",
-    "professionistaText": "",
-    "professionistaUrl": "",
-    "titleBig": "Assistenza a ore a Bologna",
-    "description1": "EpiCura si prende cura di anziani, malati o disabili con assistenti domiciliari qualificati e con esperienza, che ti raggiungono a domicilio, in ospedale o in casa di riposo. <br /> Scopri le nostre soluzioni di assistenza a domicilio e ritrova serenità."
+  "top_banner": {
+    "title": "La salute a Torino con EpiCura",
+    "subtitle": "Scegli la comodità: prenota un servizio sanitario e ricevilo direttamente in videoconsulto, a casa tua o in studio nella tua città.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": false,
+    "cta-content": []
   },
-  "booking-card": {
-    "code": "homecareHomeAssistance",
-    "title": "Assistenti domiciliari a Bologna <br /> per anziani, malati e disabili",
-    "text": "Cerchi assistenza qualificata per un tuo caro? <br /> Con EpiCura i migliori assistenti domiciliari arrivano comodamente a domicilio, in ospedale o in casa di riposo, 7 giorni su 7, entro 24 ore dalla prenotazione. Recupera serenità, richiedi adesso un preventivo gratuito.*",
-    "hint": "*Il servizio è erogabile a partire da un minimo di 3 ore consecutive",
-    "price": "Tariffa: 14€/h",
-    "prenotaOnlineText": "Richiedi preventivo gratuito",
-    "link": "https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs",
-    "linkStaging": "https://share.hsforms.com/1VzC5zyyKT2GtgcxGmm1UTA5kab9"
+  "card-trattamenti": {
+    "titolo": "Fisioterapia per anziani",
+    "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria"
   }
 }
