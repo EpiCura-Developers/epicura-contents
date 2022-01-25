@@ -42,64 +42,67 @@
       }
     ]
   },
-  "discipline-carousel": [
-    {
-      "title": "Fisioterapia",
-      "text": "A partire da 40€/seduta",
-      "image": "/img/card-image.png",
-      "url": "/fisioterapia",
-      "discipline": "physiotherapy"
-    },
-    {
-      "title": "Veterinaria",
-      "text": "A partire da 60€",
-      "image": "/img/card-image.png",
-      "url": "/veterinaria",
-      "discipline": "veterinary"
-    },
-    {
-      "title": "Nutrizione",
-      "text": "A partire da 40€/seduta",
-      "image": "/img/card-image.png",
-      "url": "/nutrizione",
-      "discipline": "nutrition"
-    },
-    {
-      "title": "Pediatria",
-      "text": "A partire da 40€/seduta",
-      "image": "/img/card-image.png",
-      "url": "/pediatria",
-      "discipline": "pediatrics"
-    },
-    {
-      "title": "Fisioterapia",
-      "text": "A partire da 40€/seduta",
-      "image": "/img/card-image.png",
-      "url": "/fisioterapia",
-      "discipline": "physiotherapy"
-    },
-    {
-      "title": "Veterinaria",
-      "text": "A partire da 60€",
-      "image": "/img/card-image.png",
-      "url": "/veterinaria",
-      "discipline": "veterinary"
-    },
-    {
-      "title": "Nutrizione",
-      "text": "A partire da 40€/seduta",
-      "image": "/img/card-image.png",
-      "url": "/nutrizione",
-      "discipline": "nutrition"
-    },
-    {
-      "title": "Pediatria",
-      "text": "A partire da 40€/seduta",
-      "image": "/img/card-image.png",
-      "url": "/pediatria",
-      "discipline": "pediatrics"
-    }
-  ],
+  "discipline-carousel": {
+    "title": "Specialità più richieste a Torino",
+    "cards": [
+      {
+        "title": "Fisioterapia",
+        "text": "A partire da 40€/seduta",
+        "image": "/img/card-image.png",
+        "url": "/fisioterapia",
+        "discipline": "physiotherapy"
+      },
+      {
+        "title": "Veterinaria",
+        "text": "A partire da 60€",
+        "image": "/img/card-image.png",
+        "url": "/veterinaria",
+        "discipline": "veterinary"
+      },
+      {
+        "title": "Nutrizione",
+        "text": "A partire da 40€/seduta",
+        "image": "/img/card-image.png",
+        "url": "/nutrizione",
+        "discipline": "nutrition"
+      },
+      {
+        "title": "Pediatria",
+        "text": "A partire da 40€/seduta",
+        "image": "/img/card-image.png",
+        "url": "/pediatria",
+        "discipline": "pediatrics"
+      },
+      {
+        "title": "Fisioterapia",
+        "text": "A partire da 40€/seduta",
+        "image": "/img/card-image.png",
+        "url": "/fisioterapia",
+        "discipline": "physiotherapy"
+      },
+      {
+        "title": "Veterinaria",
+        "text": "A partire da 60€",
+        "image": "/img/card-image.png",
+        "url": "/veterinaria",
+        "discipline": "veterinary"
+      },
+      {
+        "title": "Nutrizione",
+        "text": "A partire da 40€/seduta",
+        "image": "/img/card-image.png",
+        "url": "/nutrizione",
+        "discipline": "nutrition"
+      },
+      {
+        "title": "Pediatria",
+        "text": "A partire da 40€/seduta",
+        "image": "/img/card-image.png",
+        "url": "/pediatria",
+        "discipline": "pediatrics"
+      }
+    ]
+  },
   "bullet-cards": {
     "title": "Perché affidarsi a EpiCura?",
     "cards": [

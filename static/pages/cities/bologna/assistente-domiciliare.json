@@ -17,7 +17,122 @@
     "cta-content": []
   },
   "card-trattamenti": {
-    "titolo": "Fisioterapia per anziani",
+    "title": "Fisioterapia per anziani",
     "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria"
-  }
+  },
+  "prime-banner": {
+    "title": "<strong>Epicura Prime</strong> è tutta salute",
+    "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": false,
+    "cta-content": []
+  },
+  "prime-table-compare": [
+    {
+      "is-prime": false,
+      "title": "EpiCura",
+      "small-text": "0€ per sempre",
+      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": false
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "image": "",
+        "variant": "outlined"
+      }
+    },
+    {
+      "is-prime": true,
+      "title": "EpiCura Prime",
+      "small-text": "180€ all’anno",
+      "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Prova gratis per 14 giorni",
+        "link": "/",
+        "image": "",
+        "variant": "filled"
+      }
+    }
+  ]
 }
