@@ -225,43 +225,46 @@
     "has-bg-color": false,
     "cta-content": []
   },
-  "clinic-carousel": [
-    {
-      "title": "Poliambulatorio Santa Maria della Croce",
-      "text": "Torino - via Arcivescovado 189",
-      "image": "",
-      "url": "",
-      "discipline": ""
-    },
-    {
-      "title": "Poliambulatorio Santa Maria della Croce",
-      "text": "Torino - via Arcivescovado 189",
-      "image": "",
-      "url": "",
-      "discipline": ""
-    },
-    {
-      "title": "Poliambulatorio Santa Maria della Croce",
-      "text": "Torino - via Arcivescovado 189",
-      "image": "",
-      "url": "",
-      "discipline": ""
-    },
-    {
-      "title": "Poliambulatorio Santa Maria della Croce",
-      "text": "Torino - via Arcivescovado 189",
-      "image": "",
-      "url": "",
-      "discipline": ""
-    },
-    {
-      "title": "Poliambulatorio Santa Maria della Croce",
-      "text": "Torino - via Arcivescovado 189",
-      "image": "",
-      "url": "",
-      "discipline": ""
-    }
-  ],
+  "clinic-carousel": {
+    "title": "",
+    "cards": [
+      {
+        "title": "Poliambulatorio Santa Maria della Croce",
+        "text": "Torino - via Arcivescovado 189",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Poliambulatorio Santa Maria della Croce",
+        "text": "Torino - via Arcivescovado 189",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Poliambulatorio Santa Maria della Croce",
+        "text": "Torino - via Arcivescovado 189",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Poliambulatorio Santa Maria della Croce",
+        "text": "Torino - via Arcivescovado 189",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Poliambulatorio Santa Maria della Croce",
+        "text": "Torino - via Arcivescovado 189",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      }
+    ]
+  },
   "family-banner": {
     "title": "Prenditi cura di <strong>tutta la famiglia</strong>",
     "subtitle": "",
