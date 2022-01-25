@@ -134,6 +134,29 @@
       }
     ]
   },
+  "card-percentage": [
+    {
+      "text-over-image": "-15%",
+      "image": "",
+      "title": "di assenze per dipendente.",
+      "text": "Il ruolo della salute è fondamentale per ogni dipendente. Assicurarsi che ogni dipendente stia bene significa far bene all'azienda.",
+      "color-variant": "blue"
+    },
+    {
+      "text-over-image": "+5%",
+      "image": "",
+      "title": "di ore lavorate in più.",
+      "text": "Il benessere dei dipendenti si rispecchia necessariamente non solo sulla quantità ma anche sulla qualità del lavoro.",
+      "color-variant": "green"
+    },
+    {
+      "text-over-image": "+55%",
+      "image": "",
+      "title": "di soddisfazione sul lavoro.",
+      "text": "La salute influisce positivamente sul clima aziendale, sulla produttività nonché sulla retention.",
+      "color-variant": "darkblue"
+    }
+  ],
   "slider-banner": [
     {
       "title": "Ricevi l'osservatorio Gratuito",
