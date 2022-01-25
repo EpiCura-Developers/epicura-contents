@@ -3,144 +3,271 @@
     "title": "EpiCura - Genova",
     "description": "Cura la tua salute e quella di chi ami a Genova e area metropolitana con EpiCura, primo poliambulatorio digitale in Italia. Servizi medici, sanitari e assistenziali 7 giorni su 7, anche in orari serali, senza liste d'attesa."
   },
-  "subheader": {
-    "prenotaOnlineText": "Prenota ora",
-    "titleBig": "La salute a Genova con EpiCura",
-    "subtitleBig": "",
-    "description1": "Siamo il primo poliambulatorio a domicilio d'Italia.",
-    "description2": "Prenota online medici, assistenti domiciliari, fisioterapisti e professionisti sanitari a domicilio, in studio o in videoconsulto, 7 giorni su 7, senza liste d'attesa."
+  "top_banner": {
+    "title": "La salute a Genova con EpiCura",
+    "subtitle": "Scegli la comodità: prenota un servizio sanitario e ricevilo direttamente in videoconsulto, a casa tua o in studio nella tua città.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": false,
+    "cta-content": []
   },
-  "come_funziona": {
-    "title": "Come funziona EpiCura?",
-    "text": "",
+  "service-cards": {
+    "title": "Cosa prenoti oggi a Genova?",
     "cards": [
       {
-        "image": {
-          "path": "common",
-          "name": "stetofonendoscopio"
-        },
-        "title": "SCEGLI L'INTERVENTO",
-        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli l'intervento di cui hai bisogno, noi troveremo il miglior professionista per le tue esigenze.",
-        "button": {
-          "text": "Prenota ora",
-          "link": "https://app.epicura.it"
-        }
+        "title": "Visite mediche, esami strumentali e videoconsulti",
+        "subtitle": "online - a domicilio - in studio",
+        "img": "/img/visite_mediche.svg",
+        "cta-label": "Prenota",
+        "url": "/"
       },
       {
-        "image": {
-          "path": "common",
-          "name": "booking"
-        },
-        "title": "PRENOTA IN POCHI CLIC",
-        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza utilizzando carta di credito, bancomat o prepagata.",
-        "button": {
-          "text": "Prenota ora",
-          "link": "https://app.epicura.it"
-        }
+        "title": "Ricerca e selezione badanti, assistenza domiciliare ad ore",
+        "subtitle": "a domicilio",
+        "img": "/img/ricerca_badante.svg",
+        "cta-label": "Prenota",
+        "url": "/"
       },
       {
-        "image": {
-          "path": "common",
-          "name": "follow-up"
-        },
-        "title": "RICEVI L'INTERVENTO A DOMICILIO",
-        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
-        "button": {
-          "text": "Prenota ora",
-          "link": "https://app.epicura.it"
-        }
+        "title": "Percorsi di psicologia e psicoterapia",
+        "subtitle": "online - in studio",
+        "img": "/img/psicologia_psicoterapia.svg",
+        "cta-label": "Prenota",
+        "url": "/"
       }
     ]
   },
-  "nostri_servizi": {
-    "title": "I nostri servizi a domicilio a Genova",
-    "startingFromText": "Interventi a partire da",
-    "list": [
+  "discipline-carousel": {
+    "title": "Visite Più Richieste A Genova",
+    "cards": [
       {
-        "specialist": "badante",
-        "title": "Ricerca badanti e assistenza domiciliare",
-        "link": "/badante/",
-        "image": {
-          "path": "caregiver",
-          "name": "badante-bg"
-        },
-        "price": "682€",
-        "prestazioni": "Assistenza a ore e continuativa per anziani, malati e disabili, a domicilio, in ospedale o in casa di riposo."
-      },
-      {
-        "specialist": "veterinario",
-        "title": "Veterinaria",
-        "image": {
-          "path": "veterinary",
-          "name": "veterinary"
-        },
-        "price": "60€",
-        "prestazioni": "Visita veterinaria a domicilio, per un check-up sullo stato di salute e la vaccinazione del tuo animale."
-      },
-      {
-        "specialist": "osteopata",
-        "title": "Osteopatia",
-        "image": {
-          "path": "osteopathy",
-          "name": "osteopathy"
-        },
-        "price": "70€ a seduta",
-        "prestazioni": "Percorsi terapeutici con approccio olistico, per curare dolori muscolo-scheletrici e disturbi sistemici."
-      },
-      {
-        "specialist": "infermiere",
-        "title": "Infermieristica",
-        "image": {
-          "path": "nursing",
-          "name": "nursing"
-        },
-        "price": "23€",
-        "prestazioni": "Interventi infermieristici erogati a domicilio per supporto specialistico in cure e terapie."
-      },
-      {
-        "specialist": "fisioterapista",
         "title": "Fisioterapia",
-        "image": {
-          "path": "physiotherapy",
-          "name": "physiotherapy"
-        },
-        "price": "65€ a seduta",
-        "prestazioni": "Percorsi fisioterapici per la cura di dolore posturale, infiammazione e riabilitazione motoria."
+        "text": "A partire da 40€/seduta",
+        "image": "/img/card-image.png",
+        "url": "/fisioterapia",
+        "discipline": "physiotherapy"
       },
       {
-        "specialist": "psicologo",
-        "title": "Psicologia e psicoterapia online",
-        "link": "/psicologo-psicoterapeuta-online/",
-        "image": {
-          "path": "psychology",
-          "name": "psychology"
-        },
-        "price": "25€",
-        "prestazioni": "Percorsi di terapia online, dedicati anche a coppie e famiglie, per ritrovare serenità e armonia."
+        "title": "Veterinaria",
+        "text": "A partire da 60€",
+        "image": "/img/card-image.png",
+        "url": "/veterinaria",
+        "discipline": "veterinary"
       },
       {
-        "specialist": "nutrizionista",
         "title": "Nutrizione",
-        "image": {
-          "path": "nutrition",
-          "name": "nutrition"
-        },
-        "price": "75€",
-        "prestazioni": "Visita specialistica per valutazione e consulenza sull'apporto alimentare e creazione dieta su misura."
+        "text": "A partire da 40€/seduta",
+        "image": "/img/card-image.png",
+        "url": "/nutrizione",
+        "discipline": "nutrition"
+      },
+      {
+        "title": "Pediatria",
+        "text": "A partire da 40€/seduta",
+        "image": "/img/card-image.png",
+        "url": "/pediatria",
+        "discipline": "pediatrics"
+      },
+      {
+        "title": "Fisioterapia",
+        "text": "A partire da 40€/seduta",
+        "image": "/img/card-image.png",
+        "url": "/fisioterapia",
+        "discipline": "physiotherapy"
+      },
+      {
+        "title": "Veterinaria",
+        "text": "A partire da 60€",
+        "image": "/img/card-image.png",
+        "url": "/veterinaria",
+        "discipline": "veterinary"
+      },
+      {
+        "title": "Nutrizione",
+        "text": "A partire da 40€/seduta",
+        "image": "/img/card-image.png",
+        "url": "/nutrizione",
+        "discipline": "nutrition"
+      },
+      {
+        "title": "Pediatria",
+        "text": "A partire da 40€/seduta",
+        "image": "/img/card-image.png",
+        "url": "/pediatria",
+        "discipline": "pediatrics"
       }
     ]
   },
-  "hint-card": {
-    "title": "Vuoi parlare con un medico online? Prenota un videoconsulto",
-    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
-    "price": "Videoconsulto specialistico 25€",
-    "bkg-color": "#F5F8FF",
-    "image": {
-      "path": "videoconsultation",
-      "name": "videoconsultation-banner"
+  "bullet-cards": {
+    "title": "Perché affidarsi a EpiCura?",
+    "cards": [
+      {
+        "title": "Comodo, veloce, flessibile",
+        "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
+        "img": "/img/smile.png"
+      },
+      {
+        "title": "Professionisti certificati",
+        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
+        "img": "/img/smile.png"
+      },
+      {
+        "title": "Prenotazioni senza intoppi",
+        "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
+        "img": "/img/smile.png"
+      },
+      {
+        "title": "Supporto costante",
+        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
+        "img": "/img/smile.png"
+      }
+    ]
+  },
+  "prime-banner": {
+    "title": "<strong>Epicura Prime</strong> è tutta salute",
+    "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
     },
-    "button-text": "Scopri come funziona",
-    "button-link": "/videoconsulti/"
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": false,
+    "cta-content": []
+  },
+  "prime-table-compare": [
+    {
+      "is-prime": false,
+      "title": "EpiCura",
+      "small-text": "0€ per sempre",
+      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": false
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "image": "",
+        "variant": "outlined"
+      }
+    },
+    {
+      "is-prime": true,
+      "title": "EpiCura Prime",
+      "small-text": "180€ all’anno",
+      "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Prova gratis per 14 giorni",
+        "link": "/",
+        "image": "",
+        "variant": "filled"
+      }
+    }
+  ],
+  "app-banner": {
+    "title": "50% di sconto sulla prima visita. <br>Scarica l'app",
+    "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": true,
+    "cta-content": [
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/Download_on_the_App_Store_Badge_IT_RGB_wht_100317@2x.png",
+        "variant": "image"
+      },
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/Google_Play_Store_badge_IT@2x.png",
+        "variant": "image"
+      }
+    ]
   },
   "map": {
     "showAllText": "Mostra tutti",
@@ -405,67 +532,5 @@
       "buttonText": "Scrivici",
       "image": "contact-card"
     }
-  },
-  "advantages": {
-    "title": "I migliori professionisti a domicilio entro 24 ore",
-    "subtitle": "Un servizio comodo, flessibile, affidabile",
-    "list": [
-      {
-        "image": {
-          "path": "common",
-          "name": "professionist"
-        },
-        "title": "Solo professionisti qualificati",
-        "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "certificate"
-        },
-        "title": "La tua soddisfazione è la nostra priorità",
-        "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "badge"
-        },
-        "title": "Siamo sempre al tuo fianco",
-        "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
-      }
-    ]
-  },
-  "carousel": [
-    {
-      "title": "Paga comodamente online in modo semplice e sicuro",
-      "description": "Prenota e paga in pochi clic, in totale sicurezza: accettiamo carte di credito, bancomat e prepagate. Puoi inoltre effettuare pagamenti tramite bonifico per le spese superiori a 150€, con un costo di 5€ per la gestione della pratica.",
-      "cta-text": "Prenota ora",
-      "cta-link": "https://app.epicura.it",
-      "image": {
-        "path": "common",
-        "name": "payment-with-card"
-      }
-    },
-    {
-      "title": "Personale certificato, salute assicurata",
-      "description": "Lavoriamo solo con professionisti qualificati e certificati. Tutte le prestazioni sono inoltre coperte da assicurazione. E se ti servisse un rimborso da parte del tuo ente assicurativo? Presentando la fattura avrai diritto ai rimborsi previsti.",
-      "cta-text": "Prenota ora",
-      "cta-link": "https://app.epicura.it",
-      "image": {
-        "path": "common",
-        "name": "insurance"
-      }
-    },
-    {
-      "title": "Detraibilità fiscale garantita per le spese sanitarie",
-      "description": "EpiCura garantisce la detraibilità di tutte le spese sanitarie proprio come un qualsiasi poliambulatorio o centro medico. Per usufruire delle detrazioni sarà sufficiente utilizzare la fattura ricevuta dopo il pagamento.",
-      "cta-text": "Prenota ora",
-      "cta-link": "https://app.epicura.it",
-      "image": {
-        "path": "common",
-        "name": "tax-deductions"
-      }
-    }
-  ]
+  }
 }
