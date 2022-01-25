@@ -3,10 +3,529 @@
     "title": "Fisioterapista a Napoli",
     "description": "Fisioterapisti esperti a domicilio a Napoli e area metropolitana. Riabilitazione a domicilio, linfodrenaggio, sedute fisioterapiche a casa, 7 giorni su 7, senza liste d'attesa."
   },
-  "subheader": {
-    "prenotaOnlineText": "Prenota ora",
-    "titleBig": "Fisioterapisti a domicilio <br /> a Napoli",
-    "description1": "EpiCura porta la fisioterapia comodamente a domicilio, in tutta Napoli e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
-    "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa."
+  "top_banner": {
+    "title": "Fisioterapista a Napoli",
+    "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": false,
+    "cta-content": []
+  },
+  "bullet-cards": {
+    "title": "Perché affidarsi a EpiCura?",
+    "cards": [
+      {
+        "title": "Comodo, veloce, flessibile",
+        "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
+        "img": "/img/smile.png"
+      },
+      {
+        "title": "Professionisti certificati",
+        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
+        "img": "/img/smile.png"
+      },
+      {
+        "title": "Prenotazioni senza intoppi",
+        "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
+        "img": "/img/smile.png"
+      },
+      {
+        "title": "Supporto costante",
+        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
+        "img": "/img/smile.png"
+      }
+    ]
+  },
+  "card-trattamenti": {
+    "title": "I nostri trattamenti di fisioterapia",
+    "cards": [
+      {
+        "title": "Fisioterapia per anziani",
+        "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria"
+      },
+      {
+        "title": "Fisioterapia pediatrica",
+        "description": "torcicollo, plagiocefalia neonatale, piede piatto valgo, scoliosi, dorso curvo, fratture"
+      },
+      {
+        "title": "Fisioterapia in gravidanza",
+        "description": "gonfiore degli arti, mal di schiena, lombalgia, scialtalgia, disturbi del pavimento pelvico"
+      },
+      {
+        "title": "Riabilitazione respiratoria",
+        "description": "ginnastica respiratoria, fisioterapia polmonare"
+      },
+      {
+        "title": "Riabilitazione motoria",
+        "description": "alluce valgo, protesi anca, frattura femore, fisioterapia per ginocchio, protesi ginocchio, rafforzamento muscolare"
+      },
+      {
+        "title": "Linfodrenaggio manuale",
+        "description": "cellulite, edemi, ritensione idrica, vene varicose"
+      },
+      {
+        "title": "Chinesiterapia",
+        "description": "riacquisizione delle funzionalità motorie"
+      },
+      {
+        "title": "Disturbi patologici",
+        "description": "artrosi, artrite reumatoide, distrofia muscolare, fibromialgia, ictus, sclerosi multipla, spondilite anchilosante, tremore essenziale"
+      },
+      {
+        "title": "Dolore e infiammazione",
+        "description": "acusene, cervicale, emicrania, ernia, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite"
+      }
+    ]
+  },
+  "prime-banner": {
+    "title": "<strong>Epicura Prime</strong> è tutta salute",
+    "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": false,
+    "cta-content": []
+  },
+  "prime-table-compare": [
+    {
+      "is-prime": false,
+      "title": "EpiCura",
+      "small-text": "0€ per sempre",
+      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": false
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "image": "",
+        "variant": "outlined"
+      }
+    },
+    {
+      "is-prime": true,
+      "title": "EpiCura Prime",
+      "small-text": "180€ all’anno",
+      "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Prova gratis per 14 giorni",
+        "link": "/",
+        "image": "",
+        "variant": "filled"
+      }
+    }
+  ],
+  "app-banner": {
+    "title": "50% di sconto sulla prima visita. <br>Scarica l'app",
+    "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": true,
+    "cta-content": [
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/Download_on_the_App_Store_Badge_IT_RGB_wht_100317@2x.png",
+        "variant": "image"
+      },
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/Google_Play_Store_badge_IT@2x.png",
+        "variant": "image"
+      }
+    ]
+  },
+  "bullet-cards-service": {
+    "title": "Perché affidarsi a EpiCura?",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "cards": [
+      {
+        "title": "Solo professionisti qualificati",
+        "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
+        "img": "/img/smile.png"
+      },
+      {
+        "title": "La tua soddisfazione è anche la nostra ",
+        "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
+        "img": "/img/smile.png"
+      },
+      {
+        "title": "Siamo sempre al tuo fianco",
+        "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
+        "img": "/img/smile.png"
+      }
+    ]
+  },
+  "service-banner": {
+    "title": "Hai un dubbio sul servizio di fisioterapia? Chiamaci",
+    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": false,
+    "cta-content": [
+      {
+        "label": "800 909 209",
+        "link": "tel:800909209",
+        "image": "",
+        "variant": "gradient"
+      }
+    ]
+  },
+  "map": {
+    "showAllText": "Mostra tutti",
+    "hideAllText": "Mostra meno",
+    "doveCiTroviText": "I professionisti di EpiCura sono disponibili in tutta Napoli",
+    "quartieriText": "Controlla qui i comuni coperti dal servizio",
+    "mapCenter": "40.833333,14.25",
+    "markers": [
+      {
+        "location": "40.853812,14.229776",
+        "name": "Arenella"
+      },
+      {
+        "location": "40.794945,14.1919",
+        "name": "Marechiaro"
+      },
+      {
+        "location": "40.851038,14.259393",
+        "name": "Centro storico"
+      },
+      {
+        "location": "40.852798,14.270068",
+        "name": "Garibaldi - Ferrovia"
+      },
+      {
+        "location": "40.847238,14.245922",
+        "name": "Montesanto"
+      },
+      {
+        "location": "40.844992,14.258876",
+        "name": "Borgo Orefici"
+      },
+      {
+        "location": "40.851490,14.258821",
+        "name": "Tribunali"
+      },
+      {
+        "location": "40.852066,14.237970",
+        "name": "Piazza Canneto - Salvator Rosa"
+      },
+      {
+        "location": "40.852176,14.247473",
+        "name": "Museo"
+      },
+      {
+        "location": "40.858156,14.283176",
+        "name": "Centro Direzionale"
+      },
+      {
+        "location": "40.849260,14.218925",
+        "name": "Pigna - Omodeo"
+      },
+      {
+        "location": "40.876262,14.272982",
+        "name": "Capodichino"
+      },
+      {
+        "location": "40.853485,14.1665799",
+        "name": "Pianura"
+      },
+      {
+        "location": "40.842865,14.189583",
+        "name": "Traiano"
+      },
+      {
+        "location": "40.838043,14.166120",
+        "name": "Agnano"
+      },
+      {
+        "location": "40.859059,14.203323",
+        "name": "Camaldoli"
+      },
+      {
+        "location": "40.867793,14.220112",
+        "name": "Zona ospedaliera"
+      },
+      {
+        "location": "40.859468,14.221909",
+        "name": "Rione Alto"
+      },
+      {
+        "location": "40.834539,14.245250",
+        "name": "Monte di Dio"
+      },
+      {
+        "location": "40.817149,14.169199",
+        "name": "Bagnoli"
+      },
+      {
+        "location": "40.837247,14.233699",
+        "name": "Piazza Amedeo - Parco Margherita"
+      },
+      {
+        "location": "40.870062,14.247581",
+        "name": "Colli Aminei - Capodimonte"
+      },
+      {
+        "location": "40.873156,14.266562",
+        "name": "Ponti Rossi"
+      },
+      {
+        "location": "40.834342,14.230739",
+        "name": "Chiaia"
+      },
+      {
+        "location": "40.884187,14.219441",
+        "name": "Chiaiano"
+      },
+      {
+        "location": "40.824100,14.192000",
+        "name": "Fuorigrotta"
+      },
+      {
+        "location": "40.814227,14.205341",
+        "name": "Posillipo"
+      },
+      {
+        "location": "40.830465,14.216880",
+        "name": "Mergellina - Piedigrotta"
+      },
+      {
+        "location": "40.845940,14.274448",
+        "name": "Mercato"
+      },
+      {
+        "location": "40.861846,14.269250",
+        "name": "Arenaccia"
+      },
+      {
+        "location": "40.859834,14.252186",
+        "name": "Stella - Rione Sanità"
+      },
+      {
+        "location": "40.855614,14.272158",
+        "name": "Vasto"
+      },
+      {
+        "location": "40.846655,14.260372",
+        "name": "Porto"
+      },
+      {
+        "location": "40.832629,14.246762",
+        "name": "Santa Lucia"
+      },
+      {
+        "location": "40.842110,14.245598",
+        "name": "Quartieri Spagnoli"
+      },
+      {
+        "location": "40.843961,14.231495",
+        "name": "Vomero"
+      },
+      {
+        "location": "40.865190,14.263118",
+        "name": "San Carlo All'Arena"
+      },
+      {
+        "location": "40.865320,14.288046",
+        "name": "Poggioreale"
+      },
+      {
+        "location": "40.892576,14.260274",
+        "name": "Secondigliano"
+      },
+      {
+        "location": "40.888131,14.254754",
+        "name": "Miano"
+      },
+      {
+        "location": "40.858211,14.324400",
+        "name": "Ponticelli"
+      },
+      {
+        "location": "40.858060,14.239279",
+        "name": "Materdei"
+      },
+      {
+        "location": "40.852996,14.239553",
+        "name": "Avvocata"
+      },
+      {
+        "location": "40.861922,14.246908",
+        "name": "Pendino"
+      },
+      {
+        "location": "40.888487,14.234794",
+        "name": "Piscinola"
+      },
+      {
+        "location": "40.836963,14.245384",
+        "name": "San Ferdinando"
+      },
+      {
+        "location": "40.837960,14.300524",
+        "name": "San Giovanni a Teduccio"
+      },
+      {
+        "location": "40.839778,14.317921",
+        "name": "Barra"
+      },
+      {
+        "location": "40.833544,14.314676",
+        "name": "Marianella"
+      },
+      {
+        "location": "40.842181,14.321301",
+        "name": "Rione Bisignano"
+      },
+      {
+        "location": "40.892589,14.285774",
+        "name": "San Pietro a Patierno"
+      },
+      {
+        "location": "40.901065,14.242637",
+        "name": "Scampia"
+      },
+      {
+        "location": "40.844405,14.196154",
+        "name": "Soccavo"
+      },
+      {
+        "location": "40.849956,14.289151",
+        "name": "Zona Industriale"
+      },
+      {
+        "location": "40.900279,14.275863",
+        "name": "Casavatore"
+      },
+      {
+        "location": "40.834486,14.344686",
+        "name": "San Giorgio a Cremano"
+      },
+      {
+        "location": "40.862917,14.355640",
+        "name": "Cercola"
+      },
+      {
+        "location": "40.814397,14.338566",
+        "name": "Portici"
+      },
+      {
+        "location": "40.844245,14.363220",
+        "name": "San Sebastiano al Vesuvio"
+      },
+      {
+        "location": "40.846191,14.374814",
+        "name": "Massa di Somma"
+      },
+      {
+        "location": "40.805462,14.359569",
+        "name": "Ercolano"
+      }
+    ],
+    "cardPhone": {
+      "title": "Chiamaci",
+      "text": "Numero attivo 7 giorni su 7, dalle 8:30 alle 19:30.",
+      "image": "phone-card"
+    },
+    "cardContact": {
+      "title": "Scrivici un messaggio",
+      "text": "Ti rispondiamo subito, o se lo desideri ti ricontattiamo quando vuoi tu.",
+      "buttonText": "Scrivici",
+      "image": "contact-card"
+    }
   }
 }

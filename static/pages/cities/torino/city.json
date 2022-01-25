@@ -43,7 +43,7 @@
     ]
   },
   "discipline-carousel": {
-    "title": "Specialità più richieste a Torino",
+    "title": "Visite Più Richieste A Torino",
     "cards": [
       {
         "title": "Fisioterapia",
@@ -251,7 +251,7 @@
       "name": "header_home"
     },
     "has-absolute-image": false,
-    "first-image-order": true,
+    "first-image-order": false,
     "hide-image-mobile": true,
     "has-bg-color": true,
     "cta-content": [
