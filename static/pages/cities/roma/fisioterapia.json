@@ -5,7 +5,7 @@
   },
   "top_banner": {
     "title": "Fisioterapista a Roma",
-    "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
+    "subtitle": "Scegli la visita di cui hai bisogno e la modalit&agrave; con cui riceverlo. &Egrave; facile, veloce e soprattutto comodo.",
     "img": {
       "path": "common",
       "name": "header_home"
@@ -17,27 +17,39 @@
     "cta-content": []
   },
   "bullet-cards": {
-    "title": "Perché affidarsi a EpiCura?",
+    "title": "Perch&eacute; affidarsi a EpiCura?",
     "cards": [
       {
         "title": "Comodo, veloce, flessibile",
         "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
       },
       {
         "title": "Professionisti certificati",
-        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
-        "img": "/img/smile.png"
+        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualit&agrave;.",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
       },
       {
         "title": "Prenotazioni senza intoppi",
         "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
       },
       {
         "title": "Supporto costante",
-        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
-        "img": "/img/smile.png"
+        "text": "Il nostro Customer Care ti aiuter&agrave; in ogni momento per semplificarti la vita.",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
       }
     ]
   },
@@ -70,7 +82,7 @@
       },
       {
         "title": "Chinesiterapia",
-        "description": "riacquisizione delle funzionalità motorie"
+        "description": "riacquisizione delle funzionalit&agrave; motorie"
       },
       {
         "title": "Disturbi patologici",
@@ -83,7 +95,7 @@
     ]
   },
   "prime-banner": {
-    "title": "<strong>Epicura Prime</strong> è tutta salute",
+    "title": "<strong>Epicura Prime</strong> &egrave; tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
       "path": "common",
@@ -100,7 +112,7 @@
       "is-prime": false,
       "title": "EpiCura",
       "small-text": "0€ per sempre",
-      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "subtitle": "Le principali funzionalit&agrave; di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
       "option-list": [
         {
           "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
@@ -224,29 +236,38 @@
     ]
   },
   "bullet-cards-service": {
-    "title": "Perché affidarsi a EpiCura?",
+    "title": "I migliori fisioterapisti entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {
         "title": "Solo professionisti qualificati",
         "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
       },
       {
-        "title": "La tua soddisfazione è anche la nostra ",
+        "title": "La tua soddisfazione &egrave; anche la nostra ",
         "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
       },
       {
         "title": "Siamo sempre al tuo fianco",
         "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
       }
     ]
   },
   "service-banner": {
     "title": "Hai un dubbio sul servizio di fisioterapia? Chiamaci",
-    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "subtitle": "Il nostro team sar&agrave; felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
     "img": {
       "path": "common",
       "name": "header_home"
@@ -267,7 +288,7 @@
   "map": {
     "showAllText": "Mostra tutti",
     "hideAllText": "Mostra meno",
-    "doveCiTroviText": "I professionisti di EpiCura sono disponibili in tutta Roma",
+    "doveCiTroviText": "Fisioterapisti a domicilio a Roma e area metropolitana",
     "quartieriText": "Controlla qui i comuni coperti dal servizio",
     "mapCenter": "41.893056,12.482778",
     "markers": [
@@ -417,7 +438,7 @@
       },
       {
         "location": "41.934538,12.535364",
-        "name": "Città Giardino"
+        "name": "Citt&agrave; Giardino"
       },
       {
         "location": "41.938635,12.527369",
@@ -617,7 +638,7 @@
       },
       {
         "location": "41.902411,12.452276",
-        "name": "Città del Vaticano"
+        "name": "Citt&agrave; del Vaticano"
       },
       {
         "location": "41.884782,12.468242",
@@ -697,7 +718,7 @@
       },
       {
         "location": "41.851751,12.568246",
-        "name": "Cinecittà"
+        "name": "Cinecitt&agrave;"
       },
       {
         "location": "41.968615,12.551201",

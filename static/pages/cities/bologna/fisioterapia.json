@@ -5,7 +5,7 @@
   },
   "top_banner": {
     "title": "Fisioterapista a Bologna",
-    "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
+    "subtitle": "Scegli la visita di cui hai bisogno e la modalit&agrave; con cui riceverlo. &Egrave; facile, veloce e soprattutto comodo.",
     "img": {
       "path": "common",
       "name": "header_home"
@@ -17,27 +17,39 @@
     "cta-content": []
   },
   "bullet-cards": {
-    "title": "Perché affidarsi a EpiCura?",
+    "title": "Perch&eacute; affidarsi a EpiCura?",
     "cards": [
       {
         "title": "Comodo, veloce, flessibile",
         "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
       },
       {
         "title": "Professionisti certificati",
-        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
-        "img": "/img/smile.png"
+        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualit&agrave;.",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
       },
       {
         "title": "Prenotazioni senza intoppi",
         "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
       },
       {
         "title": "Supporto costante",
-        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
-        "img": "/img/smile.png"
+        "text": "Il nostro Customer Care ti aiuter&agrave; in ogni momento per semplificarti la vita.",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
       }
     ]
   },
@@ -70,7 +82,7 @@
       },
       {
         "title": "Chinesiterapia",
-        "description": "riacquisizione delle funzionalità motorie"
+        "description": "riacquisizione delle funzionalit&agrave; motorie"
       },
       {
         "title": "Disturbi patologici",
@@ -100,7 +112,7 @@
       "is-prime": false,
       "title": "EpiCura",
       "small-text": "0€ per sempre",
-      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "subtitle": "Le principali funzionalit&agrave; di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
       "option-list": [
         {
           "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
@@ -142,7 +154,10 @@
       "cta": {
         "label": "Entra in EpiCura e prenota",
         "link": "/",
-        "image": "",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
         "variant": "outlined"
       }
     },
@@ -192,7 +207,10 @@
       "cta": {
         "label": "Prova gratis per 14 giorni",
         "link": "/",
-        "image": "",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
         "variant": "filled"
       }
     }
@@ -212,41 +230,56 @@
       {
         "label": "",
         "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
-        "image": "/img/Download_on_the_App_Store_Badge_IT_RGB_wht_100317@2x.png",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
         "variant": "image"
       },
       {
         "label": "",
         "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
-        "image": "/img/Google_Play_Store_badge_IT@2x.png",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
         "variant": "image"
       }
     ]
   },
   "bullet-cards-service": {
-    "title": "Perché affidarsi a EpiCura?",
+    "title": "I migliori fisioterapisti entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {
         "title": "Solo professionisti qualificati",
         "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
       },
       {
         "title": "La tua soddisfazione è anche la nostra ",
         "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
       },
       {
         "title": "Siamo sempre al tuo fianco",
         "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
       }
     ]
   },
   "service-banner": {
     "title": "Hai un dubbio sul servizio di fisioterapia? Chiamaci",
-    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "subtitle": "Il nostro team sar&agrave; felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
     "img": {
       "path": "common",
       "name": "header_home"
@@ -259,7 +292,10 @@
       {
         "label": "800 909 209",
         "link": "tel:800909209",
-        "image": "",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
         "variant": "gradient"
       }
     ]
@@ -267,7 +303,7 @@
   "map": {
     "showAllText": "Mostra tutti",
     "hideAllText": "Mostra meno",
-    "doveCiTroviText": "I professionisti di EpiCura sono disponibili in tutta Bologna",
+    "doveCiTroviText": "Fisioterapisti a domicilio a Bologna e area metropolitana",
     "quartieriText": "Controlla qui i comuni coperti dal servizio",
     "mapCenter": "44.493889,11.342778",
     "markers": [
@@ -439,17 +475,6 @@
         "location": "44.554917,11.443879",
         "name": "Granarolo dell'Emilia"
       }
-    ],
-    "cardPhone": {
-      "title": "Chiamaci",
-      "text": "Numero attivo 7 giorni su 7, dalle 8:30 alle 19:30.",
-      "image": "phone-card"
-    },
-    "cardContact": {
-      "title": "Scrivici un messaggio",
-      "text": "Ti rispondiamo subito, o se lo desideri ti ricontattiamo quando vuoi tu.",
-      "buttonText": "Scrivici",
-      "image": "contact-card"
-    }
+    ]
   }
 }
