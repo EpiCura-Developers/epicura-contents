@@ -3,18 +3,554 @@
     "title": "Nutrizionista a Torino",
     "description": "Nutrizionisti a domicilio a Torino e area metropolitana. Valutazione nutrizionale, monitoraggio e pianificazione diete a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "subheader": {
-    "prenotaOnlineText": "Prenota ora",
-    "titleBig": "Nutrizionisti a domicilio a Torino",
-    "description1": "EpiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Torino e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
-    "description2": "Prenota in pochi clic e prenditi cura del tuo corpo e del tuo benessere in modo semplice e veloce."
+  "top_banner": {
+    "title": "Nutrizionista a Torino",
+    "subtitle": "EpiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Torino e area metropolitana, 7 giorni su 7, quando e dove vuoi. Prenota in pochi clic e prenditi cura del tuo corpo e del tuo benessere in modo semplice e veloce.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": false,
+    "cta-content": []
   },
-  "booking-card": {
-    "code": "nutritionExamination_",
-    "title": "Visita nutrizionistica a domicilio a Torino",
-    "disciplineTitle": "Ritrova il benessere del tuo corpo",
-    "text": "Le tue esigenze alimentari sono cambiate e hai bisogno del parere di un professionista?<br />Con EpiCura i migliori nutrizionisti ti raggiungono direttamente a casa, 7 giorni su 7. Prenota in pochi clic e ritrova salute e forma fisica.",
-    "price": "Costo fisso 60€",
-    "prenotaOnlineText": "Prenota ora"
+  "how-it-works": {
+    "title": "Nutrizionista a domicilio, come funziona",
+    "cards": [
+      {
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "title": "",
+        "subtitle": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a diversi percorsi nutrizionali per permetterti di scegliere in base ai tuoi obiettivi e necessit &agrave;. Scegli il percorso nutrizionale più adatto, noi troveremo il miglior professionista per le tue esigenze."
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "title": "",
+        "subtitle": "Prenota in pochi click",
+        "text": "La prenotazione con EpiCura  &egrave; semplice e veloce! Scegli dove e quando ricevere l’intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "title": "",
+        "subtitle": "Ricevi l’intervento a domicilio",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
+      }
+    ]
+  },
+  "card-trattamenti": {
+    "title": "In cosa possiamo aiutarti:",
+    "cards": [
+      {
+        "title": "Perdita e aumento di peso",
+        "description": "sovrappeso, obesit &agrave;, sottopeso"
+      },
+      {
+        "title": "Nutrizione al femminile",
+        "description": "gravidanza, menopausa, ovaio policistico, endometriosi, amenorrea"
+      },
+      {
+        "title": "Nutrizione pediatrica",
+        "description": "sovrappeso, obesit &agrave;, inappetenza, diabete, allergie e intolleranze alimentari, anemia"
+      },
+      {
+        "title": "Nutrizione per anziani",
+        "description": "patologie cardiache, diabete, inappetenza, osteoporosi, demenza senile"
+      },
+      {
+        "title": "Disturbi alimentari",
+        "description": "anoressia, bulimia, binge eating (fame compulsiva)"
+      },
+      {
+        "title": "Nutrizione per sportivi",
+        "description": "aumento della massa muscolare, alimentazione per atleti"
+      },
+      {
+        "title": "Nutrizione per patologie",
+        "description": "tumore, ipotiroidismo, ipertiroidismo, diabete, colon irritabile, diverticolite, gastrite, insufficienza renale"
+      },
+      {
+        "title": "Allergie e intolleranze",
+        "description": "celiachia, allergie alimentari, allergia al nichel"
+      }
+    ]
+  },
+  "nutrition-banner": {
+    "title": "Le soluzioni che abbiamo pensato per te",
+    "subtitle": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": false,
+    "cta-content": []
+  },
+  "nutrition-table-compare": [
+    {
+      "is-prime": false,
+      "title": "Visita singola",
+      "small-text": "Prezzo standard 60€",
+      "subtitle": "Spiegazione e vantaggi del servizio: consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "option-list": [
+        {
+          "text": "In videoconsulto o in studio",
+          "checked": true
+        },
+        {
+          "text": "Prima visita e suggerimenti alimentari",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "variant": "outlined"
+      },
+      "banner-price": {
+        "has-banner": true,
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "text": "Prezzo riservato a utenti Prime",
+        "subtitle": "Scopri Epicura Prime e risparmia",
+        "price": "54&euro;"
+      }
+    },
+    {
+      "is-prime": false,
+      "title": "Pacchetto lorem ipsum",
+      "small-text": "Prezzo standard 166€",
+      "subtitle": "Spiegazione e vantaggi del servizio: consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "option-list": [
+        {
+          "text": "Solo in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Prima visita",
+          "checked": true
+        },
+        {
+          "text": "Elaborazione piano alimentare personalizzato",
+          "checked": true
+        },
+        {
+          "text": "2 check-up di controllo e verifica obiettivi",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "variant": "outlined"
+      },
+      "banner-price": {
+        "has-banner": true,
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "text": "Prezzo riservato a utenti Prime",
+        "subtitle": "Scopri Epicura Prime e risparmia",
+        "price": "149&euro;"
+      }
+    }
+  ],
+  "specialist-carousel": {
+    "title": "Troviamo noi il nutrizionista più adatto",
+    "subtitle": "In questo modo ti garantiamo un servizio tempestivo e su misura",
+    "cards": [
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      }
+    ]
+  },
+  "bullet-cards-service": {
+    "title": "I migliori nutrizionisti a domicilio entro 24 ore",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "cards": [
+      {
+        "title": "Solo professionisti qualificati",
+        "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "La tua soddisfazione &egrave; anche la nostra ",
+        "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Siamo sempre al tuo fianco",
+        "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      }
+    ]
+  },
+  "map": {
+    "showAllText": "Mostra tutti",
+    "hideAllText": "Mostra meno",
+    "doveCiTroviText": "Nutrizionisti a domicilio a Torino e area metropolitanao",
+    "quartieriText": "Controlla qui i comuni coperti dal servizio",
+    "mapCenter": "45.066667,7.7",
+    "markers": [
+      {
+        "location": "45.069034.7.650593",
+        "name": "Cenisia"
+      },
+      {
+        "location": "45.071891,7.687419",
+        "name": "Giardini Reali"
+      },
+      {
+        "location": "45.073035,7.676071",
+        "name": "Quadrilatero Romano"
+      },
+      {
+        "location": "45.070720,7.672702",
+        "name": "Cittadella"
+      },
+      {
+        "location": "45.021777,7.667270",
+        "name": "Italia 61"
+      },
+      {
+        "location": "45.040382,7.622616",
+        "name": "Centro Europa"
+      },
+      {
+        "location": "45.041238,7.621790",
+        "name": "Citt&agrave; Giardino"
+      },
+      {
+        "location": "45.052919,7.680159",
+        "name": "San Salvario"
+      },
+      {
+        "location": "45.082075,7.664153",
+        "name": "San Donato"
+      },
+      {
+        "location": "45.083056,7.688056",
+        "name": "Aurora"
+      },
+      {
+        "location": "45.093,7.6932",
+        "name": "Barriera di Milano"
+      },
+      {
+        "location": "45.1033,7.6921",
+        "name": "Rebaudengo"
+      },
+      {
+        "location": "45.1138,7.6568",
+        "name": "Barriera di Lanzo"
+      },
+      {
+        "location": "45.1277,7.7097",
+        "name": "Falchera"
+      },
+      {
+        "location": "45.1017,7.7278",
+        "name": "Barca"
+      },
+      {
+        "location": "45.0980,7.7474",
+        "name": "Bertolla"
+      },
+      {
+        "location": "45.0202,7.5775",
+        "name": "Beinasco"
+      },
+      {
+        "location": "45.0038,7.6019",
+        "name": "Borgaretto"
+      },
+      {
+        "location": "45.0611,7.6452",
+        "name": "Borgo San Paolo"
+      },
+      {
+        "location": "45.0968,7.6773",
+        "name": "Borgo Vittoria"
+      },
+      {
+        "location": "45.08929,7.67062",
+        "name": "Parco Dora"
+      },
+      {
+        "location": "45.0791,7.6525",
+        "name": "Campidoglio"
+      },
+      {
+        "location": "45.0734.7.6616",
+        "name": "Cit Turin"
+      },
+      {
+        "location": "45.031611,7.693508",
+        "name": "Cavoretto"
+      },
+      {
+        "location": "45.062308,7.699506",
+        "name": "Gran Madre - Crimea"
+      },
+      {
+        "location": "45.07070,7.68465",
+        "name": "Centro"
+      },
+      {
+        "location": "45.0785,7.5735",
+        "name": "Collegno"
+      },
+      {
+        "location": "45.031111,7.721667",
+        "name": "Colle della Maddalena"
+      },
+      {
+        "location": "45.080833, 7.7675",
+        "name": "Superga"
+      },
+      {
+        "location": "45.0575,7.6649",
+        "name": "Crocetta"
+      },
+      {
+        "location": "45.0678,7.5774",
+        "name": "Grugliasco"
+      },
+      {
+        "location": "45.1041,7.6323",
+        "name": "Le Vallette"
+      },
+      {
+        "location": "45.0982,7.6480",
+        "name": "Lucento"
+      },
+      {
+        "location": "45.1039,7.6632",
+        "name": "Madonna di Campagna"
+      },
+      {
+        "location": "45.0310,7.6668",
+        "name": "Lingotto"
+      },
+      {
+        "location": "45.0295,7.6675",
+        "name": "Nizza Millefonti"
+      },
+      {
+        "location": "45.0682,7.7186",
+        "name": "Madonna del Pilone"
+      },
+      {
+        "location": "45.0790,7.7328",
+        "name": "Sassi"
+      },
+      {
+        "location": "45.0174.7.6295",
+        "name": "Mirafiori Sud"
+      },
+      {
+        "location": "45.0399,7.6280",
+        "name": "Mirafiori Nord"
+      },
+      {
+        "location": "45,7.683333",
+        "name": "Moncalieri"
+      },
+      {
+        "location": "44.9954.7.6466",
+        "name": "Nichelino"
+      },
+      {
+        "location": "45.01676,7.74972",
+        "name": "Pecetto Torinese"
+      },
+      {
+        "location": "45.0682,7.6267",
+        "name": "Pozzo Strada"
+      },
+      {
+        "location": "45.080179,7.625670",
+        "name": "Parella"
+      },
+      {
+        "location": "45.098561,7.707231",
+        "name": "Regio Parco"
+      },
+      {
+        "location": "45.070922,7.699875",
+        "name": "Vanchiglia"
+      },
+      {
+        "location": "45.072523,7.715891",
+        "name": "Vanchiglietta"
+      },
+      {
+        "location": "45.032764.7.514623",
+        "name": "Rivalta di Torino"
+      },
+      {
+        "location": "45.071830,7.521070",
+        "name": "Rivoli"
+      },
+      {
+        "location": "45.104478,7.761023",
+        "name": "San Mauro Torinese"
+      },
+      {
+        "location": "45.113728,7.614767",
+        "name": "Savonera"
+      },
+      {
+        "location": "45.046194.7.644444",
+        "name": "Santa Rita"
+      },
+      {
+        "location": "45.145387,7.775215",
+        "name": "Settimo Torinese"
+      },
+      {
+        "location": "45.131898,7.624429",
+        "name": "Venaria Reale"
+      },
+      {
+        "location": "45.005813,7.535984",
+        "name": "Orbassano"
+      },
+      {
+        "location": "45.067394.7.813576",
+        "name": "Baldissero Torinese"
+      },
+      {
+        "location": "45.009245,7.829323",
+        "name": "Chieri"
+      },
+      {
+        "location": "45.042246,7.765288",
+        "name": "Pino Torinese"
+      },
+      {
+        "location": "45.092173,7.524226",
+        "name": "Alpignano"
+      },
+      {
+        "location": "45.134790,7.575977",
+        "name": "Druento"
+      },
+      {
+        "location": "45.020289,7.733625",
+        "name": "Revigliasco"
+      }
+    ],
+    "cardPhone": {
+      "title": "Chiamaci",
+      "text": "Numero attivo 7 giorni su 7, dalle 8:30 alle 19:30.",
+      "image": "phone-card"
+    },
+    "cardContact": {
+      "title": "Scrivici un messaggio",
+      "text": "Ti rispondiamo subito, o se lo desideri ti ricontattiamo quando vuoi tu.",
+      "buttonText": "Scrivici",
+      "image": "contact-card"
+    }
+  },
+  "service-banner": {
+    "title": "Hai un dubbio sul servizio di nutrizione? Chiamaci",
+    "subtitle": "Il nostro team sar&agrave; felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": false,
+    "cta-content": [
+      {
+        "label": "800 909 209",
+        "link": "tel:800909209",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "variant": "gradient"
+      }
+    ]
   }
 }

@@ -3,18 +3,463 @@
     "title": "Nutrizionista a Bologna",
     "description": "Nutrizionisti a domicilio a Bologna e area metropolitana. Valutazione nutrizionale, monitoraggio e pianificazione diete a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "subheader": {
-    "prenotaOnlineText": "Prenota ora",
-    "titleBig": "Nutrizionisti a domicilio a Bologna",
-    "description1": "EpiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Bologna e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
-    "description2": "Prenota in pochi clic e prenditi cura del tuo corpo e del tuo benessere in modo semplice e veloce."
+  "top_banner": {
+    "title": "Nutrizionista a Bologna",
+    "subtitle": "EpiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Bologna e area metropolitana, 7 giorni su 7, quando e dove vuoi. Prenota in pochi clic e prenditi cura del tuo corpo e del tuo benessere in modo semplice e veloce.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": false,
+    "cta-content": []
   },
-  "booking-card": {
-    "code": "nutritionExamination_",
-    "title": "Visita nutrizionistica a domicilio a Bologna",
-    "disciplineTitle": "Ritrova il benessere del tuo corpo",
-    "text": "Le tue esigenze alimentari sono cambiate e hai bisogno del parere di un professionista?<br />Con EpiCura i migliori nutrizionisti ti raggiungono direttamente a casa, 7 giorni su 7. Prenota in pochi clic e ritrova salute e forma fisica.",
-    "price": "Costo fisso 60€",
-    "prenotaOnlineText": "Prenota ora"
+  "how-it-works": {
+    "title": "Nutrizionista a domicilio, come funziona",
+    "cards": [
+      {
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "title": "",
+        "subtitle": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a diversi percorsi nutrizionali per permetterti di scegliere in base ai tuoi obiettivi e necessit &agrave;. Scegli il percorso nutrizionale più adatto, noi troveremo il miglior professionista per le tue esigenze."
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "title": "",
+        "subtitle": "Prenota in pochi click",
+        "text": "La prenotazione con EpiCura  &egrave; semplice e veloce! Scegli dove e quando ricevere l’intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "title": "",
+        "subtitle": "Ricevi l’intervento a domicilio",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
+      }
+    ]
+  },
+  "card-trattamenti": {
+    "title": "In cosa possiamo aiutarti:",
+    "cards": [
+      {
+        "title": "Perdita e aumento di peso",
+        "description": "sovrappeso, obesit &agrave;, sottopeso"
+      },
+      {
+        "title": "Nutrizione al femminile",
+        "description": "gravidanza, menopausa, ovaio policistico, endometriosi, amenorrea"
+      },
+      {
+        "title": "Nutrizione pediatrica",
+        "description": "sovrappeso, obesit &agrave;, inappetenza, diabete, allergie e intolleranze alimentari, anemia"
+      },
+      {
+        "title": "Nutrizione per anziani",
+        "description": "patologie cardiache, diabete, inappetenza, osteoporosi, demenza senile"
+      },
+      {
+        "title": "Disturbi alimentari",
+        "description": "anoressia, bulimia, binge eating (fame compulsiva)"
+      },
+      {
+        "title": "Nutrizione per sportivi",
+        "description": "aumento della massa muscolare, alimentazione per atleti"
+      },
+      {
+        "title": "Nutrizione per patologie",
+        "description": "tumore, ipotiroidismo, ipertiroidismo, diabete, colon irritabile, diverticolite, gastrite, insufficienza renale"
+      },
+      {
+        "title": "Allergie e intolleranze",
+        "description": "celiachia, allergie alimentari, allergia al nichel"
+      }
+    ]
+  },
+  "nutrition-banner": {
+    "title": "Le soluzioni che abbiamo pensato per te",
+    "subtitle": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": false,
+    "cta-content": []
+  },
+  "nutrition-table-compare": [
+    {
+      "is-prime": false,
+      "title": "Visita singola",
+      "small-text": "Prezzo standard 60€",
+      "subtitle": "Spiegazione e vantaggi del servizio: consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "option-list": [
+        {
+          "text": "In videoconsulto o in studio",
+          "checked": true
+        },
+        {
+          "text": "Prima visita e suggerimenti alimentari",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "variant": "outlined"
+      },
+      "banner-price": {
+        "has-banner": true,
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "text": "Prezzo riservato a utenti Prime",
+        "subtitle": "Scopri Epicura Prime e risparmia",
+        "price": "54&euro;"
+      }
+    },
+    {
+      "is-prime": false,
+      "title": "Pacchetto lorem ipsum",
+      "small-text": "Prezzo standard 166€",
+      "subtitle": "Spiegazione e vantaggi del servizio: consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "option-list": [
+        {
+          "text": "Solo in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Prima visita",
+          "checked": true
+        },
+        {
+          "text": "Elaborazione piano alimentare personalizzato",
+          "checked": true
+        },
+        {
+          "text": "2 check-up di controllo e verifica obiettivi",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "variant": "outlined"
+      },
+      "banner-price": {
+        "has-banner": true,
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "text": "Prezzo riservato a utenti Prime",
+        "subtitle": "Scopri Epicura Prime e risparmia",
+        "price": "149&euro;"
+      }
+    }
+  ],
+  "specialist-carousel": {
+    "title": "Troviamo noi il nutrizionista più adatto",
+    "subtitle": "In questo modo ti garantiamo un servizio tempestivo e su misura",
+    "cards": [
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      }
+    ]
+  },
+  "bullet-cards-service": {
+    "title": "I migliori nutrizionisti a domicilio entro 24 ore",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "cards": [
+      {
+        "title": "Solo professionisti qualificati",
+        "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "La tua soddisfazione &egrave; anche la nostra ",
+        "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Siamo sempre al tuo fianco",
+        "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      }
+    ]
+  },
+  "map": {
+    "showAllText": "Mostra tutti",
+    "hideAllText": "Mostra meno",
+    "doveCiTroviText": "Nutrizionisti a domicilio a Bologna e area metropolitana",
+    "quartieriText": "Controlla qui i comuni coperti dal servizio",
+    "mapCenter": "44.493889,11.342778",
+    "markers": [
+      {
+        "location": "44.495301,11.344430",
+        "name": "Centro"
+      },
+      {
+        "location": "44.499843,11.349876",
+        "name": "Irnerio"
+      },
+      {
+        "location": "44.485556,11.348333",
+        "name": "Castiglione - Tribunale"
+      },
+      {
+        "location": "44.494505,11.313616",
+        "name": "Saragozza"
+      },
+      {
+        "location": "44.479442,11.364621",
+        "name": "Murri"
+      },
+      {
+        "location": "44.498775,11.338387",
+        "name": "Marconi"
+      },
+      {
+        "location": "44.461925,11.361225",
+        "name": "Monte Donato - San Vitale"
+      },
+      {
+        "location": "44.493356,11.373640",
+        "name": "Massarenti"
+      },
+      {
+        "location": "44.497660,11.381428",
+        "name": "Scandellara"
+      },
+      {
+        "location": "44.496191,11.365093",
+        "name": "Cirenaica"
+      },
+      {
+        "location": "44.474538,11.336665",
+        "name": "Colli San Mamolo"
+      },
+      {
+        "location": "44.532170,11.288841",
+        "name": "Aereoporto"
+      },
+      {
+        "location": "44.483661,11.268794",
+        "name": "Meridiana"
+      },
+      {
+        "location": "44.479060,11.253956",
+        "name": "Zona agricola"
+      },
+      {
+        "location": "44.459279,11.273223",
+        "name": "San Biagio - Faianello"
+      },
+      {
+        "location": "44.481228,11.257065",
+        "name": "Ceretolo"
+      },
+      {
+        "location": "44.505312,11.361504",
+        "name": "San Donato"
+      },
+      {
+        "location": "44.496929,11.240411",
+        "name": "Zona industriale"
+      },
+      {
+        "location": "44.499167,11.327222",
+        "name": "San Felice"
+      },
+      {
+        "location": "44.510224,11.366809",
+        "name": "Bologna Fiere"
+      },
+      {
+        "location": "44.509765,11.377082",
+        "name": "San Donnino"
+      },
+      {
+        "location": "44.511295,11.393878",
+        "name": "Pilastro"
+      },
+      {
+        "location": "44.491985,11.348727",
+        "name": "Santo Stefano"
+      },
+      {
+        "location": "44.484933,11.370908",
+        "name": "Mazzini - Fossolo"
+      },
+      {
+        "location": "44.513988,11.345829",
+        "name": "Bolognina"
+      },
+      {
+        "location": "44.518272,11.325503",
+        "name": "Lame"
+      },
+      {
+        "location": "44.524055,11.317022",
+        "name": "Pescarola"
+      },
+      {
+        "location": "44.496657,11.410889",
+        "name": "Roveri"
+      },
+      {
+        "location": "44.501134,11.321803",
+        "name": "Saffi"
+      },
+      {
+        "location": "44.495220,11.318691",
+        "name": "Costa"
+      },
+      {
+        "location": "44.520169,11.292619",
+        "name": "Birra"
+      },
+      {
+        "location": "44.504837,11.269246",
+        "name": "Casteldebole"
+      },
+      {
+        "location": "44.476876,11.269554",
+        "name": "Marullina"
+      },
+      {
+        "location": "44.485862,11.289291",
+        "name": "Talon - Croce"
+      },
+      {
+        "location": "44.491583,11.304345",
+        "name": "Barca"
+      },
+      {
+        "location": "44.507739,11.302241",
+        "name": "Santa Viola"
+      },
+      {
+        "location": "44.521704,11.276689",
+        "name": "Borgo Panigale"
+      },
+      {
+        "location": "44.549018,11.352748",
+        "name": "Corticella"
+      },
+      {
+        "location": "44.463359,11.373281",
+        "name": "San Ruffillo"
+      },
+      {
+        "location": "44.428586,11.353213",
+        "name": "Rastignano"
+      },
+      {
+        "location": "44.477801,11.277080",
+        "name": "Casalecchio del Reno"
+      },
+      {
+        "location": "44.554917,11.443879",
+        "name": "Granarolo dell'Emilia"
+      }
+    ]
+  },
+  "service-banner": {
+    "title": "Hai un dubbio sul servizio di nutrizione? Chiamaci",
+    "subtitle": "Il nostro team sar&agrave; felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": false,
+    "cta-content": [
+      {
+        "label": "800 909 209",
+        "link": "tel:800909209",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "variant": "gradient"
+      }
+    ]
   }
 }

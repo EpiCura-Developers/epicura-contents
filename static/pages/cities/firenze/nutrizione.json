@@ -3,18 +3,554 @@
     "title": "Nutrizionista a Firenze",
     "description": "Nutrizionisti a domicilio a Firenze e area metropolitana. Valutazione nutrizionale, monitoraggio e pianificazione diete a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "subheader": {
-    "prenotaOnlineText": "Prenota ora",
-    "titleBig": "Nutrizionisti a domicilio a Firenze",
-    "description1": "EpiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Firenze e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
-    "description2": "Prenota in pochi clic e prenditi cura del tuo corpo e del tuo benessere in modo semplice e veloce."
+  "top_banner": {
+    "title": "Nutrizionista a Firenze",
+    "subtitle": "EpiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Firenze e area metropolitana, 7 giorni su 7, quando e dove vuoi. Prenota in pochi clic e prenditi cura del tuo corpo e del tuo benessere in modo semplice e veloce.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": false,
+    "cta-content": []
   },
-  "booking-card": {
-    "code": "nutritionExamination_",
-    "title": "Visita nutrizionistica a domicilio a Firenze",
-    "disciplineTitle": "Ritrova il benessere del tuo corpo",
-    "text": "Le tue esigenze alimentari sono cambiate e hai bisogno del parere di un professionista?<br />Con EpiCura i migliori nutrizionisti ti raggiungono direttamente a casa, 7 giorni su 7. Prenota in pochi clic e ritrova salute e forma fisica.",
-    "price": "Costo fisso 60€",
-    "prenotaOnlineText": "Prenota ora"
+  "how-it-works": {
+    "title": "Nutrizionista a domicilio, come funziona",
+    "cards": [
+      {
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "title": "",
+        "subtitle": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a diversi percorsi nutrizionali per permetterti di scegliere in base ai tuoi obiettivi e necessit &agrave;. Scegli il percorso nutrizionale più adatto, noi troveremo il miglior professionista per le tue esigenze."
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "title": "",
+        "subtitle": "Prenota in pochi click",
+        "text": "La prenotazione con EpiCura  &egrave; semplice e veloce! Scegli dove e quando ricevere l’intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "title": "",
+        "subtitle": "Ricevi l’intervento a domicilio",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
+      }
+    ]
+  },
+  "card-trattamenti": {
+    "title": "In cosa possiamo aiutarti:",
+    "cards": [
+      {
+        "title": "Perdita e aumento di peso",
+        "description": "sovrappeso, obesit &agrave;, sottopeso"
+      },
+      {
+        "title": "Nutrizione al femminile",
+        "description": "gravidanza, menopausa, ovaio policistico, endometriosi, amenorrea"
+      },
+      {
+        "title": "Nutrizione pediatrica",
+        "description": "sovrappeso, obesit &agrave;, inappetenza, diabete, allergie e intolleranze alimentari, anemia"
+      },
+      {
+        "title": "Nutrizione per anziani",
+        "description": "patologie cardiache, diabete, inappetenza, osteoporosi, demenza senile"
+      },
+      {
+        "title": "Disturbi alimentari",
+        "description": "anoressia, bulimia, binge eating (fame compulsiva)"
+      },
+      {
+        "title": "Nutrizione per sportivi",
+        "description": "aumento della massa muscolare, alimentazione per atleti"
+      },
+      {
+        "title": "Nutrizione per patologie",
+        "description": "tumore, ipotiroidismo, ipertiroidismo, diabete, colon irritabile, diverticolite, gastrite, insufficienza renale"
+      },
+      {
+        "title": "Allergie e intolleranze",
+        "description": "celiachia, allergie alimentari, allergia al nichel"
+      }
+    ]
+  },
+  "nutrition-banner": {
+    "title": "Le soluzioni che abbiamo pensato per te",
+    "subtitle": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": false,
+    "cta-content": []
+  },
+  "nutrition-table-compare": [
+    {
+      "is-prime": false,
+      "title": "Visita singola",
+      "small-text": "Prezzo standard 60€",
+      "subtitle": "Spiegazione e vantaggi del servizio: consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "option-list": [
+        {
+          "text": "In videoconsulto o in studio",
+          "checked": true
+        },
+        {
+          "text": "Prima visita e suggerimenti alimentari",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "variant": "outlined"
+      },
+      "banner-price": {
+        "has-banner": true,
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "text": "Prezzo riservato a utenti Prime",
+        "subtitle": "Scopri Epicura Prime e risparmia",
+        "price": "54&euro;"
+      }
+    },
+    {
+      "is-prime": false,
+      "title": "Pacchetto lorem ipsum",
+      "small-text": "Prezzo standard 166€",
+      "subtitle": "Spiegazione e vantaggi del servizio: consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "option-list": [
+        {
+          "text": "Solo in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Prima visita",
+          "checked": true
+        },
+        {
+          "text": "Elaborazione piano alimentare personalizzato",
+          "checked": true
+        },
+        {
+          "text": "2 check-up di controllo e verifica obiettivi",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "variant": "outlined"
+      },
+      "banner-price": {
+        "has-banner": true,
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "text": "Prezzo riservato a utenti Prime",
+        "subtitle": "Scopri Epicura Prime e risparmia",
+        "price": "149&euro;"
+      }
+    }
+  ],
+  "specialist-carousel": {
+    "title": "Troviamo noi il nutrizionista più adatto",
+    "subtitle": "In questo modo ti garantiamo un servizio tempestivo e su misura",
+    "cards": [
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      }
+    ]
+  },
+  "bullet-cards-service": {
+    "title": "I migliori nutrizionisti a domicilio entro 24 ore",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "cards": [
+      {
+        "title": "Solo professionisti qualificati",
+        "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "La tua soddisfazione &egrave; anche la nostra ",
+        "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Siamo sempre al tuo fianco",
+        "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      }
+    ]
+  },
+  "map": {
+    "showAllText": "Mostra tutti",
+    "hideAllText": "Mostra meno",
+    "doveCiTroviText": "Nutrizionisti a domicilio a Firenze e area metropolitana",
+    "quartieriText": "Controlla qui i comuni coperti dal servizio",
+    "mapCenter": "43.771389,11.254167",
+    "markers": [
+      {
+        "location": "43.777220,11.243733",
+        "name": "Centro"
+      },
+      {
+        "location": "43.781590,11.244337",
+        "name": "Fortezza - Stazione"
+      },
+      {
+        "location": "43.770620,11.267297",
+        "name": "Sant'Ambrogio"
+      },
+      {
+        "location": "43.768948,11.265020",
+        "name": "Santa Croce"
+      },
+      {
+        "location": "43.776393,11.248701",
+        "name": "Santa Maria Novellla"
+      },
+      {
+        "location": "43.774021,11.268185",
+        "name": "D'Azeglio"
+      },
+      {
+        "location": "43.776689,11.239727",
+        "name": "Borgo Ognissanti - Il Prato"
+      },
+      {
+        "location": "43.771468,11.254184",
+        "name": "Piazza della Repubblica"
+      },
+      {
+        "location": "43.770004,11.256405",
+        "name": "Signoria - Uffizi"
+      },
+      {
+        "location": "43.769841,11.243170",
+        "name": "San Frediano"
+      },
+      {
+        "location": "43.766964,11.248219",
+        "name": "Santo Spirito"
+      },
+      {
+        "location": "43.764655,11.260761",
+        "name": "San Niccol&ograve;"
+      },
+      {
+        "location": "43.774755,11.234409",
+        "name": "Ponte alla Vittoria"
+      },
+      {
+        "location": "43.766756,11.250948",
+        "name": "Ponte Vecchio - Pitti"
+      },
+      {
+        "location": "43.791855,11.233107",
+        "name": "Ponte di Mezzo - Circondaria"
+      },
+      {
+        "location": "43.769640,11.275236",
+        "name": "Beccaria - Colombo"
+      },
+      {
+        "location": "43.775772,11.275116",
+        "name": "Mazzini - Oberdan"
+      },
+      {
+        "location": "43.785106,11.263046",
+        "name": "Libert&agrave; - Savonarola"
+      },
+      {
+        "location": "43.795609,11.230729",
+        "name": "Firenze Nova"
+      },
+      {
+        "location": "43.794025,11.169304",
+        "name": "Brozzi"
+      },
+      {
+        "location": "43.781394,11.176629",
+        "name": "Mantignano"
+      },
+      {
+        "location": "43.782652,11.167065",
+        "name": "Ugnano"
+      },
+      {
+        "location": "43.783178,11.197629",
+        "name": "Argingrosso"
+      },
+      {
+        "location": "43.778075,11.193946",
+        "name": "Cintoia - Le Torri"
+      },
+      {
+        "location": "43.769589,11.206217",
+        "name": "Legnaia - San Quirico - Monticelli"
+      },
+      {
+        "location": "43.743635,11.269651",
+        "name": "Cinque Vie"
+      },
+      {
+        "location": "43.763268,11.298829",
+        "name": "Villamagna - Albereta"
+      },
+      {
+        "location": "43.750787,11.295088",
+        "name": "San Marcellino"
+      },
+      {
+        "location": "43.752080,11.281160",
+        "name": "Fortini"
+      },
+      {
+        "location": "43.769174,11.282156",
+        "name": "Alberti - Bellariva"
+      },
+      {
+        "location": "43.797367,11.266161",
+        "name": "Bolognese"
+      },
+      {
+        "location": "43.786987,11.269134",
+        "name": "Le Cure"
+      },
+      {
+        "location": "43.775467,11.300217",
+        "name": "Gignoro"
+      },
+      {
+        "location": "43.763077,11.261067",
+        "name": "Porta Romana"
+      },
+      {
+        "location": "43.749064,11.247070",
+        "name": "Michelangelo - Poggio imperiale"
+      },
+      {
+        "location": "43.768171,11.236732",
+        "name": "Bellosguardo"
+      },
+      {
+        "location": "43.784532,11.244494",
+        "name": "Romito"
+      },
+      {
+        "location": "43.788157,11.249531",
+        "name": "Statuto"
+      },
+      {
+        "location": "43.792556,11.229055",
+        "name": "Novoli"
+      },
+      {
+        "location": "43.795964,11.244800",
+        "name": "Rifredi"
+      },
+      {
+        "location": "43.766488,11.218779",
+        "name": "Soffiano"
+      },
+      {
+        "location": "43.771632,11.208774",
+        "name": "L'Isolotto"
+      },
+      {
+        "location": "43.794684,11.189156",
+        "name": "Quaracchi"
+      },
+      {
+        "location": "43.797286,11.194343",
+        "name": "Peretola"
+      },
+      {
+        "location": "43.815683,11.228649",
+        "name": "Castello"
+      },
+      {
+        "location": "43.821752,11.253749",
+        "name": "Serpiolle"
+      },
+      {
+        "location": "43.820575,11.281853",
+        "name": "Trespiano"
+      },
+      {
+        "location": "43.802303,11.284809",
+        "name": "San Domenico"
+      },
+      {
+        "location": "43.780866,11.307248",
+        "name": "Ponte a Mensola"
+      },
+      {
+        "location": "43.775660,11.293896",
+        "name": "Coverciano"
+      },
+      {
+        "location": "43.766053,11.300972",
+        "name": "Varlungo"
+      },
+      {
+        "location": "43.765371,11.311052",
+        "name": "Rovezzano"
+      },
+      {
+        "location": "43.757808,11.304566",
+        "name": "Europa"
+      },
+      {
+        "location": "43.753344,11.302286",
+        "name": "Sorgane"
+      },
+      {
+        "location": "43.739809,11.294374",
+        "name": "Ponte a Ema"
+      },
+      {
+        "location": "43.759711,11.285828",
+        "name": "Gavinana"
+      },
+      {
+        "location": "43.755123,11.250417",
+        "name": "Aricetri"
+      },
+      {
+        "location": "43.750225,11.235005",
+        "name": "Due Strade"
+      },
+      {
+        "location": "43.738692,11.222683",
+        "name": "Galluzzo"
+      },
+      {
+        "location": "43.778333,11.238964",
+        "name": "Il Prato"
+      },
+      {
+        "location": "43.777533,11.277351",
+        "name": "Campo di Marte"
+      },
+      {
+        "location": "43.783487,11.321532",
+        "name": "Settignano"
+      }
+    ],
+    "cardPhone": {
+      "title": "Chiamaci",
+      "text": "Numero attivo 7 giorni su 7, dalle 8:30 alle 19:30.",
+      "image": "phone-card"
+    },
+    "cardContact": {
+      "title": "Scrivici un messaggio",
+      "text": "Ti rispondiamo subito, o se lo desideri ti ricontattiamo quando vuoi tu.",
+      "buttonText": "Scrivici",
+      "image": "contact-card"
+    }
+  },
+  "service-banner": {
+    "title": "Hai un dubbio sul servizio di nutrizione? Chiamaci",
+    "subtitle": "Il nostro team sar&agrave; felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": false,
+    "cta-content": [
+      {
+        "label": "800 909 209",
+        "link": "tel:800909209",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "variant": "gradient"
+      }
+    ]
   }
 }
