@@ -3,10 +3,925 @@
     "title": "Fisioterapista a Milano",
     "description": "Fisioterapisti esperti a domicilio a Milano e area metropolitana. Riabilitazione a domicilio, linfodrenaggio, sedute fisioterapiche a casa, 7 giorni su 7, senza liste d'attesa."
   },
-  "subheader": {
-    "prenotaOnlineText": "Prenota ora",
-    "titleBig": "Fisioterapisti a domicilio <br /> a Milano",
-    "description1": "EpiCura porta la fisioterapia comodamente a domicilio, in tutta Milano e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
-    "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa."
+  "top_banner": {
+    "title": "Fisioterapista a Milano",
+    "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": false,
+    "cta-content": []
+  },
+  "bullet-cards": {
+    "title": "Perché affidarsi a EpiCura?",
+    "cards": [
+      {
+        "title": "Comodo, veloce, flessibile",
+        "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
+        "img": "/img/smile.png"
+      },
+      {
+        "title": "Professionisti certificati",
+        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
+        "img": "/img/smile.png"
+      },
+      {
+        "title": "Prenotazioni senza intoppi",
+        "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
+        "img": "/img/smile.png"
+      },
+      {
+        "title": "Supporto costante",
+        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
+        "img": "/img/smile.png"
+      }
+    ]
+  },
+  "card-trattamenti": {
+    "title": "I nostri trattamenti di fisioterapia",
+    "cards": [
+      {
+        "title": "Fisioterapia per anziani",
+        "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria"
+      },
+      {
+        "title": "Fisioterapia pediatrica",
+        "description": "torcicollo, plagiocefalia neonatale, piede piatto valgo, scoliosi, dorso curvo, fratture"
+      },
+      {
+        "title": "Fisioterapia in gravidanza",
+        "description": "gonfiore degli arti, mal di schiena, lombalgia, scialtalgia, disturbi del pavimento pelvico"
+      },
+      {
+        "title": "Riabilitazione respiratoria",
+        "description": "ginnastica respiratoria, fisioterapia polmonare"
+      },
+      {
+        "title": "Riabilitazione motoria",
+        "description": "alluce valgo, protesi anca, frattura femore, fisioterapia per ginocchio, protesi ginocchio, rafforzamento muscolare"
+      },
+      {
+        "title": "Linfodrenaggio manuale",
+        "description": "cellulite, edemi, ritensione idrica, vene varicose"
+      },
+      {
+        "title": "Chinesiterapia",
+        "description": "riacquisizione delle funzionalità motorie"
+      },
+      {
+        "title": "Disturbi patologici",
+        "description": "artrosi, artrite reumatoide, distrofia muscolare, fibromialgia, ictus, sclerosi multipla, spondilite anchilosante, tremore essenziale"
+      },
+      {
+        "title": "Dolore e infiammazione",
+        "description": "acusene, cervicale, emicrania, ernia, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite"
+      }
+    ]
+  },
+  "prime-banner": {
+    "title": "<strong>Epicura Prime</strong> è tutta salute",
+    "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": false,
+    "cta-content": []
+  },
+  "prime-table-compare": [
+    {
+      "is-prime": false,
+      "title": "EpiCura",
+      "small-text": "0€ per sempre",
+      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": false
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "image": "",
+        "variant": "outlined"
+      }
+    },
+    {
+      "is-prime": true,
+      "title": "EpiCura Prime",
+      "small-text": "180€ all’anno",
+      "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Prova gratis per 14 giorni",
+        "link": "/",
+        "image": "",
+        "variant": "filled"
+      }
+    }
+  ],
+  "app-banner": {
+    "title": "50% di sconto sulla prima visita. <br>Scarica l'app",
+    "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": true,
+    "cta-content": [
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/Download_on_the_App_Store_Badge_IT_RGB_wht_100317@2x.png",
+        "variant": "image"
+      },
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/Google_Play_Store_badge_IT@2x.png",
+        "variant": "image"
+      }
+    ]
+  },
+  "bullet-cards-service": {
+    "title": "Perché affidarsi a EpiCura?",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "cards": [
+      {
+        "title": "Solo professionisti qualificati",
+        "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
+        "img": "/img/smile.png"
+      },
+      {
+        "title": "La tua soddisfazione è anche la nostra ",
+        "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
+        "img": "/img/smile.png"
+      },
+      {
+        "title": "Siamo sempre al tuo fianco",
+        "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
+        "img": "/img/smile.png"
+      }
+    ]
+  },
+  "service-banner": {
+    "title": "Hai un dubbio sul servizio di fisioterapia? Chiamaci",
+    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": false,
+    "cta-content": [
+      {
+        "label": "800 909 209",
+        "link": "tel:800909209",
+        "image": "",
+        "variant": "gradient"
+      }
+    ]
+  },
+  "map": {
+    "showAllText": "Mostra tutti",
+    "hideAllText": "Mostra meno",
+    "doveCiTroviText": "I professionisti di EpiCura sono disponibili in tutta Milano",
+    "quartieriText": "Controlla qui i comuni coperti dal servizio",
+    "mapCenter": "45.466944,9.19",
+    "markers": [
+      {
+        "location": "45.515879,9.172071",
+        "name": "Affori"
+      },
+      {
+        "location": "45.468544,9.175094",
+        "name": "Cadorna - Castello"
+      },
+      {
+        "location": "45.463631,9.190092",
+        "name": "Duomo"
+      },
+      {
+        "location": "45.460832,9.189008",
+        "name": "Missori"
+      },
+      {
+        "location": "45.469517,9.195259",
+        "name": "Quadrilatero della Moda"
+      },
+      {
+        "location": "45.466158,9.196908",
+        "name": "San Babila"
+      },
+      {
+        "location": "45.462292,9.175397",
+        "name": "Sant'Ambrogio"
+      },
+      {
+        "location": "45.463293,9.197971",
+        "name": "Borgogna - Largo Augusto"
+      },
+      {
+        "location": "45.460109,9.181089",
+        "name": "Carrobbio"
+      },
+      {
+        "location": "45.468276,9.190636",
+        "name": "Scala - Manzoni"
+      },
+      {
+        "location": "45.475678,9.171969",
+        "name": "Arco della Pace"
+      },
+      {
+        "location": "45.480416,9.174757",
+        "name": "Arena"
+      },
+      {
+        "location": "45.468165,9.160699",
+        "name": "Pagano"
+      },
+      {
+        "location": "45.471124,9.169094",
+        "name": "Vincenzo Monti"
+      },
+      {
+        "location": "45.457546,9.175920",
+        "name": "Corso Genova"
+      },
+      {
+        "location": "45.472860,9.198077",
+        "name": "Palestro"
+      },
+      {
+        "location": "45.455165,9.195928",
+        "name": "Quadronno - Crocetta"
+      },
+      {
+        "location": "45.475035,9.194569",
+        "name": "Turati"
+      },
+      {
+        "location": "45.472462,9.183261",
+        "name": "Lanza"
+      },
+      {
+        "location": "45.473509,9.151390",
+        "name": "Amendola - Buonarroti"
+      },
+      {
+        "location": "45.486622,9.150250",
+        "name": "Parco Vittoria"
+      },
+      {
+        "location": "45.466542,9.149498",
+        "name": "De Angeli"
+      },
+      {
+        "location": "45.480260,9.140882",
+        "name": "Monte Rosa - Lotto"
+      },
+      {
+        "location": "45.480260,9.140882",
+        "name": "Lotto - Darsena"
+      },
+      {
+        "location": "45.448589,9.190503",
+        "name": "Bocconi"
+      },
+      {
+        "location": "45.448807,9.179631",
+        "name": "Corso San Gottardo"
+      },
+      {
+        "location": "45.444403,9.176389",
+        "name": "Ascanio Sforza"
+      },
+      {
+        "location": "45.458419,9.213049",
+        "name": "Cadore"
+      },
+      {
+        "location": "45.456594,9.204902",
+        "name": "Montenero"
+      },
+      {
+        "location": "45.468211,9.212904",
+        "name": "Indipendenza"
+      },
+      {
+        "location": "45.468096,9.205517",
+        "name": "Piave - Tricolore"
+      },
+      {
+        "location": "45.478683,9.213057",
+        "name": "Morgagni"
+      },
+      {
+        "location": "45.488646,9.199754",
+        "name": "Melchiorre Gioia"
+      },
+      {
+        "location": "45.481345,9.210385",
+        "name": "Buenos Aires"
+      },
+      {
+        "location": "45.511158,9.113283",
+        "name": "Cascina Merlata - Musocco"
+      },
+      {
+        "location": "45.493460,9.158625",
+        "name": "Ghisolfa - Mac Mahon"
+      },
+      {
+        "location": "45.465523,9.140867",
+        "name": "Gambara"
+      },
+      {
+        "location": "45.465050,9.136731",
+        "name": "Piazzale Siena"
+      },
+      {
+        "location": "45.429536,9.154891",
+        "name": "Cantalupa - San Paolo"
+      },
+      {
+        "location": "45.449624,9.140196",
+        "name": "Giambellino"
+      },
+      {
+        "location": "45.440977,9.183184",
+        "name": "Pezzotti - Meda"
+      },
+      {
+        "location": "45.411661,9.171427",
+        "name": "Gratosoglio"
+      },
+      {
+        "location": "45.442433,9.219053",
+        "name": "Lodi - Brenta"
+      },
+      {
+        "location": "45.451535,9.224096",
+        "name": "Molise - Cuoco"
+      },
+      {
+        "location": "45.453590,9.220217",
+        "name": "Martini - Insubria"
+      },
+      {
+        "location": "45.444603,9.227815",
+        "name": "Bologna - Sulmona"
+      },
+      {
+        "location": "45.509019,9.237674",
+        "name": "Ponte Nuovo"
+      },
+      {
+        "location": "45.511173,9.265195",
+        "name": "Cascina Gobba"
+      },
+      {
+        "location": "45.506430,9.208415",
+        "name": "Greco - Segnano"
+      },
+      {
+        "location": "45.507182,9.200819",
+        "name": "Ca' Granda"
+      },
+      {
+        "location": "45.510768,9.195829",
+        "name": "Prato Centenaro"
+      },
+      {
+        "location": "45.526372,9.211859",
+        "name": "Bignami - Ponale"
+      },
+      {
+        "location": "45.460560,9.160966",
+        "name": "Dezza"
+      },
+      {
+        "location": "45.465168,9.149295",
+        "name": "Frua"
+      },
+      {
+        "location": "45.510985,9.137718",
+        "name": "Quarto Oggiaro"
+      },
+      {
+        "location": "45.515955,9.128373",
+        "name": "Vialba"
+      },
+      {
+        "location": "45.520934,9.125253",
+        "name": "Roserio"
+      },
+      {
+        "location": "45.493127,9.101958",
+        "name": "Trenno"
+      },
+      {
+        "location": "45.493525,9.075214",
+        "name": "Figino"
+      },
+      {
+        "location": "45.486188,9.136278",
+        "name": "QT8 - Triennale 8"
+      },
+      {
+        "location": "45.463246,9.087298",
+        "name": "Baggio"
+      },
+      {
+        "location": "45.454517,9.082119",
+        "name": "Olmi"
+      },
+      {
+        "location": "45.476776,9.088299",
+        "name": "Quinto Romano"
+      },
+      {
+        "location": "45.472855,9.134710",
+        "name": "Quarto Cagnino"
+      },
+      {
+        "location": "45.418316,9.239170",
+        "name": "Quintosole - Chiaravalle"
+      },
+      {
+        "location": "45.424898,9.203701",
+        "name": "Ripamonti"
+      },
+      {
+        "location": "45.447291,9.255439",
+        "name": "Viale Ungheria - Mecenate"
+      },
+      {
+        "location": "45.456006,9.255040",
+        "name": "Monluè"
+      },
+      {
+        "location": "45.468122,9.222459",
+        "name": "Plebisciti - Susa"
+      },
+      {
+        "location": "45.462931,9.231782",
+        "name": "Argonne - Corsica"
+      },
+      {
+        "location": "45.505768,9.224838",
+        "name": "Gorla"
+      },
+      {
+        "location": "45.520465,9.225741",
+        "name": "Villa San Giovanni"
+      },
+      {
+        "location": "45.513125,9.223666",
+        "name": "Precotto"
+      },
+      {
+        "location": "45.486476,9.242051",
+        "name": "Feltre"
+      },
+      {
+        "location": "45.494980,9.247677",
+        "name": "Parco Lambro"
+      },
+      {
+        "location": "45.478169,9.255149",
+        "name": "Rubattino"
+      },
+      {
+        "location": "45.491442,9.236787",
+        "name": "Udine"
+      },
+      {
+        "location": "45.490798,9.218075",
+        "name": "Pasteur"
+      },
+      {
+        "location": "45.495774,9.219332",
+        "name": "Rovereto"
+      },
+      {
+        "location": "45.493774,9.224955",
+        "name": "Parco Trotter"
+      },
+      {
+        "location": "45.435300,9.241583",
+        "name": "Santa Giulia"
+      },
+      {
+        "location": "45.452500,9.153913",
+        "name": "Piazza Napoli"
+      },
+      {
+        "location": "45.458222,9.147971",
+        "name": "Tripoli - Soderini"
+      },
+      {
+        "location": "45.453914,9.140354",
+        "name": "Lorenteggio"
+      },
+      {
+        "location": "45.457075,9.129212",
+        "name": "Primaticcio"
+      },
+      {
+        "location": "45.437087,9.151707",
+        "name": "Barona"
+      },
+      {
+        "location": "45.518611,9.207569",
+        "name": "Bicocca"
+      },
+      {
+        "location": "45.493574,9.136011",
+        "name": "Boldinasco"
+      },
+      {
+        "location": "45.479039,9.177263",
+        "name": "Borgo degli Ortolani"
+      },
+      {
+        "location": "45.471263,9.199912",
+        "name": "Bottonuto"
+      },
+      {
+        "location": "45.506673,9.159883",
+        "name": "Bovisa"
+      },
+      {
+        "location": "45.518867,9.155293",
+        "name": "Bovisasca"
+      },
+      {
+        "location": "45.526648,9.172758",
+        "name": "Bruzzano"
+      },
+      {
+        "location": "45.493818,9.147888",
+        "name": "Cagnola"
+      },
+      {
+        "location": "45.453011,9.223081",
+        "name": "Calvairate"
+      },
+      {
+        "location": "45.487854,9.227230",
+        "name": "Casoretto"
+      },
+      {
+        "location": "45.459602,9.244058",
+        "name": "Forlanini"
+      },
+      {
+        "location": "45.452498,9.241521",
+        "name": "Taliedo"
+      },
+      {
+        "location": "45.454666,9.209801",
+        "name": "Porta Romana"
+      },
+      {
+        "location": "45.459573,9.200762",
+        "name": "Guastalla"
+      },
+      {
+        "location": "45.481672,9.174113",
+        "name": "Chinatown"
+      },
+      {
+        "location": "45.475172,9.167992",
+        "name": "Sempione"
+      },
+      {
+        "location": "45.476887,9.160670",
+        "name": "Tre Torri"
+      },
+      {
+        "location": "45.476887,9.148026",
+        "name": "Fiera"
+      },
+      {
+        "location": "45.468430,9.154436",
+        "name": "Wagner"
+      },
+      {
+        "location": "45.462952,9.157327",
+        "name": "Washington"
+      },
+      {
+        "location": "45.457263,9.164038",
+        "name": "Solari"
+      },
+      {
+        "location": "45.447720,9.169290",
+        "name": "Navigli"
+      },
+      {
+        "location": "45.454524,9.186494",
+        "name": "Ticinese"
+      },
+      {
+        "location": "45.460424,9.168507",
+        "name": "San Vittore"
+      },
+      {
+        "location": "45.496548,9.241795",
+        "name": "Cimiano"
+      },
+      {
+        "location": "45.479700,9.222435",
+        "name": "Città studi"
+      },
+      {
+        "location": "45.469890,9.246076",
+        "name": "Ortica"
+      },
+      {
+        "location": "45.484093,9.248774",
+        "name": "Lambrate"
+      },
+      {
+        "location": "45.487643,9.213964",
+        "name": "Loreto"
+      },
+      {
+        "location": "45.483912,9.203788",
+        "name": "Centrale"
+      },
+      {
+        "location": "45.477653,9.202345",
+        "name": "Lazzaretto"
+      },
+      {
+        "location": "45.472236,9.205151",
+        "name": "Porta Venezia"
+      },
+      {
+        "location": "45.466638,9.211132",
+        "name": "Risorgimento"
+      },
+      {
+        "location": "45.468143,9.227907",
+        "name": "Acquabella"
+      },
+      {
+        "location": "45.462996,9.228223",
+        "name": "Zona delle Regioni"
+      },
+      {
+        "location": "45.487431,9.187620",
+        "name": "Isola"
+      },
+      {
+        "location": "45.478585,9.155471",
+        "name": "City life"
+      },
+      {
+        "location": "45.487160,9.165486",
+        "name": "Bullona"
+      },
+      {
+        "location": "45.493327,9.179149",
+        "name": "Farini"
+      },
+      {
+        "location": "45.496125,9.171483",
+        "name": "Derganino"
+      },
+      {
+        "location": "45.504337,9.174804",
+        "name": "Dergano"
+      },
+      {
+        "location": "45.397687,8.916897",
+        "name": "Abbiategrasso - Cermenate"
+      },
+      {
+        "location": "45.427958,9.178841",
+        "name": "Chiesa Rossa"
+      },
+      {
+        "location": "45.461489,9.136713",
+        "name": "Bande Nere"
+      },
+      {
+        "location": "45.457361,9.122525",
+        "name": "Inganni"
+      },
+      {
+        "location": "45.517896,9.189590",
+        "name": "Niguarda"
+      },
+      {
+        "location": "45.454832,9.113073",
+        "name": "Bisceglie"
+      },
+      {
+        "location": "45.458354,9.110943",
+        "name": "Forze Armate"
+      },
+      {
+        "location": "45.487609,9.172982",
+        "name": "Cenisio"
+      },
+      {
+        "location": "45.481627,9.175068",
+        "name": "Sarpi"
+      },
+      {
+        "location": "45.479174,9.198705",
+        "name": "Repubblica"
+      },
+      {
+        "location": "45.464037,9.191785",
+        "name": "Centro"
+      },
+      {
+        "location": "45.503797,9.238622",
+        "name": "Crescenzago"
+      },
+      {
+        "location": "45.516949,9.246258",
+        "name": "Adriano"
+      },
+      {
+        "location": "45.440348,9.224861",
+        "name": "Corvetto"
+      },
+      {
+        "location": "45.433120,9.228627",
+        "name": "Mazzini"
+      },
+      {
+        "location": "45.429445,9.246265",
+        "name": "Rogoredo"
+      },
+      {
+        "location": "45.437374,9.170304",
+        "name": "Famagosta"
+      },
+      {
+        "location": "45.488465,9.146786",
+        "name": "Portello"
+      },
+      {
+        "location": "45.485376,9.185253",
+        "name": "Garibaldi - Corso Como"
+      },
+      {
+        "location": "45.477140,9.188996",
+        "name": "Moscova"
+      },
+      {
+        "location": "45.475214,9.187853",
+        "name": "San Marco"
+      },
+      {
+        "location": "45.471211,9.187140",
+        "name": "Brera"
+      },
+      {
+        "location": "45.481201,9.194597",
+        "name": "Porta Nuova"
+      },
+      {
+        "location": "45.450490,9.265209",
+        "name": "Linate"
+      },
+      {
+        "location": "45.496473,9.200497",
+        "name": "Maggiolina"
+      },
+      {
+        "location": "45.499361,9.222743",
+        "name": "Turro"
+      },
+      {
+        "location": "45.501502,9.197284",
+        "name": "Istria"
+      },
+      {
+        "location": "45.498825,9.195026",
+        "name": "Zara"
+      },
+      {
+        "location": "45.456777,9.138959",
+        "name": "Soderini"
+      },
+      {
+        "location": "45.528757,9.161383",
+        "name": "Comasina"
+      },
+      {
+        "location": "45.477657,9.125367",
+        "name": "San Siro"
+      },
+      {
+        "location": "45.498090,9.110783",
+        "name": "Gallaratese"
+      },
+      {
+        "location": "45.488734,9.125347",
+        "name": "Lampugnano"
+      }
+    ],
+    "cardPhone": {
+      "title": "Chiamaci",
+      "text": "Numero attivo 7 giorni su 7, dalle 8:30 alle 19:30.",
+      "image": "phone-card"
+    },
+    "cardContact": {
+      "title": "Scrivici un messaggio",
+      "text": "Ti rispondiamo subito, o se lo desideri ti ricontattiamo quando vuoi tu.",
+      "buttonText": "Scrivici",
+      "image": "contact-card"
+    }
   }
 }

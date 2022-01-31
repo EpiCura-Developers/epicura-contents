@@ -4,7 +4,7 @@
   "linkedinLink": "https://www.linkedin.com/company/epicuramed/",
   "youtubeLink": "https://www.youtube.com/channel/UC1ibdsGsslcFBLxH2tkyZOw",
   "twitterLink": "https://twitter.com/EpiCuraMed",
-  "copyright": "EpiCura S.r.l. - Via Mercantini 5, 10121 Torino, (TO) - P.Iva 11744440014 - © 2021 - Tutti i diritti riservati",
+  "copyright": "EpiCura S.r.l. - Via Mercantini 5, 10121 Torino (TO) - P.Iva 11744440014 - © 2021 - Tutti i diritti riservati",
   "belowCopyright": "Made with love in Turin ❤️",
   "sections": [
     {
@@ -48,6 +48,23 @@
         {
           "option-link": "/blog/",
           "option-label": "Magazine",
+          "option-is-complex": true,
+          "option-is-amp": false
+        }
+      ]
+    },
+    {
+      "column-name": "EpiCura Prime",
+      "column-options": [
+        {
+          "option-link": "/",
+          "option-label": "App iOS",
+          "option-is-complex": true,
+          "option-is-amp": false
+        },
+        {
+          "option-link": "/",
+          "option-label": "App Android",
           "option-is-complex": true,
           "option-is-amp": false
         }
