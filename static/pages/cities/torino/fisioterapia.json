@@ -156,6 +156,14 @@
         "link": "/",
         "image": "",
         "variant": "outlined"
+      },
+      "primePrices": {
+        "title": "Prezzo riservato a utenti Prime",
+        "cta": {
+          "label": "Scopri Epicura Prime e risparmia",
+          "url": "#"
+        },
+        "price": "54"
       }
     },
     {
@@ -206,6 +214,14 @@
         "link": "/",
         "image": "",
         "variant": "filled"
+      },
+      "prime-prices": {
+        "title": "Prezzo riservato a utenti Prime",
+        "cta": {
+          "label": "Scopri Epicura Prime e risparmia",
+          "url": "#"
+        },
+        "price": "149"
       }
     }
   ],
