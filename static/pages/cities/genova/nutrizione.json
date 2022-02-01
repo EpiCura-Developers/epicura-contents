@@ -26,7 +26,7 @@
         },
         "title": "",
         "subtitle": "Scopri le nostre soluzioni",
-        "text": "Abbiamo pensato a diversi percorsi nutrizionali per permetterti di scegliere in base ai tuoi obiettivi e necessit &agrave;. Scegli il percorso nutrizionale più adatto, noi troveremo il miglior professionista per le tue esigenze."
+        "text": "Abbiamo pensato a diversi percorsi nutrizionali per permetterti di scegliere in base ai tuoi obiettivi e necessit à. Scegli il percorso nutrizionale più adatto, noi troveremo il miglior professionista per le tue esigenze."
       },
       {
         "img": {
@@ -35,7 +35,7 @@
         },
         "title": "",
         "subtitle": "Prenota in pochi click",
-        "text": "La prenotazione con EpiCura  &egrave; semplice e veloce! Scegli dove e quando ricevere l’intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
+        "text": "La prenotazione con EpiCura  è semplice e veloce! Scegli dove e quando ricevere l’intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
       },
       {
         "img": {
@@ -53,7 +53,7 @@
     "cards": [
       {
         "title": "Perdita e aumento di peso",
-        "description": "sovrappeso, obesit &agrave;, sottopeso"
+        "description": "sovrappeso, obesit à, sottopeso"
       },
       {
         "title": "Nutrizione al femminile",
@@ -61,7 +61,7 @@
       },
       {
         "title": "Nutrizione pediatrica",
-        "description": "sovrappeso, obesit &agrave;, inappetenza, diabete, allergie e intolleranze alimentari, anemia"
+        "description": "sovrappeso, obesit à, inappetenza, diabete, allergie e intolleranze alimentari, anemia"
       },
       {
         "title": "Nutrizione per anziani",
@@ -117,21 +117,16 @@
       "cta": {
         "label": "Entra in EpiCura e prenota",
         "link": "/",
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
+        "image": "",
         "variant": "outlined"
       },
-      "banner-price": {
-        "has-banner": true,
-        "img": {
-          "path": "common",
-          "name": "header_home"
+      "primePrices": {
+        "title": "Prezzo riservato a utenti Prime",
+        "cta": {
+          "label": "Scopri Epicura Prime e risparmia",
+          "url": "#"
         },
-        "text": "Prezzo riservato a utenti Prime",
-        "subtitle": "Scopri Epicura Prime e risparmia",
-        "price": "54&euro;"
+        "price": "54"
       }
     },
     {
@@ -158,23 +153,18 @@
         }
       ],
       "cta": {
-        "label": "Entra in EpiCura e prenota",
+        "label": "Prova gratis per 14 giorni",
         "link": "/",
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
-        "variant": "outlined"
+        "image": "",
+        "variant": "filled"
       },
-      "banner-price": {
-        "has-banner": true,
-        "img": {
-          "path": "common",
-          "name": "header_home"
+      "prime-prices": {
+        "title": "Prezzo riservato a utenti Prime",
+        "cta": {
+          "label": "Scopri Epicura Prime e risparmia",
+          "url": "#"
         },
-        "text": "Prezzo riservato a utenti Prime",
-        "subtitle": "Scopri Epicura Prime e risparmia",
-        "price": "149&euro;"
+        "price": "149"
       }
     }
   ],
@@ -245,7 +235,7 @@
         }
       },
       {
-        "title": "La tua soddisfazione &egrave; anche la nostra ",
+        "title": "La tua soddisfazione è anche la nostra ",
         "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
         "img": {
           "path": "common",
@@ -487,7 +477,7 @@
       },
       {
         "location": "44.416469,8.925151",
-        "name": "Pr&egrave;"
+        "name": "Prè"
       },
       {
         "location": "44.406814,8.935759",
@@ -528,7 +518,7 @@
   },
   "service-banner": {
     "title": "Hai un dubbio sul servizio di nutrizione? Chiamaci",
-    "subtitle": "Il nostro team sar&agrave; felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
     "img": {
       "path": "common",
       "name": "header_home"
