@@ -4,21 +4,146 @@
     "description": "Assistenza a ore a Bologna per anziani, malati e disabili con assistenti domiciliari qualificati e con esperienza, che ti raggiungono a domicilio, in ospedale o in casa di riposo."
   },
   "top_banner": {
-    "title": "La salute a Torino con EpiCura",
-    "subtitle": "Scegli la comodità: prenota un servizio sanitario e ricevilo direttamente in videoconsulto, a casa tua o in studio nella tua città.",
+    "title": "Assistenza domiciliare a ore a Bologna",
+    "subtitle": "EpiCura si prende cura di anziani, malati o disabili con assistenti domiciliari qualificati e con esperienza, che raggiungono il tuo caro a domicilio, in ospedale o in casa di riposo. Scopri le nostre soluzioni di assistenza a domicilio e ritrova la serenità.",
     "img": {
-      "path": "common",
-      "name": "header_home"
+      "path": "homecare",
+      "name": "banner-homecare"
     },
     "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": false,
     "has-bg-color": false,
-    "cta-content": []
+    "cta-content": [],
+    "list-details": [
+      {
+        "icon": "/img/prenotazione-struttura.png",
+        "text": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro."
+      }
+    ]
   },
-  "card-trattamenti": {
-    "title": "Fisioterapia per anziani",
-    "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria"
+  "talks-about-us": {
+    "title": "Parlano di noi",
+    "list": [
+      {
+        "img": {
+          "path": "common",
+          "name": "skytg24"
+        }
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "lastampa"
+        }
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "corrieredellasera"
+        }
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "ilsole24ore"
+        }
+      }
+    ]
+  },
+  "how-it-works": {
+    "title": "Lavoriamo solo con badanti qualificate",
+    "subtitle": "Soltanto il 10% dei candidati supera i nostri rigidi processi di selezione, garantendoti un servizio di qualità.",
+    "cards": [
+      {
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "title": "",
+        "subtitle": "Analizziamo le tue esigenze",
+        "text": "Attraverso una consulenza dedicata, i nostri operatori individueranno le necessità della tua famiglia, costruendo un piano assistenziale su misura."
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "title": "",
+        "subtitle": "Troviamo il professionista più adatto",
+        "text": "In base alle tue richieste, ci occuperemo di trovare l’assistente domiciliare più idoneo per le tue esigenze. Lavoriamo solo con personale esperto e qualificato."
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "title": "",
+        "subtitle": "Eroghiamo l’assistenza dove vuoi",
+        "text": "I nostri assistenti domiciliari ti raggiungono dove e quando vuoi, 7 giorni su 7. Con EpiCura avrai la certezza di ricevere assistenza solo dai migliori professionisti."
+      }
+    ]
+  },
+  "banner-price": {
+    "title": "Troviamo per te la migliore assistenza domiciliare a Torino",
+    "subtitle": "Cerchi assistenza qualificata per un tuo caro? Con EpiCura i migliori assistenti domiciliari arrivano comodamente a domicilio, in ospedale o in casa di riposo, 7 giorni su 7, entro 24 ore dalla prenotazione. Recupera la tua serenità e quella dei tuoi affetti, richiedi adesso un preventivo gratuito.*",
+    "note": "*Il servizio è erogabile a partire da un minimo di 3 ore consecutive",
+    "price": "",
+    "cta-content": [
+      {
+        "label": "Richiedi preventivo gratuito",
+        "link": "/",
+        "image": "",
+        "variant": "filled"
+      }
+    ]
+  },
+  "caregiver-tasks": {
+    "title": "Di cosa si occupa l'assistente domiciliare?",
+    "list": [
+      {
+        "image": {
+          "path": "common",
+          "name": "icon"
+        },
+        "description": "Prepara i pasti e fornisce supporto per la loro corretta assunzione"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "icon"
+        },
+        "description": "Aiuta nella gestione delle attività giornaliere e nella pulizia della casa"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "icon"
+        },
+        "description": "Veste la persona e ne garantisce la cura e l'igiene quotidiana"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "icon"
+        },
+        "description": "Stimola le capacità comunicative e l’attività motoria all’aperto"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "icon"
+        },
+        "description": "Supporta nell’assunzione di terapie e accompagna alle visite mediche"
+      },
+      {
+        "image": {
+          "path": "common",
+          "name": "icon"
+        },
+        "description": "Monitora e sorveglia la persona assistita con cura e costanza"
+      }
+    ]
   },
   "prime-banner": {
     "title": "<strong>Epicura Prime</strong> è tutta salute",
@@ -134,5 +259,82 @@
         "variant": "filled"
       }
     }
-  ]
+  ],
+  "specialist-carousel": {
+    "title": "Badanti con esperienza e referenziate",
+    "subtitle": "Scegliamo con cura i nostri professionisti per garantirti serenità e affidabilità.",
+    "cards": [
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      },
+      {
+        "title": "Dr. Luca Grasso",
+        "discipline": "Psicologo",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        }
+      }
+    ]
+  },
+  "service-banner": {
+    "title": "Cerchi assistenza domiciliare? Richiedi una consulenza.",
+    "subtitle": "Non perdere la testa nella ricerca dell'assistente domiciliare. Se non sai da dove iniziare, un nostro consulente ascolterà le tue esigenze e ti guiderà verso il percorso assistenziale più adeguato. Pensaci: una telefonata può cambiarti la vita.",
+    "img": {
+      "path": "common",
+      "name": "header_home"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": false,
+    "cta-content": [
+      {
+        "label": "Prenota una consulenza gratuita",
+        "link": "#",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
+        "variant": "gradient"
+      }
+    ]
+  }
 }
