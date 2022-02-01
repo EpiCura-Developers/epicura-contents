@@ -3,17 +3,18 @@
     "title": "Fisioterapista a Torino",
     "description": "Fisioterapisti esperti a domicilio a Torino e area metropolitana. Riabilitazione a domicilio, linfodrenaggio, sedute fisioterapiche a casa, 7 giorni su 7, senza liste d'attesa."
   },
-  "top_banner": {
+  "top-banner": {
     "title": "Fisioterapista a Torino",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalit&agrave; con cui riceverlo. &Egrave; facile, veloce e soprattutto comodo.",
     "img": {
       "path": "common",
       "name": "header_home"
     },
+    "has-large-title": true,
     "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": false,
-    "has-bg-color": false,
+    "has-bg-color": "",
     "cta-content": []
   },
   "bullet-cards": {
@@ -24,7 +25,7 @@
         "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "convenient"
         }
       },
       {
@@ -32,7 +33,7 @@
         "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualit&agrave;.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "pro-certified"
         }
       },
       {
@@ -40,7 +41,7 @@
         "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "booking-1"
         }
       },
       {
@@ -48,7 +49,7 @@
         "text": "Il nostro Customer Care ti aiuter&agrave; in ogni momento per semplificarti la vita.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "support"
         }
       }
     ]
@@ -58,44 +59,53 @@
     "cards": [
       {
         "title": "Fisioterapia per anziani",
-        "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria"
+        "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria",
+        "url": "#"
       },
       {
         "title": "Fisioterapia pediatrica",
-        "description": "torcicollo, plagiocefalia neonatale, piede piatto valgo, scoliosi, dorso curvo, fratture"
+        "description": "torcicollo, plagiocefalia neonatale, piede piatto valgo, scoliosi, dorso curvo, fratture",
+        "url": "#"
       },
       {
         "title": "Fisioterapia in gravidanza",
-        "description": "gonfiore degli arti, mal di schiena, lombalgia, scialtalgia, disturbi del pavimento pelvico"
+        "description": "gonfiore degli arti, mal di schiena, lombalgia, scialtalgia, disturbi del pavimento pelvico",
+        "url": "#"
       },
       {
         "title": "Riabilitazione respiratoria",
-        "description": "ginnastica respiratoria, fisioterapia polmonare"
+        "description": "ginnastica respiratoria, fisioterapia polmonare",
+        "url": "#"
       },
       {
         "title": "Riabilitazione motoria",
-        "description": "alluce valgo, protesi anca, frattura femore, fisioterapia per ginocchio, protesi ginocchio, rafforzamento muscolare"
+        "description": "alluce valgo, protesi anca, frattura femore, fisioterapia per ginocchio, protesi ginocchio, rafforzamento muscolare",
+        "url": "#"
       },
       {
         "title": "Linfodrenaggio manuale",
-        "description": "cellulite, edemi, ritensione idrica, vene varicose"
+        "description": "cellulite, edemi, ritensione idrica, vene varicose",
+        "url": "#"
       },
       {
         "title": "Chinesiterapia",
-        "description": "riacquisizione delle funzionalit&agrave; motorie"
+        "description": "riacquisizione delle funzionalit&agrave; motorie",
+        "url": "#"
       },
       {
         "title": "Disturbi patologici",
-        "description": "artrosi, artrite reumatoide, distrofia muscolare, fibromialgia, ictus, sclerosi multipla, spondilite anchilosante, tremore essenziale"
+        "description": "artrosi, artrite reumatoide, distrofia muscolare, fibromialgia, ictus, sclerosi multipla, spondilite anchilosante, tremore essenziale",
+        "url": "#"
       },
       {
         "title": "Dolore e infiammazione",
-        "description": "acusene, cervicale, emicrania, ernia, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite"
+        "description": "acusene, cervicale, emicrania, ernia, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite",
+        "url": "#"
       }
     ]
   },
   "prime-banner": {
-    "title": "<strong>Epicura Prime</strong> &egrave; tutta salute",
+    "title": "<strong>Epicura Prime</strong> è tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
       "path": "common",
@@ -157,7 +167,7 @@
         "image": "",
         "variant": "outlined"
       },
-      "primePrices": {
+      "prime-prices": {
         "title": "Prezzo riservato a utenti Prime",
         "cta": {
           "label": "Scopri Epicura Prime e risparmia",
@@ -235,7 +245,7 @@
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": true,
+    "has-bg-color": false,
     "cta-content": [
       {
         "label": "",
@@ -260,7 +270,7 @@
         "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "specialist-2"
         }
       },
       {
@@ -268,7 +278,7 @@
         "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "certificate-2"
         }
       },
       {
@@ -276,7 +286,7 @@
         "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "support-2"
         }
       }
     ]
@@ -288,6 +298,7 @@
       "path": "common",
       "name": "header_home"
     },
+    "has-large-title": false,
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": false,

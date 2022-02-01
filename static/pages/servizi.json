@@ -3,17 +3,18 @@
     "title": "EpiCura",
     "description": "Medici, infermieri, veterinari, badanti e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7."
   },
-  "top_banner": {
+  "top-banner": {
     "title": "Perché avere un solo medico di fiducia quando ne puoi avere più di 900?",
     "subtitle": "",
     "img": {
       "path": "common",
       "name": "header_home"
     },
+    "has-large-title": true,
     "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": false,
+    "has-bg-color": "",
     "cta-content": []
   },
   "benefit-banner": {

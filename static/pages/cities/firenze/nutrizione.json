@@ -3,17 +3,18 @@
     "title": "Nutrizionista a Firenze",
     "description": "Nutrizionisti a domicilio a Firenze e area metropolitana. Valutazione nutrizionale, monitoraggio e pianificazione diete a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "top_banner": {
+  "top-banner": {
     "title": "Nutrizionista a Firenze",
     "subtitle": "EpiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Firenze e area metropolitana, 7 giorni su 7, quando e dove vuoi. Prenota in pochi clic e prenditi cura del tuo corpo e del tuo benessere in modo semplice e veloce.",
     "img": {
       "path": "common",
       "name": "header_home"
     },
+    "has-large-title": true,
     "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": false,
-    "has-bg-color": false,
+    "has-bg-color": "",
     "cta-content": []
   },
   "how-it-works": {

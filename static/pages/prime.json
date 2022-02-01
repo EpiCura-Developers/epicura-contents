@@ -3,17 +3,18 @@
     "title": "EpiCura",
     "description": "Medici, infermieri, veterinari, badanti e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7."
   },
-  "top_banner": {
+  "top-banner": {
     "title": "<strong>EpiCura Prime</strong> ti fa risparmiare.",
     "subtitle": "Abbiamo pensato a un abbonamento che ti fa risparmiare tempo. Lo provi gratis per 14 giorni, senza impegno, e se ti piace lo sottoscrivi per un anno. <br> <h5>180€ all’anno</h5>",
     "img": {
       "path": "common",
       "name": "header_home"
     },
+    "has-large-title": true,
     "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": false,
+    "has-bg-color": "",
     "cta-content": [
       {
         "label": "Prova gratis per 14 giorni",

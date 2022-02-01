@@ -3,17 +3,18 @@
     "title": "Fisioterapista a Verona",
     "description": "Fisioterapisti esperti a domicilio a Verona e area metropolitana. Riabilitazione a domicilio, linfodrenaggio, sedute fisioterapiche a casa, 7 giorni su 7, senza liste d'attesa."
   },
-  "top_banner": {
+  "top-banner": {
     "title": "Fisioterapista a Verona",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalit&agrave; con cui riceverlo. &Egrave; facile, veloce e soprattutto comodo.",
     "img": {
       "path": "common",
       "name": "header_home"
     },
+    "has-large-title": true,
     "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": false,
-    "has-bg-color": false,
+    "has-bg-color": "",
     "cta-content": []
   },
   "bullet-cards": {

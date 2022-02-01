@@ -3,86 +3,19 @@
     "title": "Assistenza a ore a Bologna",
     "description": "Assistenza a ore a Bologna per anziani, malati e disabili con assistenti domiciliari qualificati e con esperienza, che ti raggiungono a domicilio, in ospedale o in casa di riposo."
   },
-  "top_banner": {
-    "title": "Assistenza domiciliare a ore a Bologna",
-    "subtitle": "EpiCura si prende cura di anziani, malati o disabili con assistenti domiciliari qualificati e con esperienza, che raggiungono il tuo caro a domicilio, in ospedale o in casa di riposo. Scopri le nostre soluzioni di assistenza a domicilio e ritrova la serenità.",
+  "top-banner": {
+    "title": "La salute a Torino con EpiCura",
+    "subtitle": "Scegli la comodità: prenota un servizio sanitario e ricevilo direttamente in videoconsulto, a casa tua o in studio nella tua città.",
     "img": {
       "path": "homecare",
       "name": "banner-homecare"
     },
+    "has-large-title": true,
     "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": false,
-    "has-bg-color": false,
-    "cta-content": [],
-    "list-details": [
-      {
-        "icon": "/img/prenotazione-struttura.png",
-        "text": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro."
-      }
-    ]
-  },
-  "talks-about-us": {
-    "title": "Parlano di noi",
-    "list": [
-      {
-        "img": {
-          "path": "common",
-          "name": "skytg24"
-        }
-      },
-      {
-        "img": {
-          "path": "common",
-          "name": "lastampa"
-        }
-      },
-      {
-        "img": {
-          "path": "common",
-          "name": "corrieredellasera"
-        }
-      },
-      {
-        "img": {
-          "path": "common",
-          "name": "ilsole24ore"
-        }
-      }
-    ]
-  },
-  "how-it-works": {
-    "title": "Lavoriamo solo con badanti qualificate",
-    "subtitle": "Soltanto il 10% dei candidati supera i nostri rigidi processi di selezione, garantendoti un servizio di qualità.",
-    "cards": [
-      {
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
-        "title": "",
-        "subtitle": "Analizziamo le tue esigenze",
-        "text": "Attraverso una consulenza dedicata, i nostri operatori individueranno le necessità della tua famiglia, costruendo un piano assistenziale su misura."
-      },
-      {
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
-        "title": "",
-        "subtitle": "Troviamo il professionista più adatto",
-        "text": "In base alle tue richieste, ci occuperemo di trovare l’assistente domiciliare più idoneo per le tue esigenze. Lavoriamo solo con personale esperto e qualificato."
-      },
-      {
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
-        "title": "",
-        "subtitle": "Eroghiamo l’assistenza dove vuoi",
-        "text": "I nostri assistenti domiciliari ti raggiungono dove e quando vuoi, 7 giorni su 7. Con EpiCura avrai la certezza di ricevere assistenza solo dai migliori professionisti."
-      }
-    ]
+    "has-bg-color": "",
+    "cta-content": []
   },
   "banner-price": {
     "title": "Troviamo per te la migliore assistenza domiciliare a Torino",
