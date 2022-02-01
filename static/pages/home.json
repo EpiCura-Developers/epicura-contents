@@ -407,17 +407,18 @@
       }
     }
   ],
-  "top_banner": {
+  "top-banner": {
     "title": "Prenotare una visita <br />&egrave; sempre un incubo",
     "subtitle": "Con EpiCura pensa solo alla salute: prenota e ricevi l'intervento a casa, in studio o in videoconsulto, 7 giorni su 7, entro 24 ore.",
     "img": {
       "path": "common",
       "name": "header_home_new"
     },
+    "has-large-title": true,
     "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": false,
+    "has-bg-color": "",
     "cta-content": []
   },
   "service-cards": {

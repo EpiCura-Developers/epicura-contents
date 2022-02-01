@@ -3,13 +3,14 @@
     "title": "Infermiere a Torino",
     "description": "Infermieri a domicilio a Torino e area metropolitana. Inieizioni, medicazioni, clistere a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "top_banner": {
+  "top-banner": {
     "title": "Infermiere a Torino",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalit&agrave; con cui riceverlo. &Egrave; facile, veloce e soprattutto comodo.",
     "img": {
       "path": "common",
       "name": "header_home"
     },
+    "has-large-title": true,
     "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": false,
