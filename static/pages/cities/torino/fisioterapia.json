@@ -114,11 +114,7 @@
     "has-large-title": true,
     "has-absolute-image": false,
     "first-image-order": false,
-<<<<<<< HEAD
-    "hide-image-mobile": true,
-=======
     "hide-image-mobile": false,
->>>>>>> 61594ce60b8c7a587c4e92565031249a878c6f8f
     "has-bg-color": "",
     "cta-content": []
   },
@@ -308,11 +304,7 @@
     "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": false,
-<<<<<<< HEAD
-    "has-bg-color": "physiotherapy",
-=======
     "has-bg-color": "",
->>>>>>> 61594ce60b8c7a587c4e92565031249a878c6f8f
     "cta-content": [
       {
         "label": "800 909 209",
