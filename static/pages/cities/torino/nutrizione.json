@@ -528,10 +528,11 @@
       "path": "common",
       "name": "header_home"
     },
-    "has-absolute-image": true,
+    "has-large-title": true,
+    "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": false,
-    "has-bg-color": false,
+    "has-bg-color": "",
     "cta-content": [
       {
         "label": "800 909 209",

@@ -114,7 +114,11 @@
     "has-large-title": true,
     "has-absolute-image": false,
     "first-image-order": false,
+<<<<<<< HEAD
     "hide-image-mobile": true,
+=======
+    "hide-image-mobile": false,
+>>>>>>> 61594ce60b8c7a587c4e92565031249a878c6f8f
     "has-bg-color": "",
     "cta-content": []
   },
@@ -237,7 +241,7 @@
     }
   ],
   "app-banner": {
-    "title": "50% di sconto sulla prima visita. <br>Scarica l'app",
+    "title": "50% di sconto sulla prima visita. <br><strong>Scarica l'app</strong>",
     "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
@@ -300,11 +304,15 @@
       "path": "common",
       "name": "header_home"
     },
-    "has-large-title": false,
-    "has-absolute-image": true,
+    "has-large-title": true,
+    "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": false,
+<<<<<<< HEAD
     "has-bg-color": "physiotherapy",
+=======
+    "has-bg-color": "",
+>>>>>>> 61594ce60b8c7a587c4e92565031249a878c6f8f
     "cta-content": [
       {
         "label": "800 909 209",
