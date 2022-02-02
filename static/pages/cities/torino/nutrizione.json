@@ -93,10 +93,11 @@
       "path": "common",
       "name": "header_home"
     },
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": false,
+    "has-large-title": true,
+    "has-bg-color": "",
     "cta-content": []
   },
   "nutrition-table-compare": [

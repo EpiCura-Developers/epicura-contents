@@ -227,7 +227,8 @@
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": true,
+    "has-large-title": true,
+    "has-bg-color": "",
     "cta-content": [
       {
         "label": "",

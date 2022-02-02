@@ -10,11 +10,11 @@
       "path": "common",
       "name": "header_home"
     },
-    "has-large-title": true,
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": false,
-    "has-bg-color": false,
+    "hide-image-mobile": true,
+    "has-large-title": true,
+    "has-bg-color": "",
     "cta-content": []
   },
   "bullet-cards": {
@@ -76,10 +76,11 @@
       "path": "common",
       "name": "header_home"
     },
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": false,
+    "has-large-title": true,
+    "has-bg-color": "",
     "cta-content": []
   },
   "prime-table-compare": [

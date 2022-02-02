@@ -225,7 +225,8 @@
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": false,
+    "has-large-title": true,
+    "has-bg-color": "",
     "cta-content": []
   },
   "clinic-carousel": {
@@ -292,7 +293,8 @@
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": false,
+    "has-large-title": true,
+    "has-bg-color": "",
     "cta-content": [
       {
         "label": "Prova gratis per 14 giorni",

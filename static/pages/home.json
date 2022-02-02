@@ -488,10 +488,11 @@
       "path": "epicura prime",
       "name": "epicura_prime"
     },
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": false,
+    "has-large-title": true,
+    "has-bg-color": "",
     "cta-content": []
   },
   "prime-table-compare": [
@@ -603,10 +604,10 @@
       "path": "common",
       "name": "app_mockup"
     },
-    "has-large-title": true,
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": false,
+    "hide-image-mobile": true,
+    "has-large-title": true,
     "has-bg-color": "",
     "cta-content": [
       {
@@ -633,7 +634,8 @@
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": false,
+    "has-large-title": true,
+    "has-bg-color": "",
     "cta-content": []
   },
   "clinic-carousel": {
@@ -705,10 +707,11 @@
         "path": "common",
         "name": "online_payment"
       },
-      "has-absolute-image": false,
+      "has-absolute-image": true,
       "first-image-order": false,
-      "hide-image-mobile": false,
-      "has-bg-color": false,
+      "hide-image-mobile": true,
+      "has-large-title": true,
+      "has-bg-color": "",
       "cta-content": [
         {
           "label": "Entra in Epicura",
@@ -725,10 +728,11 @@
         "path": "common",
         "name": "online_payment"
       },
-      "has-absolute-image": false,
+      "has-absolute-image": true,
       "first-image-order": false,
-      "hide-image-mobile": false,
-      "has-bg-color": false,
+      "hide-image-mobile": true,
+      "has-large-title": true,
+      "has-bg-color": "",
       "cta-content": [
         {
           "label": "Entra in Epicura",

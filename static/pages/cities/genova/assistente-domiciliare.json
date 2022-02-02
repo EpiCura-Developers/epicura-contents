@@ -10,10 +10,11 @@
       "path": "homecare",
       "name": "banner-homecare"
     },
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": false,
-    "has-bg-color": false,
+    "hide-image-mobile": true,
+    "has-large-title": true,
+    "has-bg-color": "",
     "cta-content": [],
     "list-details": [
       {
