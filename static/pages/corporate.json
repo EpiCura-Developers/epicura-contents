@@ -102,7 +102,7 @@
     ]
   },
   "app-banner": {
-    "title": "Un app per gestire <strong>tutto quanto.</strong>",
+    "title": "Un'app per gestire <strong>tutto quanto.</strong>",
     "subtitle": "",
     "img": {
       "path": "common",
@@ -122,10 +122,11 @@
         "text": "Accesso diretto a tutte le convenzioni partner di EpiCura in ambito di salute e benessere."
       }
     ],
-    "has-absolute-image": true,
+    "has-large-title": true,
+    "has-absolute-image": false,
     "first-image-order": false,
-    "hide-image-mobile": true,
-    "has-bg-color": false,
+    "hide-image-mobile": false,
+    "has-bg-color": "",
     "cta-content": [
       {
         "label": "Entriamo in contatto",
