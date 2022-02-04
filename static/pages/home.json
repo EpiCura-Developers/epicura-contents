@@ -3,241 +3,6 @@
     "title": "EpiCura",
     "description": "Medici, infermieri, veterinari, badanti e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7."
   },
-  "site-relation-search-header": {
-    "title": "Visite a domicilio, videoconsulti e assistenza domiciliare",
-    "subtitle": "Prenota in pochi click servizi sanitari e socio-assistenziali, 7 giorni su 7, senza liste d'attesa. ",
-    "search-text": "Scopri i nostri servizi a domicilio",
-    "site-search-header-img": {
-      "path": "common",
-      "name": "header_home"
-    },
-    "site-search-header-relation-services": [
-      {
-        "section-title": "Assistenza domiciliare",
-        "section-options": [
-          {
-            "option-link": "/badante/",
-            "option-label": "Badanti",
-            "option-style-object-like": "",
-            "option-is-new": false,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/assistente-domiciliare/",
-            "option-label": "Assistenti ad ore",
-            "option-style-object-like": "",
-            "option-is-new": false
-          }
-        ]
-      },
-      {
-        "section-title": "Videoconsulti",
-        "section-options": [
-          {
-            "option-link": "/videoconsulti/",
-            "option-label": "Scopri il servizio",
-            "option-style-object-like": {
-              "color": "#909090"
-            },
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/fisioterapista-videoconsulto/",
-            "option-label": "Fisioterapista",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/osteopata-videoconsulto/",
-            "option-label": "Osteopata",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/veterinario-videoconsulto/",
-            "option-label": "Veterinario",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/pediatra-videoconsulto/",
-            "option-label": "Pediatra",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/medico-di-base-videoconsulto/",
-            "option-label": "Medico di base",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/infermiere-videoconsulto/",
-            "option-label": "Infermiere",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/psicologo-videoconsulto/",
-            "option-label": "Psicologo",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/nutrizionista-videoconsulto/",
-            "option-label": "Nutrizionista",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/psichiatra-videoconsulto/",
-            "option-label": "Psichiatra",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/senologo-videoconsulto/",
-            "option-label": "Senologo",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/neuropsicomotricista-videoconsulto/",
-            "option-label": "Neuropsicomotricista",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/ostetrico-videoconsulto/",
-            "option-label": "Ostetrico",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/otorinolaringoiatra-videoconsulto/",
-            "option-label": "Otorinolaringoiatra",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/chirurgo-generale-videoconsulto/",
-            "option-label": "Chirurgo generale",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/neuropsicologo-videoconsulto/",
-            "option-label": "Neuropsicologo",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          },
-          {
-            "option-link": "/logopedista-videoconsulto/",
-            "option-label": "Logopedista",
-            "option-style-object-like": "",
-            "option-is-new": true,
-            "option-is-amp": true
-          }
-        ]
-      },
-      {
-        "section-title": "Riabilitazione motoria",
-        "section-options": [
-          {
-            "option-link": "/fisioterapista/",
-            "option-label": "Fisioterapista",
-            "option-style-object-like": "",
-            "option-is-new": false
-          },
-          {
-            "option-link": "/osteopata/",
-            "option-label": "Osteopata",
-            "option-style-object-like": "",
-            "option-is-new": false
-          }
-        ]
-      },
-      {
-        "section-title": "Cura e terapie",
-        "section-options": [
-          {
-            "option-link": "/medico-di-base/",
-            "option-label": "Medico generico",
-            "option-style-object-like": "",
-            "option-is-new": false
-          },
-          {
-            "option-link": "/infermiere/",
-            "option-label": "Infermiere",
-            "option-style-object-like": "",
-            "option-is-new": false
-          },
-          {
-            "option-link": "/pediatra/",
-            "option-label": "Pediatra",
-            "option-style-object-like": "",
-            "option-is-new": false
-          }
-        ]
-      },
-      {
-        "section-title": "Benessere psicofisico",
-        "section-options": [
-          {
-            "option-link": "/nutrizionista/",
-            "option-label": "Nutrizionista",
-            "option-style-object-like": "",
-            "option-is-new": false
-          },
-          {
-            "option-link": "/massaggiatore-professionale/",
-            "option-label": "Massoterapista",
-            "option-style-object-like": "",
-            "option-is-new": false
-          },
-          {
-            "option-link": "/psicologo-psicoterapeuta-online/",
-            "option-label": "Psicologo",
-            "option-style-object-like": "",
-            "option-is-new": false
-          },
-          {
-            "option-link": "/psicologo-psicoterapeuta-online/",
-            "option-label": "Psicoterapeuta",
-            "option-style-object-like": "",
-            "option-is-new": false
-          }
-        ]
-      },
-      {
-        "section-title": "Cani e gatti",
-        "section-options": [
-          {
-            "option-link": "/veterinario/",
-            "option-label": "Veterinario",
-            "option-style-object-like": "",
-            "option-is-new": false
-          }
-        ]
-      }
-    ]
-  },
   "service-nav-bar-img": {
     "path": "common",
     "name": "services"
@@ -262,11 +27,11 @@
           "color": "#f8f3e9"
         }
       ],
-      "site-discipline-notes": "*Il servizio di badanti &egrave; attivo in tutta Italia."
+      "site-discipline-notes": "*Il servizio di badanti è attivo in tutta Italia."
     },
     {
       "site-discipline-section-title": "Videoconsulti specialistici online",
-      "site-discipline-section-description": "Parla con uno specialista dove e quando vuoi, evitando scomodi spostamenti.<br /> Collegati da pc, smartphone o tablet e prenditi cura della tua salute in tempo reale. Il nostro servizio &egrave; disponibile 7 giorni su 7 e strutturato a completa garanzia della tua privacy.",
+      "site-discipline-section-description": "Parla con uno specialista dove e quando vuoi, evitando scomodi spostamenti.<br /> Collegati da pc, smartphone o tablet e prenditi cura della tua salute in tempo reale. Il nostro servizio è disponibile 7 giorni su 7 e strutturato a completa garanzia della tua privacy.",
       "site-discipline-placeholder-image": {},
       "site-discipline-bkg-color": "#FFF",
       "site-discipline-section-list": [
@@ -284,7 +49,7 @@
     },
     {
       "site-discipline-section-title": "Psicologia e psicoterapia online",
-      "site-discipline-section-description": "Con EpiCura puoi consultare i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet.<br /> Prenota in pochi click e ritrova la tua serenit&agrave;, con un servizio su misura a completa garanzia della tua privacy. ",
+      "site-discipline-section-description": "Con EpiCura puoi consultare i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet.<br /> Prenota in pochi click e ritrova la tua serenità, con un servizio su misura a completa garanzia della tua privacy. ",
       "site-discipline-placeholder-image": {
         "path": "common",
         "name": "psycho"
@@ -315,7 +80,7 @@
   "site-landing-cta-card-list": [
     {
       "site-cta-card-title": "Sei un medico o un professionista sanitario?",
-      "site-cta-card-description": "Lavoriamo solo con personale qualificato e certificato, capace di rispondere a precisi criteri di selezione. <br /> Il nostro obiettivo &egrave; garantirti un servizio con elevati standard di qualit&agrave;. <br /><br /> Con EpiCura la tua salute &egrave; nelle mani dei migliori professionisti!",
+      "site-cta-card-description": "Lavoriamo solo con personale qualificato e certificato, capace di rispondere a precisi criteri di selezione. <br /> Il nostro obiettivo è garantirti un servizio con elevati standard di qualità. <br /><br /> Con EpiCura la tua salute è nelle mani dei migliori professionisti!",
       "site-cta-card-btn-text": "Collaboriamo",
       "site-cta-card-btn-action": "/professionisti-lavoro/",
       "site-cta-card-btn-action-collaboration": "/professionisti-lavoro/",
@@ -326,55 +91,13 @@
       }
     }
   ],
-  "site-landing-page-slogan": "Vogliamo rendere la sanit&agrave; <br /> più semplice, rapida e su misura.",
-  "site-landing-active-cities-title": "Ecco le citt&agrave; in cui siamo attivi*",
+  "site-landing-page-slogan": "Vogliamo rendere la sanità <br /> più semplice, rapida e su misura.",
+  "site-landing-active-cities-title": "Ecco le città in cui siamo attivi*",
   "site-landing-newsletter-img": {
     "path": "common",
     "name": "news-letter"
   },
-  "site-landing-active-cities": [
-    {
-      "option-link": "/torino/",
-      "option-label": "Torino"
-    },
-    {
-      "option-link": "/milano/",
-      "option-label": "Milano"
-    },
-    {
-      "option-link": "/roma/",
-      "option-label": "Roma"
-    },
-    {
-      "option-link": "/bologna/",
-      "option-label": "Bologna"
-    },
-    {
-      "option-link": "/verona/",
-      "option-label": "Verona"
-    },
-    {
-      "option-link": "/brescia/",
-      "option-label": "Brescia"
-    },
-    {
-      "option-link": "/catania/",
-      "option-label": "Catania"
-    },
-    {
-      "option-link": "/genova/",
-      "option-label": "Genova"
-    },
-    {
-      "option-link": "/firenze/",
-      "option-label": "Firenze"
-    },
-    {
-      "option-link": "/napoli/",
-      "option-label": "Napoli"
-    }
-  ],
-  "site-landing-active-cities-notes": "*Il servizio di badanti &egrave; attivo in tutta Italia.",
+  "site-landing-active-cities-notes": "*Il servizio di badanti è attivo in tutta Italia.",
   "site-landing-carousel": [
     {
       "title": "Paga comodamente online in modo semplice e sicuro",
@@ -397,8 +120,8 @@
       }
     },
     {
-      "title": "Detraibilit&agrave; fiscale garantita per le spese sanitarie",
-      "description": "EpiCura garantisce la detraibilit&agrave; di tutte le spese sanitarie proprio come un qualsiasi poliambulatorio o centro medico. Per usufruire delle detrazioni sar&agrave; sufficiente utilizzare la fattura ricevuta dopo il pagamento.",
+      "title": "Detraibilità fiscale garantita per le spese sanitarie",
+      "description": "EpiCura garantisce la detraibilità di tutte le spese sanitarie proprio come un qualsiasi poliambulatorio o centro medico. Per usufruire delle detrazioni sarà sufficiente utilizzare la fattura ricevuta dopo il pagamento.",
       "cta-text": "Prenota ora",
       "cta-link": "https://app.epicura.it",
       "image": {
@@ -408,7 +131,7 @@
     }
   ],
   "top-banner": {
-    "title": "Prenotare una visita <br />&egrave; sempre un incubo",
+    "title": "Prenotare una visita <br />è sempre un incubo",
     "subtitle": "Con EpiCura pensa solo alla salute: prenota e ricevi l'intervento a casa, in studio o in videoconsulto, 7 giorni su 7, entro 24 ore.",
     "img": {
       "path": "common",
@@ -452,15 +175,15 @@
         "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "convenient"
         }
       },
       {
         "title": "Professionisti certificati",
-        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualit&agrave;.",
+        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "pro-certified"
         }
       },
       {
@@ -468,27 +191,27 @@
         "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "booking-1"
         }
       },
       {
         "title": "Supporto costante",
-        "text": "Il nostro Customer Care ti aiuter&agrave; in ogni momento per semplificarti la vita.",
+        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "support"
         }
       }
     ]
   },
   "prime-banner": {
-    "title": "<strong>Epicura Prime</strong> &egrave; tutta salute",
+    "title": "<strong>Epicura Prime</strong> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
       "path": "epicura prime",
       "name": "epicura_prime"
     },
-    "has-absolute-image": true,
+    "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": true,
     "has-large-title": true,
@@ -500,7 +223,7 @@
       "is-prime": false,
       "title": "EpiCura",
       "small-text": "0€ per sempre",
-      "subtitle": "Le principali funzionalit&agrave; di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
       "option-list": [
         {
           "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
@@ -598,14 +321,14 @@
     }
   ],
   "app-banner": {
-    "title": "50% di sconto sulla prima visita. <br><strong>Scarica l'app</strong>",
+    "title": "50% di sconto sulla prima visita. <br />Scarica l'app",
     "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
       "name": "app_mockup"
     },
     "has-absolute-image": true,
-    "first-image-order": false,
+    "first-image-order": true,
     "hide-image-mobile": true,
     "has-large-title": true,
     "has-bg-color": "",
@@ -613,23 +336,23 @@
       {
         "label": "",
         "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
-        "image": "/img/Download_on_the_App_Store_Badge_IT_RGB_wht_100317@2x.png",
+        "image": "/img/app-store-white.png",
         "variant": "image"
       },
       {
         "label": "",
         "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
-        "image": "/img/Google_Play_Store_badge_IT@2x.png",
+        "image": "/img/google-playstore-white.png",
         "variant": "image"
       }
     ]
   },
-  "agreement-banner": {
-    "title": "Collaboriamo solo con le migliori cliniche e professionisti",
+  "clinic-banner": {
+    "title": "Collaboriamo solo <br />con le migliori <br />cliniche e professionisti",
     "subtitle": "",
     "img": {
       "path": "poliambulatori",
-      "name": "poliambulatori_banner"
+      "name": "poliambulatori-banner"
     },
     "has-absolute-image": true,
     "first-image-order": false,
@@ -684,7 +407,7 @@
     "cards": [
       {
         "title": "+5.000",
-        "text": "Famiglie che si sono fidate di noi, dimenticando finalmente le file infinte della sanit&agrave; pubblica.",
+        "text": "Famiglie che si sono fidate di noi, dimenticando finalmente le file infinte della sanità pubblica.",
         "titleColor": "orange"
       },
       {
@@ -699,18 +422,60 @@
       }
     ]
   },
+  "site-landing-active-cities": [
+    {
+      "option-link": "/torino/",
+      "option-label": "Torino"
+    },
+    {
+      "option-link": "/milano/",
+      "option-label": "Milano"
+    },
+    {
+      "option-link": "/roma/",
+      "option-label": "Roma"
+    },
+    {
+      "option-link": "/bologna/",
+      "option-label": "Bologna"
+    },
+    {
+      "option-link": "/verona/",
+      "option-label": "Verona"
+    },
+    {
+      "option-link": "/brescia/",
+      "option-label": "Brescia"
+    },
+    {
+      "option-link": "/catania/",
+      "option-label": "Catania"
+    },
+    {
+      "option-link": "/genova/",
+      "option-label": "Genova"
+    },
+    {
+      "option-link": "/firenze/",
+      "option-label": "Firenze"
+    },
+    {
+      "option-link": "/napoli/",
+      "option-label": "Napoli"
+    }
+  ],
   "slider-banner": [
     {
       "title": "Paga comodamente online",
-      "subtitle": "Quanto &egrave; bello saltare le file agli sportelli? Paga direttamente online tramite pc, tablet o smartphone.",
+      "subtitle": "Quanto è bello saltare le file agli sportelli? Paga direttamente online tramite pc, tablet o smartphone.",
       "img": {
         "path": "common",
         "name": "online_payment"
       },
-      "has-absolute-image": true,
+      "has-absolute-image": false,
       "first-image-order": false,
       "hide-image-mobile": true,
-      "has-large-title": true,
+      "has-large-title": false,
       "has-bg-color": "",
       "cta-content": [
         {
@@ -723,15 +488,15 @@
     },
     {
       "title": "Paga comodamente online",
-      "subtitle": "Quanto &egrave; bello saltare le file agli sportelli? Paga direttamente online tramite pc, tablet o smartphone.",
+      "subtitle": "Quanto è bello saltare le file agli sportelli? Paga direttamente online tramite pc, tablet o smartphone.",
       "img": {
         "path": "common",
         "name": "online_payment"
       },
-      "has-absolute-image": true,
+      "has-absolute-image": false,
       "first-image-order": false,
       "hide-image-mobile": true,
-      "has-large-title": true,
+      "has-large-title": false,
       "has-bg-color": "",
       "cta-content": [
         {
@@ -744,7 +509,7 @@
     }
   ],
   "discipline-carousel": {
-    "title": "Specialit&agrave; più richieste a Torino",
+    "title": "Specialità più richieste a Torino",
     "cards": [
       {
         "title": "Fisioterapia",
@@ -804,41 +569,6 @@
       }
     ]
   },
-  "specialist-carousel": {
-    "title": "I migliori specialisti",
-    "subtitle": "CIAO",
-    "specialist": true,
-    "cards": [
-      {
-        "title": "Poliambulatorio Santa Maria della Croce",
-        "text": "Poliambulatorio Santa Maria della Croce",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Dr. Rossi",
-        "text": "psicologo",
-        "image": "/img/card-image.png",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Dr. Rossi",
-        "text": "psicologo",
-        "image": "/img/card-image.png",
-        "url": ""
-      },
-      {
-        "title": "Fisioterapia",
-        "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/fisioterapia",
-        "discipline": "physiotherapy"
-      }
-    ]
-  },
-
   "prime-cards": {
     "title": "I migliori professionisti <strong>a portata di click.</strong>",
     "cards": [
@@ -901,7 +631,7 @@
   },
   "price-cards": {
     "title": "I percorsi che abbiamo pensato per te",
-    "subtitle": "Hai gi&agrave; effettuato il primo videoconsulto o vuoi continuare un percorso gi&agrave; iniziato? Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
+    "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato? Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
     "cards": [
       {
         "is-highlighted": false,
