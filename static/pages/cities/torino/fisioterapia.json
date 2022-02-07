@@ -105,7 +105,7 @@
     ]
   },
   "prime-banner": {
-    "title": "<strong>Epicura Prime</strong> è <br />tutta salute",
+    "title": "<b>Epicura Prime</b> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
       "path": "common",
@@ -115,7 +115,7 @@
     "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": false,
-    "has-bg-color": "",
+    "has-bg-color": "epicura-bg-light2",
     "cta-content": []
   },
   "prime-table-compare": [
@@ -168,14 +168,7 @@
         "image": "",
         "variant": "outlined"
       },
-      "prime-prices": {
-        "title": "Prezzo riservato a utenti Prime",
-        "cta": {
-          "label": "Scopri Epicura Prime e risparmia",
-          "url": "#"
-        },
-        "price": "54"
-      }
+      "prime-prices": {}
     },
     {
       "is-prime": true,
@@ -226,14 +219,7 @@
         "image": "",
         "variant": "filled"
       },
-      "prime-prices": {
-        "title": "Prezzo riservato a utenti Prime",
-        "cta": {
-          "label": "Scopri Epicura Prime e risparmia",
-          "url": "#"
-        },
-        "price": "149"
-      }
+      "prime-prices": {}
     }
   ],
   "app-banner": {
@@ -264,7 +250,7 @@
     ]
   },
   "bullet-cards-service": {
-    "title": "I migliori fisioterapisti entro 24 ore",
+    "title": "I migliori fisioterapisti a domicilio entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {
@@ -569,17 +555,6 @@
         "location": "45.020289,7.733625",
         "name": "Revigliasco"
       }
-    ],
-    "cardPhone": {
-      "title": "Chiamaci",
-      "text": "Numero attivo 7 giorni su 7, dalle 8:30 alle 19:30.",
-      "image": "phone-card"
-    },
-    "cardContact": {
-      "title": "Scrivici un messaggio",
-      "text": "Ti rispondiamo subito, o se lo desideri ti ricontattiamo quando vuoi tu.",
-      "buttonText": "Scrivici",
-      "image": "contact-card"
-    }
+    ]
   }
 }

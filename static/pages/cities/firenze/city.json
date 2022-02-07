@@ -142,7 +142,7 @@
     ]
   },
   "prime-banner": {
-    "title": "<strong>Epicura Prime</strong> è <br />tutta salute",
+    "title": "<b>Epicura Prime</b> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
       "path": "common",
@@ -152,7 +152,7 @@
     "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": false,
-    "has-bg-color": "",
+    "has-bg-color": "epicura-bg-light2",
     "cta-content": []
   },
   "prime-table-compare": [
@@ -545,17 +545,6 @@
         "location": "43.783487,11.321532",
         "name": "Settignano"
       }
-    ],
-    "cardPhone": {
-      "title": "Chiamaci",
-      "text": "Numero attivo 7 giorni su 7, dalle 8:30 alle 19:30.",
-      "image": "phone-card"
-    },
-    "cardContact": {
-      "title": "Scrivici un messaggio",
-      "text": "Ti rispondiamo subito, o se lo desideri ti ricontattiamo quando vuoi tu.",
-      "buttonText": "Scrivici",
-      "image": "contact-card"
-    }
+    ]
   }
 }

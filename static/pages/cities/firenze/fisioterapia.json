@@ -96,7 +96,7 @@
     ]
   },
   "prime-banner": {
-    "title": "<strong>Epicura Prime</strong> è <br />tutta salute",
+    "title": "<b>Epicura Prime</b> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
       "path": "epicura prime",
@@ -106,7 +106,7 @@
     "first-image-order": false,
     "hide-image-mobile": true,
     "has-large-title": true,
-    "has-bg-color": "",
+    "has-bg-color": "epicura-bg-light2",
     "cta-content": []
   },
   "prime-table-compare": [
@@ -239,7 +239,7 @@
     ]
   },
   "bullet-cards-service": {
-    "title": "I migliori fisioterapisti entro 24 ore",
+    "title": "I migliori fisioterapisti a domicilio entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {

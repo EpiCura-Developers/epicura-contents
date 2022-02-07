@@ -3,10 +3,978 @@
     "title": "Osteopata a Roma",
     "description": "Osteopati a domicilio a Roma e area metropolitana. Linfodrenaggio, osteopata per bambino, osteopatia in gravidanza a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "subheader": {
-    "prenotaOnlineText": "Prenota ora",
-    "titleBig": "Osteopati a domicilio a Roma",
-    "description1": "EpiCura porta l'osteopatia comodamente a domicilio, in tutta Roma e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
-    "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa."
+  "top-banner": {
+    "title": "Osteopata a <br />Roma",
+    "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
+    "img": {
+      "path": "common",
+      "name": "specialist"
+    },
+    "has-large-title": true,
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": "",
+    "cta-content": []
+  },
+  "bullet-cards": {
+    "title": "Perché affidarsi a EpiCura?",
+    "cards": [
+      {
+        "title": "Comodo, veloce, flessibile",
+        "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
+        "img": {
+          "path": "common",
+          "name": "convenient"
+        }
+      },
+      {
+        "title": "Professionisti certificati",
+        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
+        "img": {
+          "path": "common",
+          "name": "pro-certified"
+        }
+      },
+      {
+        "title": "Prenotazioni senza intoppi",
+        "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
+        "img": {
+          "path": "common",
+          "name": "booking-1"
+        }
+      },
+      {
+        "title": "Supporto costante",
+        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
+        "img": {
+          "path": "common",
+          "name": "support"
+        }
+      }
+    ]
+  },
+  "card-trattamenti": {
+    "title": "I nostri trattamenti di osteopata",
+    "cards": [
+      {
+        "title": "Osteopatia in gravidanza",
+        "description": "mal di schiena, nausea gravidica, gambe gonfie, problemi digestivi, costipazione",
+        "url": "#"
+      },
+      {
+        "title": "Osteopatia pediatrica",
+        "description": "coliche, stipsi, insonnia, iperattività, scoliosi, piede piatto, plagiocefalia",
+        "url": "#"
+      },
+      {
+        "title": "Osteopatia per anziani",
+        "description": "demenza senile, malattie neurologiche, artrosi, fratture, osteoporosi",
+        "url": "#"
+      },
+      {
+        "title": "Dolore e infiammazione",
+        "description": "cervicalgia, mal di schiena, dolori articolari, sciatica, ernie, acufeni",
+        "url": "#"
+      },
+      {
+        "title": "Disturbi sistemici",
+        "description": "cefalea, bruxismo, disturbi del sonno, ansia, reflusso, gastrite, colon irritabile, fibromialgia",
+        "url": "#"
+      }
+    ]
+  },
+  "prime-banner": {
+    "title": "<b>Epicura Prime</b> è <br />tutta salute",
+    "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
+    "img": {
+      "path": "epicura prime",
+      "name": "epicura_prime"
+    },
+    "has-large-title": true,
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": "",
+    "cta-content": []
+  },
+  "prime-table-compare": [
+    {
+      "is-prime": false,
+      "title": "EpiCura",
+      "small-text": "0€ per sempre",
+      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": false
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "image": "",
+        "variant": "outlined"
+      },
+      "prime-prices": {}
+    },
+    {
+      "is-prime": true,
+      "title": "EpiCura Prime",
+      "small-text": "180€ all’anno",
+      "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Prova gratis per 14 giorni",
+        "link": "/",
+        "image": "",
+        "variant": "prime"
+      },
+      "prime-prices": {}
+    }
+  ],
+  "app-banner": {
+    "title": "50% di sconto sulla prima visita. <br><strong>Scarica l'app</strong>",
+    "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "img": {
+      "path": "common",
+      "name": "app-mockup-2"
+    },
+    "has-large-title": true,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": "",
+    "cta-content": [
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/Download_on_the_App_Store_Badge_IT_RGB_wht_100317@2x.png",
+        "variant": "image"
+      },
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/Google_Play_Store_badge_IT@2x.png",
+        "variant": "image"
+      }
+    ]
+  },
+  "bullet-cards-service": {
+    "title": "I migliori osteopati a domicilio entro 24 ore",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "cards": [
+      {
+        "title": "Solo professionisti qualificati",
+        "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
+        "img": {
+          "path": "common",
+          "name": "specialist-2"
+        }
+      },
+      {
+        "title": "La tua soddisfazione è anche la nostra ",
+        "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
+        "img": {
+          "path": "common",
+          "name": "certificate-2"
+        }
+      },
+      {
+        "title": "Siamo sempre al tuo fianco",
+        "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
+        "img": {
+          "path": "common",
+          "name": "support-2"
+        }
+      }
+    ]
+  },
+  "service-banner": {
+    "title": "Hai un dubbio sul servizio di osteopatia? Chiamaci",
+    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "img": {
+      "path": "common",
+      "name": "service-banner"
+    },
+    "has-large-title": false,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": "osteopathy",
+    "cta-content": [
+      {
+        "label": "800 909 209",
+        "link": "tel:800909209",
+        "image": "",
+        "variant": "gradient"
+      }
+    ]
+  },
+  "map": {
+    "showAllText": "Mostra tutti",
+    "hideAllText": "Mostra meno",
+    "doveCiTroviText": "Osteopati a domicilio a Roma e area metropolitana",
+    "quartieriText": "Controlla qui i comuni coperti dal servizio",
+    "mapCenter": "41.893056,12.482778",
+    "markers": [
+      {
+        "location": "41.784148,12.363997",
+        "name": "Acilia"
+      },
+      {
+        "location": "41.910556,12.476389",
+        "name": "Piazza del Popolo"
+      },
+      {
+        "location": "41.90361,12.48833",
+        "name": "Barberini"
+      },
+      {
+        "location": "41.8956,12.47217",
+        "name": "Campo de' Fiori"
+      },
+      {
+        "location": "41.890278,12.492222",
+        "name": "Colosseo - Fori Imperiali"
+      },
+      {
+        "location": "41.8924,12.4775",
+        "name": "Ghetto - Portico d'Ottavia"
+      },
+      {
+        "location": "41.89528,12.47694",
+        "name": "Largo Argentina"
+      },
+      {
+        "location": "41.901389,12.478611",
+        "name": "Montecitorio"
+      },
+      {
+        "location": "41.898561,12.47685",
+        "name": "Pantheon"
+      },
+      {
+        "location": "41.898889,12.473056",
+        "name": "Piazza Navona"
+      },
+      {
+        "location": "41.908078,12.465706",
+        "name": "Sallustiano"
+      },
+      {
+        "location": "41.90595,12.482058",
+        "name": "Piazza di Spagna"
+      },
+      {
+        "location": "41.902773,12.485952",
+        "name": "Trevi"
+      },
+      {
+        "location": "41.89417,12.47007",
+        "name": "Via Giulia"
+      },
+      {
+        "location": "41.907978,12.489413",
+        "name": "Vittorio Veneto"
+      },
+      {
+        "location": "41.893413,12.496541",
+        "name": "Colle Oppio"
+      },
+      {
+        "location": "41.916642,12.460777",
+        "name": "Mazzini - Delle Vittorie"
+      },
+      {
+        "location": "41.935096,12.506325",
+        "name": "Pinciano - Villa Ada"
+      },
+      {
+        "location": "41.933072,12.475276",
+        "name": "Villaggio Olimpico"
+      },
+      {
+        "location": "41.926891,12.480953",
+        "name": "Euclide"
+      },
+      {
+        "location": "41.933068,12.515006",
+        "name": "Africano - Villa Chigi"
+      },
+      {
+        "location": "41.947266,12.467532",
+        "name": "Vigna Clara - Vigna Stelluti"
+      },
+      {
+        "location": "41.942665,12.479299",
+        "name": "Tor di Quinto"
+      },
+      {
+        "location": "41.897427,12.501077",
+        "name": "Repubblica"
+      },
+      {
+        "location": "41.904840,12.500343",
+        "name": "Castro Pretorio"
+      },
+      {
+        "location": "41.881906,12.513956",
+        "name": "Re di Roma"
+      },
+      {
+        "location": "41.887014,12.507359",
+        "name": "San Giovanni"
+      },
+      {
+        "location": "41.884797,12.522810",
+        "name": "Villa Fiorelli"
+      },
+      {
+        "location": "41.958045,12.571666",
+        "name": "Bologna"
+      },
+      {
+        "location": "41.909673,12.505925",
+        "name": "Policlinico"
+      },
+      {
+        "location": "41.805379,12.446136",
+        "name": "Mostacciano"
+      },
+      {
+        "location": "41.866604,12.535006",
+        "name": "Arco di Travertino"
+      },
+      {
+        "location": "41.947673,12.443572",
+        "name": "Cortina d'Ampezzo"
+      },
+      {
+        "location": "41.963318,12.467250",
+        "name": "Due Ponti"
+      },
+      {
+        "location": "41.974315,12.493263",
+        "name": "Saxa Rubra"
+      },
+      {
+        "location": "41.947459,12.535804",
+        "name": "Tufello"
+      },
+      {
+        "location": "41.934538,12.535364",
+        "name": "Città Giardino"
+      },
+      {
+        "location": "41.938635,12.527369",
+        "name": "Conca d'Oro - Valli"
+      },
+      {
+        "location": "41.978552,12.515055",
+        "name": "Fidene"
+      },
+      {
+        "location": "41.971366,12.537665",
+        "name": "Porta di Roma"
+      },
+      {
+        "location": "41.966207,12.516840",
+        "name": "Serpentara"
+      },
+      {
+        "location": "41.892853,12.553257",
+        "name": "Villa Gordiani"
+      },
+      {
+        "location": "41.884978,12.562590",
+        "name": "Tor de' Schiavi"
+      },
+      {
+        "location": "41.926616,12.426477",
+        "name": "Gemelli - Pineta Sacchetti"
+      },
+      {
+        "location": "41.844972,12.545847",
+        "name": "Quarto Miglio"
+      },
+      {
+        "location": "41.834354,12.506030",
+        "name": "Roma 70"
+      },
+      {
+        "location": "41.813706,12.545879",
+        "name": "Torricola - Tor Carbone"
+      },
+      {
+        "location": "41.840381,12.507194",
+        "name": "Rinnovamento"
+      },
+      {
+        "location": "41.803762,12.506141",
+        "name": "Tor Pagnotta"
+      },
+      {
+        "location": "41.845290,12.438659",
+        "name": "Trullo - Colle del Sole"
+      },
+      {
+        "location": "41.898400,12.412499",
+        "name": "Aurelio - Val Cannuta"
+      },
+      {
+        "location": "41.915020,12.384347",
+        "name": "Boccea"
+      },
+      {
+        "location": "41.930890,12.398114",
+        "name": "Torresina"
+      },
+      {
+        "location": "41.913428,12.395707",
+        "name": "Colle delle Muse"
+      },
+      {
+        "location": "41.984033,12.406743",
+        "name": "La Giustiniana"
+      },
+      {
+        "location": "42.009283,12.377096",
+        "name": "La Storta"
+      },
+      {
+        "location": "42.005851,12.478487",
+        "name": "Prima Porta"
+      },
+      {
+        "location": "41.940028,12.627097",
+        "name": "Settecamini"
+      },
+      {
+        "location": "41.904830,12.659637",
+        "name": "Ponte di Nona"
+      },
+      {
+        "location": "41.879748,12.617661",
+        "name": "Torre Angela"
+      },
+      {
+        "location": "41.860241,12.604826",
+        "name": "Giardinetti"
+      },
+      {
+        "location": "41.865757,12.373946",
+        "name": "Casal Lumbroso"
+      },
+      {
+        "location": "41.901366,12.378755",
+        "name": "Maglianella"
+      },
+      {
+        "location": "41.909069,12.448378",
+        "name": "Piazzale degli Eroi"
+      },
+      {
+        "location": "41.798960,12.430156",
+        "name": "Torrino Mezzocammino"
+      },
+      {
+        "location": "41.837337,12.543801",
+        "name": "Capannelle - Statuario"
+      },
+      {
+        "location": "41.778176,12.542709",
+        "name": "Divino Amore"
+      },
+      {
+        "location": "41.794283,12.461420",
+        "name": "Vallerano"
+      },
+      {
+        "location": "41.786325,12.566860",
+        "name": "Fioranello"
+      },
+      {
+        "location": "41.850440,12.454099",
+        "name": "Villa Bonelli"
+      },
+      {
+        "location": "41.787973,12.383552",
+        "name": "Casal Bernocchi"
+      },
+      {
+        "location": "41.792037,12.379771",
+        "name": "Centro Giano"
+      },
+      {
+        "location": "41.882682,12.581211",
+        "name": "Alessandrina"
+      },
+      {
+        "location": "41.901475,12.589990",
+        "name": "Tor Sapienza - La Rustica"
+      },
+      {
+        "location": "41.858760,12.592074",
+        "name": "Tor Tre Teste - Torre Maura"
+      },
+      {
+        "location": "41.839587,12.586996",
+        "name": "Campanelle"
+      },
+      {
+        "location": "41.843309,12.586996",
+        "name": "Anagnina"
+      },
+      {
+        "location": "41.840633,12.599589",
+        "name": "Romanina"
+      },
+      {
+        "location": "41.848689,12.620140",
+        "name": "Tor Vergata"
+      },
+      {
+        "location": "41.848038,12.536516",
+        "name": "Appia Pignatelli"
+      },
+      {
+        "location": "41.852983,12.498300",
+        "name": "Ardeatino"
+      },
+      {
+        "location": "41.850308,12.477046",
+        "name": "Montagnola"
+      },
+      {
+        "location": "41.845670,12.559951",
+        "name": "Appio Claudio"
+      },
+      {
+        "location": "41.870092,12.512591",
+        "name": "Appio Latino"
+      },
+      {
+        "location": "41.737158,12.700017",
+        "name": "Colli Albani"
+      },
+      {
+        "location": "41.893494,12.438063",
+        "name": "Aurelio"
+      },
+      {
+        "location": "41.902411,12.452276",
+        "name": "Città del Vaticano"
+      },
+      {
+        "location": "41.884782,12.468242",
+        "name": "Trastevere"
+      },
+      {
+        "location": "41.880117,12.462937",
+        "name": "Monteverde"
+      },
+      {
+        "location": "41.878458,12.486084",
+        "name": "San Saba - Caracalla"
+      },
+      {
+        "location": "41.882578,12.477683",
+        "name": "Aventino"
+      },
+      {
+        "location": "41.765829,12.372032",
+        "name": "Axa"
+      },
+      {
+        "location": "41.919806,12.441484",
+        "name": "Balduina"
+      },
+      {
+        "location": "41.915385,12.442638",
+        "name": "Medaglie d'Oro"
+      },
+      {
+        "location": "41.908870,12.465228",
+        "name": "Rione Prati"
+      },
+      {
+        "location": "41.918387,12.463871",
+        "name": "Vittoria"
+      },
+      {
+        "location": "41.906035,12.413994",
+        "name": "Battistini"
+      },
+      {
+        "location": "41.914882,12.411178",
+        "name": "Primavalle"
+      },
+      {
+        "location": "41.923900,12.412528",
+        "name": "Torrevecchia"
+      },
+      {
+        "location": "41.905094,12.514816",
+        "name": "Tiburtino"
+      },
+      {
+        "location": "41.911514,12.516677",
+        "name": "Nomentano"
+      },
+      {
+        "location": "41.897652,12.512509",
+        "name": "San Lorenzo"
+      },
+      {
+        "location": "41.896566,12.510637",
+        "name": "Torpignattara"
+      },
+      {
+        "location": "41.892733,12.508464",
+        "name": "Esquilino"
+      },
+      {
+        "location": "41.894650,12.491185",
+        "name": "Rione i Monti"
+      },
+      {
+        "location": "41.860574,12.670395",
+        "name": "Borghesiana"
+      },
+      {
+        "location": "41.851751,12.568246",
+        "name": "Cinecittà"
+      },
+      {
+        "location": "41.968615,12.551201",
+        "name": "Bufalotta"
+      },
+      {
+        "location": "41.945123,12.599623",
+        "name": "Casal Monastero"
+      },
+      {
+        "location": "42.006626,12.520214",
+        "name": "Settebagni"
+      },
+      {
+        "location": "41.59297,12.29090",
+        "name": "Labaro"
+      },
+      {
+        "location": "41.940322,12.461819",
+        "name": "Farnesina - Camilluccia"
+      },
+      {
+        "location": "41.933937,12.474190",
+        "name": "Parioli"
+      },
+      {
+        "location": "41.925764,12.468241",
+        "name": "Flaminio"
+      },
+      {
+        "location": "41.876694,12.347715",
+        "name": "Casal Lumbroso"
+      },
+      {
+        "location": "41.875672,12.355150",
+        "name": "La Massimina"
+      },
+      {
+        "location": "41.824503,12.333165",
+        "name": "Ponte Galeria"
+      },
+      {
+        "location": "41.920321,12.362505",
+        "name": "Casalotti"
+      },
+      {
+        "location": "41.903378,12.389704",
+        "name": "Cornelia - Montespaccato"
+      },
+      {
+        "location": "41.855890,12.422525",
+        "name": "Casetta Mattei - Corviale"
+      },
+      {
+        "location": "41.854998,12.382526",
+        "name": "Pisana"
+      },
+      {
+        "location": "41.876747,12.425716",
+        "name": "Bravetta"
+      },
+      {
+        "location": "41.973595,12.428369",
+        "name": "Cassia"
+      },
+      {
+        "location": "43.926009,11.618794",
+        "name": "San Godenzo"
+      },
+      {
+        "location": "41.978052,12.491626",
+        "name": "Grottarossa"
+      },
+      {
+        "location": "41.777222,12.506286",
+        "name": "Castel di Leva"
+      },
+      {
+        "location": "41.779120,12.440851",
+        "name": "Spinaceto"
+      },
+      {
+        "location": "41.804670,12.513783",
+        "name": "Cecchignola - Giuliano Dalmata"
+      },
+      {
+        "location": "41.823973,12.507293",
+        "name": "Fonte Meravigliosa"
+      },
+      {
+        "location": "41.878150,12.564204",
+        "name": "Centocelle"
+      },
+      {
+        "location": "41.861845,12.550142",
+        "name": "Quadraro"
+      },
+      {
+        "location": "41.946413,12.473924",
+        "name": "Fleming"
+      },
+      {
+        "location": "41.936324,12.466571",
+        "name": "Ponte Milvio"
+      },
+      {
+        "location": "41.829680,12.468324",
+        "name": "Eur"
+      },
+      {
+        "location": "41.812345,12.446469",
+        "name": "Poggio del Torrino"
+      },
+      {
+        "location": "41.836272,12.488438",
+        "name": "Tintoretto"
+      },
+      {
+        "location": "41.867446,12.493678",
+        "name": "Garbatella"
+      },
+      {
+        "location": "41.860670,12.498529",
+        "name": "Navigatori"
+      },
+      {
+        "location": "41.856988,12.482148",
+        "name": "Ostiense"
+      },
+      {
+        "location": "41.854878,12.451458",
+        "name": "Portuense"
+      },
+      {
+        "location": "41.896543,12.441638",
+        "name": "Gregorio VII - Piccolomini"
+      },
+      {
+        "location": "41.899095,12.433648",
+        "name": "Baldo degli Ubaldi"
+      },
+      {
+        "location": "41.907105,12.693972",
+        "name": "Castelverde"
+      },
+      {
+        "location": "41.842777,12.406005",
+        "name": "Magliana"
+      },
+      {
+        "location": "41.816023,12.412658",
+        "name": "Parco de' Medici - Muratella"
+      },
+      {
+        "location": "41.858894,12.470175",
+        "name": "Marconi"
+      },
+      {
+        "location": "41.855698,12.465578",
+        "name": "San Paolo"
+      },
+      {
+        "location": "41.875996,12.452756",
+        "name": "Gianicolense"
+      },
+      {
+        "location": "41.868165,12.437242",
+        "name": "Casaletto"
+      },
+      {
+        "location": "41.915202,12.544861",
+        "name": "Monti Tiburtini"
+      },
+      {
+        "location": "41.910060,12.548911",
+        "name": "Casal Bruciato"
+      },
+      {
+        "location": "41.915170,12.569720",
+        "name": "Colli Aniene"
+      },
+      {
+        "location": "41.904439,12.558492",
+        "name": "Collatino"
+      },
+      {
+        "location": "41.926825,12.573228",
+        "name": "Rebibbia"
+      },
+      {
+        "location": "41.925069,12.573330",
+        "name": "Tor Cervara"
+      },
+      {
+        "location": "41.923951,12.558369",
+        "name": "Pietralata"
+      },
+      {
+        "location": "41.890272,12.532726",
+        "name": "Pigneto"
+      },
+      {
+        "location": "41.898681,12.534728",
+        "name": "Casal Bertone"
+      },
+      {
+        "location": "41.933065,12.644954",
+        "name": "Case Rosse"
+      },
+      {
+        "location": "41.935756,12.567844",
+        "name": "Ponte Mammolo"
+      },
+      {
+        "location": "41.940800,12.583245",
+        "name": "San Basilio"
+      },
+      {
+        "location": "41.964382,12.544433",
+        "name": "Casal Boccone"
+      },
+      {
+        "location": "41.968724,12.533904",
+        "name": "Vigne Nuove - Casale Nei"
+      },
+      {
+        "location": "41.967192,12.441749",
+        "name": "Tomba di Nerone"
+      },
+      {
+        "location": "41.869842,12.537868",
+        "name": "Tuscolano"
+      },
+      {
+        "location": "41.876725,12.524263",
+        "name": "Furio Camillo"
+      },
+      {
+        "location": "41.914278,12.501116",
+        "name": "Salario"
+      },
+      {
+        "location": "41.926026,12.516764",
+        "name": "Trieste"
+      },
+      {
+        "location": "41.946140,12.547481",
+        "name": "Monte sacro"
+      },
+      {
+        "location": "41.950194,12.558596",
+        "name": "Talenti"
+      },
+      {
+        "location": "41.958554,12.520133",
+        "name": "Nuovo Salario"
+      },
+      {
+        "location": "41.877558,12.471207",
+        "name": "Testaccio"
+      }
+    ]
   }
 }
