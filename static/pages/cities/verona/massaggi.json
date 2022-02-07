@@ -3,18 +3,439 @@
     "title": "Massoterapista a Verona",
     "description": "Massoterapista a domicilio a Verona e area metropolitana. Massaggi relax, massaggi decontratturanti, massaggio linfatici a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "subheader": {
-    "prenotaOnlineText": "Prenota ora",
-    "titleBig": "Massoterapista a domicilio a Verona",
-    "description1": "EpiCura porta la massoterapia comodamente a domicilio, in tutta Verona e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
-    "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa."
+  "top-banner": {
+    "title": "Massoterapista a Verona",
+    "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
+    "img": {
+      "path": "common",
+      "name": "specialist"
+    },
+    "has-large-title": true,
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": "massages",
+    "cta-content": []
   },
-  "booking-card": {
-    "code": "massagesTreatment_",
-    "title": "Seduta di massaggio a domicilio a Verona",
-    "disciplineTitle": "I migliori professionisti a casa tua",
-    "text": "Rimuovi stress e tensioni e ritrova l'armonia del tuo corpo senza muoverti da casa. Con EpiCura i migliori massoterapisti arrivano comodamente a domicilio, 7 giorni su 7. <br /> Prenota in pochi clic e prenditi cura del tuo benessere.",
-    "price": "Seduta singola 60€",
-    "prenotaOnlineText": "Prenota ora"
+  "bullet-cards": {
+    "title": "Perché affidarsi a EpiCura?",
+    "cards": [
+      {
+        "title": "Comodo, veloce, flessibile",
+        "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
+        "img": {
+          "path": "common",
+          "name": "convenient"
+        }
+      },
+      {
+        "title": "Professionisti certificati",
+        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
+        "img": {
+          "path": "common",
+          "name": "pro-certified"
+        }
+      },
+      {
+        "title": "Prenotazioni senza intoppi",
+        "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
+        "img": {
+          "path": "common",
+          "name": "booking-1"
+        }
+      },
+      {
+        "title": "Supporto costante",
+        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
+        "img": {
+          "path": "common",
+          "name": "support"
+        }
+      }
+    ]
+  },
+  "card-trattamenti": {
+    "title": "I nostri trattamenti di massoterapia",
+    "cards": [
+      {
+        "title": "Massaggio rilassante",
+        "description": "stress, ansia, insonnia, disturbi psicosomatici, tensioni muscolari"
+      },
+      {
+        "title": "Massaggio decontratturante",
+        "description": "cefalea muscolo-tensiva, cervicalgia, mal di schiena, dolori articolari, stress, contratture muscolari"
+      },
+      {
+        "title": "Massaggio sportivo",
+        "description": "prevenzione degli infortuni, rigidità e affaticamento muscolare, contratture, dolori articolari, distorsioni, tendinite, edemi"
+      },
+      {
+        "title": "Massaggio terapeutico",
+        "description": "emicrania, cervicalgia, tendinite, ernia, dolori articolari, nervo sciatico, fibromialgia, gravidanza, problemi digestivi, dolori articolari"
+      },
+      {
+        "title": "Massaggio connettivale",
+        "description": "infiammazioni, contratture, rigidità muscolare"
+      },
+      {
+        "title": "Massaggio linfodrenante",
+        "description": "cellulite, edemi, ritenzione idrica, tonificare le gambe, rassodare i glutei, grasso localizzato, arti gonfi, gambe con capillari"
+      }
+    ]
+  },
+  "prime-banner": {
+    "title": "<b>Epicura Prime</b> è <br />tutta salute",
+    "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
+    "img": {
+      "path": "epicura prime",
+      "name": "epicura_prime"
+    },
+    "has-absolute-image": false,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-large-title": true,
+    "has-bg-color": "epicura-bg-light2",
+    "cta-content": []
+  },
+  "prime-table-compare": [
+    {
+      "is-prime": false,
+      "title": "EpiCura",
+      "small-text": "0€ per sempre",
+      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": false
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "image": "",
+        "variant": "outlined"
+      }
+    },
+    {
+      "is-prime": true,
+      "title": "EpiCura Prime",
+      "small-text": "180€ all’anno",
+      "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Prova gratis per 14 giorni",
+        "link": "/",
+        "image": "",
+        "variant": "prime"
+      }
+    }
+  ],
+  "app-banner": {
+    "title": "50% di sconto sulla prima visita. <br /><strong>Scarica l'app</strong>",
+    "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "img": {
+      "path": "common",
+      "name": "app-mockup-2"
+    },
+    "has-large-title": true,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": "epicura-bg-app",
+    "cta-content": [
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/badge-app-store.png",
+        "variant": "image"
+      },
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/badge-google-play-store.png",
+        "variant": "image"
+      }
+    ]
+  },
+  "bullet-cards-service": {
+    "title": "I migliori massoterapisti a domicilio entro 24 ore",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "cards": [
+      {
+        "title": "Solo professionisti qualificati",
+        "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
+        "img": {
+          "path": "common",
+          "name": "specialist-2"
+        }
+      },
+      {
+        "title": "La tua soddisfazione è anche la nostra ",
+        "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
+        "img": {
+          "path": "common",
+          "name": "certificate-2"
+        }
+      },
+      {
+        "title": "Siamo sempre al tuo fianco",
+        "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
+        "img": {
+          "path": "common",
+          "name": "support-2"
+        }
+      }
+    ]
+  },
+  "service-banner": {
+    "title": "Hai un dubbio sul servizio di massoterapia? Chiamaci",
+    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "img": {
+      "path": "common",
+      "name": "service-banner"
+    },
+    "has-large-title": false,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": "massages",
+    "cta-content": [
+      {
+        "label": "800 909 209",
+        "link": "tel:800909209",
+        "image": "",
+        "variant": "gradient"
+      }
+    ]
+  },
+  "map": {
+    "showAllText": "Mostra tutti",
+    "hideAllText": "Mostra meno",
+    "doveCiTroviText": "Massoterapisti a domicilio a Verona e area metropolitanao",
+    "quartieriText": "Controlla qui i comuni coperti dal servizio",
+    "mapCenter": "45.438158,10.993742",
+    "markers": [
+      {
+        "location": "45.441976,10.996594",
+        "name": "Città antica"
+      },
+      {
+        "location": "45.443503,10.963868",
+        "name": "Borgo Milano"
+      },
+      {
+        "location": "45.435373,10.970436",
+        "name": "Stadio"
+      },
+      {
+        "location": "45.420998,10.981018",
+        "name": "Zona Fiere"
+      },
+      {
+        "location": "45.464244,11.007202",
+        "name": "Torricelle"
+      },
+      {
+        "location": "45.457222,10.946111",
+        "name": "Chievo"
+      },
+      {
+        "location": "45.452126,10.893190",
+        "name": "Bassone"
+      },
+      {
+        "location": "45.382702,11.000026",
+        "name": "Cadidavid"
+      },
+      {
+        "location": "45.415471,11.058497",
+        "name": "Castiglione"
+      },
+      {
+        "location": "45.472099,11.018290",
+        "name": "Poiano"
+      },
+      {
+        "location": "45.455802,10.983793",
+        "name": "Pindemonte"
+      },
+      {
+        "location": "45.436525,10.991101",
+        "name": "Cittadella"
+      },
+      {
+        "location": "45.442523,10.978788",
+        "name": "San Zeno"
+      },
+      {
+        "location": "45.443343,11.006290",
+        "name": "Veronetta"
+      },
+      {
+        "location": "45.446994,10.987824",
+        "name": "Borgo Trento"
+      },
+      {
+        "location": "45.455182,11.004274",
+        "name": "Valdonega"
+      },
+      {
+        "location": "45.439968,11.021456",
+        "name": "Borgo Venezia"
+      },
+      {
+        "location": "45.439584,11.026134",
+        "name": "Borgo Trieste"
+      },
+      {
+        "location": "45.433846,11.018737",
+        "name": "Porto San Pancrazio"
+      },
+      {
+        "location": "45.414709,10.993725",
+        "name": "Borgo Roma"
+      },
+      {
+        "location": "45.501092,10.821053",
+        "name": "Santa Lucia"
+      },
+      {
+        "location": "45.448351,10.958246",
+        "name": "Borgo Nuovo"
+      },
+      {
+        "location": "45.419845,10.966990",
+        "name": "Golosine"
+      },
+      {
+        "location": "45.460005,10.978839",
+        "name": "Ponte Crencano"
+      },
+      {
+        "location": "45.449890,11.026218",
+        "name": "Santa Croce"
+      },
+      {
+        "location": "45.470764,10.988491",
+        "name": "Avesa"
+      },
+      {
+        "location": "45.493866,11.016250",
+        "name": "Quinto"
+      },
+      {
+        "location": "45.471276,10.974189",
+        "name": "Quinzano"
+      },
+      {
+        "location": "45.460092,11.064559",
+        "name": "Montorio"
+      },
+      {
+        "location": "45.434511,11.044993",
+        "name": "San Michele"
+      },
+      {
+        "location": "45.439369,10.948108",
+        "name": "San Massimo"
+      },
+      {
+        "location": "45.477136,10.944089",
+        "name": "Parona"
+      },
+      {
+        "location": "45.415525,10.942108",
+        "name": "Bonizzati-fonte Madonna"
+      },
+      {
+        "location": "45.406468,10.930723",
+        "name": "Madonna di Dossobuono"
+      },
+      {
+        "location": "45.437192,10.960844",
+        "name": "Sogare"
+      },
+      {
+        "location": "45.428914,10.917750",
+        "name": "Casone"
+      },
+      {
+        "location": "45.356484,10.956575",
+        "name": "Castel d'Azzano"
+      },
+      {
+        "location": "45.433356,10.884280",
+        "name": "Lugagnano"
+      }
+    ]
   }
 }
