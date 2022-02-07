@@ -4,11 +4,11 @@
     "description": "Nutrizionisti a domicilio a Napoli e area metropolitana. Valutazione nutrizionale, monitoraggio e pianificazione diete a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
   "top-banner": {
-    "title": "Nutrizionista a Napoli",
-    "subtitle": "EpiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Napoli e area metropolitana, 7 giorni su 7, quando e dove vuoi. Prenota in pochi clic e prenditi cura del tuo corpo e del tuo benessere in modo semplice e veloce.",
+    "title": "Nutrizionista a <br />Napoli",
+    "subtitle": "EpiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Napoli e area metropolitana, 7 giorni su 7, quando e dove vuoi. <br /><br />Prenota in pochi click e prenditi cura del tuo corpo e del tuo benessere in modo semplice e veloce.",
     "img": {
       "path": "common",
-      "name": "header_home"
+      "name": "specialist"
     },
     "has-large-title": true,
     "has-absolute-image": false,
@@ -17,44 +17,12 @@
     "has-bg-color": "",
     "cta-content": []
   },
-  "how-it-works": {
-    "title": "Nutrizionista a domicilio, come funziona",
-    "cards": [
-      {
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
-        "title": "",
-        "subtitle": "Scopri le nostre soluzioni",
-        "text": "Abbiamo pensato a diversi percorsi nutrizionali per permetterti di scegliere in base ai tuoi obiettivi e necessit à. Scegli il percorso nutrizionale più adatto, noi troveremo il miglior professionista per le tue esigenze."
-      },
-      {
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
-        "title": "",
-        "subtitle": "Prenota in pochi click",
-        "text": "La prenotazione con EpiCura  è semplice e veloce! Scegli dove e quando ricevere l’intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
-      },
-      {
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
-        "title": "",
-        "subtitle": "Ricevi l’intervento a domicilio",
-        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
-      }
-    ]
-  },
   "card-trattamenti": {
     "title": "In cosa possiamo aiutarti:",
     "cards": [
       {
         "title": "Perdita e aumento di peso",
-        "description": "sovrappeso, obesit à, sottopeso"
+        "description": "sovrappeso, obesità, sottopeso"
       },
       {
         "title": "Nutrizione al femminile",
@@ -62,7 +30,7 @@
       },
       {
         "title": "Nutrizione pediatrica",
-        "description": "sovrappeso, obesit à, inappetenza, diabete, allergie e intolleranze alimentari, anemia"
+        "description": "sovrappeso, obesità, inappetenza, diabete, allergie e intolleranze alimentari, anemia"
       },
       {
         "title": "Nutrizione per anziani",
@@ -87,13 +55,13 @@
     ]
   },
   "nutrition-banner": {
-    "title": "Le soluzioni che abbiamo pensato per te",
-    "subtitle": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo.",
+    "title": "<strong>Epicura Prime</strong> è <br />tutta salute",
+    "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
-      "path": "common",
-      "name": "header_home"
+      "path": "epicura prime",
+      "name": "epicura_prime"
     },
-    "has-absolute-image": true,
+    "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": true,
     "has-large-title": true,
@@ -103,17 +71,45 @@
   "nutrition-table-compare": [
     {
       "is-prime": false,
-      "title": "Visita singola",
-      "small-text": "Prezzo standard 60€",
-      "subtitle": "Spiegazione e vantaggi del servizio: consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "title": "EpiCura",
+      "small-text": "0€ per sempre",
+      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
       "option-list": [
         {
-          "text": "In videoconsulto o in studio",
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
           "checked": true
         },
         {
-          "text": "Prima visita e suggerimenti alimentari",
+          "text": "Supporto prenotazioni 7/7",
           "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": false
         }
       ],
       "cta": {
@@ -121,36 +117,48 @@
         "link": "/",
         "image": "",
         "variant": "outlined"
-      },
-      "primePrices": {
-        "title": "Prezzo riservato a utenti Prime",
-        "cta": {
-          "label": "Scopri Epicura Prime e risparmia",
-          "url": "#"
-        },
-        "price": "54"
       }
     },
     {
-      "is-prime": false,
-      "title": "Pacchetto lorem ipsum",
-      "small-text": "Prezzo standard 166€",
-      "subtitle": "Spiegazione e vantaggi del servizio: consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "is-prime": true,
+      "title": "EpiCura Prime",
+      "small-text": "180€ all’anno",
+      "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
       "option-list": [
         {
-          "text": "Solo in videoconsulto",
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
           "checked": true
         },
         {
-          "text": "Prima visita",
+          "text": "Supporto prenotazioni 7/7",
           "checked": true
         },
         {
-          "text": "Elaborazione piano alimentare personalizzato",
+          "text": "Storico interventi",
           "checked": true
         },
         {
-          "text": "2 check-up di controllo e verifica obiettivi",
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
           "checked": true
         }
       ],
@@ -159,14 +167,6 @@
         "link": "/",
         "image": "",
         "variant": "filled"
-      },
-      "prime-prices": {
-        "title": "Prezzo riservato a utenti Prime",
-        "cta": {
-          "label": "Scopri Epicura Prime e risparmia",
-          "url": "#"
-        },
-        "price": "149"
       }
     }
   ],
@@ -233,7 +233,7 @@
         "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "specialist-2"
         }
       },
       {
@@ -241,7 +241,7 @@
         "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "certificate-2"
         }
       },
       {
@@ -249,7 +249,7 @@
         "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "support-2"
         }
       }
     ]
@@ -509,31 +509,20 @@
         "location": "43.783487,11.321532",
         "name": "Settignano"
       }
-    ],
-    "cardPhone": {
-      "title": "Chiamaci",
-      "text": "Numero attivo 7 giorni su 7, dalle 8:30 alle 19:30.",
-      "image": "phone-card"
-    },
-    "cardContact": {
-      "title": "Scrivici un messaggio",
-      "text": "Ti rispondiamo subito, o se lo desideri ti ricontattiamo quando vuoi tu.",
-      "buttonText": "Scrivici",
-      "image": "contact-card"
-    }
+    ]
   },
   "service-banner": {
     "title": "Hai un dubbio sul servizio di nutrizione? Chiamaci",
     "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
     "img": {
       "path": "common",
-      "name": "header_home"
+      "name": "service-banner"
     },
-    "has-large-title": true,
-    "has-absolute-image": false,
+    "has-large-title": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": false,
-    "has-bg-color": "",
+    "has-bg-color": "nutrition",
     "cta-content": [
       {
         "label": "800 909 209",

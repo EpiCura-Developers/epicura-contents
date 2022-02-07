@@ -273,19 +273,13 @@
       {
         "label": "",
         "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
+        "image": "/img/badge-app-store.png",
         "variant": "image"
       },
       {
         "label": "",
         "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
+        "image": "/img/badge-google-play-store.png",
         "variant": "image"
       }
     ]
