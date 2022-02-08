@@ -205,7 +205,7 @@
     ]
   },
   "prime-banner": {
-    "title": "<strong>Epicura Prime</strong> è <br />tutta salute",
+    "title": "<b>Epicura Prime</b> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
       "path": "epicura prime",
@@ -215,7 +215,7 @@
     "first-image-order": false,
     "hide-image-mobile": true,
     "has-large-title": true,
-    "has-bg-color": "",
+    "has-bg-color": "epicura-bg-light2",
     "cta-content": []
   },
   "prime-table-compare": [
@@ -331,18 +331,18 @@
     "first-image-order": true,
     "hide-image-mobile": true,
     "has-large-title": true,
-    "has-bg-color": "",
+    "has-bg-color": "prime",
     "cta-content": [
       {
         "label": "",
         "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
-        "image": "/img/app-store-white.png",
+        "image": "/img/badge-app-store-white.png",
         "variant": "image"
       },
       {
         "label": "",
         "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
-        "image": "/img/google-playstore-white.png",
+        "image": "/img/badge-google-play-store-white.png",
         "variant": "image"
       }
     ]
