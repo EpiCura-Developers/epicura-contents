@@ -660,5 +660,16 @@
         "variant": "gradient"
       }
     ]
+  },
+  "card-discount": {
+    "title": "Prenotando un servizio di assistenza a ore o badante, ricevi subito il 10% di sconto su tutti i servizi EpiCura",
+    "services-list": [
+      "Fisioterapia",
+      "Medicina generale",
+      "Pediatria",
+      "Nutrizione",
+      "Massaggi",
+      "Psicologia e psicoterapia"
+    ]
   }
 }
