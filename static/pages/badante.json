@@ -342,7 +342,7 @@
         "text": "",
         "img": {
           "path": "common",
-          "name": "skytg24"
+          "name": "skytg24-1"
         }
       },
       {
@@ -350,7 +350,7 @@
         "text": "",
         "img": {
           "path": "common",
-          "name": "lastampa"
+          "name": "lastampa-1"
         }
       },
       {
@@ -358,7 +358,7 @@
         "text": "",
         "img": {
           "path": "common",
-          "name": "corrieredellasera"
+          "name": "corrieredellasera-1"
         }
       },
       {
@@ -366,13 +366,13 @@
         "text": "",
         "img": {
           "path": "common",
-          "name": "ilsole24ore"
+          "name": "ilsole24ore-1"
         }
       }
     ]
   },
   "how-does-it-work": {
-    "title": "Sei in cerca di una badante? <br> <strong>Ecco come funziona</strong>*",
+    "title": "Sei in cerca di una badante? <br /> <strong>Ecco come funziona</strong>*",
     "subtitle": "<small>*Serivizio attivo in tutta Italia</small>",
     "cards": [
       {
@@ -411,11 +411,11 @@
       {
         "is-highlighted": false,
         "img": {
-          "path": "homecare",
-          "name": "homecare_subheader"
+          "path": "caregiver",
+          "name": "badante-full-time"
         },
         "title": "Badante convivente giorno e notte",
-        "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi. <br> <small>A partire da 1.410 Euro al mese</small>",
+        "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi. <br /> <small>A partire da 1.410 Euro al mese</small>",
         "previous-price": "",
         "price": "",
         "price-detail": "Servizio attivo in tutta italia",
@@ -431,11 +431,11 @@
       {
         "is-highlighted": false,
         "img": {
-          "path": "homecare",
-          "name": "homecare_subheader"
+          "path": "caregiver",
+          "name": "badante-full-time"
         },
         "title": "Badante diurna",
-        "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi. <br><small>A partire da 720 Euro al mese</small>",
+        "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi. <br /><small>A partire da 720 Euro al mese</small>",
         "previous-price": "",
         "price": "",
         "price-detail": "Servizio attivo in tutta italia",
@@ -451,11 +451,11 @@
       {
         "is-highlighted": false,
         "img": {
-          "path": "homecare",
-          "name": "homecare_subheader"
+          "path": "caregiver",
+          "name": "badante-full-time"
         },
         "title": "Badante notturna",
-        "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi. <br><small>A partire da 1.180 Euro al mese</small>",
+        "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi. <br /><small>A partire da 1.180 Euro al mese</small>",
         "previous-price": "",
         "price": "",
         "price-detail": "Servizio attivo in tutta italia",
@@ -471,8 +471,8 @@
     ]
   },
   "cities-banner": {
-    "title": "Hai bisogno di assistenza <br>domiciliare a ore?",
-    "subtitle": "L'assistenza a ore è ideale per persone autosufficienti e non che hanno bisogno di supporto solo in specifici giorni o per attività che non riescono a svolgere in autonomia (spesa, pulizia della casa, visite mediche). Il servizio è erogabile a partire da un minimo di 3 ore consecutive.",
+    "title": "Hai bisogno di assistenza <br />domiciliare a ore?",
+    "subtitle": "L'assistenza a ore è ideale per persone autosufficienti e non che hanno bisogno di supporto solo in specifici giorni o per attività che non riescono a svolgere in autonomia (spesa, pulizia della casa, visite mediche). <br /> Il servizio è erogabile a partire da un minimo di 3 ore consecutive.",
     "img": {},
     "has-large-title": false,
     "has-absolute-image": true,
@@ -557,8 +557,8 @@
     ]
   },
   "family-tutor-banner": {
-    "title": "Cerchi una badante? <br>Chiedi al family tutor.",
-    "subtitle": "Non perdere la testa nella ricerca di una badante. <br> Se non sai da dove iniziare, un nostro consulente ascolterà le tue esigenze e ti guiderà verso il percorso assistenziale più adeguato.<br>Pensaci: una telefonata può cambiarti la vita.",
+    "title": "Cerchi una badante? <br />Chiedi al family tutor.",
+    "subtitle": "Non perdere la testa nella ricerca di una badante. <br /> Se non sai da dove iniziare, un nostro consulente ascolterà le tue esigenze e ti guiderà verso il percorso assistenziale più adeguato.<br />Pensaci: una telefonata può cambiarti la vita.",
     "img": {
       "path": "common",
       "name": "service-banner"
@@ -579,7 +579,7 @@
     ]
   },
   "specialist-carousel": {
-    "title": "Badanti e assistenti domiciliari <br>con esperienza e referenze dimostrabili",
+    "title": "Badanti e assistenti domiciliari <br />con esperienza e referenze dimostrabili",
     "subtitle": "Scegliamo con cura i nostri professionisti per garantirti serenità e affidabilità.",
     "specialist": true,
     "cards": [
@@ -640,7 +640,7 @@
     ]
   },
   "job-banner": {
-    "title": "Sei una badante? <br>Lavora con noi",
+    "title": "Sei una badante? <br />Lavora con noi",
     "subtitle": "Se hai esperienza nel campo dell’assistenza alla persona, svolgi il tuo lavoro con professionalità e hai referenze dimostrabili, invia il tuo curriculum per entrare a far parte della rete di professionisti EpiCura, attiva in tutta Italia.",
     "img": {
       "path": "caregiver",
