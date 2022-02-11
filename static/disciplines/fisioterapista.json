@@ -169,16 +169,17 @@
     ]
   },
   "hint-card": {
-    "title": "Vuoi parlare con un fisioterapista?",
-    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
-    "price": "Videoconsulto specialistico 25€",
-    "bkg-color": "#F2F5FF",
+    "title": "Hai un dubbio sul servizio di fisioterapia? Chiamaci",
+    "content": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "price": "",
+    "bkg-color": "#FFEEED",
     "image": {
-      "path": "videoconsultation",
-      "name": "videoconsultation-banner"
+      "path": "physiotherapy",
+      "name": "physiotherapy-service-banner"
     },
-    "button-text": "Scopri di più",
-    "button-link": "/fisioterapista-videoconsulto/"
+    "button-text": "800 909 209",
+    "button-link": "tel:800909209",
+    "button-class": "btn-primary-gradient"
   },
   "banner-info": {
     "title": "Hai un dubbio sul servizio di<br /> fisioterapia?",

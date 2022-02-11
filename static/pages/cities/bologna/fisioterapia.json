@@ -59,39 +59,48 @@
     "cards": [
       {
         "title": "Fisioterapia per anziani",
-        "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria"
+        "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria",
+        "url": "/fisioterapia-per-anziani"
       },
       {
         "title": "Fisioterapia pediatrica",
-        "description": "torcicollo, plagiocefalia neonatale, piede piatto valgo, scoliosi, dorso curvo, fratture"
+        "description": "torcicollo, plagiocefalia neonatale, piede piatto valgo, scoliosi, dorso curvo, fratture",
+        "url": "/fisioterapia-pediatrica"
       },
       {
         "title": "Fisioterapia in gravidanza",
-        "description": "gonfiore degli arti, mal di schiena, lombalgia, scialtalgia, disturbi del pavimento pelvico"
+        "description": "gonfiore degli arti, mal di schiena, lombalgia, scialtalgia, disturbi del pavimento pelvico",
+        "url": "/fisioterapia-in-gravidanza"
       },
       {
         "title": "Riabilitazione respiratoria",
-        "description": "ginnastica respiratoria, fisioterapia polmonare"
+        "description": "ginnastica respiratoria, fisioterapia polmonare",
+        "url": "/riabilitazione-respiratoria"
       },
       {
         "title": "Riabilitazione motoria",
-        "description": "alluce valgo, protesi anca, frattura femore, fisioterapia per ginocchio, protesi ginocchio, rafforzamento muscolare"
+        "description": "alluce valgo, protesi anca, frattura femore, fisioterapia per ginocchio, protesi ginocchio, rafforzamento muscolare",
+        "url": "/riabilitazione-motoria"
       },
       {
         "title": "Linfodrenaggio manuale",
-        "description": "cellulite, edemi, ritensione idrica, vene varicose"
+        "description": "cellulite, edemi, ritensione idrica, vene varicose",
+        "url": "/linfodrenaggio-manuale"
       },
       {
         "title": "Chinesiterapia",
-        "description": "riacquisizione delle funzionalità motorie"
+        "description": "riacquisizione delle funzionalità motorie",
+        "url": "/chinesiterapia"
       },
       {
         "title": "Disturbi patologici",
-        "description": "artrosi, artrite reumatoide, distrofia muscolare, fibromialgia, ictus, sclerosi multipla, spondilite anchilosante, tremore essenziale"
+        "description": "artrosi, artrite reumatoide, distrofia muscolare, fibromialgia, ictus, sclerosi multipla, spondilite anchilosante, tremore essenziale",
+        "url": "/patologie-neurologiche-e-infiammatorie"
       },
       {
         "title": "Dolore e infiammazione",
-        "description": "acusene, cervicale, emicrania, ernia, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite"
+        "description": "acusene, cervicale, emicrania, ernia, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite",
+        "url": "/fisioterapia-dolore-e-infiammazione"
       }
     ]
   },
@@ -278,8 +287,8 @@
     "title": "Hai un dubbio sul servizio di fisioterapia? Chiamaci",
     "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
     "img": {
-      "path": "common",
-      "name": "service-banner"
+      "path": "physiotherapy",
+      "name": "physiotherapy-service-banner"
     },
     "has-large-title": false,
     "has-absolute-image": true,
@@ -290,10 +299,7 @@
       {
         "label": "800 909 209",
         "link": "tel:800909209",
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
+        "img": {},
         "variant": "gradient"
       }
     ]

@@ -60,47 +60,47 @@
       {
         "title": "Fisioterapia per anziani",
         "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria",
-        "url": "#"
+        "url": "/fisioterapia-per-anziani"
       },
       {
         "title": "Fisioterapia pediatrica",
         "description": "torcicollo, plagiocefalia neonatale, piede piatto valgo, scoliosi, dorso curvo, fratture",
-        "url": "#"
+        "url": "/fisioterapia-pediatrica"
       },
       {
         "title": "Fisioterapia in gravidanza",
         "description": "gonfiore degli arti, mal di schiena, lombalgia, scialtalgia, disturbi del pavimento pelvico",
-        "url": "#"
+        "url": "/fisioterapia-in-gravidanza"
       },
       {
         "title": "Riabilitazione respiratoria",
         "description": "ginnastica respiratoria, fisioterapia polmonare",
-        "url": "#"
+        "url": "/riabilitazione-respiratoria"
       },
       {
         "title": "Riabilitazione motoria",
         "description": "alluce valgo, protesi anca, frattura femore, fisioterapia per ginocchio, protesi ginocchio, rafforzamento muscolare",
-        "url": "#"
+        "url": "/riabilitazione-motoria"
       },
       {
         "title": "Linfodrenaggio manuale",
         "description": "cellulite, edemi, ritensione idrica, vene varicose",
-        "url": "#"
+        "url": "/linfodrenaggio-manuale"
       },
       {
         "title": "Chinesiterapia",
         "description": "riacquisizione delle funzionalità motorie",
-        "url": "#"
+        "url": "/chinesiterapia"
       },
       {
         "title": "Disturbi patologici",
         "description": "artrosi, artrite reumatoide, distrofia muscolare, fibromialgia, ictus, sclerosi multipla, spondilite anchilosante, tremore essenziale",
-        "url": "#"
+        "url": "/patologie-neurologiche-e-infiammatorie"
       },
       {
         "title": "Dolore e infiammazione",
         "description": "acusene, cervicale, emicrania, ernia, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite",
-        "url": "#"
+        "url": "/fisioterapia-dolore-e-infiammazione"
       }
     ]
   },
@@ -223,7 +223,7 @@
     }
   ],
   "app-banner": {
-    "title": "50% di sconto sulla prima visita. <br><strong>Scarica l'app</strong>",
+    "title": "50% di sconto sulla prima visita. <br /><strong>Scarica l'app</strong>",
     "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
