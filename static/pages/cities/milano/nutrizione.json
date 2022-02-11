@@ -17,35 +17,36 @@
     "has-bg-color": "",
     "cta-content": []
   },
-  "how-it-works": {
+  "how-does-it-work": {
     "title": "Nutrizionista a domicilio, come funziona",
+    "subtitle": "",
     "cards": [
       {
+        "title": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a diversi percorsi nutrizionali per permetterti di scegliere in base ai tuoi obiettivi e necessità. Scegli il percorso nutrizionale più adatto, noi troveremo il miglior professionista per le tue esigenze.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "nutrizione-icon"
         },
-        "title": "",
-        "subtitle": "Scopri le nostre soluzioni",
-        "text": "Abbiamo pensato a diversi percorsi nutrizionali per permetterti di scegliere in base ai tuoi obiettivi e necessità. Scegli il percorso nutrizionale più adatto, noi troveremo il miglior professionista per le tue esigenze."
+        "has-background": true
       },
       {
+        "title": "Prenota in pochi click",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l’intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "booking-2"
         },
-        "title": "",
-        "subtitle": "Prenota in pochi click",
-        "text": "La prenotazione con EpiCura  è semplice e veloce! Scegli dove e quando ricevere l’intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
+        "has-background": true
       },
       {
+        "title": "Ricevi l’intervento a domicilio",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "visita-domicilio"
         },
-        "title": "",
-        "subtitle": "Ricevi l’intervento a domicilio",
-        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
+        "has-background": true
       }
     ]
   },
@@ -54,50 +55,55 @@
     "cards": [
       {
         "title": "Perdita e aumento di peso",
-        "description": "sovrappeso, obesità, sottopeso"
+        "description": "sovrappeso, obesità, sottopeso",
+        "url": "/perdita-e-aumento-di-peso"
       },
       {
         "title": "Nutrizione al femminile",
-        "description": "gravidanza, menopausa, ovaio policistico, endometriosi, amenorrea"
+        "description": "gravidanza, menopausa, ovaio policistico, endometriosi, amenorrea",
+        "url": "/perdita-e-aumento-di-peso"
       },
       {
         "title": "Nutrizione pediatrica",
-        "description": "sovrappeso, obesità, inappetenza, diabete, allergie e intolleranze alimentari, anemia"
+        "description": "sovrappeso, obesità, inappetenza, diabete, allergie e intolleranze alimentari, anemia",
+        "url": "/nutrizione-pediatrica"
       },
       {
         "title": "Nutrizione per anziani",
-        "description": "patologie cardiache, diabete, inappetenza, osteoporosi, demenza senile"
+        "description": "patologie cardiache, diabete, inappetenza, osteoporosi, demenza senile",
+        "url": "/nutrizione-per-anziani"
       },
       {
         "title": "Disturbi alimentari",
-        "description": "anoressia, bulimia, binge eating (fame compulsiva)"
+        "description": "anoressia, bulimia, binge eating (fame compulsiva)",
+        "url": "/nutrizione-disturbi-alimentari"
       },
       {
         "title": "Nutrizione per sportivi",
-        "description": "aumento della massa muscolare, alimentazione per atleti"
+        "description": "aumento della massa muscolare, alimentazione per atleti",
+        "url": "/nutrizione-per-sportivi"
       },
       {
         "title": "Nutrizione per patologie",
-        "description": "tumore, ipotiroidismo, ipertiroidismo, diabete, colon irritabile, diverticolite, gastrite, insufficienza renale"
+        "description": "tumore, ipotiroidismo, ipertiroidismo, diabete, colon irritabile, diverticolite, gastrite, insufficienza renale",
+        "url": "/nutrizione-per-patologie"
       },
       {
         "title": "Allergie e intolleranze",
-        "description": "celiachia, allergie alimentari, allergia al nichel"
+        "description": "celiachia, allergie alimentari, allergia al nichel",
+        "url": "/allergie-e-intolleranze"
       }
     ]
   },
   "nutrition-banner": {
     "title": "Le soluzioni che abbiamo pensato per te",
     "subtitle": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo.",
-    "img": {
-      "path": "common",
-      "name": "header_home"
-    },
+    "img": {},
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
     "has-large-title": true,
-    "has-bg-color": "",
+    "has-bg-color": "nutrition",
     "cta-content": []
   },
   "nutrition-table-compare": [
@@ -117,12 +123,12 @@
         }
       ],
       "cta": {
-        "label": "Entra in EpiCura e prenota",
+        "label": "Prova gratis per 14 giorni",
         "link": "/",
         "image": "",
         "variant": "outlined"
       },
-      "primePrices": {
+      "prime-prices": {
         "title": "Prezzo riservato a utenti Prime",
         "cta": {
           "label": "Scopri Epicura Prime e risparmia",
@@ -158,7 +164,7 @@
         "label": "Prova gratis per 14 giorni",
         "link": "/",
         "image": "",
-        "variant": "filled"
+        "variant": "outlined"
       },
       "prime-prices": {
         "title": "Prezzo riservato a utenti Prime",
@@ -257,7 +263,7 @@
   "map": {
     "showAllText": "Mostra tutti",
     "hideAllText": "Mostra meno",
-    "doveCiTroviText": "Nutrizionista a domicilio a Milano e area metropolitana",
+    "doveCiTroviText": "Nutrizionisti a domicilio a Milano e area metropolitana",
     "quartieriText": "Controlla qui i comuni coperti dal servizio",
     "mapCenter": "44.493889,11.342778",
     "markers": [

@@ -17,148 +17,108 @@
     "has-bg-color": "",
     "cta-content": []
   },
+  "how-does-it-work": {
+    "title": "Nutrizionista a domicilio, come funziona",
+    "subtitle": "",
+    "cards": [
+      {
+        "title": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a diversi percorsi nutrizionali per permetterti di scegliere in base ai tuoi obiettivi e necessità. Scegli il percorso nutrizionale più adatto, noi troveremo il miglior professionista per le tue esigenze.",
+        "img": {
+          "path": "common",
+          "name": "nutrizione-icon"
+        },
+        "has-background": true
+      },
+      {
+        "title": "Prenota in pochi click",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l’intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata.",
+        "img": {
+          "path": "common",
+          "name": "booking-2"
+        },
+        "has-background": true
+      },
+      {
+        "title": "Ricevi l’intervento a domicilio",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
+        "img": {
+          "path": "common",
+          "name": "visita-domicilio"
+        },
+        "has-background": true
+      }
+    ]
+  },
   "card-trattamenti": {
     "title": "In cosa possiamo aiutarti:",
     "cards": [
       {
         "title": "Perdita e aumento di peso",
-        "description": "sovrappeso, obesità, sottopeso"
+        "description": "sovrappeso, obesità, sottopeso",
+        "url": "/perdita-e-aumento-di-peso"
       },
       {
         "title": "Nutrizione al femminile",
-        "description": "gravidanza, menopausa, ovaio policistico, endometriosi, amenorrea"
+        "description": "gravidanza, menopausa, ovaio policistico, endometriosi, amenorrea",
+        "url": "/perdita-e-aumento-di-peso"
       },
       {
         "title": "Nutrizione pediatrica",
-        "description": "sovrappeso, obesità, inappetenza, diabete, allergie e intolleranze alimentari, anemia"
+        "description": "sovrappeso, obesità, inappetenza, diabete, allergie e intolleranze alimentari, anemia",
+        "url": "/nutrizione-pediatrica"
       },
       {
         "title": "Nutrizione per anziani",
-        "description": "patologie cardiache, diabete, inappetenza, osteoporosi, demenza senile"
+        "description": "patologie cardiache, diabete, inappetenza, osteoporosi, demenza senile",
+        "url": "/nutrizione-per-anziani"
       },
       {
         "title": "Disturbi alimentari",
-        "description": "anoressia, bulimia, binge eating (fame compulsiva)"
+        "description": "anoressia, bulimia, binge eating (fame compulsiva)",
+        "url": "/nutrizione-disturbi-alimentari"
       },
       {
         "title": "Nutrizione per sportivi",
-        "description": "aumento della massa muscolare, alimentazione per atleti"
+        "description": "aumento della massa muscolare, alimentazione per atleti",
+        "url": "/nutrizione-per-sportivi"
       },
       {
         "title": "Nutrizione per patologie",
-        "description": "tumore, ipotiroidismo, ipertiroidismo, diabete, colon irritabile, diverticolite, gastrite, insufficienza renale"
+        "description": "tumore, ipotiroidismo, ipertiroidismo, diabete, colon irritabile, diverticolite, gastrite, insufficienza renale",
+        "url": "/nutrizione-per-patologie"
       },
       {
         "title": "Allergie e intolleranze",
-        "description": "celiachia, allergie alimentari, allergia al nichel"
+        "description": "celiachia, allergie alimentari, allergia al nichel",
+        "url": "/allergie-e-intolleranze"
       }
     ]
   },
   "nutrition-banner": {
-    "title": "<strong>Epicura Prime</strong> è <br />tutta salute",
-    "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
-    "img": {
-      "path": "epicura prime",
-      "name": "epicura_prime"
-    },
-    "has-absolute-image": false,
+    "title": "Le soluzioni che abbiamo pensato per te",
+    "subtitle": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo.",
+    "img": {},
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
     "has-large-title": true,
-    "has-bg-color": "",
+    "has-bg-color": "nutrition",
     "cta-content": []
   },
   "nutrition-table-compare": [
     {
       "is-prime": false,
-      "title": "EpiCura",
-      "small-text": "0€ per sempre",
-      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "title": "Visita singola",
+      "small-text": "Prezzo standard 60€",
+      "subtitle": "Spiegazione e vantaggi del servizio: consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
       "option-list": [
         {
-          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "text": "In videoconsulto o in studio",
           "checked": true
         },
         {
-          "text": "Supporto prenotazioni 7/7",
-          "checked": true
-        },
-        {
-          "text": "Storico interventi",
-          "checked": true
-        },
-        {
-          "text": "Videoconsulti medico pediatra illimitati gratuiti",
-          "checked": false
-        },
-        {
-          "text": "Videoconsulti medico di base illimitati gratuiti",
-          "checked": false
-        },
-        {
-          "text": "Videoconsulti veterinari illimitati gratuiti",
-          "checked": false
-        },
-        {
-          "text": "100€ di bonus da spendere su tutte le prestazioni",
-          "checked": false
-        },
-        {
-          "text": "10% di sconto su tutte le prestazioni",
-          "checked": false
-        },
-        {
-          "text": "Accesso a convenzioni con diversi partner",
-          "checked": false
-        }
-      ],
-      "cta": {
-        "label": "Entra in EpiCura e prenota",
-        "link": "/",
-        "image": "",
-        "variant": "outlined"
-      }
-    },
-    {
-      "is-prime": true,
-      "title": "EpiCura Prime",
-      "small-text": "180€ all’anno",
-      "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
-      "option-list": [
-        {
-          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
-          "checked": true
-        },
-        {
-          "text": "Supporto prenotazioni 7/7",
-          "checked": true
-        },
-        {
-          "text": "Storico interventi",
-          "checked": true
-        },
-        {
-          "text": "Videoconsulti medico pediatra illimitati gratuiti",
-          "checked": true
-        },
-        {
-          "text": "Videoconsulti medico di base illimitati gratuiti",
-          "checked": true
-        },
-        {
-          "text": "Videoconsulti veterinari illimitati gratuiti",
-          "checked": true
-        },
-        {
-          "text": "100€ di bonus da spendere su tutte le prestazioni",
-          "checked": true
-        },
-        {
-          "text": "10% di sconto su tutte le prestazioni",
-          "checked": true
-        },
-        {
-          "text": "Accesso a convenzioni con diversi partner",
+          "text": "Prima visita e suggerimenti alimentari",
           "checked": true
         }
       ],
@@ -166,7 +126,53 @@
         "label": "Prova gratis per 14 giorni",
         "link": "/",
         "image": "",
-        "variant": "filled"
+        "variant": "outlined"
+      },
+      "prime-prices": {
+        "title": "Prezzo riservato a utenti Prime",
+        "cta": {
+          "label": "Scopri Epicura Prime e risparmia",
+          "url": "#"
+        },
+        "price": "54"
+      }
+    },
+    {
+      "is-prime": false,
+      "title": "Pacchetto lorem ipsum",
+      "small-text": "Prezzo standard 166€",
+      "subtitle": "Spiegazione e vantaggi del servizio: consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "option-list": [
+        {
+          "text": "Solo in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Prima visita",
+          "checked": true
+        },
+        {
+          "text": "Elaborazione piano alimentare personalizzato",
+          "checked": true
+        },
+        {
+          "text": "2 check-up di controllo e verifica obiettivi",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Prova gratis per 14 giorni",
+        "link": "/",
+        "image": "",
+        "variant": "outlined"
+      },
+      "prime-prices": {
+        "title": "Prezzo riservato a utenti Prime",
+        "cta": {
+          "label": "Scopri Epicura Prime e risparmia",
+          "url": "#"
+        },
+        "price": "149"
       }
     }
   ],
