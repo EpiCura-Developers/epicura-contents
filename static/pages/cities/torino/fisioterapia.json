@@ -4,17 +4,17 @@
     "description": "Fisioterapisti esperti a domicilio a Torino e area metropolitana. Riabilitazione a domicilio, linfodrenaggio, sedute fisioterapiche a casa, 7 giorni su 7, senza liste d'attesa."
   },
   "top-banner": {
-    "title": "Fisioterapista a Torino",
+    "title": "Fisioterapista a<br /> Torino",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
     "img": {
-      "path": "common",
-      "name": "specialist"
+      "path": "physiotherapy",
+      "name": "physiotherapy-header"
     },
     "has-large-title": true,
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": "",
+    "has-bg-color": "physiotherapy",
     "cta-content": []
   },
   "bullet-cards": {
@@ -108,13 +108,13 @@
     "title": "<b>Epicura Prime</b> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
-      "path": "common",
-      "name": "header_home"
+      "path": "epicura prime",
+      "name": "epicura-prime"
     },
-    "has-large-title": true,
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": false,
+    "hide-image-mobile": true,
+    "has-large-title": true,
     "has-bg-color": "epicura-bg-light2",
     "cta-content": []
   },
@@ -217,7 +217,7 @@
         "label": "Prova gratis per 14 giorni",
         "link": "/",
         "image": "",
-        "variant": "filled"
+        "variant": "prime"
       },
       "prime-prices": {}
     }
@@ -227,13 +227,13 @@
     "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
-      "name": "app-mockup-2"
+      "name": "app-download"
     },
-    "has-large-title": true,
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": "",
+    "has-large-title": true,
+    "has-bg-color": "zircon",
     "cta-content": [
       {
         "label": "",
@@ -283,8 +283,8 @@
     "title": "Hai un dubbio sul servizio di fisioterapia? Chiamaci",
     "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
     "img": {
-      "path": "common",
-      "name": "service-banner"
+      "path": "physiotherapy",
+      "name": "physiotherapy-service-banner"
     },
     "has-large-title": false,
     "has-absolute-image": true,
