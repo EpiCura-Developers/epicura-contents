@@ -7,14 +7,14 @@
     "title": "Infermiere a<br /> Milano",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
     "img": {
-      "path": "common",
-      "name": "specialist"
+      "path": "nursing",
+      "name": "nursing-header"
     },
-    "has-large-title": true,
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": false,
-    "has-bg-color": "nursing",
+    "hide-image-mobile": true,
+    "has-large-title": true,
+    "has-bg-color": "",
     "cta-content": []
   },
   "bullet-cards": {
@@ -54,29 +54,14 @@
       }
     ]
   },
-  "prices-table": {
-    "title": "I nostri infermieri a domicilio si occupano di",
-    "intervention": "Intervento",
-    "price": "Prezzo",
-    "table": [
-      {
-        "intervention": "Inizione intramuscolare o sottocutanea",
-        "price": "20&euro;"
-      },
-      {
-        "intervention": "Inizione intramuscolare o sottocutanea",
-        "price": "20&euro;"
-      }
-    ]
-  },
   "prime-banner": {
     "title": "<b>Epicura Prime</b> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
       "path": "epicura prime",
-      "name": "epicura_prime"
+      "name": "epicura-prime"
     },
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
     "has-large-title": true,
@@ -181,22 +166,22 @@
         "label": "Prova gratis per 14 giorni",
         "link": "/",
         "image": "",
-        "variant": "filled"
+        "variant": "prime"
       }
     }
   ],
   "app-banner": {
-    "title": "50% di sconto sulla prima visita. <br><strong>Scarica l'app</strong>",
+    "title": "50% di sconto sulla prima visita. <br /><strong>Scarica l'app</strong>",
     "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
-      "name": "app-mockup-2"
+      "name": "download-app"
     },
-    "has-large-title": true,
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": false,
-    "has-bg-color": "epicura-bg-app",
+    "hide-image-mobile": true,
+    "has-large-title": true,
+    "has-bg-color": "zircon",
     "cta-content": [
       {
         "label": "",
@@ -239,6 +224,27 @@
           "path": "common",
           "name": "support-2"
         }
+      }
+    ]
+  },
+  "service-banner": {
+    "title": "Hai un dubbio sul servizio di infermieristica? Chiamaci",
+    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "img": {
+      "path": "nursing",
+      "name": "nursing-service-banner"
+    },
+    "has-large-title": false,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": "nursing",
+    "cta-content": [
+      {
+        "label": "800 909 209",
+        "link": "tel:800909209",
+        "image": "",
+        "variant": "gradient"
       }
     ]
   },
@@ -888,27 +894,6 @@
       {
         "location": "45.488734,9.125347",
         "name": "Lampugnano"
-      }
-    ]
-  },
-  "service-banner": {
-    "title": "Hai un dubbio sul servizio di infermieristica? Chiamaci",
-    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
-    "img": {
-      "path": "common",
-      "name": "service-banner"
-    },
-    "has-large-title": false,
-    "has-absolute-image": true,
-    "first-image-order": false,
-    "hide-image-mobile": false,
-    "has-bg-color": "nursing",
-    "cta-content": [
-      {
-        "label": "800 909 209",
-        "link": "tel:800909209",
-        "image": "",
-        "variant": "gradient"
       }
     ]
   }

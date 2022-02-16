@@ -20,7 +20,7 @@
           "path": "common",
           "name": "booking"
         },
-        "title": "Prenota in pochi clic",
+        "title": "Prenota in pochi click",
         "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
       },
       {
@@ -40,7 +40,7 @@
       {
         "image": {
           "path": "common",
-          "name": "professionist"
+          "name": "specialist-2"
         },
         "title": "Solo professionisti qualificati",
         "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
@@ -48,7 +48,7 @@
       {
         "image": {
           "path": "common",
-          "name": "certificate"
+          "name": "certificate-2"
         },
         "title": "La tua soddisfazione è la nostra priorità",
         "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
@@ -56,7 +56,7 @@
       {
         "image": {
           "path": "common",
-          "name": "operator"
+          "name": "support-2"
         },
         "title": "Siamo sempre al tuo fianco",
         "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
@@ -87,9 +87,9 @@
       "path": "common",
       "name": "infermieristica-mobile-info"
     },
-    "button-text": "Richiedi informazioni",
-    "button-link-production": "https://share.hsforms.com/1CZItMEkXQ16DCV1LVw-T5g4ebbs",
-    "button-link-staging": "https://share.hsforms.com/1C2v2qPBhSVaQDKdTIJfwMQ5kab9"
+    "button-text": "800 909 209",
+    "button-link-production": "tel:800909209",
+    "button-link-staging": "tel:800909209"
   },
   "provincesTitle": "I nostri infermieri a domicilio sono attivi nelle città di"
 }

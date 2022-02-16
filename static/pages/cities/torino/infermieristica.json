@@ -7,8 +7,8 @@
     "title": "Infermiere a<br /> Torino",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
     "img": {
-      "path": "common",
-      "name": "specialist"
+      "path": "nursing",
+      "name": "nursing-header"
     },
     "has-absolute-image": true,
     "first-image-order": false,
@@ -53,34 +53,6 @@
         }
       }
     ]
-  },
-  "check-list": {
-    "title": "I nostri infermieri a domicilio si occupano di",
-    "intervention": "Intervento",
-    "price": "Prezzo",
-    "list": [
-      {
-        "intervention": "Inizione intramuscolare o sottocutanea",
-        "price": "20&euro;"
-      },
-      {
-        "intervention": "Inizione intramuscolare o sottocutanea",
-        "price": "20&euro;"
-      }
-    ],
-    "footer": {
-      "text": "A partire da",
-      "price": "1.410€",
-      "priceIncludes": "(include stipendio, TFR, contributi e tredicesima)",
-      "cta-content": [
-        {
-          "label": "Richiedi preventivo gratuito",
-          "link": "https://share.hsforms.com/1wA8mORR2T4WZyk5AZpCJZA4ebbs",
-          "image": "",
-          "variant": "outlined"
-        }
-      ]
-    }
   },
   "prime-banner": {
     "title": "<b>Epicura Prime</b> è <br />tutta salute",
@@ -259,11 +231,11 @@
     "title": "Hai un dubbio sul servizio di infermieristica? Chiamaci",
     "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
     "img": {
-      "path": "common",
-      "name": "service-banner"
+      "path": "nursing",
+      "name": "nursing-service-banner"
     },
-    "has-large-title": true,
-    "has-absolute-image": false,
+    "has-large-title": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": false,
     "has-bg-color": "nursing",
