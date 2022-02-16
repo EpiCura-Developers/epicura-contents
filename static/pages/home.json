@@ -686,19 +686,22 @@
       }
     ]
   },
-  "event-carousel": [
-    {
-      "title": "Il welfare del futuro",
-      "text": "Come sarà il welfare del futuro? Scopriamolo insieme in un momento di condivisione e confronto attraverso il supporto di dati e testimonianze di rilievo. Iscriviti ora!",
-      "image": "/img/event-carousel-image.png",
-      "cta": [
-        {
-          "label": "Iscriviti al webinar",
-          "link": "/",
-          "image": "",
-          "variant": "outlined"
-        }
-      ]
-    }
-  ]
+  "event-carousel": {
+    "title": "",
+    "cards": [
+      {
+        "title": "Il welfare del futuro",
+        "text": "Come sarà il welfare del futuro? Scopriamolo insieme in un momento di condivisione e confronto attraverso il supporto di dati e testimonianze di rilievo. Iscriviti ora!",
+        "image": "/img/event-carousel-image.png",
+        "cta": [
+          {
+            "label": "Iscriviti al webinar",
+            "link": "/",
+            "image": "",
+            "variant": "outlined"
+          }
+        ]
+      }
+    ]
+  }
 }
