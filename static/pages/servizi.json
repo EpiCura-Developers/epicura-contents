@@ -31,64 +31,67 @@
     "has-bg-color": "",
     "cta-content": []
   },
-  "benefit-carousel": [
-    {
-      "title": "Comodo, veloce, flessibile",
-      "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
-      "image": "",
-      "url": "",
-      "discipline": ""
-    },
-    {
-      "title": "Professionisti certificati",
-      "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
-      "image": "",
-      "url": "",
-      "discipline": ""
-    },
-    {
-      "title": "Prenotazioni senza intoppi",
-      "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
-      "image": "",
-      "url": "",
-      "discipline": ""
-    },
-    {
-      "title": "Supporto costante",
-      "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
-      "image": "",
-      "url": "",
-      "discipline": ""
-    },
-    {
-      "title": "Comodo, veloce, flessibile",
-      "text": "Torino - via Arcivescovado 189",
-      "image": "",
-      "url": "",
-      "discipline": ""
-    },
-    {
-      "title": "Professionisti certificati",
-      "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
-      "image": "",
-      "url": "",
-      "discipline": ""
-    },
-    {
-      "title": "Prenotazioni senza intoppi",
-      "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
-      "image": "",
-      "url": "",
-      "discipline": ""
-    },
-    {
-      "title": "Supporto costante",
-      "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
-      "image": "",
-      "url": "",
-      "discipline": ""
-    }
-  ],
+  "benefit-carousel": {
+    "title": "Specialità più richieste a Torino",
+    "cards": [
+      {
+        "title": "Comodo, veloce, flessibile",
+        "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Professionisti certificati",
+        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Prenotazioni senza intoppi",
+        "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Supporto costante",
+        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Comodo, veloce, flessibile",
+        "text": "Torino - via Arcivescovado 189",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Professionisti certificati",
+        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Prenotazioni senza intoppi",
+        "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Supporto costante",
+        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      }
+    ]
+  },
   "prime-banner": {
     "title": "<strong>Epicura Prime</strong> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
