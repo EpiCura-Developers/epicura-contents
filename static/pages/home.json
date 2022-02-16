@@ -151,19 +151,22 @@
         "title": "Visite mediche, esami strumentali e videoconsulti",
         "subtitle": "online - a domicilio - in studio",
         "img": "/img/visite_mediche.svg",
-        "cta-label": "Prenota"
+        "cta-label": "Prenota",
+        "url": "/servizi/"
       },
       {
         "title": "Ricerca e selezione badanti, assistenza domiciliare ad ore",
         "subtitle": "a domicilio",
         "img": "/img/ricerca_badante.svg",
-        "cta-label": "Prenota"
+        "cta-label": "Prenota",
+        "url": "/badante/"
       },
       {
         "title": "Percorsi di psicologia e psicoterapia",
         "subtitle": "online - in studio",
         "img": "/img/psicologia_psicoterapia.svg",
-        "cta-label": "Prenota"
+        "cta-label": "Prenota",
+        "url": "/psicologo-psicoterapeuta-online/"
       }
     ]
   },
@@ -209,9 +212,9 @@
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
       "path": "epicura prime",
-      "name": "epicura_prime"
+      "name": "epicura-prime"
     },
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
     "has-large-title": true,
