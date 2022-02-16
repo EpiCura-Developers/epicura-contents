@@ -64,7 +64,7 @@
         "subtitle": "Un check-up completo per il tuo cucciolo. Comprende: <br/> • prima visita specialistica <br /> • vaccino eptavalente <br /> • sverminazione  <br /> • applicazione microchip <br /> • trattamento anti-parassitario.",
         "previous-price": "200",
         "price": "165 Euro",
-        "price-detail": "Risparmi 35 Euro",
+        "price-detail": "<strong>Risparmi 35 Euro</strong>",
         "cta": [
           {
             "label": "Prenota ora",
@@ -80,7 +80,7 @@
         "subtitle": "È consigliato per un controllo specialistico sullo stato di salute almeno ogni 12 mesi. <br/> Comprende: <br/> • visita specialistica completa <br/> • vaccino eptavalente.",
         "previous-price": "100",
         "price": "80 Euro",
-        "price-detail": "Risparmi 20 Euro",
+        "price-detail": "<strong>Risparmi 20 Euro</strong>",
         "cta": [
           {
             "label": "Prenota ora",
@@ -96,7 +96,7 @@
         "subtitle": "Consigliato per un check-up sullo stato di salute e il contrasto di malattie infettive. <br/> Comprende: <br/> • visita specialistica completa <br/> • test per leishmania oppure filaria.",
         "previous-price": "70",
         "price": "60 Euro",
-        "price-detail": "Risparmi 10€",
+        "price-detail": "<strong>Risparmi 10€</strong>",
         "cta": [
           {
             "label": "Prenota ora",
