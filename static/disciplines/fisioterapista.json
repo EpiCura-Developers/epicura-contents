@@ -169,22 +169,22 @@
     ]
   },
   "hint-card": {
-    "title": "Hai un dubbio sul servizio di fisioterapia? Chiamaci",
-    "content": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
-    "price": "",
+    "title": "Vuoi parlare con un fisioterapista?",
+    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "price": "Costo fisso 25€",
     "bkg-color": "#FFEEED",
     "image": {
-      "path": "physiotherapy",
-      "name": "physiotherapy-service-banner"
+      "path": "videoconsultation",
+      "name": "videoconsultation-banner"
     },
-    "button-text": "800 909 209",
-    "button-link": "tel:800909209",
+    "button-text": "Scopri il servizio",
+    "button-link": "/fisioterapia-videoconsulto/",
     "button-class": "btn-primary-gradient"
   },
   "banner-info": {
-    "title": "Hai un dubbio sul servizio di<br /> fisioterapia?",
+    "title": "Hai un dubbio sul servizio di <br /> fisioterapia? Chiamaci",
     "title-colored": "",
-    "content": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi di EpiCura più adatti alle tue esigenze.",
+    "content": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
     "image": {
       "path": "common",
       "name": "info-fisioterapia"
@@ -193,9 +193,9 @@
       "path": "common",
       "name": "fisioterapia-mobile-info"
     },
-    "button-text": "Richiedi informazioni",
-    "button-link-production": "https://share.hsforms.com/1CZItMEkXQ16DCV1LVw-T5g4ebbs",
-    "button-link-staging": "https://share.hsforms.com/1C2v2qPBhSVaQDKdTIJfwMQ5kab9"
+    "button-text": "800 909 209",
+    "button-link-production": "tel:800909209",
+    "button-link-staging": "tel:800909209"
   },
   "provincesTitle": "I nostri fisioterapisti a domicilio sono attivi nelle città di",
   "provincesTitleTreatments": "Il servizio di <strong>fisioterapia a domicilio</strong> è attivo nelle seguenti città"
