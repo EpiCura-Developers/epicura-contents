@@ -145,13 +145,13 @@
     "title": "<b>Epicura Prime</b> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
-      "path": "common",
-      "name": "header_home"
+      "path": "epicura prime",
+      "name": "epicura-prime"
     },
-    "has-large-title": true,
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": false,
+    "hide-image-mobile": true,
+    "has-large-title": true,
     "has-bg-color": "epicura-bg-light2",
     "cta-content": []
   },
@@ -253,7 +253,7 @@
         "label": "Prova gratis per 14 giorni",
         "link": "/",
         "image": "",
-        "variant": "filled"
+        "variant": "prime"
       }
     }
   ],
@@ -262,13 +262,13 @@
     "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
-      "name": "app-mockup-2"
+      "name": "app-download"
     },
-    "has-large-title": true,
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": false,
-    "has-bg-color": "",
+    "hide-image-mobile": true,
+    "has-large-title": true,
+    "has-bg-color": "zircon",
     "cta-content": [
       {
         "label": "",

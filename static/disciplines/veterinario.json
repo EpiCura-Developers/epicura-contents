@@ -9,8 +9,8 @@
     "cards": [
       {
         "image": {
-          "path": "common",
-          "name": "stetofonendoscopio-cane"
+          "path": "veterinary",
+          "name": "veterinary-icon"
         },
         "title": "Scopri le nostre soluzioni",
         "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura al meglio del tuo amico a quattro zampe. Scegli il pacchetto più adatto, noi troveremo il miglior veterinario per soddisfare le sue esigenze."
@@ -18,15 +18,15 @@
       {
         "image": {
           "path": "common",
-          "name": "booking"
+          "name": "booking-2"
         },
-        "title": "Prenota in pochi clic",
+        "title": "Prenota in pochi click",
         "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
       },
       {
         "image": {
           "path": "common",
-          "name": "love-home"
+          "name": "visita-domicilio"
         },
         "title": "Ricevi il veterinario a domicilio",
         "text": "I nostri veterinari ti raggiungono dove e quando vuoi, 7 giorni su 7. Con EpiCura avrai la certezza di ricevere interventi solo dai migliori professionisti, per prenderti cura del tuo amico a quattro zampe senza pensieri."

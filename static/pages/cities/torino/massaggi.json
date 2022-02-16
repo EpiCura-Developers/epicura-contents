@@ -4,14 +4,14 @@
     "description": "Massoterapista a domicilio a Torino e area metropolitana. Massaggi relax, massaggi decontratturanti, massaggio linfatici a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
   "top-banner": {
-    "title": "Massoterapista a Torino",
+    "title": "Massoterapista a<br /> Torino",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
     "img": {
-      "path": "common",
-      "name": "specialist"
+      "path": "massages",
+      "name": "massages-header"
     },
     "has-large-title": true,
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
     "has-bg-color": "massages",
@@ -59,27 +59,33 @@
     "cards": [
       {
         "title": "Massaggio rilassante",
-        "description": "stress, ansia, insonnia, disturbi psicosomatici, tensioni muscolari"
+        "description": "stress, ansia, insonnia, disturbi psicosomatici, tensioni muscolari",
+        "url": "/massaggio-rilassante"
       },
       {
         "title": "Massaggio decontratturante",
-        "description": "cefalea muscolo-tensiva, cervicalgia, mal di schiena, dolori articolari, stress, contratture muscolari"
+        "description": "cefalea muscolo-tensiva, cervicalgia, mal di schiena, dolori articolari, stress, contratture muscolari",
+        "url": "/massaggio-decontratturante"
       },
       {
         "title": "Massaggio sportivo",
-        "description": "prevenzione degli infortuni, rigidità e affaticamento muscolare, contratture, dolori articolari, distorsioni, tendinite, edemi"
+        "description": "prevenzione degli infortuni, rigidità e affaticamento muscolare, contratture, dolori articolari, distorsioni, tendinite, edemi",
+        "url": "/massaggio-sportivo"
       },
       {
         "title": "Massaggio terapeutico",
-        "description": "emicrania, cervicalgia, tendinite, ernia, dolori articolari, nervo sciatico, fibromialgia, gravidanza, problemi digestivi, dolori articolari"
+        "description": "emicrania, cervicalgia, tendinite, ernia, dolori articolari, nervo sciatico, fibromialgia, gravidanza, problemi digestivi, dolori articolari",
+        "url": "/massaggio-terapeutico"
       },
       {
         "title": "Massaggio connettivale",
-        "description": "infiammazioni, contratture, rigidità muscolare"
+        "description": "infiammazioni, contratture, rigidità muscolare",
+        "url": "/massaggio-connettivale"
       },
       {
         "title": "Massaggio linfodrenante",
-        "description": "cellulite, edemi, ritenzione idrica, tonificare le gambe, rassodare i glutei, grasso localizzato, arti gonfi, gambe con capillari"
+        "description": "cellulite, edemi, ritenzione idrica, tonificare le gambe, rassodare i glutei, grasso localizzato, arti gonfi, gambe con capillari",
+        "url": "/massaggio-linfodrenante"
       }
     ]
   },
@@ -88,9 +94,9 @@
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
       "path": "epicura prime",
-      "name": "epicura_prime"
+      "name": "epicura-prime"
     },
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
     "has-large-title": true,
@@ -204,13 +210,13 @@
     "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
-      "name": "app-mockup-2"
+      "name": "app-download"
     },
-    "has-large-title": true,
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": false,
-    "has-bg-color": "epicura-bg-app",
+    "hide-image-mobile": true,
+    "has-large-title": true,
+    "has-bg-color": "zircon",
     "cta-content": [
       {
         "label": "",
@@ -260,8 +266,8 @@
     "title": "Hai un dubbio sul servizio di massoterapia? Chiamaci",
     "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
     "img": {
-      "path": "common",
-      "name": "service-banner"
+      "path": "massages",
+      "name": "massages-service-banner"
     },
     "has-large-title": false,
     "has-absolute-image": true,

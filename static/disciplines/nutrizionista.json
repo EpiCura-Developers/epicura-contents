@@ -52,30 +52,29 @@
   },
   "come_funziona": {
     "title": "Nutrizionista a domicilio, come funziona",
-    "text": "",
     "cards": [
       {
         "image": {
           "path": "common",
-          "name": "stetofonendoscopio"
+          "name": "visita-generica"
         },
         "title": "Scopri le nostre soluzioni",
-        "text": "Abbiamo pensato a diversi percorsi nutrizionali per permetterti di scegliere in base ai tuoi obiettivi e necessità. Scegli il percorso nutrizionale più adatto, noi troveremo il miglior professionista per le tue esigenze."
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze."
       },
       {
         "image": {
           "path": "common",
-          "name": "booking"
+          "name": "booking-2"
         },
-        "title": "Prenota in pochi clic",
-        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
+        "title": "Prenota in pochi click",
+        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata."
       },
       {
         "image": {
           "path": "common",
-          "name": "love-home"
+          "name": "visita-domicilio"
         },
-        "title": "Ricevi la visita a domicilio",
+        "title": "Ricevi l'intervento a domicilio",
         "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
       }
     ]
@@ -141,7 +140,7 @@
       {
         "image": {
           "path": "common",
-          "name": "professionist"
+          "name": "specialist-2"
         },
         "title": "Solo professionisti qualificati",
         "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
@@ -149,7 +148,7 @@
       {
         "image": {
           "path": "common",
-          "name": "certificate"
+          "name": "certificate-2"
         },
         "title": "La tua soddisfazione è la nostra priorità",
         "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
@@ -157,7 +156,7 @@
       {
         "image": {
           "path": "common",
-          "name": "operator"
+          "name": "support-2"
         },
         "title": "Siamo sempre al tuo fianco",
         "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
@@ -165,16 +164,17 @@
     ]
   },
   "hint-card": {
-    "title": "Vuoi parlare con un nutrizionista?",
-    "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
-    "price": "Videoconsulto specialistico 25€",
-    "bkg-color": "#F5F8FF",
+    "title": "Hai un dubbio sul servizio di nutrizione? Chiamaci",
+    "content": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "price": "",
+    "bkg-color": "#ffdbe6",
     "image": {
-      "path": "videoconsultation",
-      "name": "videoconsultation-banner"
+      "path": "nutrition",
+      "name": "nutrition-service-banner"
     },
-    "button-text": "Scopri il servizio",
-    "button-link": "/nutrizionista-videoconsulto/"
+    "button-text": "800 909 209",
+    "button-link": "tel:800909209",
+    "button-class": "btn-primary-gradient"
   },
   "banner-info": {
     "title": "Hai un dubbio sul servizio di<br /> nutrizione?",
