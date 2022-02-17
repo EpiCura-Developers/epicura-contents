@@ -7,11 +7,11 @@
     "title": "Prendersi cura delle persone non è mai stato così <strong>facile</strong>.",
     "subtitle": "Offri la possibilità a tutta l'azienda di accedere 7 giorni su 7 a prestazioni sanitarie a domicilio, in studio o in videoconsulto tramite App.",
     "img": {
-      "path": "common",
-      "name": "header_home"
+      "path": "epicura corporate",
+      "name": "epicura-corporate-header"
     },
     "has-large-title": true,
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
     "has-bg-color": "",
@@ -28,12 +28,12 @@
     "title": "Prestazioni sanitarie da remoto o di persona che soddisfano le <strong>necessità di tutti</strong>",
     "cards": [
       {
-        "title": "Visite a casa, in studio o  videoconsulto <strong>entro 24 ore</strong>",
+        "title": "Visite a casa, in studio o videoconsulto <strong>entro 24 ore</strong>",
         "text": "",
         "textVariant": "",
         "img": {
-          "path": "common",
-          "name": "header_home"
+          "path": "epicura corporate",
+          "name": "visite-in24h"
         },
         "cta": [],
         "variant": "corporate",
@@ -44,8 +44,8 @@
         "text": "",
         "textVariant": "",
         "img": {
-          "path": "common",
-          "name": "header_home"
+          "path": "epicura corporate",
+          "name": "percorsi-videoconsulto"
         },
         "cta": [],
         "variant": "corporate",
@@ -56,20 +56,20 @@
         "text": "",
         "textVariant": "",
         "img": {
-          "path": "common",
-          "name": "header_home"
+          "path": "epicura corporate",
+          "name": "assistenza-anziani"
         },
         "cta": [],
         "variant": "corporate",
         "hasBgColor": false
       },
       {
-        "title": "Cura degli animali e servizio di   veterinaria <strong>disponibile 7/7</strong>",
+        "title": "Cura degli animali e servizio di veterinaria <strong>disponibile 7/7</strong>",
         "text": "",
         "textVariant": "",
         "img": {
-          "path": "common",
-          "name": "header_home"
+          "path": "epicura corporate",
+          "name": "servizio-veterinario"
         },
         "cta": [],
         "variant": "corporate",
@@ -97,28 +97,82 @@
     "title": "Migliora il <strong>benessere</strong> e la <strong>produttività</strong> dei tuoi dipendenti.",
     "cards": [
       {
-        "title": "Facilita l'accesso alla sanità.",
+        "title": "<strong>Facilita l'accesso alla sanità</strong>",
         "text": "I tuoi dipendenti potranno connettersi 7 giorni su 7 ai nostri servizi.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "epicura corporate",
+          "name": "servizi-7su7"
+        }
       },
       {
-        "title": "Semplifica l'esperienza.",
-        "text": "Un servizio semplice da usare, che permette ai dipendenti di avere sempre un'assistenza dedicata.",
-        "img": "/img/smile.png"
+        "title": "<strong>Semplifica l'esperienza</strong>",
+        "text": "Un servizio semplice da usare, che permette ai dipendenti di avere sempre un'assistenza dedicata",
+        "img": {
+          "path": "epicura corporate",
+          "name": "assistenza-dedicata"
+        }
       },
       {
-        "title": "Le persone al centro.",
-        "text": "Grazie alla tecnologia, i tuoi dipendenti potranno connettersi sempre e ovunque.",
-        "img": "/img/smile.png"
+        "title": "<strong>Le persone al centro</strong>",
+        "text": "Grazie alla tecnologia, i tuoi dipendenti potranno connettersi sempre e ovunque",
+        "img": {
+          "path": "epicura corporate",
+          "name": "sempre-connessi"
+        }
+      }
+    ]
+  },
+  "corporate-service": {
+    "title": "Aiuta il tuo personale a stare sereno e in salute",
+    "subtitle": "",
+    "cards": [
+      {
+        "is-highlighted": false,
+        "img": {
+          "path": "epicura corporate",
+          "name": "account-manager"
+        },
+        "title": "Supporto costante",
+        "subtitle": "Attraverso l'Account Manager dedicato, supportiamo l'HR nella costruzione del piano. ",
+        "previous-price": "",
+        "price": "",
+        "price-detail": "",
+        "cta": []
+      },
+      {
+        "is-highlighted": false,
+        "img": {
+          "path": "epicura corporate",
+          "name": "customer-care"
+        },
+        "title": "Customer Care dedicato",
+        "subtitle": "Un team di consulenti EpiCura disponibile per i dipendenti 7 giorni su 7.",
+        "previous-price": "",
+        "price": "",
+        "price-detail": "",
+        "cta": []
+      },
+      {
+        "is-highlighted": false,
+        "img": {
+          "path": "epicura corporate",
+          "name": "webinar"
+        },
+        "title": "La scuola del benessere",
+        "subtitle": "Eventi e webinar dedicati in base alle esigenze aziendali.",
+        "previous-price": "",
+        "price": "",
+        "price-detail": "",
+        "cta": []
       }
     ]
   },
   "app-banner": {
-    "title": "Un'app per gestire <strong>tutto quanto.</strong>",
+    "title": "Un'app per gestire <strong>tutto quanto</strong>",
     "subtitle": "",
     "img": {
       "path": "common",
-      "name": "header_home"
+      "name": "download-app"
     },
     "list-details": [
       {
@@ -126,7 +180,7 @@
         "text": "Prenotazione e gestione di qualsiasi visita medica, 24/7."
       },
       {
-        "icon": "/img/video-consulto.png",
+        "icon": "/img/videoconsulto.png",
         "text": "Organizzazione semplificata di tutte le fatture delle prestazioni sanitarie."
       },
       {
@@ -135,7 +189,7 @@
       }
     ],
     "has-large-title": true,
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": false,
     "has-bg-color": "",
@@ -215,6 +269,43 @@
       ]
     }
   ],
+  "event-carousel": {
+    "title": "",
+    "cards": [
+      {
+        "title": "Il welfare del futuro",
+        "text": "Come sarà il welfare del futuro? Scopriamolo insieme in un momento di condivisione e confronto attraverso il supporto di dati e testimonianze di rilievo. Iscriviti ora!",
+        "img": {
+          "path": "common",
+          "name": "event-carousel-image"
+        },
+        "cta": [
+          {
+            "label": "Iscriviti al webinar",
+            "link": "/",
+            "image": "",
+            "variant": "outlined"
+          }
+        ]
+      },
+      {
+        "title": "Il welfare del futuro",
+        "text": "Come sarà il welfare del futuro? Scopriamolo insieme in un momento di condivisione e confronto attraverso il supporto di dati e testimonianze di rilievo. Iscriviti ora!",
+        "img": {
+          "path": "common",
+          "name": "event-carousel-image"
+        },
+        "cta": [
+          {
+            "label": "Iscriviti al webinar",
+            "link": "/",
+            "image": "",
+            "variant": "outlined"
+          }
+        ]
+      }
+    ]
+  },
   "contact-us": {
     "title": "Vuoi saperne di più?",
     "subtitle": "Costruiamo insieme il poliambulatorio digitale su misura per voi.",
