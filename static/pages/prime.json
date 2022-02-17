@@ -25,39 +25,39 @@
     ]
   },
   "prime-cards": {
-    "title": "I migliori professionisti <strong>a portata di click.</strong>",
+    "title": "I migliori professionisti <b>a portata di click.</b>",
     "cards": [
       {
-        "title": "Videoconsulto Medico di base <strong>illimitato</strong>",
+        "title": "Videoconsulto Medico di base <b>illimitato</b>",
         "text": "",
         "textVariant": "",
         "img": {
-          "path": "common",
-          "name": "header_home"
+          "path": "epicura prime",
+          "name": "videoconsulto-medicina"
         },
         "cta": [],
         "variant": "prime",
         "hasBgColor": false
       },
       {
-        "title": "Videoconsulto Veterinario <strong>illimitato</strong>",
+        "title": "Videoconsulto Veterinario <b>illimitato</b>",
         "text": "",
         "textVariant": "",
         "img": {
-          "path": "common",
-          "name": "header_home"
+          "path": "epicura prime",
+          "name": "videoconsulto-veterinario"
         },
         "cta": [],
         "variant": "prime",
         "hasBgColor": false
       },
       {
-        "title": "Videoconsulto Veterinario <strong>illimitato</strong>",
+        "title": "Sconti e convenzioni <br /><b>per sempre</b>",
         "text": "",
         "textVariant": "",
         "img": {
-          "path": "common",
-          "name": "header_home"
+          "path": "epicura prime",
+          "name": "sconti-convenzioni"
         },
         "cta": [],
         "variant": "prime",
@@ -198,14 +198,14 @@
     }
   ],
   "app-banner": {
-    "title": "50% di sconto sulla prima visita. <br /><strong>Scarica l'app</strong>",
+    "title": "50% di sconto sulla prima visita. <br /> Scarica l'app",
     "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
-      "name": "app_mockup"
+      "name": "download-app-prime"
     },
     "has-large-title": true,
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": true,
     "hide-image-mobile": false,
     "has-bg-color": "prime",
