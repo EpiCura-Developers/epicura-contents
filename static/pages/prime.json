@@ -224,16 +224,16 @@
       }
     ]
   },
-  "agreement-banner": {
+  "clinic-banner": {
     "title": "Collaboriamo solo con le migliori cliniche e professionisti",
     "subtitle": "",
     "img": {
-      "path": "common",
-      "name": "header_home"
+      "path": "poliambulatori",
+      "name": "poliambulatori-banner"
     },
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": true,
+    "hide-image-mobile": false,
     "has-large-title": true,
     "has-bg-color": "",
     "cta-content": []
@@ -279,11 +279,11 @@
     ]
   },
   "family-banner": {
-    "title": "Prenditi cura di <strong>tutta la famiglia</strong>",
+    "title": "Prenditi cura di <b>tutta la famiglia</b>",
     "subtitle": "",
     "img": {
-      "path": "common",
-      "name": "header_home"
+      "path": "epicura prime",
+      "name": "epicura-prime-banner-1"
     },
     "list-details": [
       {
@@ -309,7 +309,7 @@
         "label": "Prova gratis per 14 giorni",
         "link": "/",
         "image": "",
-        "variant": "filled"
+        "variant": "prime"
       }
     ]
   }
