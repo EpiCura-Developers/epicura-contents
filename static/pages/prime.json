@@ -4,14 +4,14 @@
     "description": "Medici, infermieri, veterinari, badanti e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7."
   },
   "top-banner": {
-    "title": "<strong>EpiCura Prime</strong> ti fa risparmiare.",
-    "subtitle": "Abbiamo pensato a un abbonamento che ti fa risparmiare tempo. Lo provi gratis per 14 giorni, senza impegno, e se ti piace lo sottoscrivi per un anno. <br> <h5>180€ all’anno</h5>",
+    "title": "<b>EpiCura Prime</b> ti fa risparmiare.",
+    "subtitle": "Abbiamo pensato a un abbonamento che ti fa risparmiare tempo. Lo provi gratis per 14 giorni, senza impegno, e se ti piace lo sottoscrivi per un anno. <br /> <h5>180€ all’anno</h5>",
     "img": {
-      "path": "common",
-      "name": "header_home"
+      "path": "epicura prime",
+      "name": "epicura-prime-header"
     },
     "has-large-title": true,
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
     "has-bg-color": "",
@@ -20,7 +20,7 @@
         "label": "Prova gratis per 14 giorni",
         "link": "/",
         "image": "",
-        "variant": "filled"
+        "variant": "prime"
       }
     ]
   },
@@ -73,17 +73,17 @@
     ]
   },
   "prime-banner": {
-    "title": "<strong>Epicura Prime</strong> è <br />tutta salute",
+    "title": "<b>Epicura Prime</b> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
-      "path": "common",
-      "name": "header_home"
+      "path": "epicura prime",
+      "name": "epicura-prime"
     },
-    "has-large-title": true,
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": false,
-    "has-bg-color": "",
+    "hide-image-mobile": true,
+    "has-large-title": true,
+    "has-bg-color": "epicura-bg-light2",
     "cta-content": []
   },
   "prime-table-compare": [
@@ -184,33 +184,33 @@
         "label": "Prova gratis per 14 giorni",
         "link": "/",
         "image": "",
-        "variant": "filled"
+        "variant": "prime"
       }
     }
   ],
   "app-banner": {
-    "title": "50% di sconto sulla prima visita. <br><strong>Scarica l'app</strong>",
+    "title": "50% di sconto sulla prima visita. <br /><strong>Scarica l'app</strong>",
     "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
-      "name": "header_home"
+      "name": "app_mockup"
     },
     "has-large-title": true,
     "has-absolute-image": false,
-    "first-image-order": false,
+    "first-image-order": true,
     "hide-image-mobile": false,
-    "has-bg-color": "",
+    "has-bg-color": "prime",
     "cta-content": [
       {
         "label": "",
         "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
-        "image": "/img/Download_on_the_App_Store_Badge_IT_RGB_wht_100317@2x.png",
+        "image": "/img/badge-app-store-white.png",
         "variant": "image"
       },
       {
         "label": "",
         "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
-        "image": "/img/Google_Play_Store_badge_IT@2x.png",
+        "image": "/img/badge-google-play-store-white.png",
         "variant": "image"
       }
     ]
