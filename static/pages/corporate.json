@@ -31,7 +31,10 @@
         "title": "Visite a casa, in studio o  videoconsulto <strong>entro 24 ore</strong>",
         "text": "",
         "textVariant": "",
-        "image": "/img/card-image-big.png",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
         "cta": [],
         "variant": "corporate",
         "hasBgColor": false
@@ -40,7 +43,10 @@
         "title": "Percorsi di psicologia e nutrizione in <strong>videoconsulto</strong>",
         "text": "",
         "textVariant": "",
-        "image": "/img/card-image-big.png",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
         "cta": [],
         "variant": "corporate",
         "hasBgColor": false
@@ -49,7 +55,10 @@
         "title": "Assistenza anziani e ricerca badanti in tutta Italia <strong>sempre disponibile</strong>",
         "text": "",
         "textVariant": "",
-        "image": "/img/card-image-big.png",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
         "cta": [],
         "variant": "corporate",
         "hasBgColor": false
@@ -58,7 +67,10 @@
         "title": "Cura degli animali e servizio di   veterinaria <strong>disponibile 7/7</strong>",
         "text": "",
         "textVariant": "",
-        "image": "/img/card-image-big.png",
+        "img": {
+          "path": "common",
+          "name": "header_home"
+        },
         "cta": [],
         "variant": "corporate",
         "hasBgColor": false
@@ -67,7 +79,7 @@
         "title": "Costruiamo insieme il poliambulatorio digitale della tua azienda. ",
         "text": "",
         "textVariant": "",
-        "image": "",
+        "img": {},
         "cta": [
           {
             "label": "Entriamo in contatto",
