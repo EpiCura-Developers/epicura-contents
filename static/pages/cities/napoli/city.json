@@ -4,11 +4,11 @@
     "description": "Cura la tua salute e quella di chi ami a Napoli e area metropolitana con EpiCura, primo poliambulatorio digitale in Italia. Servizi medici, sanitari e assistenziali 7 giorni su 7, anche in orari serali, senza liste d'attesa."
   },
   "top-banner": {
-    "title": "La salute a Napoli con EpiCura",
+    "title": "La salute a Napoli <br /> con EpiCura",
     "subtitle": "Scegli la comodità: prenota un servizio sanitario e ricevilo direttamente in videoconsulto, a casa tua o in studio nella tua città.",
     "img": {
       "path": "common",
-      "name": "header_home"
+      "name": "header-home"
     },
     "has-large-title": true,
     "has-absolute-image": false,
@@ -25,21 +25,21 @@
         "subtitle": "online - a domicilio - in studio",
         "img": "/img/visite_mediche.svg",
         "cta-label": "Prenota",
-        "url": "/"
+        "url": "/servizi/"
       },
       {
         "title": "Ricerca e selezione badanti, assistenza domiciliare ad ore",
         "subtitle": "a domicilio",
         "img": "/img/ricerca_badante.svg",
         "cta-label": "Prenota",
-        "url": "/"
+        "url": "/badante/"
       },
       {
         "title": "Percorsi di psicologia e psicoterapia",
         "subtitle": "online - in studio",
         "img": "/img/psicologia_psicoterapia.svg",
         "cta-label": "Prenota",
-        "url": "/"
+        "url": "/psicologo-psicoterapeuta-online/"
       }
     ]
   },
@@ -47,60 +47,65 @@
     "title": "Visite Più Richieste A Napoli",
     "cards": [
       {
+        "img": {
+          "path": "physiotherapy",
+          "name": "physiotherapy-service-card"
+        },
         "title": "Fisioterapia",
         "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/fisioterapia",
+        "url": "/napoli/fisioterapista/",
         "discipline": "physiotherapy"
       },
       {
+        "img": {
+          "path": "veterinary",
+          "name": "veterinary-service-card"
+        },
         "title": "Veterinaria",
         "text": "A partire da 60€",
-        "image": "/img/card-image.png",
-        "url": "/veterinaria",
+        "url": "/napoli/veterinario/",
         "discipline": "veterinary"
       },
       {
+        "img": {
+          "path": "nutrition",
+          "name": "nutrition-service-card"
+        },
         "title": "Nutrizione",
         "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/nutrizione",
+        "url": "/napoli/nutrizionista/",
         "discipline": "nutrition"
       },
+
       {
-        "title": "Pediatria",
-        "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/pediatria",
-        "discipline": "pediatrics"
-      },
-      {
+        "img": {
+          "path": "physiotherapy",
+          "name": "physiotherapy-service-card"
+        },
         "title": "Fisioterapia",
         "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/fisioterapia",
+        "url": "/napoli/fisioterapista/",
         "discipline": "physiotherapy"
       },
       {
+        "img": {
+          "path": "veterinary",
+          "name": "veterinary-service-card"
+        },
         "title": "Veterinaria",
         "text": "A partire da 60€",
-        "image": "/img/card-image.png",
-        "url": "/veterinaria",
+        "url": "napoli/veterinario/",
         "discipline": "veterinary"
       },
       {
+        "img": {
+          "path": "nutrition",
+          "name": "nutrition-service-card"
+        },
         "title": "Nutrizione",
         "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/nutrizione",
+        "url": "/napoli/nutrizionista/",
         "discipline": "nutrition"
-      },
-      {
-        "title": "Pediatria",
-        "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/pediatria",
-        "discipline": "pediatrics"
       }
     ]
   },

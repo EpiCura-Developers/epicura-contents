@@ -165,7 +165,7 @@
       "cta": {
         "label": "Entra in EpiCura e prenota",
         "link": "/",
-        "image": "",
+        "img": {},
         "variant": "outlined"
       }
     },
@@ -215,7 +215,7 @@
       "cta": {
         "label": "Prova gratis per 14 giorni",
         "link": "/",
-        "image": "",
+        "img": {},
         "variant": "prime"
       }
     }
@@ -248,7 +248,7 @@
     ]
   },
   "bullet-cards-service": {
-    "title": "Perché affidarsi a EpiCura?",
+    "title": "I migliori fisioterapisti a domicilio entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {
@@ -256,7 +256,7 @@
         "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "specialist-2"
         }
       },
       {
@@ -264,7 +264,7 @@
         "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "certificate-2"
         }
       },
       {
@@ -272,7 +272,7 @@
         "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "support-2"
         }
       }
     ]
@@ -293,7 +293,7 @@
       {
         "label": "800 909 209",
         "link": "tel:800909209",
-        "image": "",
+        "img": {},
         "variant": "gradient"
       }
     ]

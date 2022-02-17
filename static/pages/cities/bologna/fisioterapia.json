@@ -165,10 +165,7 @@
       "cta": {
         "label": "Entra in EpiCura e prenota",
         "link": "/",
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
+        "img": {},
         "variant": "outlined"
       }
     },
@@ -218,11 +215,8 @@
       "cta": {
         "label": "Prova gratis per 14 giorni",
         "link": "/",
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
-        "variant": "filled"
+        "img": {},
+        "variant": "prime"
       }
     }
   ],
