@@ -3,19 +3,562 @@
     "title": "Veterinario a Brescia",
     "description": "Veterinari a domicilio a Brescia e area metropolitana. Visite veterinarie, eutanasia, prelievi per cani e gatti, esami feci e urine a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "subheader": {
-    "prenotaOnlineText": "Prenota ora",
-    "titleBig": "Veterinari a domicilio a Brescia",
-    "subtitleBig": "Per chi tiene alla salute del proprio animale.",
-    "description1": "Prenditi cura del tuo animale, interventi 7 giorni su 7, senza liste di attesa, anche in orari serali.",
-    "description2": "EpiCura porta la medicina veterinaria ovunque tu ne abbia bisogno, in tutta Brescia e area metropolitana, in qualunque giorno e orario tu voglia."
+  "top-banner": {
+    "title": "Veterinario a <br/>Brescia",
+    "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
+    "img": {
+      "path": "veterinary",
+      "name": "veterinary-header"
+    },
+    "has-large-title": true,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": "",
+    "cta-content": []
   },
-  "booking-card": {
-    "code": "veterinaryExamination",
-    "title": "Visita veterinaria a domicilio a Brescia",
-    "disciplineTitle": "I migliori professionisti a casa tua",
-    "text": "Il tuo animale domestico ha bisogno di una visita ma muoversi da casa è scomodo e difficile? <br />Con EpiCura puoi prenotare in pochi clic visite veterinarie comodamente a domicilio, senza stress per te e il tuo amico a quattro zampe.",
-    "price": "Costo fisso 60€",
-    "prenotaOnlineText": "Prenota ora"
+  "bullet-cards": {
+    "title": "Perché affidarsi a EpiCura?",
+    "cards": [
+      {
+        "title": "Comodo, veloce, flessibile",
+        "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
+        "img": {
+          "path": "common",
+          "name": "convenient"
+        }
+      },
+      {
+        "title": "Professionisti certificati",
+        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
+        "img": {
+          "path": "common",
+          "name": "pro-certified"
+        }
+      },
+      {
+        "title": "Prenotazioni senza intoppi",
+        "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
+        "img": {
+          "path": "common",
+          "name": "booking-1"
+        }
+      },
+      {
+        "title": "Supporto costante",
+        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
+        "img": {
+          "path": "common",
+          "name": "support"
+        }
+      }
+    ]
+  },
+  "price-cards-dog": {
+    "title": "Le soluzioni per il tuo cane",
+    "subtitle": "",
+    "cards": [
+      {
+        "is-highlighted": false,
+        "title": "Pacchetto Cucciolo",
+        "subtitle": "Un check-up completo per il tuo cucciolo. Comprende: <br/> • prima visita specialistica <br /> • vaccino eptavalente <br /> • sverminazione  <br /> • applicazione microchip <br /> • trattamento anti-parassitario.",
+        "previous-price": "200",
+        "price": "165 Euro",
+        "price-detail": "<strong>Risparmi 35 Euro</strong>",
+        "cta": [
+          {
+            "label": "Prenota ora",
+            "link": "/",
+            "image": "",
+            "variant": "outlined"
+          }
+        ]
+      },
+      {
+        "is-highlighted": false,
+        "title": "Pacchetto Pet Care",
+        "subtitle": "È consigliato per un controllo specialistico sullo stato di salute almeno ogni 12 mesi. <br/> Comprende: <br/> • visita specialistica completa <br/> • vaccino eptavalente.",
+        "previous-price": "100",
+        "price": "80 Euro",
+        "price-detail": "<strong>Risparmi 20 Euro</strong>",
+        "cta": [
+          {
+            "label": "Prenota ora",
+            "link": "/",
+            "image": "",
+            "variant": "outlined"
+          }
+        ]
+      },
+      {
+        "is-highlighted": false,
+        "title": "Pacchetto Prevenzione",
+        "subtitle": "Consigliato per un check-up sullo stato di salute e il contrasto di malattie infettive. <br/> Comprende: <br/> • visita specialistica completa <br/> • test per leishmania oppure filaria.",
+        "previous-price": "70",
+        "price": "60 Euro",
+        "price-detail": "<strong>Risparmi 10€</strong>",
+        "cta": [
+          {
+            "label": "Prenota ora",
+            "link": "/",
+            "image": "",
+            "variant": "outlined"
+          }
+        ]
+      }
+    ]
+  },
+  "price-cards-cat": {
+    "title": "Le soluzioni per il tuo gatto",
+    "subtitle": "",
+    "cards": [
+      {
+        "is-highlighted": false,
+        "title": "Pacchetto Cucciolo",
+        "subtitle": "Un check-up completo per il tuo cucciolo. <br/> Comprende: <br/> • prima visita specialistica <br /> • vaccino quadrivalente (trivalente+FeLV) <br /> • sverminazione  <br /> • trattamento anti-parassitario.",
+        "previous-price": "200",
+        "price": "165 Euro",
+        "price-detail": "Risparmi 35 Euro",
+        "cta": [
+          {
+            "label": "Prenota ora",
+            "link": "/",
+            "image": "",
+            "variant": "outlined"
+          }
+        ]
+      },
+      {
+        "is-highlighted": false,
+        "title": "Pacchetto Pet Care",
+        "subtitle": "È consigliato per un controllo specialistico sullo stato di salute almeno ogni 12 mesi. <br/> Comprende: <br/> • visita specialistica completa <br/> • vaccino trivalente.",
+        "previous-price": "100",
+        "price": "80 Euro",
+        "price-detail": "Risparmi 20 Euro",
+        "cta": [
+          {
+            "label": "Prenota ora",
+            "link": "/",
+            "image": "",
+            "variant": "outlined"
+          }
+        ]
+      },
+      {
+        "is-highlighted": false,
+        "title": "Pacchetto Prevenzione",
+        "subtitle": "Consigliato per un check-up sullo stato di salute e la prevenzione della leucemia felina. <br/> Comprende: <br/> • visita specialistica completa <br/> • vaccino trivalente + FeLV.",
+        "previous-price": "70",
+        "price": "60 Euro",
+        "price-detail": "Risparmi 10€",
+        "cta": [
+          {
+            "label": "Prenota ora",
+            "link": "/",
+            "image": "",
+            "variant": "outlined"
+          }
+        ]
+      }
+    ]
+  },
+  "prime-banner": {
+    "title": "<b>Epicura Prime</b> è <br />tutta salute",
+    "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
+    "img": {
+      "path": "epicura prime",
+      "name": "epicura-prime"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-large-title": true,
+    "has-bg-color": "prime-light",
+    "cta-content": []
+  },
+  "prime-table-compare": [
+    {
+      "is-prime": false,
+      "title": "EpiCura",
+      "small-text": "0€ per sempre",
+      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": false
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "image": "",
+        "variant": "outlined"
+      }
+    },
+    {
+      "is-prime": true,
+      "title": "EpiCura Prime",
+      "small-text": "180€ all’anno",
+      "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Prova gratis per 14 giorni",
+        "link": "/",
+        "image": "",
+        "variant": "prime"
+      }
+    }
+  ],
+  "app-banner": {
+    "title": "50% di sconto sulla prima visita. <br /><strong>Scarica l'app</strong>",
+    "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "img": {
+      "path": "common",
+      "name": "download-app"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-large-title": true,
+    "has-bg-color": "zircon",
+    "cta-content": [
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/badge-app-store.png",
+        "variant": "image"
+      },
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/badge-google-play-store.png",
+        "variant": "image"
+      }
+    ]
+  },
+  "bullet-cards-service": {
+    "title": "I migliori veterinari a domicilio entro 24 ore",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "cards": [
+      {
+        "title": "Solo professionisti qualificati",
+        "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
+        "img": {
+          "path": "common",
+          "name": "specialist-2"
+        }
+      },
+      {
+        "title": "La tua soddisfazione è anche la nostra ",
+        "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
+        "img": {
+          "path": "common",
+          "name": "certificate-2"
+        }
+      },
+      {
+        "title": "Siamo sempre al tuo fianco",
+        "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
+        "img": {
+          "path": "common",
+          "name": "support-2"
+        }
+      }
+    ]
+  },
+  "service-banner": {
+    "title": "Hai un dubbio sul servizio di veterinaria? Chiamaci",
+    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "img": {
+      "path": "veterinary",
+      "name": "veterinary-service-banner"
+    },
+    "has-large-title": false,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": "veterinary",
+    "cta-content": [
+      {
+        "label": "800 909 209",
+        "link": "tel:800909209",
+        "image": "",
+        "variant": "gradient"
+      }
+    ]
+  },
+  "map": {
+    "showAllText": "Mostra tutti",
+    "hideAllText": "Mostra meno",
+    "doveCiTroviText": "Veterinari a domicilio a Brescia e area metropolitana",
+    "quartieriText": "Controlla qui i comuni coperti dal servizio",
+    "mapCenter": "45.538889,10.220278",
+    "markers": [
+      {
+        "location": "45.541828,10.214301",
+        "name": "Centro"
+      },
+      {
+        "location": "45.539929,10.219693",
+        "name": "Loggia - Garibaldi"
+      },
+      {
+        "location": "45.540598,10.225551",
+        "name": "Castello - Via Musei"
+      },
+      {
+        "location": "45.543823,10.215388",
+        "name": "Carmine"
+      },
+      {
+        "location": "45.536490,10.222773",
+        "name": "Magenta - Arnaldo"
+      },
+      {
+        "location": "45.531081,10.224313",
+        "name": "Solferino - Diaz"
+      },
+      {
+        "location": "45.561630,10.206100",
+        "name": "Oberdan"
+      },
+      {
+        "location": "45.540540,10.236006",
+        "name": "Panoramica"
+      },
+      {
+        "location": "45.535595,10.232279",
+        "name": "Porta Venezia"
+      },
+      {
+        "location": "45.495737,10.206385",
+        "name": "Folzano"
+      },
+      {
+        "location": "45.572778,10.229167",
+        "name": "Don Bosco"
+      },
+      {
+        "location": "45.524216,10.214439",
+        "name": "Brescia due"
+      },
+      {
+        "location": "45.522824,10.228182",
+        "name": "Villaggio Ferrari - Duca degli Abruzzi"
+      },
+      {
+        "location": "45.511713,10.190673",
+        "name": "Villaggio sereno"
+      },
+      {
+        "location": "45.547556,10.193674",
+        "name": "Fiumicello"
+      },
+      {
+        "location": "45.565389,10.197856",
+        "name": "Urago Mella"
+      },
+      {
+        "location": "45.536201,10.163998",
+        "name": "Violino"
+      },
+      {
+        "location": "45.549348,10.200438",
+        "name": "Volturno"
+      },
+      {
+        "location": "45.554210,10.225367",
+        "name": "Borgo Trento"
+      },
+      {
+        "location": "45.541076,10.222038",
+        "name": "Brescia Antica"
+      },
+      {
+        "location": "45.497440,10.276980",
+        "name": "Buffalora"
+      },
+      {
+        "location": "45.525372,10.288285",
+        "name": "Caionvico"
+      },
+      {
+        "location": "45.575516,10.228174",
+        "name": "Casazza"
+      },
+      {
+        "location": "45.527850,10.184883",
+        "name": "Chiesanuova"
+      },
+      {
+        "location": "45.551913,10.189639",
+        "name": "Chiusure"
+      },
+      {
+        "location": "45.549448,10.227391",
+        "name": "Crocifissa di Rosa"
+      },
+      {
+        "location": "45.562474,10.232433",
+        "name": "Mompiano"
+      },
+      {
+        "location": "45.558688,10.247040",
+        "name": "Garzetta"
+      },
+      {
+        "location": "45.541438,10.169487",
+        "name": "La Famiglia"
+      },
+      {
+        "location": "45.550027,10.159050",
+        "name": "Villaggio Badia"
+      },
+      {
+        "location": "45.521175,10.282773",
+        "name": "Sant'Eufemia della Fonte"
+      },
+      {
+        "location": "45.507162,10.256294",
+        "name": "San Polo"
+      },
+      {
+        "location": "45.523584,10.211371",
+        "name": "Lamarmora"
+      },
+      {
+        "location": "45.500778,10.167890",
+        "name": "Fornaci"
+      },
+      {
+        "location": "45.549162,10.211769",
+        "name": "Sant'Eustachio"
+      },
+      {
+        "location": "45.566440,10.219837",
+        "name": "San Bartolomeo"
+      },
+      {
+        "location": "45.571562,10.225582",
+        "name": "Primo Maggio"
+      },
+      {
+        "location": "45.582000,10.232443",
+        "name": "Villaggio Prealpino"
+      },
+      {
+        "location": "45.582000,10.232443",
+        "name": "Cascina Calina"
+      },
+      {
+        "location": "45.584155,10.214426",
+        "name": "Collebeato"
+      },
+      {
+        "location": "45.506617,10.332074",
+        "name": "Rezzato"
+      },
+      {
+        "location": "45.584245,10.180195",
+        "name": "Cellatica"
+      },
+      {
+        "location": "45.592711,10.241014",
+        "name": "Bovezzo"
+      },
+      {
+        "location": "45.471626,10.298083",
+        "name": "Castenedolo"
+      },
+      {
+        "location": "45.586095,10.288998",
+        "name": "Nave"
+      },
+      {
+        "location": "45.587632,10.152478",
+        "name": "Gussago"
+      },
+      {
+        "location": "45.599807,10.222153",
+        "name": "Concesio"
+      },
+      {
+        "location": "45.460878,10.172405",
+        "name": "Poncarale"
+      },
+      {
+        "location": "45.512394,10.117281",
+        "name": "Torbole Casaglia"
+      }
+    ]
   }
 }

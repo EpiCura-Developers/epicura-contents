@@ -3,17 +3,18 @@
     "title": "EpiCura - Verona",
     "description": "Cura la tua salute e quella di chi ami a Verona e area metropolitana con EpiCura, primo poliambulatorio digitale in Italia. Servizi medici, sanitari e assistenziali 7 giorni su 7, anche in orari serali, senza liste d'attesa."
   },
-  "top_banner": {
-    "title": "La salute a Verona con EpiCura",
+  "top-banner": {
+    "title": "La salute a Verona <br /> con EpiCura",
     "subtitle": "Scegli la comodità: prenota un servizio sanitario e ricevilo direttamente in videoconsulto, a casa tua o in studio nella tua città.",
     "img": {
       "path": "common",
-      "name": "header_home"
+      "name": "header-home"
     },
+    "has-large-title": true,
     "has-absolute-image": false,
     "first-image-order": false,
     "hide-image-mobile": false,
-    "has-bg-color": false,
+    "has-bg-color": "",
     "cta-content": []
   },
   "service-cards": {
@@ -24,21 +25,21 @@
         "subtitle": "online - a domicilio - in studio",
         "img": "/img/visite_mediche.svg",
         "cta-label": "Prenota",
-        "url": "/"
+        "url": "/servizi/"
       },
       {
         "title": "Ricerca e selezione badanti, assistenza domiciliare ad ore",
         "subtitle": "a domicilio",
         "img": "/img/ricerca_badante.svg",
         "cta-label": "Prenota",
-        "url": "/"
+        "url": "/badante/"
       },
       {
         "title": "Percorsi di psicologia e psicoterapia",
         "subtitle": "online - in studio",
         "img": "/img/psicologia_psicoterapia.svg",
         "cta-label": "Prenota",
-        "url": "/"
+        "url": "/psicologo-psicoterapeuta-online/"
       }
     ]
   },
@@ -46,60 +47,65 @@
     "title": "Visite Più Richieste A Verona",
     "cards": [
       {
+        "img": {
+          "path": "physiotherapy",
+          "name": "physiotherapy-service-card"
+        },
         "title": "Fisioterapia",
         "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/fisioterapia",
+        "url": "/verona/fisioterapista/",
         "discipline": "physiotherapy"
       },
       {
+        "img": {
+          "path": "veterinary",
+          "name": "veterinary-service-card"
+        },
         "title": "Veterinaria",
         "text": "A partire da 60€",
-        "image": "/img/card-image.png",
-        "url": "/veterinaria",
+        "url": "/verona/veterinario/",
         "discipline": "veterinary"
       },
       {
+        "img": {
+          "path": "nutrition",
+          "name": "nutrition-service-card"
+        },
         "title": "Nutrizione",
         "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/nutrizione",
+        "url": "/verona/nutrizionista/",
         "discipline": "nutrition"
       },
+
       {
-        "title": "Pediatria",
-        "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/pediatria",
-        "discipline": "pediatrics"
-      },
-      {
+        "img": {
+          "path": "physiotherapy",
+          "name": "physiotherapy-service-card"
+        },
         "title": "Fisioterapia",
         "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/fisioterapia",
+        "url": "/verona/fisioterapista/",
         "discipline": "physiotherapy"
       },
       {
+        "img": {
+          "path": "veterinary",
+          "name": "veterinary-service-card"
+        },
         "title": "Veterinaria",
         "text": "A partire da 60€",
-        "image": "/img/card-image.png",
-        "url": "/veterinaria",
+        "url": "verona/veterinario/",
         "discipline": "veterinary"
       },
       {
+        "img": {
+          "path": "nutrition",
+          "name": "nutrition-service-card"
+        },
         "title": "Nutrizione",
         "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/nutrizione",
+        "url": "/verona/nutrizionista/",
         "discipline": "nutrition"
-      },
-      {
-        "title": "Pediatria",
-        "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/pediatria",
-        "discipline": "pediatrics"
       }
     ]
   },
@@ -109,36 +115,49 @@
       {
         "title": "Comodo, veloce, flessibile",
         "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "convenient"
+        }
       },
       {
         "title": "Professionisti certificati",
         "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "pro-certified"
+        }
       },
       {
         "title": "Prenotazioni senza intoppi",
         "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "booking-1"
+        }
       },
       {
         "title": "Supporto costante",
         "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "support"
+        }
       }
     ]
   },
   "prime-banner": {
-    "title": "<strong>Epicura Prime</strong> è tutta salute",
+    "title": "<b>Epicura Prime</b> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
-      "path": "common",
-      "name": "header_home"
+      "path": "epicura prime",
+      "name": "epicura-prime"
     },
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": false,
+    "has-large-title": true,
+    "has-bg-color": "prime-light",
     "cta-content": []
   },
   "prime-table-compare": [
@@ -239,32 +258,33 @@
         "label": "Prova gratis per 14 giorni",
         "link": "/",
         "image": "",
-        "variant": "filled"
+        "variant": "prime"
       }
     }
   ],
   "app-banner": {
-    "title": "50% di sconto sulla prima visita. <br>Scarica l'app",
+    "title": "50% di sconto sulla prima visita. <br /><strong>Scarica l'app</strong>",
     "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
-      "name": "header_home"
+      "name": "download-app"
     },
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": true,
+    "has-large-title": true,
+    "has-bg-color": "zircon",
     "cta-content": [
       {
         "label": "",
         "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
-        "image": "/img/Download_on_the_App_Store_Badge_IT_RGB_wht_100317@2x.png",
+        "image": "/img/badge-app-store.png",
         "variant": "image"
       },
       {
         "label": "",
         "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
-        "image": "/img/Google_Play_Store_badge_IT@2x.png",
+        "image": "/img/badge-google-play-store.png",
         "variant": "image"
       }
     ]
@@ -428,17 +448,6 @@
         "location": "45.433356,10.884280",
         "name": "Lugagnano"
       }
-    ],
-    "cardPhone": {
-      "title": "Chiamaci",
-      "text": "Numero attivo 7 giorni su 7, dalle 8:30 alle 19:30.",
-      "image": "phone-card"
-    },
-    "cardContact": {
-      "title": "Scrivici un messaggio",
-      "text": "Ti rispondiamo subito, o se lo desideri ti ricontattiamo quando vuoi tu.",
-      "buttonText": "Scrivici",
-      "image": "contact-card"
-    }
+    ]
   }
 }

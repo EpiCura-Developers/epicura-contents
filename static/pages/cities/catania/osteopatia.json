@@ -3,10 +3,474 @@
     "title": "Osteopata a Catania",
     "description": "Osteopati a domicilio a Catania e area metropolitana. Linfodrenaggio, osteopata per bambino, osteopatia in gravidanza a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
-  "subheader": {
-    "prenotaOnlineText": "Prenota ora",
-    "titleBig": "Osteopati a domicilio a Catania",
-    "description1": "EpiCura porta l'osteopatia comodamente a domicilio, in tutta Catania e area metropolitana, 7 giorni su 7, quando e dove vuoi.",
-    "description2": "Prenota in pochi clic e prenditi cura della tua salute senza liste d’attesa."
+  "top-banner": {
+    "title": "Osteopata a <br />Catania",
+    "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
+    "img": {
+      "path": "osteopathy",
+      "name": "osteopathy-header"
+    },
+    "has-large-title": true,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-bg-color": "",
+    "cta-content": []
+  },
+  "bullet-cards": {
+    "title": "Perché affidarsi a EpiCura?",
+    "cards": [
+      {
+        "title": "Comodo, veloce, flessibile",
+        "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
+        "img": {
+          "path": "common",
+          "name": "convenient"
+        }
+      },
+      {
+        "title": "Professionisti certificati",
+        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
+        "img": {
+          "path": "common",
+          "name": "pro-certified"
+        }
+      },
+      {
+        "title": "Prenotazioni senza intoppi",
+        "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
+        "img": {
+          "path": "common",
+          "name": "booking-1"
+        }
+      },
+      {
+        "title": "Supporto costante",
+        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
+        "img": {
+          "path": "common",
+          "name": "support"
+        }
+      }
+    ]
+  },
+  "card-trattamenti": {
+    "title": "I nostri trattamenti di osteopatia",
+    "cards": [
+      {
+        "title": "Osteopatia in gravidanza",
+        "description": "mal di schiena, nausea gravidica, gambe gonfie, problemi digestivi, costipazione",
+        "url": "/osteopatia-in-gravidanza"
+      },
+      {
+        "title": "Osteopatia pediatrica",
+        "description": "coliche, stipsi, insonnia, iperattività, scoliosi, piede piatto, plagiocefalia",
+        "url": "/osteopatia-pediatrica"
+      },
+      {
+        "title": "Osteopatia per anziani",
+        "description": "demenza senile, malattie neurologiche, artrosi, fratture, osteoporosi",
+        "url": "/osteopatia-per-anziani"
+      },
+      {
+        "title": "Dolore e infiammazione",
+        "description": "cervicalgia, mal di schiena, dolori articolari, sciatica, ernie, acufeni",
+        "url": "/dolore-e-infiammazione"
+      },
+      {
+        "title": "Disturbi sistemici",
+        "description": "cefalea, bruxismo, disturbi del sonno, ansia, reflusso, gastrite, colon irritabile, fibromialgia",
+        "url": "/disturbi-sistemici"
+      }
+    ]
+  },
+  "prime-banner": {
+    "title": "<b>Epicura Prime</b> è <br />tutta salute",
+    "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
+    "img": {
+      "path": "epicura prime",
+      "name": "epicura-prime"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-large-title": true,
+    "has-bg-color": "prime-light",
+    "cta-content": []
+  },
+  "prime-table-compare": [
+    {
+      "is-prime": false,
+      "title": "EpiCura",
+      "small-text": "0€ per sempre",
+      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": false
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": false
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": false
+        }
+      ],
+      "cta": {
+        "label": "Entra in EpiCura e prenota",
+        "link": "/",
+        "image": "",
+        "variant": "outlined"
+      },
+      "prime-prices": {}
+    },
+    {
+      "is-prime": true,
+      "title": "EpiCura Prime",
+      "small-text": "180€ all’anno",
+      "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
+      "option-list": [
+        {
+          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
+          "checked": true
+        },
+        {
+          "text": "Supporto prenotazioni 7/7",
+          "checked": true
+        },
+        {
+          "text": "Storico interventi",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico pediatra illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti medico di base illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "Videoconsulti veterinari illimitati gratuiti",
+          "checked": true
+        },
+        {
+          "text": "100€ di bonus da spendere su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "10% di sconto su tutte le prestazioni",
+          "checked": true
+        },
+        {
+          "text": "Accesso a convenzioni con diversi partner",
+          "checked": true
+        }
+      ],
+      "cta": {
+        "label": "Prova gratis per 14 giorni",
+        "link": "/",
+        "image": "",
+        "variant": "prime"
+      },
+      "prime-prices": {}
+    }
+  ],
+  "app-banner": {
+    "title": "50% di sconto sulla prima visita. <br /><strong>Scarica l'app</strong>",
+    "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "img": {
+      "path": "common",
+      "name": "download-app"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-large-title": true,
+    "has-bg-color": "zircon",
+    "cta-content": [
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/badge-app-store.png",
+        "variant": "image"
+      },
+      {
+        "label": "",
+        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "image": "/img/badge-google-play-store.png",
+        "variant": "image"
+      }
+    ]
+  },
+  "bullet-cards-service": {
+    "title": "I migliori osteopati a domicilio entro 24 ore",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "cards": [
+      {
+        "title": "Solo professionisti qualificati",
+        "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
+        "img": {
+          "path": "common",
+          "name": "specialist-2"
+        }
+      },
+      {
+        "title": "La tua soddisfazione è anche la nostra ",
+        "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
+        "img": {
+          "path": "common",
+          "name": "certificate-2"
+        }
+      },
+      {
+        "title": "Siamo sempre al tuo fianco",
+        "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
+        "img": {
+          "path": "common",
+          "name": "support-2"
+        }
+      }
+    ]
+  },
+  "service-banner": {
+    "title": "Hai un dubbio sul servizio di osteopatia? Chiamaci",
+    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "img": {
+      "path": "osteopathy",
+      "name": "osteopathy-service-banner"
+    },
+    "has-large-title": false,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": "osteopathy",
+    "cta-content": [
+      {
+        "label": "800 909 209",
+        "link": "tel:800909209",
+        "image": "",
+        "variant": "gradient"
+      }
+    ]
+  },
+  "map": {
+    "showAllText": "Mostra tutti",
+    "hideAllText": "Mostra meno",
+    "doveCiTroviText": "Osteopati a domicilio a Catania e area metropolitana",
+    "quartieriText": "Controlla qui i comuni coperti dal servizio",
+    "mapCenter": "37.502669,15.087269",
+    "markers": [
+      {
+        "location": "37.501858,15.074297",
+        "name": "Centro"
+      },
+      {
+        "location": "37.524166,15.088306",
+        "name": "Vulcania - Sanzio"
+      },
+      {
+        "location": "37.529962,15.097854",
+        "name": "Nuovalucello - Leonardo da Vinci"
+      },
+      {
+        "location": "37.488089,15.092752",
+        "name": "Porto"
+      },
+      {
+        "location": "37.498468,15.079458",
+        "name": "Barriera"
+      },
+      {
+        "location": "37.526752,15.081571",
+        "name": "Gioeni"
+      },
+      {
+        "location": "37.516159,15.072223",
+        "name": "Cibali"
+      },
+      {
+        "location": "37.528757,15.073047",
+        "name": "Cittadella - Policlinico"
+      },
+      {
+        "location": "37.493485,15.041591",
+        "name": "San Giorgio"
+      },
+      {
+        "location": "37.505053,15.054870",
+        "name": "Palermo - Indipendenza"
+      },
+      {
+        "location": "37.509758,15.062955",
+        "name": "Rapisardi"
+      },
+      {
+        "location": "37.533515,15.104133",
+        "name": "Villaggio Dusmet"
+      },
+      {
+        "location": "37.367543,15.060964",
+        "name": "San Giuseppe la Rena"
+      },
+      {
+        "location": "37.500598,15.059679",
+        "name": "San Leone"
+      },
+      {
+        "location": "37.516666,15.044846",
+        "name": "Nesima"
+      },
+      {
+        "location": "37.525370,15.052544",
+        "name": "San Nullo"
+      },
+      {
+        "location": "37.535716,15.064343",
+        "name": "Carrubella"
+      },
+      {
+        "location": "37.551845,15.049618",
+        "name": "San Giovanni Galermo"
+      },
+      {
+        "location": "37.526459,15.101068",
+        "name": "Picanello"
+      },
+      {
+        "location": "37.529012,15.112671",
+        "name": "Ognina"
+      },
+      {
+        "location": "37.521865,15.086101",
+        "name": "Borgo"
+      },
+      {
+        "location": "37.489250,15.060497",
+        "name": "Villaggio Sant'Agata"
+      },
+      {
+        "location": "37.489965,15.084674",
+        "name": "Playa"
+      },
+      {
+        "location": "37.476071,15.047976",
+        "name": "Librino"
+      },
+      {
+        "location": "37.473891,15.076424",
+        "name": "San Giovanni la Rena - Zia Lisa"
+      },
+      {
+        "location": "37.450182,15.047665",
+        "name": "Fontanarossa"
+      },
+      {
+        "location": "37.519414,15.108492",
+        "name": "San Giovanni Li Cuti"
+      },
+      {
+        "location": "37.502957,15.091351",
+        "name": "Civita"
+      },
+      {
+        "location": "37.505158,15.089605",
+        "name": "San Berillo"
+      },
+      {
+        "location": "37.499579,15.073374",
+        "name": "Fortino"
+      },
+      {
+        "location": "37.499129,15.078855",
+        "name": "San Cristoforo"
+      },
+      {
+        "location": "37.519331,15.077324",
+        "name": "Consolazione"
+      },
+      {
+        "location": "37.540768,15.096123",
+        "name": "Canalicchio"
+      },
+      {
+        "location": "37.498976,15.083631",
+        "name": "Giudecca - Castello Ursino"
+      },
+      {
+        "location": "37.504144,15.079743",
+        "name": "Benedettini"
+      },
+      {
+        "location": "37.507502,15.048183",
+        "name": "Monte Po"
+      },
+      {
+        "location": "37.556294,15.089129",
+        "name": "Trappeto"
+      },
+      {
+        "location": "37.560593,15.061565",
+        "name": "Gravina di Catania"
+      },
+      {
+        "location": "37.553040,15.080013",
+        "name": "Sant'Agata lì Battiati"
+      },
+      {
+        "location": "37.541131,15.133351",
+        "name": "Cannizzaro"
+      },
+      {
+        "location": "37.558824,15.127037",
+        "name": "Ficarazzi"
+      },
+      {
+        "location": "37.565628,15.114157",
+        "name": "San Gregorio di Catania"
+      },
+      {
+        "location": "37.578009,15.095183",
+        "name": "San Giovanni la Punta"
+      },
+      {
+        "location": "37.574200,15.051077",
+        "name": "Mascalucia"
+      },
+      {
+        "location": "37.561732,15.156151",
+        "name": "Aci Trezza"
+      },
+      {
+        "location": "37.577261,15.122687",
+        "name": "Valverde"
+      }
+    ]
   }
 }

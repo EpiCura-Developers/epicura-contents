@@ -20,7 +20,7 @@
           "path": "common",
           "name": "booking"
         },
-        "title": "Prenota in pochi clic",
+        "title": "Prenota in pochi click",
         "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
       },
       {
@@ -38,17 +38,26 @@
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "list": [
       {
-        "image": { "path": "common", "name": "professionist" },
+        "image": {
+          "path": "common",
+          "name": "specialist-2"
+        },
         "title": "Solo professionisti qualificati",
         "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
       },
       {
-        "image": { "path": "common", "name": "certificate" },
+        "image": {
+          "path": "common",
+          "name": "certificate-2"
+        },
         "title": "La tua soddisfazione è la nostra priorità",
         "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
       },
       {
-        "image": { "path": "common", "name": "operator" },
+        "image": {
+          "path": "common",
+          "name": "support-2"
+        },
         "title": "Siamo sempre al tuo fianco",
         "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
       }
@@ -67,9 +76,9 @@
     "button-link": "/pediatra-videoconsulto/"
   },
   "banner-info": {
-    "title": "Hai un dubbio sul servizio di<br /> pediatria?",
+    "title": "Hai un dubbio sul servizio di <br /> pediatria? Chiamaci",
     "title-colored": "",
-    "content": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi di EpiCura più adatti alle tue esigenze.",
+    "content": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
     "image": {
       "path": "common",
       "name": "info-pediatria"
@@ -78,9 +87,9 @@
       "path": "common",
       "name": "info-pediatria-mobile"
     },
-    "button-text": "Richiedi informazioni",
-    "button-link-production": "https://share.hsforms.com/1CZItMEkXQ16DCV1LVw-T5g4ebbs",
-    "button-link-staging": "https://share.hsforms.com/1C2v2qPBhSVaQDKdTIJfwMQ5kab9"
+    "button-text": "800 909 209",
+    "button-link-production": "tel:800909209",
+    "button-link-staging": "tel:800909209"
   },
   "provincesTitle": "I nostri pediatri a domicilio sono attivi nelle città di"
 }

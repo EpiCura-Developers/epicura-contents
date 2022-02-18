@@ -3,17 +3,18 @@
     "title": "Fisioterapista a Catania",
     "description": "Fisioterapisti esperti a domicilio a Catania e area metropolitana. Riabilitazione a domicilio, linfodrenaggio, sedute fisioterapiche a casa, 7 giorni su 7, senza liste d'attesa."
   },
-  "top_banner": {
-    "title": "Fisioterapista a Catania",
+  "top-banner": {
+    "title": "Fisioterapista a<br /> Catania",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
     "img": {
-      "path": "common",
-      "name": "header_home"
+      "path": "physiotherapy",
+      "name": "physiotherapy-header"
     },
-    "has-absolute-image": false,
+    "has-large-title": true,
+    "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": false,
-    "has-bg-color": false,
+    "hide-image-mobile": true,
+    "has-bg-color": "physiotherapy",
     "cta-content": []
   },
   "bullet-cards": {
@@ -22,22 +23,34 @@
       {
         "title": "Comodo, veloce, flessibile",
         "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "convenient"
+        }
       },
       {
         "title": "Professionisti certificati",
         "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "pro-certified"
+        }
       },
       {
         "title": "Prenotazioni senza intoppi",
         "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "booking-1"
+        }
       },
       {
         "title": "Supporto costante",
         "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "support"
+        }
       }
     ]
   },
@@ -46,53 +59,63 @@
     "cards": [
       {
         "title": "Fisioterapia per anziani",
-        "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria"
+        "description": "anziani allettati, parkinson, alzheimer, osteoporosi, incontinenza urinaria",
+        "url": "/fisioterapia-per-anziani"
       },
       {
         "title": "Fisioterapia pediatrica",
-        "description": "torcicollo, plagiocefalia neonatale, piede piatto valgo, scoliosi, dorso curvo, fratture"
+        "description": "torcicollo, plagiocefalia neonatale, piede piatto valgo, scoliosi, dorso curvo, fratture",
+        "url": "/fisioterapia-pediatrica"
       },
       {
         "title": "Fisioterapia in gravidanza",
-        "description": "gonfiore degli arti, mal di schiena, lombalgia, scialtalgia, disturbi del pavimento pelvico"
+        "description": "gonfiore degli arti, mal di schiena, lombalgia, scialtalgia, disturbi del pavimento pelvico",
+        "url": "/fisioterapia-in-gravidanza"
       },
       {
         "title": "Riabilitazione respiratoria",
-        "description": "ginnastica respiratoria, fisioterapia polmonare"
+        "description": "ginnastica respiratoria, fisioterapia polmonare",
+        "url": "/riabilitazione-respiratoria"
       },
       {
         "title": "Riabilitazione motoria",
-        "description": "alluce valgo, protesi anca, frattura femore, fisioterapia per ginocchio, protesi ginocchio, rafforzamento muscolare"
+        "description": "alluce valgo, protesi anca, frattura femore, fisioterapia per ginocchio, protesi ginocchio, rafforzamento muscolare",
+        "url": "/riabilitazione-motoria"
       },
       {
         "title": "Linfodrenaggio manuale",
-        "description": "cellulite, edemi, ritensione idrica, vene varicose"
+        "description": "cellulite, edemi, ritensione idrica, vene varicose",
+        "url": "/linfodrenaggio-manuale"
       },
       {
         "title": "Chinesiterapia",
-        "description": "riacquisizione delle funzionalità motorie"
+        "description": "riacquisizione delle funzionalità motorie",
+        "url": "/chinesiterapia"
       },
       {
         "title": "Disturbi patologici",
-        "description": "artrosi, artrite reumatoide, distrofia muscolare, fibromialgia, ictus, sclerosi multipla, spondilite anchilosante, tremore essenziale"
+        "description": "artrosi, artrite reumatoide, distrofia muscolare, fibromialgia, ictus, sclerosi multipla, spondilite anchilosante, tremore essenziale",
+        "url": "/patologie-neurologiche-e-infiammatorie"
       },
       {
         "title": "Dolore e infiammazione",
-        "description": "acusene, cervicale, emicrania, ernia, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite"
+        "description": "acusene, cervicale, emicrania, ernia, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite",
+        "url": "/fisioterapia-dolore-e-infiammazione"
       }
     ]
   },
   "prime-banner": {
-    "title": "<strong>Epicura Prime</strong> è tutta salute",
+    "title": "<b>Epicura Prime</b> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
-      "path": "common",
-      "name": "header_home"
+      "path": "epicura prime",
+      "name": "epicura-prime"
     },
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": false,
+    "has-large-title": true,
+    "has-bg-color": "prime-light",
     "cta-content": []
   },
   "prime-table-compare": [
@@ -193,54 +216,64 @@
         "label": "Prova gratis per 14 giorni",
         "link": "/",
         "image": "",
-        "variant": "filled"
+        "variant": "prime"
       }
     }
   ],
   "app-banner": {
-    "title": "50% di sconto sulla prima visita. <br>Scarica l'app",
+    "title": "50% di sconto sulla prima visita. <br /><strong>Scarica l'app</strong>",
     "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
-      "name": "header_home"
+      "name": "download-app"
     },
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
-    "has-bg-color": true,
+    "has-large-title": true,
+    "has-bg-color": "zircon",
     "cta-content": [
       {
         "label": "",
         "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
-        "image": "/img/Download_on_the_App_Store_Badge_IT_RGB_wht_100317@2x.png",
+        "image": "/img/badge-app-store.png",
         "variant": "image"
       },
       {
         "label": "",
         "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
-        "image": "/img/Google_Play_Store_badge_IT@2x.png",
+        "image": "/img/badge-google-play-store.png",
         "variant": "image"
       }
     ]
   },
   "bullet-cards-service": {
-    "title": "Perché affidarsi a EpiCura?",
+    "title": "I migliori fisioterapisti a domicilio entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {
         "title": "Solo professionisti qualificati",
         "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "specialist-2"
+        }
       },
       {
         "title": "La tua soddisfazione è anche la nostra ",
         "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "certificate-2"
+        }
       },
       {
         "title": "Siamo sempre al tuo fianco",
         "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
-        "img": "/img/smile.png"
+        "img": {
+          "path": "common",
+          "name": "support-2"
+        }
       }
     ]
   },
@@ -248,13 +281,14 @@
     "title": "Hai un dubbio sul servizio di fisioterapia? Chiamaci",
     "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
     "img": {
-      "path": "common",
-      "name": "header_home"
+      "path": "physiotherapy",
+      "name": "physiotherapy-service-banner"
     },
+    "has-large-title": false,
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": false,
-    "has-bg-color": false,
+    "has-bg-color": "physiotherapy",
     "cta-content": [
       {
         "label": "800 909 209",
@@ -267,7 +301,7 @@
   "map": {
     "showAllText": "Mostra tutti",
     "hideAllText": "Mostra meno",
-    "doveCiTroviText": "I professionisti di EpiCura sono disponibili in tutta Catania",
+    "doveCiTroviText": "Fisioterapisti a domicilio a Catania e area metropolitana",
     "quartieriText": "Controlla qui i comuni coperti dal servizio",
     "mapCenter": "37.502669,15.087269",
     "markers": [

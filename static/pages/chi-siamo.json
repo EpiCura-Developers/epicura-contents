@@ -14,20 +14,20 @@
   "site-who-we-are-description-img": { "path": "common", "name": "lamp" },
   "site-who-we-are-relation-work": {
     "title": "Come funziona?",
-    "content": "Abbiamo una rete nazionale che oggi conta 800 professionisti attivi, tra medici, personale sanitario e assistenti domiciliari in 10 delle principali città italiane. <span class='green'><strong>Il nostro servizio è attivo 7 giorni su 7, dalle 8 alle 20.</strong></span>",
+    "content": "Abbiamo una rete nazionale che oggi conta 800 professionisti attivi, tra medici, personale sanitario e assistenti domiciliari in 10 delle principali città italiane. <br /><strong>Il nostro servizio è attivo 7 giorni su 7, dalle 8 alle 20.</strong>",
     "cards": [
       {
-        "image": { "path": "common", "name": "scegli-soluzione" },
+        "image": { "path": "common", "name": "referto-medico" },
         "title": "Scegli la soluzione",
         "text": "Offriamo un’ampia scelta di servizi sanitari per rispondere esattamente a ciò di cui hai bisogno. Se hai un problema e non sai a chi rivolgerti, il nostro team di esperti ti aiuterà ad individuare la soluzione più adatta a te."
       },
       {
-        "image": { "path": "common", "name": "prenota-seduta" },
+        "image": { "path": "common", "name": "visita-generica" },
         "title": "Prenota la seduta",
         "text": "Contattaci o prenota direttamente online. Noi troveremo per te il miglior professionista che faccia al caso tuo che ti guiderà durante l’intero percorso terapeutico. Riceverai il servizio direttamente a casa, senza liste d’attesa."
       },
       {
-        "image": { "path": "common", "name": "migliora-salute" },
+        "image": { "path": "common", "name": "nutrizione-icon" },
         "title": "Migliora la tua salute",
         "text": "Rilassati e prenditi cura della tua salute o quella del tuo animale, a tutto il resto pensiamo noi. Ti affiancheremo durante tutto il percorso di cura, con un team di esperti disponibile 7 giorni su 7, anche in orario serale."
       }
@@ -61,22 +61,22 @@
   "site-who-we-are-our-values-link": "https://www.linkedin.com/company/epicuramed/jobs/?viewAsMember=true",
   "site-who-we-are-our-values": [
     {
-      "site-who-we-are-our-value-image": { "path": "common", "name": "people-before-all" },
+      "site-who-we-are-our-value-image": { "path": "common", "name": "care" },
       "site-who-we-are-our-value-title": "Le persone prima di tutto",
       "site-who-we-are-our-value-subtitle": "Le tue esigenze sono al primo posto: l'ascolto è per noi fondamentale per offrirti soluzioni su misura."
     },
     {
-      "site-who-we-are-our-value-image": { "path": "common", "name": "amazing-brain" },
+      "site-who-we-are-our-value-image": { "path": "common", "name": "pro-certified" },
       "site-who-we-are-our-value-title": "Professionisti di valore",
       "site-who-we-are-our-value-subtitle": "Lavoriamo solo con professionisti qualificati e certificati per garantirti un servizio di alta qualità."
     },
     {
-      "site-who-we-are-our-value-image": { "path": "common", "name": "rocket" },
+      "site-who-we-are-our-value-image": { "path": "common", "name": "convenient" },
       "site-who-we-are-our-value-title": "Comodo, veloce, flessibile",
       "site-who-we-are-our-value-subtitle": "Dimentica le liste d'attesa e gli scomodi spostamenti: prenditi cura della tua salute dove e quando vuoi."
     },
     {
-      "site-who-we-are-our-value-image": { "path": "common", "name": "great-goal" },
+      "site-who-we-are-our-value-image": { "path": "common", "name": "world" },
       "site-who-we-are-our-value-title": "Un grande obiettivo condiviso",
       "site-who-we-are-our-value-subtitle": "Decine di investitori hanno creduto in EpiCura, permettendoci di offrire un servizio sempre migliore."
     }
@@ -91,7 +91,7 @@
     },
     {
       "site-who-we-are-contact-img": { "path": "common", "name": "card-2" },
-      "site-who-we-are-contact-text": "Per medici, professionisti sanitari e socio-assistenziali",
+      "site-who-we-are-contact-text": "Per medici, professionisti sanitari<br /> e socio-assistenziali",
       "site-who-we-are-contact-btn-text": "Collaboriamo",
       "site-who-we-are-contact-link": "/professionisti-lavoro/"
     }

@@ -41,7 +41,7 @@
       {
         "image": {
           "path": "common",
-          "name": "stetofonendoscopio"
+          "name": "visita-generica"
         },
         "title": "Scopri le nostre soluzioni",
         "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze."
@@ -49,15 +49,15 @@
       {
         "image": {
           "path": "common",
-          "name": "booking"
+          "name": "booking-2"
         },
-        "title": "Prenota in pochi clic",
+        "title": "Prenota in pochi click",
         "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata."
       },
       {
         "image": {
           "path": "common",
-          "name": "love-home"
+          "name": "visita-domicilio"
         },
         "title": "Ricevi l'intervento a domicilio",
         "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
@@ -123,17 +123,26 @@
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "list": [
       {
-        "image": { "path": "common", "name": "professionist" },
+        "image": {
+          "path": "common",
+          "name": "specialist-2"
+        },
         "title": "Solo professionisti qualificati",
         "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
       },
       {
-        "image": { "path": "common", "name": "certificate" },
+        "image": {
+          "path": "common",
+          "name": "certificate-2"
+        },
         "title": "La tua soddisfazione è la nostra priorità",
         "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
       },
       {
-        "image": { "path": "common", "name": "operator" },
+        "image": {
+          "path": "common",
+          "name": "support-2"
+        },
         "title": "Siamo sempre al tuo fianco",
         "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
       }
@@ -143,7 +152,7 @@
     "title": "Vuoi parlare con un osteopata?",
     "content": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "price": "Videoconsulto specialistico 25€",
-    "bkg-color": "#F5F8FF",
+    "bkg-color": "#F2F5FF",
     "image": {
       "path": "videoconsultation",
       "name": "videoconsultation-banner"
@@ -152,9 +161,9 @@
     "button-link": "/osteopata-videoconsulto/"
   },
   "banner-info": {
-    "title": "Hai un dubbio sul servizio di<br /> osteopatia?",
+    "title": "Hai un dubbio sul servizio di <br /> osteopatia? Chiamaci",
     "title-colored": "",
-    "content": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi di EpiCura più adatti alle tue esigenze.",
+    "content": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
     "image": {
       "path": "common",
       "name": "info-osteopatia"
@@ -163,9 +172,9 @@
       "path": "common",
       "name": "info-osteopatia-mobile"
     },
-    "button-text": "Richiedi informazioni",
-    "button-link-production": "https://share.hsforms.com/1CZItMEkXQ16DCV1LVw-T5g4ebbs",
-    "button-link-staging": "https://share.hsforms.com/1C2v2qPBhSVaQDKdTIJfwMQ5kab9"
+    "button-text": "800 909 209",
+    "button-link-production": "tel:800909209",
+    "button-link-staging": "tel:800909209"
   },
   "provincesTitle": "I nostri osteopati a domicilio sono attivi nelle città di",
   "provincesTitleTreatments": "Il servizio di <strong>osteopatia a domicilio</strong> è attivo nelle seguenti città"
