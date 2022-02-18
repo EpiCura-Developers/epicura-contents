@@ -5,8 +5,7 @@
     "option-is-complex": true,
     "option-is-amp": true,
     "option-style-object-like": {
-      "font-weight": "bold",
-      "font-size": "1rem"
+      "font-weight": "bold"
     }
   },
   {
@@ -15,8 +14,7 @@
     "option-is-complex": true,
     "option-is-amp": true,
     "option-style-object-like": {
-      "font-weight": "bold",
-      "font-size": "1rem"
+      "font-weight": "bold"
     }
   },
   {
@@ -25,8 +23,7 @@
     "option-is-complex": true,
     "option-is-amp": true,
     "option-style-object-like": {
-      "font-weight": "bold",
-      "font-size": "1rem"
+      "font-weight": "bold"
     }
   },
   {
@@ -37,7 +34,6 @@
     "option-style-object-like": {
       "font-weight": "bold",
       "margin-top": "5px",
-      "font-size": "1rem",
       "border-bottom": "1px solid rgba(0,0,0,0.161)",
       "padding-bottom": "15px"
     }
@@ -49,8 +45,7 @@
     "option-is-amp": false,
     "option-style-object-like": {
       "font-weight": "500",
-      "margin-top": "5px",
-      "font-size": "1rem"
+      "margin-top": "5px"
     }
   },
   {
@@ -59,8 +54,7 @@
     "option-is-complex": true,
     "option-is-amp": false,
     "option-style-object-like": {
-      "margin-top": "5px",
-      "font-size": "1rem"
+      "margin-top": "5px"
     }
   },
   {
@@ -70,8 +64,7 @@
     "option-is-amp": false,
     "option-style-object-like": {
       "margin-top": "5px",
-      "margin-bottom": "30px",
-      "font-size": "1rem"
+      "margin-bottom": "30px"
     }
   },
   {
