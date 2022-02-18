@@ -7,135 +7,12 @@
     "path": "common",
     "name": "services"
   },
-  "site-landing-page-relation-section": [
-    {
-      "site-discipline-section-title": "Ricerca badanti* e assistenti domiciliari ad ore",
-      "site-discipline-section-description": "Servizi pensati per le esigenze di persone autosufficienti e non autosufficienti con differenti bisogni di assistenza e cura.<br /> Affida la salute dei tuoi cari a personale qualificato con EpiCura.",
-      "site-discipline-placeholder-image": {
-        "path": "common",
-        "name": "old-lady"
-      },
-      "site-discipline-bkg-color": "#FFFCF8",
-      "site-discipline-section-list": [
-        {
-          "title": "Scopri il servizio",
-          "link": "/badante/",
-          "image": {
-            "path": "caregiver",
-            "name": "caregiver"
-          },
-          "color": "#f8f3e9"
-        }
-      ],
-      "site-discipline-notes": "*Il servizio di badanti è attivo in tutta Italia."
-    },
-    {
-      "site-discipline-section-title": "Videoconsulti specialistici online",
-      "site-discipline-section-description": "Parla con uno specialista dove e quando vuoi, evitando scomodi spostamenti.<br /> Collegati da pc, smartphone o tablet e prenditi cura della tua salute in tempo reale. Il nostro servizio è disponibile 7 giorni su 7 e strutturato a completa garanzia della tua privacy.",
-      "site-discipline-placeholder-image": {},
-      "site-discipline-bkg-color": "#FFF",
-      "site-discipline-section-list": [
-        {
-          "title": "Parla con un professionista",
-          "link": "/videoconsulti/",
-          "image": {
-            "path": "videoconsultation",
-            "name": "videoconsultation"
-          },
-          "color": "#F5F8FF"
-        }
-      ],
-      "site-discipline-notes": ""
-    },
-    {
-      "site-discipline-section-title": "Psicologia e psicoterapia online",
-      "site-discipline-section-description": "Con EpiCura puoi consultare i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet.<br /> Prenota in pochi click e ritrova la tua serenità, con un servizio su misura a completa garanzia della tua privacy. ",
-      "site-discipline-placeholder-image": {
-        "path": "common",
-        "name": "psycho"
-      },
-      "site-discipline-bkg-color": "#F5F8FF",
-      "site-discipline-section-list": [
-        {
-          "title": "Inizia la terapia online",
-          "link": "/psicologo-psicoterapeuta-online/",
-          "image": {
-            "path": "psychology",
-            "name": "psychology"
-          },
-          "color": "#FFE9A7"
-        }
-      ],
-      "site-discipline-notes": ""
-    }
-  ],
-  "site-landing-cta-btn-list": [
-    {
-      "site-cta-btn-action": "/",
-      "site-cta-button-text": "20% di sconto sulla prima visita",
-      "site-cta-button-color": "#FFE66D"
-    }
-  ],
-  "site-landing-cta-big-list": [],
-  "site-landing-cta-card-list": [
-    {
-      "site-cta-card-title": "Sei un medico o un professionista sanitario?",
-      "site-cta-card-description": "Lavoriamo solo con personale qualificato e certificato, capace di rispondere a precisi criteri di selezione. <br /> Il nostro obiettivo è garantirti un servizio con elevati standard di qualità. <br /><br /> Con EpiCura la tua salute è nelle mani dei migliori professionisti!",
-      "site-cta-card-btn-text": "Collaboriamo",
-      "site-cta-card-btn-action": "/professionisti-lavoro/",
-      "site-cta-card-btn-action-collaboration": "/professionisti-lavoro/",
-      "site-cta-card-bkg-color": "#FFE2ED",
-      "site-cta-card-img-bkg": {
-        "path": "common",
-        "name": "pro-group"
-      }
-    }
-  ],
-  "site-landing-page-slogan": "Vogliamo rendere la sanità <br /> più semplice, rapida e su misura.",
-  "site-landing-active-cities-title": "Ecco le città in cui siamo attivi*",
-  "site-landing-newsletter-img": {
-    "path": "common",
-    "name": "news-letter"
-  },
-  "site-landing-active-cities-notes": "*Il servizio di badanti è attivo in tutta Italia.",
-  "site-landing-carousel": [
-    {
-      "title": "Paga comodamente online in modo semplice e sicuro",
-      "description": "Prenota e paga in pochi click, in totale sicurezza: accettiamo carte di credito, bancomat e prepagate. Puoi inoltre effettuare pagamenti tramite bonifico per le spese superiori a 150€.",
-      "cta-text": "Prenota ora",
-      "cta-link": "https://app.epicura.it",
-      "image": {
-        "path": "common",
-        "name": "payment-with-card"
-      }
-    },
-    {
-      "title": "Personale certificato, salute assicurata",
-      "description": "Lavoriamo solo con professionisti qualificati e certificati. Tutte le prestazioni sono inoltre coperte da assicurazione. E se ti servisse un rimborso da parte del tuo ente assicurativo? Presentando la fattura avrai diritto ai rimborsi previsti.",
-      "cta-text": "Prenota ora",
-      "cta-link": "https://app.epicura.it",
-      "image": {
-        "path": "common",
-        "name": "insurance"
-      }
-    },
-    {
-      "title": "Detraibilità fiscale garantita per le spese sanitarie",
-      "description": "EpiCura garantisce la detraibilità di tutte le spese sanitarie proprio come un qualsiasi poliambulatorio o centro medico. Per usufruire delle detrazioni sarà sufficiente utilizzare la fattura ricevuta dopo il pagamento.",
-      "cta-text": "Prenota ora",
-      "cta-link": "https://app.epicura.it",
-      "image": {
-        "path": "common",
-        "name": "tax-deductions"
-      }
-    }
-  ],
   "top-banner": {
     "title": "Prenotare una visita <br />è sempre un incubo",
     "subtitle": "Con EpiCura pensa solo alla salute: prenota e ricevi l'intervento a casa, in studio o in videoconsulto, 7 giorni su 7, entro 24 ore.",
     "img": {
       "path": "common",
-      "name": "header_home_new"
+      "name": "header-home"
     },
     "has-large-title": true,
     "has-absolute-image": false,
@@ -218,7 +95,7 @@
     "first-image-order": false,
     "hide-image-mobile": true,
     "has-large-title": true,
-    "has-bg-color": "epicura-bg-light2",
+    "has-bg-color": "prime-light",
     "cta-content": []
   },
   "prime-table-compare": [
@@ -324,16 +201,16 @@
     }
   ],
   "app-banner": {
-    "title": "50% di sconto sulla prima visita. <br />Scarica l'app",
+    "title": "50% di sconto sulla prima visita. <br /> Scarica l'app",
     "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
-      "name": "app_mockup"
+      "name": "download-app-prime"
     },
+    "has-large-title": true,
     "has-absolute-image": true,
     "first-image-order": true,
-    "hide-image-mobile": true,
-    "has-large-title": true,
+    "hide-image-mobile": false,
     "has-bg-color": "prime",
     "cta-content": [
       {
@@ -469,15 +346,15 @@
   ],
   "slider-banner": [
     {
-      "title": "Paga comodamente online",
+      "title": "Paga comodamente online <br /> in modo semplice e sicuro",
       "subtitle": "Quanto è bello saltare le file agli sportelli? Paga direttamente online tramite pc, tablet o smartphone.",
       "img": {
         "path": "common",
-        "name": "online_payment"
+        "name": "online-payment"
       },
       "has-absolute-image": false,
       "first-image-order": false,
-      "hide-image-mobile": true,
+      "hide-image-mobile": false,
       "has-large-title": false,
       "has-bg-color": "",
       "cta-content": [
@@ -490,15 +367,36 @@
       ]
     },
     {
-      "title": "Paga comodamente online",
-      "subtitle": "Quanto è bello saltare le file agli sportelli? Paga direttamente online tramite pc, tablet o smartphone.",
+      "title": "Personale certificato, <br/> salute assicurata",
+      "subtitle": "Lavoriamo solo con professionisti qualificati e certificati. Tutte le prestazioni sono inoltre coperte da assicurazione. E se ti servisse un rimborso da parte del tuo ente assicurativo? Presentando la fattura avrai diritto ai rimborsi previsti.",
       "img": {
         "path": "common",
-        "name": "online_payment"
+        "name": "salute-assicurata"
       },
       "has-absolute-image": false,
       "first-image-order": false,
-      "hide-image-mobile": true,
+      "hide-image-mobile": false,
+      "has-large-title": false,
+      "has-bg-color": "",
+      "cta-content": [
+        {
+          "label": "Entra in Epicura",
+          "link": "/",
+          "image": "",
+          "variant": "outlined"
+        }
+      ]
+    },
+    {
+      "title": "Detraibilità fiscale garantita per le spese sanitarie",
+      "subtitle": "Prenota e paga in pochi click, in totale sicurezza: accettiamo carte di credito, bancomat e prepagate. Puoi inoltre effettuare pagamenti tramite bonifico per le spese superiori a 150€.",
+      "img": {
+        "path": "common",
+        "name": "detraibilita-fiscale"
+      },
+      "has-absolute-image": false,
+      "first-image-order": false,
+      "hide-image-mobile": false,
       "has-large-title": false,
       "has-bg-color": "",
       "cta-content": [
@@ -510,217 +408,5 @@
         }
       ]
     }
-  ],
-  "discipline-carousel": {
-    "title": "Specialità più richieste a Torino",
-    "cards": [
-      {
-        "title": "Fisioterapia",
-        "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/fisioterapia",
-        "discipline": "physiotherapy"
-      },
-      {
-        "title": "Veterinaria",
-        "text": "A partire da 60€",
-        "image": "/img/card-image.png",
-        "url": "/veterinaria",
-        "discipline": "veterinary"
-      },
-      {
-        "title": "Nutrizione",
-        "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/nutrizione",
-        "discipline": "nutrition"
-      },
-      {
-        "title": "Pediatria",
-        "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/pediatria",
-        "discipline": "pediatrics"
-      },
-      {
-        "title": "Fisioterapia",
-        "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/fisioterapia",
-        "discipline": "physiotherapy"
-      },
-      {
-        "title": "Veterinaria",
-        "text": "A partire da 60€",
-        "image": "/img/card-image.png",
-        "url": "/veterinaria",
-        "discipline": "veterinary"
-      },
-      {
-        "title": "Nutrizione",
-        "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/nutrizione",
-        "discipline": "nutrition"
-      },
-      {
-        "title": "Pediatria",
-        "text": "A partire da 40€/seduta",
-        "image": "/img/card-image.png",
-        "url": "/pediatria",
-        "discipline": "pediatrics"
-      }
-    ]
-  },
-  "prime-cards": {
-    "title": "I migliori professionisti <strong>a portata di click.</strong>",
-    "cards": [
-      {
-        "title": "Videoconsulto Medico di base <strong>illimitato</strong>",
-        "text": "",
-        "textVariant": "",
-        "image": "/img/card-image-big.png",
-        "cta": [],
-        "variant": "prime",
-        "hasBgColor": false
-      },
-      {
-        "title": "Videoconsulto Veterinario <strong>illimitato</strong>",
-        "text": "",
-        "textVariant": "",
-        "image": "/img/card-image-big.png",
-        "cta": [],
-        "variant": "prime",
-        "hasBgColor": false
-      },
-      {
-        "title": "Videoconsulto Veterinario <strong>illimitato</strong>",
-        "text": "",
-        "textVariant": "",
-        "image": "/img/card-image-big.png",
-        "cta": [],
-        "variant": "prime",
-        "hasBgColor": false
-      },
-      {
-        "title": "Inizia ora i tuoi 14 giorni di prova gratuita",
-        "text": "Se non ti piace, disdici quando vuoi.",
-        "textVariant": "180€ all’anno",
-        "image": "",
-        "cta": [
-          {
-            "label": "Prova gratis",
-            "link": "",
-            "image": "",
-            "variant": "outlined"
-          }
-        ],
-        "variant": "prime",
-        "hasBgColor": true
-      }
-    ]
-  },
-  "contact-us": {
-    "title": "Vuoi saperne di più?",
-    "subtitle": "Costruiamo insieme il poliambulatorio digitale su misura per voi.",
-    "cta": [
-      {
-        "label": "Entriamo in contatto",
-        "link": "/",
-        "image": "",
-        "variant": "outlined"
-      }
-    ]
-  },
-  "price-cards": {
-    "title": "I percorsi che abbiamo pensato per te",
-    "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato? Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
-    "cards": [
-      {
-        "is-highlighted": false,
-        "title": "Percorso basic",
-        "subtitle": "Inizia il tuo percorso con 2 videosedute mensili. Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te.",
-        "previous-price": "",
-        "price": "105 Euro",
-        "price-detail": "Pacchetto base",
-        "cta": [
-          {
-            "label": "Parla con un tutor",
-            "link": "/",
-            "image": "",
-            "variant": "outlined"
-          }
-        ]
-      },
-      {
-        "is-highlighted": true,
-        "title": "Percorso plus",
-        "subtitle": "Questo percorso ti consente di accedere a 3 videosedute mensili, comodamente da smartphone, pc o tablet. Ideale per chi si approccia per la prima volta alla terapia psicologica.",
-        "previous-price": "165",
-        "price": "153 Euro",
-        "price-detail": "Il più acquistato",
-        "cta": [
-          {
-            "label": "Parla con un tutor",
-            "link": "/",
-            "image": "",
-            "variant": "gradient"
-          }
-        ]
-      },
-      {
-        "is-highlighted": false,
-        "title": "Percorso standard",
-        "subtitle": "Percorso terapeutico che comprende 4 videosedute mensili, particolarmente efficace per lavorare su sofferenze e disturbi di lungo periodo. Ideale per un supporto psicologico costante.",
-        "previous-price": "220",
-        "price": "198 Euro",
-        "price-detail": "Risparmi 22 Euro",
-        "cta": [
-          {
-            "label": "Parla con un tutor",
-            "link": "/",
-            "image": "",
-            "variant": "outlined"
-          }
-        ]
-      }
-    ]
-  },
-  "event-carousel": {
-    "title": "",
-    "cards": [
-      {
-        "title": "Il welfare del futuro",
-        "text": "Come sarà il welfare del futuro? Scopriamolo insieme in un momento di condivisione e confronto attraverso il supporto di dati e testimonianze di rilievo. Iscriviti ora!",
-        "img": {
-          "path": "common",
-          "name": "event-carousel-image"
-        },
-        "cta": [
-          {
-            "label": "Iscriviti al webinar",
-            "link": "/",
-            "image": "",
-            "variant": "outlined"
-          }
-        ]
-      },
-      {
-        "title": "Il welfare del futuro",
-        "text": "Come sarà il welfare del futuro? Scopriamolo insieme in un momento di condivisione e confronto attraverso il supporto di dati e testimonianze di rilievo. Iscriviti ora!",
-        "img": {
-          "path": "common",
-          "name": "event-carousel-image"
-        },
-        "cta": [
-          {
-            "label": "Iscriviti al webinar",
-            "link": "/",
-            "image": "",
-            "variant": "outlined"
-          }
-        ]
-      }
-    ]
-  }
+  ]
 }
