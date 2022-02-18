@@ -182,8 +182,8 @@
       }
     ]
   },
-  "service-cards": {
-    "title": "Diversi servizi, stessa cura alla persona",
+  "caregiver-service": {
+    "title": "<strong>Diversi servizi, stessa cura alla persona</strong>",
     "subtitle": "Paghi soltanto dopo l’inserimento della badante in famiglia",
     "cards": [
       {
@@ -200,7 +200,7 @@
         "cta": [
           {
             "label": "Scopri di più",
-            "link": "/",
+            "link": "/badante/badante-convivente/",
             "image": "",
             "variant": "outlined"
           }
@@ -213,7 +213,7 @@
           "name": "badante-full-time"
         },
         "title": "Badante diurna",
-        "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi. <br /><small>A partire da 720 Euro al mese</small>",
+        "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi. <br /><br /><small>A partire da 720 Euro al mese</small>",
         "previous-price": "",
         "price": "",
         "price-detail": "Servizio attivo in tutta italia",
@@ -233,7 +233,7 @@
           "name": "badante-full-time"
         },
         "title": "Badante notturna",
-        "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi. <br /><small>A partire da 1.180 Euro al mese</small>",
+        "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi. <br /><br /><small>A partire da 1.180 Euro al mese</small>",
         "previous-price": "",
         "price": "",
         "price-detail": "Servizio attivo in tutta italia",
