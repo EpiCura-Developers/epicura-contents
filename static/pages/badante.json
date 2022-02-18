@@ -83,7 +83,6 @@
       "discipline": "assistente-domiciliare"
     }
   ],
-
   "top-banner": {
     "title": "Troviamo l'assistenza a domicilio migliore per te",
     "subtitle": "Aiutiamo le persone ad assistere anziani, malati e disabili con una ricerca mirata e una selezione attenta di badanti e assistenti a ore, in tutta Italia. Collochiamo soltanto personale affidabile e referenziato: è una promessa.",
@@ -338,8 +337,8 @@
     "title": "Cerchi una badante? <br />Chiedi al family tutor.",
     "subtitle": "Non perdere la testa nella ricerca di una badante. <br /> Se non sai da dove iniziare, un nostro consulente ascolterà le tue esigenze e ti guiderà verso il percorso assistenziale più adeguato.<br />Pensaci: una telefonata può cambiarti la vita.",
     "img": {
-      "path": "common",
-      "name": "service-banner"
+      "path": "caregiver",
+      "name": "family-tutor-1"
     },
     "has-large-title": false,
     "has-absolute-image": true,
@@ -361,7 +360,7 @@
     "subtitle": "Se hai esperienza nel campo dell’assistenza alla persona, svolgi il tuo lavoro con professionalità e hai referenze dimostrabili, invia il tuo curriculum per entrare a far parte della rete di professionisti EpiCura, attiva in tutta Italia.",
     "img": {
       "path": "caregiver",
-      "name": "caregiver-banner"
+      "name": "caregiver-job"
     },
     "has-large-title": false,
     "has-absolute-image": true,
