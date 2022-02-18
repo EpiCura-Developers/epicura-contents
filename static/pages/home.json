@@ -27,21 +27,24 @@
       {
         "title": "Visite mediche, esami strumentali e videoconsulti",
         "subtitle": "online - a domicilio - in studio",
-        "img": "/img/visite_mediche.svg",
+        "img": "/img/visite-mediche-gradient.png",
+        "img-hover": "/img/visite-mediche-white.png",
         "cta-label": "Prenota",
         "url": "/servizi/"
       },
       {
         "title": "Ricerca e selezione badanti, assistenza domiciliare ad ore",
         "subtitle": "a domicilio",
-        "img": "/img/ricerca_badante.svg",
+        "img": "/img/ricerca-badante-gradient.png",
+        "img-hover": "/img/ricerca-badante-white.png",
         "cta-label": "Prenota",
         "url": "/badante/"
       },
       {
         "title": "Percorsi di psicologia e psicoterapia",
         "subtitle": "online - in studio",
-        "img": "/img/psicologia_psicoterapia.svg",
+        "img": "/img/psicologia-gradient.png",
+        "img-hover": "/img/psicologia-white.png",
         "cta-label": "Prenota",
         "url": "/psicologo-psicoterapeuta-online/"
       }
