@@ -124,7 +124,7 @@
         }
       },
       {
-        "title": "Professionisti certificati",
+        "title": "Professionisti <br /> certificati",
         "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
         "img": {
           "path": "common",
@@ -140,7 +140,7 @@
         }
       },
       {
-        "title": "Supporto costante",
+        "title": "Supporto <br /> costante",
         "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
         "img": {
           "path": "common",
