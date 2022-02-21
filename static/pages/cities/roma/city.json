@@ -23,21 +23,24 @@
       {
         "title": "Visite mediche, esami strumentali e videoconsulti",
         "subtitle": "online - a domicilio - in studio",
-        "img": "/img/visite_mediche.svg",
+        "img": "/img/visite-mediche-gradient.png",
+        "img-hover": "/img/visite-mediche-white.png",
         "cta-label": "Prenota",
         "url": "/servizi/"
       },
       {
         "title": "Ricerca e selezione badanti, assistenza domiciliare ad ore",
         "subtitle": "a domicilio",
-        "img": "/img/ricerca_badante.svg",
+        "img": "/img/ricerca-badante-gradient.png",
+        "img-hover": "/img/ricerca-badante-white.png",
         "cta-label": "Prenota",
         "url": "/badante/"
       },
       {
         "title": "Percorsi di psicologia e psicoterapia",
         "subtitle": "online - in studio",
-        "img": "/img/psicologia_psicoterapia.svg",
+        "img": "/img/psicologia-gradient.png",
+        "img-hover": "/img/psicologia-white.png",
         "cta-label": "Prenota",
         "url": "/psicologo-psicoterapeuta-online/"
       }
@@ -140,7 +143,7 @@
         }
       },
       {
-        "title": "Professionisti certificati",
+        "title": "Professionisti <br /> certificati",
         "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
         "img": {
           "path": "common",
@@ -156,7 +159,7 @@
         }
       },
       {
-        "title": "Supporto costante",
+        "title": "Supporto <br /> costante",
         "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
         "img": {
           "path": "common",

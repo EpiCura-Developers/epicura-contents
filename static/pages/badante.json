@@ -88,11 +88,11 @@
     "subtitle": "Aiutiamo le persone ad assistere anziani, malati e disabili con una ricerca mirata e una selezione attenta di badanti e assistenti a ore, in tutta Italia. Collochiamo soltanto personale affidabile e referenziato: è una promessa.",
     "img": {
       "path": "caregiver",
-      "name": "caregiver-banner"
+      "name": "caregiver-header"
     },
     "list-details": [
       {
-        "icon": "/img/visite-mediche.png",
+        "icon": "/img/ricerca-selezione.png",
         "text": "<strong>Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.</strong>"
       }
     ],
@@ -107,7 +107,7 @@
         "label": "Richiedi preventivo gratuito",
         "link": "/",
         "image": "",
-        "variant": "filled"
+        "variant": "gradient"
       }
     ]
   },
@@ -156,8 +156,8 @@
         "title": "Analizziamo le esigenze dei familiari",
         "text": "Attraverso una consulenza dedicata, i nostri Family Tutor individuano le necessità della tua famiglia, costruendo un piano assistenziale su misura.",
         "img": {
-          "path": "common",
-          "name": "videoconsulto-icon"
+          "path": "caregiver",
+          "name": "esigenze-familiari"
         },
         "has-background": true
       },
@@ -165,8 +165,8 @@
         "title": "Troviamo la badante più adatta",
         "text": "In base alle tue richieste, pensiamo noi a cercare le persone più idonee da presentarti. Lavoriamo solo con personale esperto e referenziato.",
         "img": {
-          "path": "common",
-          "name": "psicologia-online"
+          "path": "caregiver",
+          "name": "badante-adatta"
         },
         "has-background": true
       },
@@ -174,8 +174,8 @@
         "title": "Gestiamo la parte contrattuale",
         "text": "EpiCura si occupa totalmente della gestione burocratica e fiscale, sollevandoti da ogni incombenza gestionale, per offrirti un servizio ‘senza pensieri’.",
         "img": {
-          "path": "common",
-          "name": "referto-medico"
+          "path": "caregiver",
+          "name": "gestione-contrattuale"
         },
         "has-background": true
       }
@@ -219,7 +219,7 @@
         "cta": [
           {
             "label": "Scopri di più",
-            "link": "/",
+            "link": "badante/badante-diurna/",
             "image": "",
             "variant": "outlined"
           }
@@ -239,7 +239,7 @@
         "cta": [
           {
             "label": "Scopri di più",
-            "link": "/",
+            "link": "badante/badante-notturna/",
             "image": "",
             "variant": "outlined"
           }

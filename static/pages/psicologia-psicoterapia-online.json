@@ -231,5 +231,27 @@
     "button-text": "Richiedi informazioni",
     "button-link-production": "https://share.hsforms.com/1CZItMEkXQ16DCV1LVw-T5g4ebbs",
     "button-link-staging": "https://share.hsforms.com/1C2v2qPBhSVaQDKdTIJfwMQ5kab9"
+  },
+
+  "top-banner": {
+    "title": "Psicologo e Psicoterapeuta online",
+    "subtitle": "Con EpiCura puoi consultare i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet.",
+    "img": {
+      "path": "common",
+      "name": "header_home_new"
+    },
+    "has-large-title": true,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": "psycology",
+    "cta-content": [
+      {
+        "label": "Inizia il tuo percorso",
+        "link": "/",
+        "image": "",
+        "variant": "filled"
+      }
+    ]
   }
 }

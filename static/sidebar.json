@@ -68,7 +68,7 @@
     }
   },
   {
-    "option-link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+    "option-link": "https://apps.apple.com/us/app/epicura/id1606001325",
     "option-label": "apple app store",
     "option-is-complex": true,
     "option-is-amp": false,
@@ -80,7 +80,7 @@
     }
   },
   {
-    "option-link": "https://play.google.com/store/apps/details?id=com.epicuramed.epicurapro",
+    "option-link": "https://play.google.com/store/apps/details?id=it.epicura.customers&gl=IT",
     "option-label": "google play store",
     "option-is-complex": true,
     "option-is-amp": false,
