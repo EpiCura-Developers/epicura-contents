@@ -8,21 +8,21 @@
     "name": "services"
   },
   "top-banner": {
-    "title": "<strong>Prenotare una visita <br />è sempre un incubo</strong>",
-    "subtitle": "Con epiCura pensa solo alla salute: prenota e ricevi l'intervento a casa, in studio o in videoconsulto, 7 giorni su 7, entro 24 ore.",
+    "title": "Prenotare una visita <br />è sempre un incubo",
+    "subtitle": "Con <strong>epiCura</strong> prenota e ricevi l'<strong>intervento a casa, in studio o in videoconsulto</strong>, 7 giorni su 7, entro 24 ore.",
     "img": {
       "path": "common",
       "name": "header-home"
     },
     "has-large-title": true,
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": true,
     "has-bg-color": "",
     "cta-content": []
   },
   "service-cards": {
-    "title": "Prenota subito",
+    "title": "Ecco cosa puoi prenotare:",
     "cards": [
       {
         "title": "Visite mediche, esami strumentali e videoconsulti",
@@ -204,7 +204,7 @@
     }
   ],
   "app-banner": {
-    "title": "50% di sconto sulla prima visita. <br /> Scarica l'app",
+    "title": "50% di sconto sulla prima visita. <br /> Scarica l'app!",
     "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
@@ -214,7 +214,7 @@
     "has-absolute-image": true,
     "first-image-order": true,
     "hide-image-mobile": false,
-    "has-bg-color": "bg-prime",
+    "has-bg-color": "prime",
     "cta-content": [
       {
         "label": "",
