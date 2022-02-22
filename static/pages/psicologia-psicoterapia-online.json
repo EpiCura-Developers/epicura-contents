@@ -238,7 +238,7 @@
     "has-large-title": true,
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": false,
+    "hide-image-mobile": true,
     "has-bg-color": "psychology",
     "cta-content": [
       {
