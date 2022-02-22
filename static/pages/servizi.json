@@ -276,5 +276,50 @@
         "url": "/psicologo-psicoterapeuta-online/"
       }
     ]
+  },
+  "cities-list": {
+    "title": "",
+    "cities": [
+      {
+        "option-link": "/torino/assistente-domiciliare/",
+        "option-label": "Torino"
+      },
+      {
+        "option-link": "/milano/assistente-domiciliare/",
+        "option-label": "Milano"
+      },
+      {
+        "option-link": "/roma/assistente-domiciliare/",
+        "option-label": "Roma"
+      },
+      {
+        "option-link": "/bologna/assistente-domiciliare/",
+        "option-label": "Bologna"
+      },
+      {
+        "option-link": "/verona/assistente-domiciliare/",
+        "option-label": "Verona"
+      },
+      {
+        "option-link": "/brescia/assistente-domiciliare/",
+        "option-label": "Brescia"
+      },
+      {
+        "option-link": "/catania/assistente-domiciliare/",
+        "option-label": "Catania"
+      },
+      {
+        "option-link": "/genova/assistente-domiciliare/",
+        "option-label": "Genova"
+      },
+      {
+        "option-link": "/firenze/assistente-domiciliare/",
+        "option-label": "Firenze"
+      },
+      {
+        "option-link": "/napoli/assistente-domiciliare/",
+        "option-label": "Napoli"
+      }
+    ]
   }
 }

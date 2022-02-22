@@ -347,69 +347,70 @@
       "option-label": "Napoli"
     }
   ],
-  "slider-banner": [
-    {
-      "title": "Paga comodamente online <br /> in modo semplice e sicuro",
-      "subtitle": "Quanto è bello saltare le file agli sportelli? Paga direttamente online tramite pc, tablet o smartphone.",
-      "img": {
-        "path": "common",
-        "name": "online-payment"
-      },
-      "has-absolute-image": false,
-      "first-image-order": false,
-      "hide-image-mobile": false,
-      "has-large-title": false,
-      "has-bg-color": "",
-      "cta-content": [
-        {
-          "label": "Entra in Epicura",
-          "link": "/",
-          "image": "",
-          "variant": "outlined"
-        }
-      ]
+  "slider-banner": {
+    "title": "Paga comodamente online <br /> in modo semplice e sicuro",
+    "subtitle": "Quanto è bello saltare le file agli sportelli? Paga direttamente online tramite pc, tablet o smartphone.",
+    "img": {
+      "path": "common",
+      "name": "online-payment"
     },
-    {
-      "title": "Personale certificato, <br/> salute assicurata",
-      "subtitle": "Lavoriamo solo con professionisti qualificati e certificati. Tutte le prestazioni sono inoltre coperte da assicurazione. E se ti servisse un rimborso da parte del tuo ente assicurativo? Presentando la fattura avrai diritto ai rimborsi previsti.",
-      "img": {
-        "path": "common",
-        "name": "salute-assicurata"
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-large-title": false,
+    "has-bg-color": "",
+    "cta-content": [
+      {
+        "label": "Entra in Epicura",
+        "link": "/",
+        "image": "",
+        "variant": "outlined"
+      }
+    ]
+  },
+  "cities-list": {
+    "title": "",
+    "cities": [
+      {
+        "option-link": "/torino/assistente-domiciliare/",
+        "option-label": "Torino"
       },
-      "has-absolute-image": false,
-      "first-image-order": false,
-      "hide-image-mobile": false,
-      "has-large-title": false,
-      "has-bg-color": "",
-      "cta-content": [
-        {
-          "label": "Entra in Epicura",
-          "link": "/",
-          "image": "",
-          "variant": "outlined"
-        }
-      ]
-    },
-    {
-      "title": "Detraibilità fiscale garantita per le spese sanitarie",
-      "subtitle": "Prenota e paga in pochi click, in totale sicurezza: accettiamo carte di credito, bancomat e prepagate. Puoi inoltre effettuare pagamenti tramite bonifico per le spese superiori a 150€.",
-      "img": {
-        "path": "common",
-        "name": "detraibilita-fiscale"
+      {
+        "option-link": "/milano/assistente-domiciliare/",
+        "option-label": "Milano"
       },
-      "has-absolute-image": false,
-      "first-image-order": false,
-      "hide-image-mobile": false,
-      "has-large-title": false,
-      "has-bg-color": "",
-      "cta-content": [
-        {
-          "label": "Entra in Epicura",
-          "link": "/",
-          "image": "",
-          "variant": "outlined"
-        }
-      ]
-    }
-  ]
+      {
+        "option-link": "/roma/assistente-domiciliare/",
+        "option-label": "Roma"
+      },
+      {
+        "option-link": "/bologna/assistente-domiciliare/",
+        "option-label": "Bologna"
+      },
+      {
+        "option-link": "/verona/assistente-domiciliare/",
+        "option-label": "Verona"
+      },
+      {
+        "option-link": "/brescia/assistente-domiciliare/",
+        "option-label": "Brescia"
+      },
+      {
+        "option-link": "/catania/assistente-domiciliare/",
+        "option-label": "Catania"
+      },
+      {
+        "option-link": "/genova/assistente-domiciliare/",
+        "option-label": "Genova"
+      },
+      {
+        "option-link": "/firenze/assistente-domiciliare/",
+        "option-label": "Firenze"
+      },
+      {
+        "option-link": "/napoli/assistente-domiciliare/",
+        "option-label": "Napoli"
+      }
+    ]
+  }
 }
