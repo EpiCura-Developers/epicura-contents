@@ -3,6 +3,86 @@
     "title": "Servizio ricerca badanti e assistenti domiciliari",
     "description": "Badanti in tutta Italia. Family tutor dedicato, sostituzione gratuita, soddisfatto o rimborsato. Piani di assistenza personalizzati, ci occupiamo noi della burocrazia."
   },
+  "services": [
+    {
+      "name": "Badante diurna",
+      "link": "/badante/badante-diurna/",
+      "discipline": "badante"
+    },
+    {
+      "name": "Badante notturna",
+      "link": "/badante/badante-notturna/",
+      "discipline": "badante"
+    },
+    {
+      "name": "Badante convivente",
+      "link": "/badante/badante-convivente/",
+      "discipline": "badante"
+    },
+    {
+      "name": "Assistenza a ore"
+    },
+    {
+      "link": "/torino/assistente-domiciliare/",
+      "name": "Torino",
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
+    },
+    {
+      "link": "/milano/assistente-domiciliare/",
+      "name": "Milano",
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
+    },
+    {
+      "link": "/roma/assistente-domiciliare/",
+      "name": "Roma",
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
+    },
+    {
+      "link": "/bologna/assistente-domiciliare/",
+      "name": "Bologna",
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
+    },
+    {
+      "link": "/verona/assistente-domiciliare/",
+      "name": "Verona",
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
+    },
+    {
+      "link": "/brescia/assistente-domiciliare/",
+      "name": "Brescia",
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
+    },
+    {
+      "link": "/catania/assistente-domiciliare/",
+      "name": "Catania",
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
+    },
+    {
+      "link": "/genova/assistente-domiciliare/",
+      "name": "Genova",
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
+    },
+    {
+      "link": "/firenze/assistente-domiciliare/",
+      "name": "Firenze",
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
+    },
+    {
+      "link": "/napoli/assistente-domiciliare/",
+      "name": "Napoli",
+      "isHomeAssistance": true,
+      "discipline": "assistente-domiciliare"
+    }
+  ],
   "top-banner": {
     "title": "Spazientalgia da badante introvabile?",
     "subtitle": "Ti aiutiamo a trovare la badante perfetta o l’assistente a ore idoneo per le tue necessità! Il nostro personale è composto  da professionisti affidabili e referenziati, in tutta Italia.",
