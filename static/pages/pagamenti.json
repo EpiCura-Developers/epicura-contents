@@ -1,8 +1,8 @@
 {
-    "metaDescription": {
-        "title": "EpiCura - Pagamento",
-        "description": "Paga in totale sicurezza. Accettiamo carte di credito, bancomat e prepagate. Puoi inoltre effettuare pagamenti tramite bonifico per importi maggiori di 150 euro."
-    },
-    "tip": "Puoi decidere di annullare la prestazione in qualsiasi momento, ti rimborseremo il 100% dell'importo pagato.",
-    "payment": "Pagamento sicuro"
+  "metaDescription": {
+    "title": "epiCura - Pagamento",
+    "description": "Paga in totale sicurezza. Accettiamo carte di credito, bancomat e prepagate. Puoi inoltre effettuare pagamenti tramite bonifico per importi maggiori di 150 euro."
+  },
+  "tip": "Puoi decidere di annullare la prestazione in qualsiasi momento, ti rimborseremo il 100% dell'importo pagato.",
+  "payment": "Pagamento sicuro"
 }

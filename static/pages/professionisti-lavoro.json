@@ -1,7 +1,7 @@
 {
   "metaDescription": {
     "title": "Lavora con EpiCura",
-    "description": "Entra nella rete di professionisti EpiCura e costruisci con noi il futuro della sanità."
+    "description": "Entra nella rete di professionisti epiCura e costruisci con noi il futuro della sanità."
   },
   "imagesList": {
     "search-bck-img": { "path": "common", "name": "header_home" },
@@ -21,20 +21,20 @@
   },
   "header": {
     "title": "Diventa parte del primo poliambulatorio digitale in Italia.",
-    "subtitle": "Entra nella rete di professionisti EpiCura e costruisci con noi il futuro della sanità.",
+    "subtitle": "Entra nella rete di professionisti epiCura e costruisci con noi il futuro della sanità.",
     "background-image": "specialist"
   },
   "first-section": {
     "title": "Perché conviene?",
     "card-list": [
       {
-        "title": "Il mondo EpiCura in un'app",
+        "title": "Il mondo epiCura in un'app",
         "content": "Scopri le richieste di intervento nella tua città, prendi in carico la prestazione e gestisci tutto comodamente da smartphone.",
         "image": "pro-alarm"
       },
       {
         "title": "Scegli tu quando lavorare",
-        "content": "Con EpiCura sei tu a scegliere le prestazioni da prendere in carico: decidi tu come, dove e quando lavorare.",
+        "content": "Con epiCura sei tu a scegliere le prestazioni da prendere in carico: decidi tu come, dove e quando lavorare.",
         "image": "pro-pointer"
       },
       {
@@ -44,14 +44,14 @@
       },
       {
         "title": "Dimentica la burocrazia!",
-        "content": "Con EpiCura la gestione fiscale e contrattuale è totalmente a carico nostro: pensa solo al tuo lavoro, del resto ci occupiamo noi!",
+        "content": "Con epiCura la gestione fiscale e contrattuale è totalmente a carico nostro: pensa solo al tuo lavoro, del resto ci occupiamo noi!",
         "image": "pro-docs"
       }
     ]
   },
   "second-section": {
     "title": "Gestisci tutto tramite App",
-    "subtitle": "La nostra applicazione è progettata per rendere il tuo lavoro semplice, comodo e accessibile. <br /> Con EpiCura puoi visualizzare, gestire e prendere in carico le richieste d'intervento ovunque tu sia: basta un tocco dal tuo smartphone.",
+    "subtitle": "La nostra applicazione è progettata per rendere il tuo lavoro semplice, comodo e accessibile. <br /> Con epiCura puoi visualizzare, gestire e prendere in carico le richieste d'intervento ovunque tu sia: basta un tocco dal tuo smartphone.",
     "background-image": "pro-phone"
   },
   "third-section": {
@@ -65,7 +65,7 @@
       },
       {
         "title": "Prendi in carico la prestazione",
-        "content": "Con EpiCura non hai vincoli: puoi prendere in carico solo le richieste d'intervento che si conciliano con i tuoi impegni personali e lavorativi.",
+        "content": "Con epiCura non hai vincoli: puoi prendere in carico solo le richieste d'intervento che si conciliano con i tuoi impegni personali e lavorativi.",
         "image": "pro-calendar"
       },
       {
@@ -156,11 +156,11 @@
     },
     {
       "title": "Come vengono gestite le richieste degli utenti?",
-      "content": "La nostra priorità è garantire all'utente tempestività d’intervento e massima flessibilità oraria. Per questo motivo le richieste vengono visualizzate da tutti i professionisti e viene presa in carico dal primo che si rende disponibile. Questo modello consente a tutti gli specialisti di lavorare quando preferiscono e rende EpiCura la soluzione più veloce in Italia per l'erogazione di servizi sanitari e socio-assistenziali."
+      "content": "La nostra priorità è garantire all'utente tempestività d’intervento e massima flessibilità oraria. Per questo motivo le richieste vengono visualizzate da tutti i professionisti e viene presa in carico dal primo che si rende disponibile. Questo modello consente a tutti gli specialisti di lavorare quando preferiscono e rende epiCura la soluzione più veloce in Italia per l'erogazione di servizi sanitari e socio-assistenziali."
     },
     {
       "title": "Come funzionano i pagamenti?",
-      "content": "Siamo noi di EpiCura a gestire totalmente pagamenti e fatture. Riceverai mensilmente tramite mail un resoconto delle prestazioni che hai effettuato e il pagamento del corrispettivo di tua spettanza."
+      "content": "Siamo noi di epiCura a gestire totalmente pagamenti e fatture. Riceverai mensilmente tramite mail un resoconto delle prestazioni che hai effettuato e il pagamento del corrispettivo di tua spettanza."
     }
   ],
   "active-provinces": [

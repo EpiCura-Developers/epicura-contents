@@ -4,11 +4,11 @@
   "linkedinLink": "https://www.linkedin.com/company/epicuramed/",
   "youtubeLink": "https://www.youtube.com/channel/UC1ibdsGsslcFBLxH2tkyZOw",
   "twitterLink": "https://twitter.com/EpiCuraMed",
-  "copyright": "EpiCura S.r.l. - Via Mercantini 5, 10121 Torino (TO) - P.Iva 11744440014 - © 2021 - Tutti i diritti riservati",
+  "copyright": "epiCura S.r.l. - Via Mercantini 5, 10121 Torino (TO) - P.Iva 11744440014 - © 2021 - Tutti i diritti riservati",
   "belowCopyright": "Made with love in Turin ❤️",
   "sections": [
     {
-      "column-name": "EpiCura",
+      "column-name": "epiCura",
       "column-options": [
         {
           "option-link": "/chi-siamo/",
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "column-name": "epiCura Prime",
+      "column-name": "Prenota tramite app",
       "column-options": [
         {
           "option-link": "https://apps.apple.com/app/epicura/id1606001325",

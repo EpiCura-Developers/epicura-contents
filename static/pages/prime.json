@@ -4,11 +4,11 @@
     "description": "Medici, infermieri, veterinari, badanti e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7."
   },
   "top-banner": {
-    "title": "<b>epiCura Prime</b> ti fa risparmiare.",
+    "title": "<b>epiCura Prime ti fa risparmiare.</b>",
     "subtitle": "Abbiamo pensato a un abbonamento che ti fa risparmiare tempo. Lo provi gratis per 14 giorni, senza impegno, e se ti piace lo sottoscrivi per un anno. <br /> <h5>180€ all’anno</h5>",
     "img": {
       "path": "epicura prime",
-      "name": "epicura-prime-header"
+      "name": "prime-header"
     },
     "has-large-title": true,
     "has-absolute-image": true,
@@ -24,60 +24,40 @@
       }
     ]
   },
-  "prime-cards": {
-    "title": "I migliori professionisti <b>a portata di click.</b>",
+  "bullet-cards": {
+    "title": "Perché affidarsi a EpiCura?",
     "cards": [
       {
-        "title": "Videoconsulto Medico di base <b>illimitato</b>",
-        "text": "",
-        "textVariant": "",
+        "title": "Comodo, veloce, <br /> flessibile",
+        "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
         "img": {
-          "path": "epicura prime",
-          "name": "videoconsulto-medicina"
-        },
-        "cta": [],
-        "variant": "prime",
-        "hasBgColor": false
+          "path": "common",
+          "name": "convenient"
+        }
       },
       {
-        "title": "Videoconsulto Veterinario <b>illimitato</b>",
-        "text": "",
-        "textVariant": "",
+        "title": "Professionisti <br /> certificati",
+        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
         "img": {
-          "path": "epicura prime",
-          "name": "videoconsulto-veterinario"
-        },
-        "cta": [],
-        "variant": "prime",
-        "hasBgColor": false
+          "path": "common",
+          "name": "pro-certified"
+        }
       },
       {
-        "title": "Sconti e convenzioni <br /><b>per sempre</b>",
-        "text": "",
-        "textVariant": "",
+        "title": "Prenotazioni <br /> senza intoppi",
+        "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
         "img": {
-          "path": "epicura prime",
-          "name": "sconti-convenzioni"
-        },
-        "cta": [],
-        "variant": "prime",
-        "hasBgColor": false
+          "path": "common",
+          "name": "booking-1"
+        }
       },
       {
-        "title": "Inizia ora i tuoi 14 giorni di prova gratuita",
-        "text": "Se non ti piace, disdici quando vuoi.",
-        "textVariant": "180€ all’anno",
-        "img": {},
-        "cta": [
-          {
-            "label": "Prova gratis",
-            "link": "",
-            "image": "",
-            "variant": "outlined"
-          }
-        ],
-        "variant": "prime",
-        "hasBgColor": true
+        "title": "Supporto <br /> costante",
+        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
+        "img": {
+          "path": "common",
+          "name": "support"
+        }
       }
     ]
   },
@@ -100,7 +80,7 @@
       "is-prime": false,
       "title": "EpiCura",
       "small-text": "0€ per sempre",
-      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "subtitle": "Le principali funzionalità di epiCura senza videoconsulti illimitati, sconti e convenzioni.",
       "option-list": [
         {
           "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
@@ -140,7 +120,7 @@
         }
       ],
       "cta": {
-        "label": "Entra in EpiCura e prenota",
+        "label": "Entra in epiCura e prenota",
         "link": "/",
         "image": "",
         "variant": "outlined"
@@ -198,8 +178,8 @@
     }
   ],
   "app-banner": {
-    "title": "50% di sconto sulla prima visita. <br /> Scarica l'app",
-    "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "title": "50% di sconto sulla prima visita. <br /> Scarica l'app!",
+    "subtitle": "Inserisci subito il promo code APP50 e prenota. <br /> Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
       "name": "download-app-prime"
