@@ -9,16 +9,15 @@
     "description2": " Prenota in pochi clic e ritrova adesso la tua serenità. "
   },
   "come_funziona": {
-    "title": "Psicologo online, come funziona",
-    "text": "Il primo videoconsulto è gratuito",
+    "title": "Come funziona?",
     "cards": [
       {
         "image": {
           "path": "common",
-          "name": "test-questionario"
+          "name": "videoconsulto-icon"
         },
-        "title": "Compila il questionario",
-        "text": "Attraverso il questionario, potrai raccontarci di te e delle tue esigenze: noi ti assegneremo lo specialista più adatto per ritrovare armonia e serenità.",
+        "title": "Inizia dal videoconsulto a 25€",
+        "text": "Inizia la terapia con un videoconsulto a soli 25 Euro: potrai confrontarti con un professionista scelto apposta per te, che ti guiderà nei primi passi del percorso terapeutico comodamente da pc, smartphone o tablet.",
         "button": {
           "link": "https://epicuramed.typeform.com/to/pkPBYBjU?utm_campaign=Videoconsulto_gratuito_psicologia&utm_source=Sito&utm_medium=CTA",
           "link-staging": "https://epicuramed.typeform.com/to/wocfjSGc?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx",
@@ -28,10 +27,10 @@
       {
         "image": {
           "path": "common",
-          "name": "scelta_percorso"
+          "name": "psicologia-online"
         },
-        "title": "Prenota il videoconsulto gratuito",
-        "text": "Sei tu a scegliere quando ricevere il videoconsulto gratuito. In fase di prenotazione, seleziona data e orario che preferisci, noi lo comunicheremo al tuo terapeuta.",
+        "title": "Scegli il percorso più adatto",
+        "text": "Dopo aver effettuato il primo videoconsulto, potrai decidere come continuare il percorso terapeutico: parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
         "button": {
           "link": "https://epicuramed.typeform.com/to/pkPBYBjU?utm_campaign=Videoconsulto_gratuito_psicologia&utm_source=Sito&utm_medium=CTA",
           "link-staging": "https://epicuramed.typeform.com/to/wocfjSGc?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx",
@@ -41,74 +40,28 @@
       {
         "image": {
           "path": "common",
-          "name": "videoconsulto-pc"
+          "name": "referto-medico"
         },
-        "title": "Inizia la terapia online",
-        "text": "Cliccando sul link che riceverai via mail potrai usufruire del primo videoconsulto gratuito. Accedi comodamente da smartphone, pc o tablet e parla con il professionista scelto apposta per te.",
+        "title": "Fai terapia comodamente online",
+        "text": "Con EpiCura potrai accedere alle videosedute 7 giorni su 7, dove e quando vuoi: collegati da smartphone, pc o tablet e ricevi il supporto dei migliori psicologi e psicoterapeuti in totale comodità e sicurezza.",
         "button": {
           "link": "https://epicuramed.typeform.com/to/pkPBYBjU?utm_campaign=Videoconsulto_gratuito_psicologia&utm_source=Sito&utm_medium=CTA",
           "link-staging": "https://epicuramed.typeform.com/to/wocfjSGc?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx",
           "text": "Inizia il tuo percorso"
         }
-      }
-    ]
-  },
-  "trattamenti": {
-    "sectionTitle": "I nostri psicologi online si occupano di ",
-    "altri_trattamenti": "Altri interventi di psicologia",
-    "list": [
-      {
-        "link": "/ansia",
-        "title": "Ansia",
-        "description": "paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
-      },
-      {
-        "link": "/sofferenza-psicologica",
-        "title": "Sofferenza psicologica",
-        "description": "stress, mobbing, burnout"
-      },
-      {
-        "link": "/dipendenze",
-        "title": "Dipendenze",
-        "description": "affettiva, alcol, droga, gioco d’azzardo (ludopatia), social network, videogiochi, sesso"
-      },
-      {
-        "link": "/depressione",
-        "title": "Depressione",
-        "description": "lutto, divorzio, fine relazione, patologie, malattie oncologiche, malattie croniche"
-      },
-      {
-        "link": "/disturbo-della-personalita",
-        "title": "Disturbo della personalità",
-        "description": "ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
-      },
-      {
-        "link": "/disturbi-alimentari",
-        "title": "Disturbi alimentari",
-        "description": "anoressia, bulimia, fame compulsiva (binge-eating)"
-      },
-      {
-        "link": "/terapia-di-coppia",
-        "title": "Terapia di coppia",
-        "description": "coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, stati di frustrazione"
-      },
-      {
-        "link": "/terapia-familiare",
-        "title": "Terapia familiare",
-        "description": "conflittualità familiari, disagi dell’età adolescenziale e pre-adolescenziale"
       }
     ]
   },
   "solutions": [
     {
-      "title": "Continua la terapia con un percorso su misura",
+      "title": "I percorsi che abbiamo pensato per te",
       "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato?<br />Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
       "startingFromText": "",
       "solutionsBig": [
         {
-          "code": "psychotherapyMonthlySubscription2Sessions",
-          "title": "Percorso basic",
-          "text": "Inizia il tuo percorso con 2 videosedute mensili.<br /><br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te. ",
+          "code": "psychologyIndividual2Sessions",
+          "title": "Percorso Basic",
+          "text": "Inizia il tuo percorso con 2 videosedute mensili.<br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te. ",
           "startingFrom": false,
           "hideDiscount": true,
           "button": {
@@ -122,9 +75,9 @@
           }
         },
         {
-          "code": "psychotherapyMonthlySubscription3Sessions",
-          "title": "Percorso plus",
-          "text": "Questo percorso ti consente di accedere a 3 videosedute mensili, comodamente da smartphone, pc o tablet.<br /><br />Ideale per chi si approccia per la prima volta alla terapia psicologica. ",
+          "code": "psychologyCouples2Sessions",
+          "title": "Percorso Plus",
+          "text": "Questo percorso ti consente di accedere a 3 videosedute mensili, comodamente da smartphone, pc o tablet.<br />Ideale per chi si approccia per la prima volta alla terapia psicologica. ",
           "startingFrom": false,
           "button": {
             "text": "Parla con un tutor",
@@ -138,9 +91,9 @@
           }
         },
         {
-          "code": "psychotherapyMonthlySubscription4Sessions",
-          "title": "Percorso standard",
-          "text": "Percorso terapeutico che comprende 4 videosedute mensili, particolarmente efficace per lavorare su sofferenze e disturbi di lungo periodo.<br /><br />Ideale per un supporto psicologico costante.",
+          "code": "psychologyIndividual4Sessions",
+          "title": "Percorso Standard",
+          "text": "Percorso terapeutico che comprende 4 videosedute mensili, particolarmente efficace per lavorare su sofferenze e disturbi di lungo periodo.<br />Ideale per un supporto psicologico costante.",
           "startingFrom": false,
           "button": {
             "text": "Parla con un tutor",
@@ -232,25 +185,157 @@
     "button-link-production": "https://share.hsforms.com/1CZItMEkXQ16DCV1LVw-T5g4ebbs",
     "button-link-staging": "https://share.hsforms.com/1C2v2qPBhSVaQDKdTIJfwMQ5kab9"
   },
-
   "top-banner": {
     "title": "Psicologo e Psicoterapeuta online",
-    "subtitle": "Con EpiCura puoi consultare i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet.",
+    "subtitle": "Se hai bisogno di parlare con qualcuno, nessun problema: con EpiCura puoi parlare con i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet. ",
     "img": {
-      "path": "common",
-      "name": "header_home_new"
+      "path": "psychology",
+      "name": "psychology-header"
     },
     "has-large-title": true,
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": false,
-    "has-bg-color": "psycology",
+    "has-bg-color": "psychology",
     "cta-content": [
       {
         "label": "Inizia il tuo percorso",
         "link": "/",
         "image": "",
         "variant": "filled"
+      }
+    ]
+  },
+  "card-trattamenti": {
+    "title": "In cosa possiamo aiutarti:",
+    "cards": [
+      {
+        "url": "/ansia",
+        "title": "Ansia",
+        "description": "Paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
+      },
+      {
+        "title": "Sofferenza psicologica",
+        "description": "Stress, mobbing, burnout",
+        "url": "/sofferenza-psicologica"
+      },
+      {
+        "url": "/dipendenze",
+        "title": "Dipendenze",
+        "description": "Affettiva, alcol, droga, gioco d’azzardo (ludopatia), social network, videogiochi, sesso"
+      },
+      {
+        "url": "/depressione",
+        "title": "Depressione",
+        "description": "Lutto, divorzio, fine relazione, patologie, malattie oncologiche, malattie croniche"
+      },
+      {
+        "url": "/disturbo-della-personalita",
+        "title": "Disturbo della personalità",
+        "description": "Ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
+      },
+      {
+        "url": "/disturbi-alimentari",
+        "title": "Disturbi alimentari",
+        "description": "Anoressia, bulimia, fame compulsiva (binge-eating)"
+      },
+      {
+        "url": "/terapia-di-coppia",
+        "title": "Terapia di coppia",
+        "description": "Coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, stati di frustrazione"
+      },
+      {
+        "url": "/terapia-familiare",
+        "title": "Terapia familiare",
+        "description": "Conflittualità familiari, disagi dell’età adolescenziale e pre-adolescenziale"
+      }
+    ]
+  },
+  "advantages-cards": {
+    "title": "I vantaggi dello psicologo online EpiCura",
+    "cards": [
+      {
+        "title": "Dove vuoi",
+        "text": "Accedi alla tua videoseduta dove e quando vuoi, da smartphone, pc o tablet. Il nostro servizio è strutturato a completa garanzia della tua privacy.",
+        "img": {
+          "path": "common",
+          "name": "convenient"
+        }
+      },
+      {
+        "title": "Evita gli spostamenti",
+        "text": "EpiCura ti permette di accedere alle videosedute in modo semplice e rapido, ovunque tu sia, senza necessità di recarti nello studio del professionista.",
+        "img": {
+          "path": "common",
+          "name": "pro-certified"
+        }
+      },
+      {
+        "title": "Paga comodamente online",
+        "text": "Con EpiCura puoi prenotare e pagare comodamente da sito, in pochi clic e in totale sicurezza, con carta di credito, bancomat oppure prepagata.",
+        "img": {
+          "path": "common",
+          "name": "booking-1"
+        }
+      },
+      {
+        "title": "Supporto <br /> costante",
+        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
+        "img": {
+          "path": "common",
+          "name": "support"
+        }
+      }
+    ]
+  },
+  "top-psycho-cards": {
+    "title": "I migliori psicologi e psicoterapeuti online",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "cards": [
+      {
+        "title": "Solo professionisti qualificati",
+        "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
+        "img": {
+          "path": "common",
+          "name": "convenient"
+        }
+      },
+      {
+        "title": "La tua soddisfazione è la nostra priorità",
+        "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
+        "img": {
+          "path": "common",
+          "name": "pro-certified"
+        }
+      },
+      {
+        "title": "Siamo sempre al tuo fianco",
+        "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
+        "img": {
+          "path": "common",
+          "name": "support"
+        }
+      }
+    ]
+  },
+  "service-banner": {
+    "title": "Hai un dubbio sul servizio di psicologia? Chiamaci",
+    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "img": {
+      "path": "psychology",
+      "name": "psychology-service-banner"
+    },
+    "has-large-title": false,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": "psychology",
+    "cta-content": [
+      {
+        "label": "800 909 209",
+        "link": "tel:800909209",
+        "img": {},
+        "variant": "gradient"
       }
     ]
   }

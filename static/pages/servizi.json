@@ -93,7 +93,7 @@
     ]
   },
   "prime-banner": {
-    "title": "<b>Epicura Prime</b> è <br />tutta salute",
+    "title": "<b>epiCura Prime</b> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
       "path": "epicura prime",
@@ -159,7 +159,7 @@
     },
     {
       "is-prime": true,
-      "title": "EpiCura Prime",
+      "title": "epiCura Prime",
       "small-text": "180€ all’anno",
       "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
       "option-list": [
@@ -244,13 +244,13 @@
     "cta-content": [
       {
         "label": "",
-        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "link": "https://apps.apple.com/app/epicura/id1606001325",
         "image": "/img/badge-app-store.png",
         "variant": "image"
       },
       {
         "label": "",
-        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "link": "https://play.google.com/store/apps/details?id=it.epicura.customers",
         "image": "/img/badge-google-play-store.png",
         "variant": "image"
       }
@@ -274,6 +274,51 @@
         "img-hover": "/img/psicologia-white.png",
         "cta-label": "Prenota",
         "url": "/psicologo-psicoterapeuta-online/"
+      }
+    ]
+  },
+  "cities-list": {
+    "title": "",
+    "cities": [
+      {
+        "option-link": "/torino/assistente-domiciliare/",
+        "option-label": "Torino"
+      },
+      {
+        "option-link": "/milano/assistente-domiciliare/",
+        "option-label": "Milano"
+      },
+      {
+        "option-link": "/roma/assistente-domiciliare/",
+        "option-label": "Roma"
+      },
+      {
+        "option-link": "/bologna/assistente-domiciliare/",
+        "option-label": "Bologna"
+      },
+      {
+        "option-link": "/verona/assistente-domiciliare/",
+        "option-label": "Verona"
+      },
+      {
+        "option-link": "/brescia/assistente-domiciliare/",
+        "option-label": "Brescia"
+      },
+      {
+        "option-link": "/catania/assistente-domiciliare/",
+        "option-label": "Catania"
+      },
+      {
+        "option-link": "/genova/assistente-domiciliare/",
+        "option-label": "Genova"
+      },
+      {
+        "option-link": "/firenze/assistente-domiciliare/",
+        "option-label": "Firenze"
+      },
+      {
+        "option-link": "/napoli/assistente-domiciliare/",
+        "option-label": "Napoli"
       }
     ]
   }

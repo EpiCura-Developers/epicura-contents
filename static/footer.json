@@ -8,7 +8,7 @@
   "belowCopyright": "Made with love in Turin ❤️",
   "sections": [
     {
-      "column-name": "EpiCura",
+      "column-name": "epiCura",
       "column-options": [
         {
           "option-link": "/chi-siamo/",
@@ -54,16 +54,16 @@
       ]
     },
     {
-      "column-name": "EpiCura Prime",
+      "column-name": "Prenota tramite app",
       "column-options": [
         {
-          "option-link": "/",
+          "option-link": "https://apps.apple.com/app/epicura/id1606001325",
           "option-label": "App iOS",
           "option-is-complex": true,
           "option-is-amp": false
         },
         {
-          "option-link": "/",
+          "option-link": "https://play.google.com/store/apps/details?id=it.epicura.customers",
           "option-label": "App Android",
           "option-is-complex": true,
           "option-is-amp": false
