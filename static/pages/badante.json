@@ -3,89 +3,9 @@
     "title": "Servizio ricerca badanti e assistenti domiciliari",
     "description": "Badanti in tutta Italia. Family tutor dedicato, sostituzione gratuita, soddisfatto o rimborsato. Piani di assistenza personalizzati, ci occupiamo noi della burocrazia."
   },
-  "services": [
-    {
-      "name": "Badante diurna",
-      "link": "/badante/badante-diurna/",
-      "discipline": "badante"
-    },
-    {
-      "name": "Badante notturna",
-      "link": "/badante/badante-notturna/",
-      "discipline": "badante"
-    },
-    {
-      "name": "Badante convivente",
-      "link": "/badante/badante-convivente/",
-      "discipline": "badante"
-    },
-    {
-      "name": "Assistenza a ore"
-    },
-    {
-      "link": "/torino/assistente-domiciliare/",
-      "name": "Torino",
-      "isHomeAssistance": true,
-      "discipline": "assistente-domiciliare"
-    },
-    {
-      "link": "/milano/assistente-domiciliare/",
-      "name": "Milano",
-      "isHomeAssistance": true,
-      "discipline": "assistente-domiciliare"
-    },
-    {
-      "link": "/roma/assistente-domiciliare/",
-      "name": "Roma",
-      "isHomeAssistance": true,
-      "discipline": "assistente-domiciliare"
-    },
-    {
-      "link": "/bologna/assistente-domiciliare/",
-      "name": "Bologna",
-      "isHomeAssistance": true,
-      "discipline": "assistente-domiciliare"
-    },
-    {
-      "link": "/verona/assistente-domiciliare/",
-      "name": "Verona",
-      "isHomeAssistance": true,
-      "discipline": "assistente-domiciliare"
-    },
-    {
-      "link": "/brescia/assistente-domiciliare/",
-      "name": "Brescia",
-      "isHomeAssistance": true,
-      "discipline": "assistente-domiciliare"
-    },
-    {
-      "link": "/catania/assistente-domiciliare/",
-      "name": "Catania",
-      "isHomeAssistance": true,
-      "discipline": "assistente-domiciliare"
-    },
-    {
-      "link": "/genova/assistente-domiciliare/",
-      "name": "Genova",
-      "isHomeAssistance": true,
-      "discipline": "assistente-domiciliare"
-    },
-    {
-      "link": "/firenze/assistente-domiciliare/",
-      "name": "Firenze",
-      "isHomeAssistance": true,
-      "discipline": "assistente-domiciliare"
-    },
-    {
-      "link": "/napoli/assistente-domiciliare/",
-      "name": "Napoli",
-      "isHomeAssistance": true,
-      "discipline": "assistente-domiciliare"
-    }
-  ],
   "top-banner": {
-    "title": "Troviamo l'assistenza a domicilio migliore per te",
-    "subtitle": "Aiutiamo le persone ad assistere anziani, malati e disabili con una ricerca mirata e una selezione attenta di badanti e assistenti a ore, in tutta Italia. Collochiamo soltanto personale affidabile e referenziato: è una promessa.",
+    "title": "Spazientalgia da badante introvabile?",
+    "subtitle": "Ti aiutiamo a trovare la badante perfetta o l’assistente a ore idoneo per le tue necessità! Il nostro personale è composto  da professionisti affidabili e referenziati, in tutta Italia.",
     "img": {
       "path": "caregiver",
       "name": "caregiver-header"
@@ -149,11 +69,11 @@
     ]
   },
   "how-does-it-work": {
-    "title": "Sei in cerca di una badante? <br /> <strong>Ecco come funziona</strong>*",
-    "subtitle": "<small>*Serivizio attivo in tutta Italia</small>",
+    "title": "Sei in cerca di una badante? Ecco come funziona",
+    "subtitle": "",
     "cards": [
       {
-        "title": "Analizziamo le esigenze dei familiari",
+        "title": "Analizziamo le esigenze <br /> dei familiari",
         "text": "Attraverso una consulenza dedicata, i nostri Family Tutor individuano le necessità della tua famiglia, costruendo un piano assistenziale su misura.",
         "img": {
           "path": "caregiver",
@@ -162,7 +82,7 @@
         "has-background": true
       },
       {
-        "title": "Troviamo la badante più adatta",
+        "title": "Troviamo la badante <br /> più adatta",
         "text": "In base alle tue richieste, pensiamo noi a cercare le persone più idonee da presentarti. Lavoriamo solo con personale esperto e referenziato.",
         "img": {
           "path": "caregiver",
@@ -171,8 +91,8 @@
         "has-background": true
       },
       {
-        "title": "Gestiamo la parte contrattuale",
-        "text": "EpiCura si occupa totalmente della gestione burocratica e fiscale, sollevandoti da ogni incombenza gestionale, per offrirti un servizio ‘senza pensieri’.",
+        "title": "Gestiamo la parte <br /> contrattuale",
+        "text": "epiCura si occupa totalmente della gestione burocratica e fiscale, sollevandoti da ogni incombenza gestionale, per offrirti un servizio ‘senza pensieri’.",
         "img": {
           "path": "caregiver",
           "name": "gestione-contrattuale"
@@ -182,14 +102,14 @@
     ]
   },
   "caregiver-service": {
-    "title": "<strong>Diversi servizi, stessa cura alla persona</strong>",
+    "title": "Diversi servizi, stessa cura alla persona",
     "subtitle": "Paghi soltanto dopo l’inserimento della badante in famiglia",
     "cards": [
       {
         "is-highlighted": false,
         "img": {
           "path": "caregiver",
-          "name": "badante-full-time"
+          "name": "badante-convivente-1"
         },
         "title": "Badante convivente giorno e notte",
         "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi. <br /> <small>A partire da 1.410 Euro al mese</small>",
@@ -209,17 +129,17 @@
         "is-highlighted": false,
         "img": {
           "path": "caregiver",
-          "name": "badante-full-time"
+          "name": "badante-diurna"
         },
         "title": "Badante diurna",
-        "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi. <br /><br /><small>A partire da 720 Euro al mese</small>",
+        "subtitle": "Presta assistenza part-time durante il giorno. È un supporto fondamentale per le attività quotidiane di persone autosufficienti e non. <br /><br /><small>A partire da 720 Euro al mese</small>",
         "previous-price": "",
         "price": "",
         "price-detail": "Servizio attivo in tutta italia",
         "cta": [
           {
             "label": "Scopri di più",
-            "link": "badante/badante-diurna/",
+            "link": "/badante/badante-diurna/",
             "image": "",
             "variant": "outlined"
           }
@@ -232,14 +152,14 @@
           "name": "badante-full-time"
         },
         "title": "Badante notturna",
-        "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi. <br /><br /><small>A partire da 1.180 Euro al mese</small>",
+        "subtitle": "Si occupa del monitoraggio della persona assistita durante la notte, garantendo le cure e le attenzioni necessarie anche in caso di emergenza. <br /><br /><small>A partire da 1.180 Euro al mese</small>",
         "previous-price": "",
         "price": "",
         "price-detail": "Servizio attivo in tutta italia",
         "cta": [
           {
             "label": "Scopri di più",
-            "link": "badante/badante-notturna/",
+            "link": "/badante/badante-notturna/",
             "image": "",
             "variant": "outlined"
           }
@@ -334,8 +254,8 @@
     ]
   },
   "family-tutor-banner": {
-    "title": "Cerchi una badante? <br />Chiedi al family tutor.",
-    "subtitle": "Non perdere la testa nella ricerca di una badante. <br /> Se non sai da dove iniziare, un nostro consulente ascolterà le tue esigenze e ti guiderà verso il percorso assistenziale più adeguato.<br />Pensaci: una telefonata può cambiarti la vita.",
+    "title": "Cerchi una badante? <br /> Chiedi al family tutor.",
+    "subtitle": "Non perdere la testa nella ricerca di una badante. <br /> Se non sai da dove iniziare, un nostro consulente ascolterà le tue esigenze e ti guiderà verso il percorso assistenziale più adeguato.",
     "img": {
       "path": "caregiver",
       "name": "family-tutor-1"
@@ -356,7 +276,7 @@
     ]
   },
   "job-banner": {
-    "title": "Sei una badante? <br />Lavora con noi",
+    "title": "Sei una badante? <br /> Lavora con noi",
     "subtitle": "Se hai esperienza nel campo dell’assistenza alla persona, svolgi il tuo lavoro con professionalità e hai referenze dimostrabili, invia il tuo curriculum per entrare a far parte della rete di professionisti EpiCura, attiva in tutta Italia.",
     "img": {
       "path": "caregiver",
@@ -371,7 +291,7 @@
     "cta-content": [
       {
         "label": "Candidati ora",
-        "link": "/",
+        "link": "https://app.ncoreplat.com/jobposition/109737/assistenti-familiari-it/ricerca-badanti",
         "image": "",
         "variant": "gradient"
       }
