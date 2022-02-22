@@ -54,16 +54,16 @@
       ]
     },
     {
-      "column-name": "EpiCura Prime",
+      "column-name": "epiCura Prime",
       "column-options": [
         {
-          "option-link": "/",
+          "option-link": "https://apps.apple.com/app/epicura/id1606001325",
           "option-label": "App iOS",
           "option-is-complex": true,
           "option-is-amp": false
         },
         {
-          "option-link": "/",
+          "option-link": "https://play.google.com/store/apps/details?id=it.epicura.customers",
           "option-label": "App Android",
           "option-is-complex": true,
           "option-is-amp": false

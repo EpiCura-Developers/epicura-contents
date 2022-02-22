@@ -4,7 +4,7 @@
     "description": "Medici, infermieri, veterinari, badanti e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7."
   },
   "top-banner": {
-    "title": "<b>EpiCura Prime</b> ti fa risparmiare.",
+    "title": "<b>epiCura Prime</b> ti fa risparmiare.",
     "subtitle": "Abbiamo pensato a un abbonamento che ti fa risparmiare tempo. Lo provi gratis per 14 giorni, senza impegno, e se ti piace lo sottoscrivi per un anno. <br /> <h5>180€ all’anno</h5>",
     "img": {
       "path": "epicura prime",
@@ -148,7 +148,7 @@
     },
     {
       "is-prime": true,
-      "title": "EpiCura Prime",
+      "title": "epiCura Prime",
       "small-text": "180€ all’anno",
       "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
       "option-list": [
