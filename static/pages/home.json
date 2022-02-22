@@ -1,6 +1,6 @@
 {
   "metaDescription": {
-    "title": "EpiCura",
+    "title": "epiCura",
     "description": "Medici, infermieri, veterinari, badanti e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7."
   },
   "service-nav-bar-img": {
@@ -8,8 +8,8 @@
     "name": "services"
   },
   "top-banner": {
-    "title": "Prenotare una visita <br />è sempre un incubo",
-    "subtitle": "Con EpiCura pensa solo alla salute: prenota e ricevi l'intervento a casa, in studio o in videoconsulto, 7 giorni su 7, entro 24 ore.",
+    "title": "<strong>Prenotare una visita <br />è sempre un incubo</strong>",
+    "subtitle": "Con epiCura pensa solo alla salute: prenota e ricevi l'intervento a casa, in studio o in videoconsulto, 7 giorni su 7, entro 24 ore.",
     "img": {
       "path": "common",
       "name": "header-home"
@@ -88,7 +88,7 @@
     ]
   },
   "prime-banner": {
-    "title": "<b>Epicura Prime</b> è <br />tutta salute",
+    "title": "<b>epiCura Prime</b> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
       "path": "epicura prime",
@@ -214,17 +214,17 @@
     "has-absolute-image": true,
     "first-image-order": true,
     "hide-image-mobile": false,
-    "has-bg-color": "prime",
+    "has-bg-color": "bg-prime",
     "cta-content": [
       {
         "label": "",
-        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "link": "https://apps.apple.com/app/epicura/id1606001325",
         "image": "/img/badge-app-store-white.png",
         "variant": "image"
       },
       {
         "label": "",
-        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "link": "https://play.google.com/store/apps/details?id=it.epicura.customers",
         "image": "/img/badge-google-play-store-white.png",
         "variant": "image"
       }
@@ -355,56 +355,14 @@
         "path": "common",
         "name": "online-payment"
       },
-      "has-absolute-image": false,
+      "has-absolute-image": true,
       "first-image-order": false,
       "hide-image-mobile": false,
       "has-large-title": false,
       "has-bg-color": "",
       "cta-content": [
         {
-          "label": "Entra in Epicura",
-          "link": "/",
-          "image": "",
-          "variant": "outlined"
-        }
-      ]
-    },
-    {
-      "title": "Personale certificato, <br/> salute assicurata",
-      "subtitle": "Lavoriamo solo con professionisti qualificati e certificati. Tutte le prestazioni sono inoltre coperte da assicurazione. E se ti servisse un rimborso da parte del tuo ente assicurativo? Presentando la fattura avrai diritto ai rimborsi previsti.",
-      "img": {
-        "path": "common",
-        "name": "salute-assicurata"
-      },
-      "has-absolute-image": false,
-      "first-image-order": false,
-      "hide-image-mobile": false,
-      "has-large-title": false,
-      "has-bg-color": "",
-      "cta-content": [
-        {
-          "label": "Entra in Epicura",
-          "link": "/",
-          "image": "",
-          "variant": "outlined"
-        }
-      ]
-    },
-    {
-      "title": "Detraibilità fiscale garantita per le spese sanitarie",
-      "subtitle": "Prenota e paga in pochi click, in totale sicurezza: accettiamo carte di credito, bancomat e prepagate. Puoi inoltre effettuare pagamenti tramite bonifico per le spese superiori a 150€.",
-      "img": {
-        "path": "common",
-        "name": "detraibilita-fiscale"
-      },
-      "has-absolute-image": false,
-      "first-image-order": false,
-      "hide-image-mobile": false,
-      "has-large-title": false,
-      "has-bg-color": "",
-      "cta-content": [
-        {
-          "label": "Entra in Epicura",
+          "label": "Entra in epiCura",
           "link": "/",
           "image": "",
           "variant": "outlined"

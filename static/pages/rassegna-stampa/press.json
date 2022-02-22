@@ -1,4 +1,4 @@
-[ 
+[
   {
     "logo": { "path": "common", "name": "corrieredellasera" },
     "title": "Corriere della Sera – EpiCura, welfare aziendale e ambulatori hi tech",
@@ -13,19 +13,19 @@
   },
   {
     "logo": { "path": "common", "name": "startupitalia" },
-    "title": "Startup Italia - Epicura chiude terzo round da 5 milioni di euro. L’operazione è guidata da Europ Assistance",
+    "title": "Startup Italia - epiCura chiude terzo round da 5 milioni di euro. L’operazione è guidata da Europ Assistance",
     "date": "17 Settembre 2021",
     "link": "https://startupitalia.eu/162392-20210916-epicura-chiude-un-terzo-round-da-5-milioni-di-euro-loperazione-e-guidata-da-europ-assistance"
   },
   {
     "logo": { "path": "common", "name": "larepubblica" },
-    "title": "La Repubblica - Europ Assistance scommette sul poliambulatorio digitale Epicura: round da 5 milioni",
+    "title": "La Repubblica - Europ Assistance scommette sul poliambulatorio digitale epiCura: round da 5 milioni",
     "date": "16 Settembre 2021",
     "link": "https://www.repubblica.it/economia/finanza/2021/09/16/news/europ_assistance_scommette_sul_poliambulatorio_digitale_epicura_round_da_5_milioni-318099065/"
   },
   {
     "logo": { "path": "common", "name": "ilsole24ore" },
-    "title": "Il Sole 24 ORE - Il poliambulatorio digitale Epicura chiude un terzo round da 5 milioni",
+    "title": "Il Sole 24 ORE - Il poliambulatorio digitale epiCura chiude un terzo round da 5 milioni",
     "date": "16 Settembre 2021",
     "link": "https://www.ilsole24ore.com/art/il-poliambulatorio-digitale-epicura-chiude-terzo-round-5-milioni-AEGUg4i"
   },
@@ -54,20 +54,20 @@
     "link": "https://socialandtech.net/epicura-il-primo-poliambulatorio-digitale-in-italia/"
   },
   {
-  "logo": { "path": "common", "name": "techprincess" },
-  "title": "Tech Princess - EpiCura è il primo poliambulatorio digitale in Italia",
-  "date": "1 Giugno 2021",
-  "link": "https://techprincess.it/epicura-il-primo-poliambulatorio-digitale/"
-},
+    "logo": { "path": "common", "name": "techprincess" },
+    "title": "Tech Princess - EpiCura è il primo poliambulatorio digitale in Italia",
+    "date": "1 Giugno 2021",
+    "link": "https://techprincess.it/epicura-il-primo-poliambulatorio-digitale/"
+  },
   {
     "logo": { "path": "common", "name": "economy_magazine" },
-    "title": "Economy Magazine - Epicura al fianco delle donne nella gestione della salute dei propri cari",
+    "title": "Economy Magazine - epiCura al fianco delle donne nella gestione della salute dei propri cari",
     "date": "25 Maggio 2021",
     "link": "https://www.economymagazine.it/news/2021/05/25/news/epicura-al-fianco-delle-donne-nella-gestione-della-salute-dei-propri-cari-61748/"
   },
   {
     "logo": { "path": "common", "name": "linnovatore" },
-    "title": "L'Innovatore - In forma per l’estate con Epicura",
+    "title": "L'Innovatore - In forma per l’estate con epiCura",
     "date": "24 Maggio 2021",
     "link": "https://linnovatore.it/in-forma-per-estate-con-epicura/"
   },
@@ -97,7 +97,7 @@
   },
   {
     "logo": { "path": "common", "name": "ilsole24ore" },
-    "title": "Il Sole 24 ORE - Covid e consulti medici, Epicura triplica i ricavi con i dottori a domicilio",
+    "title": "Il Sole 24 ORE - Covid e consulti medici, epiCura triplica i ricavi con i dottori a domicilio",
     "date": "6 Novembre 2020",
     "link": "https://www.ilsole24ore.com/art/covid-e-consulti-medici-epicura-triplica-ricavi-i-dottori-domicilio-ADpLjax"
   },
@@ -127,7 +127,7 @@
   },
   {
     "logo": { "path": "common", "name": "ilsole24ore" },
-    "title": "Il Sole 24 Ore - Due milioni di euro per il poliambulatorio digitale Epicura",
+    "title": "Il Sole 24 Ore - Due milioni di euro per il poliambulatorio digitale epiCura",
     "date": "8 Ottobre 2020",
     "link": "https://www.ilsole24ore.com/art/due-milioni-euro-il-poliambulatorio-digitale-epicura-AD7BbZu"
   },
