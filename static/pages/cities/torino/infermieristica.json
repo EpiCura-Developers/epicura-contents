@@ -121,7 +121,7 @@
     },
     {
       "is-prime": true,
-      "title": "EpiCura Prime",
+      "title": "epiCura Prime",
       "small-text": "180€ all’anno",
       "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
       "option-list": [
@@ -185,13 +185,13 @@
     "cta-content": [
       {
         "label": "",
-        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "link": "https://apps.apple.com/app/epicura/id1606001325",
         "image": "/img/badge-app-store.png",
         "variant": "image"
       },
       {
         "label": "",
-        "link": "https://apps.apple.com/us/app/epicura-specialist/id1494528467",
+        "link": "https://play.google.com/store/apps/details?id=it.epicura.customers",
         "image": "/img/badge-google-play-store.png",
         "variant": "image"
       }
