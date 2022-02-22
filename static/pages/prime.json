@@ -4,7 +4,7 @@
     "description": "Medici, infermieri, veterinari, badanti e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7."
   },
   "top-banner": {
-    "title": "<b>epiCura Prime ti fa risparmiare.</b>",
+    "title": "<b>epiCura Prime ti fa risparmiare</b>",
     "subtitle": "Abbiamo pensato a un abbonamento che ti fa risparmiare tempo. Lo provi gratis per 14 giorni, senza impegno, e se ti piace lo sottoscrivi per un anno. <br /> <h5>180€ all’anno</h5>",
     "img": {
       "path": "epicura prime",
@@ -24,40 +24,60 @@
       }
     ]
   },
-  "bullet-cards": {
-    "title": "Perché affidarsi a EpiCura?",
+  "prime-cards": {
+    "title": "I migliori professionisti <b>a portata di click.</b>",
     "cards": [
       {
-        "title": "Comodo, veloce, <br /> flessibile",
-        "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
+        "title": "Videoconsulto Medico di base <b>illimitato</b>",
+        "text": "",
+        "textVariant": "",
         "img": {
-          "path": "common",
-          "name": "convenient"
-        }
+          "path": "epicura prime",
+          "name": "videoconsulto-medicina"
+        },
+        "cta": [],
+        "variant": "prime",
+        "hasBgColor": false
       },
       {
-        "title": "Professionisti <br /> certificati",
-        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
+        "title": "Videoconsulto Veterinario <b>illimitato</b>",
+        "text": "",
+        "textVariant": "",
         "img": {
-          "path": "common",
-          "name": "pro-certified"
-        }
+          "path": "epicura prime",
+          "name": "videoconsulto-veterinario"
+        },
+        "cta": [],
+        "variant": "prime",
+        "hasBgColor": false
       },
       {
-        "title": "Prenotazioni <br /> senza intoppi",
-        "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
+        "title": "Sconti e convenzioni <br /><b>per sempre</b>",
+        "text": "",
+        "textVariant": "",
         "img": {
-          "path": "common",
-          "name": "booking-1"
-        }
+          "path": "epicura prime",
+          "name": "sconti-convenzioni"
+        },
+        "cta": [],
+        "variant": "prime",
+        "hasBgColor": false
       },
       {
-        "title": "Supporto <br /> costante",
-        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
-        "img": {
-          "path": "common",
-          "name": "support"
-        }
+        "title": "Inizia ora i tuoi 14 giorni di prova gratuita",
+        "text": "Se non ti piace, disdici quando vuoi.",
+        "textVariant": "180€ all’anno",
+        "img": {},
+        "cta": [
+          {
+            "label": "Prova gratis",
+            "link": "",
+            "image": "",
+            "variant": "outlined"
+          }
+        ],
+        "variant": "prime",
+        "hasBgColor": true
       }
     ]
   },
