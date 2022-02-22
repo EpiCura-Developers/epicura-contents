@@ -54,14 +54,13 @@
   },
   "solutions": [
     {
-      "title": "I percorsi che abbiamo pensato per te",
+      "title": "Terapia individuale",
       "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato?<br />Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
       "startingFromText": "",
       "solutionsBig": [
         {
-          "code": "psychologyIndividual2Sessions",
-          "title": "Percorso Basic",
-          "text": "Inizia il tuo percorso con 2 videosedute mensili.<br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te. ",
+          "title": "Percorso online",
+          "text": "Inizia il tuo percorso con 2 o 4 sedute videosedute mensili.<br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te.",
           "startingFrom": false,
           "hideDiscount": true,
           "button": {
@@ -69,42 +68,86 @@
             "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
             "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
           },
-          "bottomText": {
-            "text": "Pacchetto base",
-            "highlighted": false
-          }
+          "priceCodes": [
+            {
+              "code": "psychologyIndividual2SessionsRemote",
+              "label": "2 sedute "
+            },
+            {
+              "code": "psychologyIndividual4SessionsRemote",
+              "label": "4 sedute "
+            }
+          ]
         },
         {
-          "code": "psychologyCouples2Sessions",
-          "title": "Percorso Plus",
-          "text": "Questo percorso ti consente di accedere a 3 videosedute mensili, comodamente da smartphone, pc o tablet.<br />Ideale per chi si approccia per la prima volta alla terapia psicologica. ",
+          "title": "Percorso in studio",
+          "text": "Questo percorso ti consente di accedere a 2 o 4 sedute in studio mensili.<br /> Ideale per chi si approccia per la prima volta alla terapia psicologica. ",
           "startingFrom": false,
+          "hideDiscount": true,
           "button": {
             "text": "Parla con un tutor",
             "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
             "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
           },
-          "bottomText": {
-            "text": "Risparmi ",
-            "highlighted": true,
-            "showDiscount": true
-          }
-        },
+          "priceCodes": [
+            {
+              "code": "psychologyIndividual2Sessions",
+              "label": "2 sedute "
+            },
+            {
+              "code": "psychologyIndividual4Sessions",
+              "label": "4 sedute "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Terapia di coppia",
+      "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato?<br />Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
+      "startingFromText": "",
+      "solutionsBig": [
         {
-          "code": "psychologyIndividual4Sessions",
-          "title": "Percorso Standard",
-          "text": "Percorso terapeutico che comprende 4 videosedute mensili, particolarmente efficace per lavorare su sofferenze e disturbi di lungo periodo.<br />Ideale per un supporto psicologico costante.",
+          "title": "Percorso online",
+          "text": "Inizia il tuo percorso con 2 o 4 sedute videosedute mensili.<br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te. ",
           "startingFrom": false,
+          "hideDiscount": true,
           "button": {
             "text": "Parla con un tutor",
             "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
             "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
           },
-          "bottomText": {
-            "text": "Risparmi ",
-            "highlighted": true,
-            "showDiscount": true
-          }
+          "priceCodes": [
+            {
+              "code": "psychologyCouples2SessionsRemote",
+              "label": "2 sedute "
+            },
+            {
+              "code": "psychologyCouples4SessionsRemote",
+              "label": "4 sedute "
+            }
+          ]
+        },
+        {
+          "title": "Percorso in studio",
+          "text": "Questo percorso ti consente di accedere a 2 o 4 sedute in studio mensili.<br /> Ideale per chi si approccia per la prima volta alla terapia psicologica. ",
+          "startingFrom": false,
+          "hideDiscount": true,
+          "button": {
+            "text": "Parla con un tutor",
+            "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
+            "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
+          },
+          "priceCodes": [
+            {
+              "code": "psychologyCouples2Sessions",
+              "label": "2 sedute "
+            },
+            {
+              "code": "psychologyCouples4Sessions",
+              "label": "4 sedute "
+            }
+          ]
         }
       ]
     }
