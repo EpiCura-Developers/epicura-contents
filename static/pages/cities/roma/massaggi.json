@@ -21,7 +21,7 @@
     "title": "Perché affidarsi a EpiCura?",
     "cards": [
       {
-        "title": "Comodo, veloce, flessibile",
+        "title": "Comodo, veloce, <br /> flessibile",
         "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
         "img": {
           "path": "common",
@@ -37,7 +37,7 @@
         }
       },
       {
-        "title": "Prenotazioni senza intoppi",
+        "title": "Prenotazioni <br /> senza intoppi",
         "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
         "img": {
           "path": "common",
