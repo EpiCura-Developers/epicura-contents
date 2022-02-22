@@ -10,13 +10,13 @@
   "site-press-bkg": { "path": "common", "name": "press-bkg" },
   "site-press-bkg-mobile": { "path": "common", "name": "press_mobile" },
   "site-press-contact-us-img": { "path": "common", "name": "press" },
-  "site-press-contact-us-name": "EpiCura Marketing",
+  "site-press-contact-us-name": "epiCura Marketing",
   "site-press-contact-us-role": "Sezione Ufficio Stampa",
   "site-press-contact-us-mail": "marketing@epicura.it",
   "site-press-content-carousel-articles": [
     {
       "img": { "path": "common", "name": "lastampa" },
-      "description": "“Emergenza coronavirus, EpiCura potenzia il servizio di tele e video-consulto“",
+      "description": "“Emergenza coronavirus, epiCura potenzia il servizio di tele e video-consulto“",
       "link": "https://www.lastampa.it/tecnologia/news/2020/03/24/news/emergenza-coronavirus-epicura-potenzia-il-servizio-di-tele-e-video-consulto-1.38632546"
     },
     {

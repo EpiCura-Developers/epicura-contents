@@ -1,6 +1,6 @@
 {
   "metaDescription": {
-    "title": "EpiCura - Roma",
+    "title": "epiCura - Roma",
     "description": "Cura la tua salute e quella di chi ami a Roma e area metropolitana con EpiCura, primo poliambulatorio digitale in Italia. Servizi medici, sanitari e assistenziali 7 giorni su 7, anche in orari serali, senza liste d'attesa."
   },
   "top-banner": {
@@ -187,7 +187,7 @@
       "is-prime": false,
       "title": "EpiCura",
       "small-text": "0€ per sempre",
-      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "subtitle": "Le principali funzionalità di epiCura senza videoconsulti illimitati, sconti e convenzioni.",
       "option-list": [
         {
           "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
@@ -227,7 +227,7 @@
         }
       ],
       "cta": {
-        "label": "Entra in EpiCura e prenota",
+        "label": "Entra in epiCura e prenota",
         "link": "/",
         "image": "",
         "variant": "outlined"
@@ -314,7 +314,7 @@
   "map": {
     "showAllText": "Mostra tutti",
     "hideAllText": "Mostra meno",
-    "doveCiTroviText": "I professionisti di EpiCura sono disponibili in tutta Roma",
+    "doveCiTroviText": "I professionisti di epiCura sono disponibili in tutta Roma",
     "quartieriText": "Controlla qui i comuni coperti dal servizio",
     "mapCenter": "41.893056,12.482778",
     "markers": [

@@ -5,7 +5,7 @@
   },
   "top-banner": {
     "title": "Nutrizionista a<br /> Torino",
-    "subtitle": "EpiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Napoli e area metropolitana, 7 giorni su 7, quando e dove vuoi. <br /><br />Prenota in pochi click e prenditi cura del tuo corpo e del tuo benessere in modo semplice e veloce.",
+    "subtitle": "epiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Napoli e area metropolitana, 7 giorni su 7, quando e dove vuoi. <br /><br />Prenota in pochi click e prenditi cura del tuo corpo e del tuo benessere in modo semplice e veloce.",
     "img": {
       "path": "nutrition",
       "name": "nutrition-header"
@@ -32,7 +32,7 @@
       },
       {
         "title": "Prenota in pochi click",
-        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l’intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata.",
+        "text": "La prenotazione con epiCura è semplice e veloce! Scegli dove e quando ricevere l’intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata.",
         "img": {
           "path": "common",
           "name": "booking-2"
@@ -41,7 +41,7 @@
       },
       {
         "title": "Ricevi l’intervento a domicilio",
-        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con epiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
         "img": {
           "path": "common",
           "name": "visita-domicilio"
@@ -195,7 +195,7 @@
       "is-prime": false,
       "title": "EpiCura",
       "small-text": "0€ per sempre",
-      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "subtitle": "Le principali funzionalità di epiCura senza videoconsulti illimitati, sconti e convenzioni.",
       "option-list": [
         {
           "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
@@ -235,7 +235,7 @@
         }
       ],
       "cta": {
-        "label": "Entra in EpiCura e prenota",
+        "label": "Entra in epiCura e prenota",
         "link": "/",
         "image": "",
         "variant": "outlined"
@@ -351,7 +351,7 @@
   },
   "service-banner": {
     "title": "Hai un dubbio sul servizio di nutrizione? Chiamaci",
-    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi epiCura più adatti alle tue esigenze.",
     "img": {
       "path": "nutrition",
       "name": "nutrition-service-banner"

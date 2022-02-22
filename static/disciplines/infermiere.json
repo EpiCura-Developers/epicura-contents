@@ -21,7 +21,7 @@
           "name": "booking"
         },
         "title": "Prenota in pochi click",
-        "text": "La prenotazione con EpiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
+        "text": "La prenotazione con epiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata."
       },
       {
         "image": {
@@ -29,7 +29,7 @@
           "name": "love-home"
         },
         "title": "Ricevi l'infermiere a domicilio",
-        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con EpiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con epiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
       }
     ]
   },
@@ -78,7 +78,7 @@
   "banner-info": {
     "title": "Hai un dubbio sul servizio di<br /> infermieristica?",
     "title-colored": "",
-    "content": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi di EpiCura più adatti alle tue esigenze.",
+    "content": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi di epiCura più adatti alle tue esigenze.",
     "image": {
       "path": "common",
       "name": "info-infermieristica"
