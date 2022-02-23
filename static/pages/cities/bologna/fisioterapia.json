@@ -13,7 +13,7 @@
     "has-large-title": true,
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": true,
+    "hide-image-mobile": false,
     "has-bg-color": "physiotherapy",
     "cta-content": []
   },
@@ -101,6 +101,39 @@
         "title": "Dolore e infiammazione",
         "description": "acusene, cervicale, emicrania, ernia, ginnastica posturale, mal di schiena, mal di testa, nervo sciatico, sciatica, tunnel carpale, tendinite",
         "url": "/fisioterapia-dolore-e-infiammazione"
+      }
+    ]
+  },
+  "how-does-it-work": {
+    "title": "Fisioterapia a domicilio o in studio. Ecco come funziona",
+    "subtitle": "",
+    "cards": [
+      {
+        "title": "SCOPRI LE NOSTRE SOLUZIONI",
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze.",
+        "img": {
+          "path": "caregiver",
+          "name": "esigenze-familiari"
+        },
+        "has-background": true
+      },
+      {
+        "title": "Troviamo la badante <br /> più adatta",
+        "text": "In base alle tue richieste, pensiamo noi a cercare le persone più idonee da presentarti. Lavoriamo solo con personale esperto e referenziato.",
+        "img": {
+          "path": "caregiver",
+          "name": "badante-adatta"
+        },
+        "has-background": true
+      },
+      {
+        "title": "Gestiamo la parte <br /> contrattuale",
+        "text": "epiCura si occupa totalmente della gestione burocratica e fiscale, sollevandoti da ogni incombenza gestionale, per offrirti un servizio ‘senza pensieri’.",
+        "img": {
+          "path": "caregiver",
+          "name": "gestione-contrattuale"
+        },
+        "has-background": true
       }
     ]
   },
