@@ -1,10 +1,10 @@
 {
   "metaDescription": {
     "title": "epiCura - Brescia",
-    "description": "Cura la tua salute e quella di chi ami a Brescia e area metropolitana con EpiCura, primo poliambulatorio digitale in Italia. Servizi medici, sanitari e assistenziali 7 giorni su 7, anche in orari serali, senza liste d'attesa."
+    "description": "Cura la tua salute e quella di chi ami a Brescia e area metropolitana con epiCura, primo poliambulatorio digitale in Italia. Servizi medici, sanitari e assistenziali 7 giorni su 7, anche in orari serali, senza liste d'attesa."
   },
   "top-banner": {
-    "title": "La salute a Brescia <br /> con EpiCura",
+    "title": "La salute a Brescia <br /> con epiCura",
     "subtitle": "Scegli la comodità: prenota un servizio sanitario e ricevilo direttamente in videoconsulto, a casa tua o in studio nella tua città.",
     "img": {
       "path": "common",
@@ -113,7 +113,7 @@
     ]
   },
   "bullet-cards": {
-    "title": "Perché affidarsi a EpiCura?",
+    "title": "Perché affidarsi a epiCura?",
     "cards": [
       {
         "title": "Comodo, veloce, <br /> flessibile",
@@ -166,7 +166,7 @@
   "prime-table-compare": [
     {
       "is-prime": false,
-      "title": "EpiCura",
+      "title": "epiCura",
       "small-text": "0€ per sempre",
       "subtitle": "Le principali funzionalità di epiCura senza videoconsulti illimitati, sconti e convenzioni.",
       "option-list": [
