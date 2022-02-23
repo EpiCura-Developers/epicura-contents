@@ -5,14 +5,14 @@
   },
   "top-banner": {
     "title": "Troviamo la badante convivente nella tua città",
-    "subtitle": "EpiCura offre un servizio personalizzato per l’assistenza a domicilio, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br>Scopri le nostre soluzioni di assistenza, senza costi di attivazione.",
+    "subtitle": "epiCura offre un servizio personalizzato per l’assistenza a domicilio, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br>Scopri le nostre soluzioni di assistenza, senza costi di attivazione.",
     "img": {
       "path": "caregiver",
       "name": "caregiver-banner"
     },
     "list-details": [
       {
-        "icon": "/img/visite-mediche.png",
+        "icon": "/img/ricerca-selezione.png",
         "text": "<strong>Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.</strong>"
       }
     ],
@@ -27,7 +27,7 @@
         "label": "Richiedi preventivo gratuito",
         "link": "/",
         "image": "",
-        "variant": "filled"
+        "variant": "gradient"
       }
     ]
   },
@@ -95,43 +95,43 @@
     "cards": [
       {
         "img": {
-          "path": "common",
-          "name": "stetofonendoscopio"
+          "path": "caregiver",
+          "name": "pasti"
         },
         "text": "Prepara i pasti e fornisce supporto per la loro assunzione"
       },
       {
         "img": {
-          "path": "common",
-          "name": "stetofonendoscopio"
+          "path": "caregiver",
+          "name": "pulizie"
         },
         "text": "Aiuta nella gestione delle attività giornaliere e nella pulizia della casa"
       },
       {
         "img": {
-          "path": "common",
-          "name": "stetofonendoscopio"
+          "path": "caregiver",
+          "name": "igiene"
         },
         "text": "Veste la persona e ne garantisce la cura e l'igiene quotidiana"
       },
       {
         "img": {
-          "path": "common",
-          "name": "stetofonendoscopio"
+          "path": "caregiver",
+          "name": "comunicazione"
         },
         "text": "Stimola le capacità comunicative e l’attività motoria all’aperto"
       },
       {
         "img": {
-          "path": "common",
-          "name": "stetofonendoscopio"
+          "path": "caregiver",
+          "name": "terapie"
         },
         "text": "Supporta nell’assunzione di terapie e accompagna alle visite mediche"
       },
       {
         "img": {
-          "path": "common",
-          "name": "stetofonendoscopio"
+          "path": "caregiver",
+          "name": "sorveglianza"
         },
         "text": "Monitora e sorveglia la persona assistita con cura e costanza"
       }
@@ -145,8 +145,8 @@
         "title": "Verifica dei requisiti",
         "text": "Verifichiamo nel dettaglio i requisiti minimi d’accesso di tutti i candidati, selezionando solo personale con esperienza e qualificato.",
         "img": {
-          "path": "common",
-          "name": "videoconsulto-icon"
+          "path": "caregiver",
+          "name": "verifica-requisiti"
         },
         "has-background": true
       },
@@ -154,8 +154,8 @@
         "title": "Colloquio e verifica referenze",
         "text": "Attraverso il colloquio, eseguito da personale qualificato, i candidati attraversano una doppia verifica dove vengono accertate le referenze.",
         "img": {
-          "path": "common",
-          "name": "videoconsulto-icon"
+          "path": "caregiver",
+          "name": "verifica-competenze"
         },
         "has-background": true
       },
@@ -163,10 +163,32 @@
         "title": "Incontro con la famiglia",
         "text": "Selezionati i migliori candidati, le badanti affrontano un colloquio conoscitivo con la famiglia, che sceglierà il profilo più adeguato alle proprie esigenze.",
         "img": {
-          "path": "common",
-          "name": "videoconsulto-icon"
+          "path": "caregiver",
+          "name": "incontro-famiglia"
         },
         "has-background": true
+      }
+    ]
+  },
+  "family-tutor-banner": {
+    "title": "Cerchi una badante? <br /> Chiedi al family tutor.",
+    "subtitle": "Non perdere la testa nella ricerca di una badante. <br /> Se non sai da dove iniziare, un nostro consulente ascolterà le tue esigenze e ti guiderà verso il percorso assistenziale più adeguato.",
+    "img": {
+      "path": "caregiver",
+      "name": "family-tutor-1"
+    },
+    "has-large-title": false,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": "caregiver-invert",
+
+    "cta-content": [
+      {
+        "label": "Contattaci",
+        "link": "/",
+        "image": "",
+        "variant": "gradient"
       }
     ]
   },
