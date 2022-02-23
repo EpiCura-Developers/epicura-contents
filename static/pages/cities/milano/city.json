@@ -959,5 +959,185 @@
         "name": "Lampugnano"
       }
     ]
+  },
+  "clinic-banner": {
+    "title": "Collaboriamo solo <br />con le migliori <br />cliniche e professionisti",
+    "subtitle": "",
+    "img": {
+      "path": "poliambulatori",
+      "name": "poliambulatori-banner"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-large-title": true,
+    "has-bg-color": "",
+    "cta-content": []
+  },
+  "clinic-carousel": {
+    "title": "",
+    "cards": [
+      {
+        "title": "Biochimico-Centro Prelievi Sardegna-WashingtonLab. Alfa",
+        "text": "Milano - via Sardegna, 34/A",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico-Centro Prelievi Rogoredo-San Donato",
+        "text": "Milano - via Monte Palombino, 8",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico-Centro Prelievi Ripamonti",
+        "text": "Milano - via Chopin, 50",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico-Centro Prelievi Lodi-Corvetto",
+        "text": "Milano - via Longhena, 7",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico-Centro Prelievi Greco-Staz.Centrale",
+        "text": "Milano - via E. De Marchi, 8",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico-Centro-Prelievi Certosa-Portello",
+        "text": "Milano - viale Certosa, 121",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico-Laboratorio Centrale e Centro Prelievi Farini-Garibaldi",
+        "text": "Milano - via Farini, 55",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Lam Centro Biochimico",
+        "text": "Milano - Via Torino 51",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Diagnostica Forlanini Srl",
+        "text": "Milano - Via Pecorini Abelardo, 8",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "SANDONATO MEDICA",
+        "text": "San Donato Milanese (MI) - Via Bruxelles, 10",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Centro Medico Euriclea",
+        "text": "Milano - Piazzale Libia, 7 - 20135",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Altamedica",
+        "text": "Milano - L.go Schuster, 1 20122",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "ETHOS",
+        "text": "Milano - Via Valtellina, 12",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Lam Centro Biochimico",
+        "text": "Milano - Viale Pergolesi",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Centro Medico Gentilino",
+        "text": "Milano - Via Pordenone 32",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Centro Medico Monterosa",
+        "text": "Milano - Via Monte Rosa 3",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Centro Medico Unisalus",
+        "text": "Milano - Via Giovanni Battista Pirelli 16/B",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Centro Medico San Marco",
+        "text": "Milano - via Simone Martini 22/a",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Medikern",
+        "text": "Milano - Via Canova 19",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "EuroMedicaItalia",
+        "text": "Milano - Via Lomazzo 5",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Poliambulatorio CMI",
+        "text": "Milano - Via Desenzano 14",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico-Centro Prelievi Villasanta Medisan Assistenza",
+        "text": "Piazza Ammiraglio Manfredi Camperio, 320852 Villasanta MB",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico-Centro Prelievi Lodi Vecchio",
+        "text": "Via SS. NABORRE E FELICE 49 – 26855 Lodi vecchio",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      }
+    ]
   }
 }
