@@ -304,7 +304,7 @@
     ]
   },
   "benefit-bullet": {
-    "title": "I vantaggi di EpiCura",
+    "title": "I vantaggi di epiCura",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {
@@ -357,7 +357,7 @@
   },
   "job-banner": {
     "title": "Sei una badante? <br /> Lavora con noi",
-    "subtitle": "Se hai esperienza nel campo dell’assistenza alla persona, svolgi il tuo lavoro con professionalità e hai referenze dimostrabili, invia il tuo curriculum per entrare a far parte della rete di professionisti EpiCura, attiva in tutta Italia.",
+    "subtitle": "Se hai esperienza nel campo dell’assistenza alla persona, svolgi il tuo lavoro con professionalità e hai referenze dimostrabili, invia il tuo curriculum per entrare a far parte della rete di professionisti epiCura, attiva in tutta Italia.",
     "img": {
       "path": "caregiver",
       "name": "caregiver-job"
@@ -378,7 +378,7 @@
     ]
   },
   "card-discount": {
-    "title": "Prenotando un servizio di assistenza a ore o badante, ricevi subito il 10% di sconto su tutti i servizi EpiCura",
+    "title": "Prenotando un servizio di assistenza a ore o badante, ricevi subito il 10% di sconto su tutti i servizi epiCura",
     "services-list": [
       "Fisioterapia",
       "Medicina generale",
