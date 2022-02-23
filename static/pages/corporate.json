@@ -18,7 +18,7 @@
     "cta-content": [
       {
         "label": "Entriamo in contatto",
-        "link": "/",
+        "link": "https://landingpage.epicuramed.it/epicura-corporate_richiesta-info",
         "image": "",
         "variant": "gradient"
       }
@@ -168,7 +168,7 @@
     ]
   },
   "app-banner": {
-    "title": "Un'app per gestire <strong>tutto quanto</strong>",
+    "title": "Un'app per gestire tutto quanto",
     "subtitle": "",
     "img": {
       "path": "common",
@@ -196,7 +196,7 @@
     "cta-content": [
       {
         "label": "Entriamo in contatto",
-        "link": "/",
+        "link": "https://landingpage.epicuramed.it/epicura-corporate_richiesta-info",
         "image": "",
         "variant": "gradient"
       }
@@ -312,7 +312,7 @@
     "cta": [
       {
         "label": "Entriamo in contatto",
-        "link": "/",
+        "link": "https://landingpage.epicuramed.it/epicura-corporate_richiesta-info",
         "image": "",
         "variant": "outlined"
       }

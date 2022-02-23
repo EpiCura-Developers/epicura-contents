@@ -105,7 +105,7 @@
     "cta-content": [
       {
         "label": "Richiedi preventivo gratuito",
-        "link": "/",
+        "link": "https://landingpage.epicuramed.it/ad-bd_form",
         "image": "",
         "variant": "gradient"
       }
@@ -349,7 +349,7 @@
     "cta-content": [
       {
         "label": "Contattaci",
-        "link": "/",
+        "link": "https://landingpage.epicuramed.it/ad-bd_form",
         "image": "",
         "variant": "gradient"
       }

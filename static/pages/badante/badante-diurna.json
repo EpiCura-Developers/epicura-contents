@@ -185,7 +185,7 @@
     "cta-content": [
       {
         "label": "Contattaci",
-        "link": "/",
+        "link": "https://landingpage.epicuramed.it/ad-bd_form",
         "image": "",
         "variant": "gradient"
       }

@@ -243,9 +243,9 @@
     "cta-content": [
       {
         "label": "Inizia il tuo percorso",
-        "link": "/",
+        "link": "https://landingpage.epicuramed.it/psicologia_form ",
         "image": "",
-        "variant": "filled"
+        "variant": "gradient"
       }
     ]
   },
@@ -258,9 +258,9 @@
         "description": "Paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
       },
       {
+        "url": "/sofferenza-psicologica",
         "title": "Sofferenza psicologica",
-        "description": "Stress, mobbing, burnout",
-        "url": "/sofferenza-psicologica"
+        "description": "Stress, mobbing, burnout"
       },
       {
         "url": "/dipendenze",
