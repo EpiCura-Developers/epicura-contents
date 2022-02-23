@@ -50,11 +50,71 @@
       }
     ]
   },
+  "discipline-carousel": {
+    "title": "Alcune delle visite più richieste a domicilio, in videoconsulto o in studio",
+    "cards": [
+      {
+        "img": {
+          "path": "physiotherapy",
+          "name": "physiotherapy-service-card"
+        },
+        "title": "Fisioterapia",
+        "text": "A partire da 40€/seduta",
+        "discipline": "physiotherapy"
+      },
+      {
+        "img": {
+          "path": "veterinary",
+          "name": "veterinary-service-card"
+        },
+        "title": "Veterinaria",
+        "text": "A partire da 60€",
+        "discipline": "veterinary"
+      },
+      {
+        "img": {
+          "path": "nutrition",
+          "name": "nutrition-service-card"
+        },
+        "title": "Nutrizione",
+        "text": "A partire da 40€/seduta",
+        "discipline": "nutrition"
+      },
+
+      {
+        "img": {
+          "path": "physiotherapy",
+          "name": "physiotherapy-service-card"
+        },
+        "title": "Fisioterapia",
+        "text": "A partire da 40€/seduta",
+        "discipline": "physiotherapy"
+      },
+      {
+        "img": {
+          "path": "veterinary",
+          "name": "veterinary-service-card"
+        },
+        "title": "Veterinaria",
+        "text": "A partire da 60€",
+        "discipline": "veterinary"
+      },
+      {
+        "img": {
+          "path": "nutrition",
+          "name": "nutrition-service-card"
+        },
+        "title": "Nutrizione",
+        "text": "A partire da 40€/seduta",
+        "discipline": "nutrition"
+      }
+    ]
+  },
   "bullet-cards": {
     "title": "Perché affidarsi a EpiCura?",
     "cards": [
       {
-        "title": "Comodo, veloce, flessibile",
+        "title": "Comodo, veloce, <br /> flessibile",
         "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
         "img": {
           "path": "common",
@@ -70,7 +130,7 @@
         }
       },
       {
-        "title": "Prenotazioni senza intoppi",
+        "title": "Prenotazioni <br /> senza intoppi",
         "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
         "img": {
           "path": "common",
@@ -106,7 +166,7 @@
       "is-prime": false,
       "title": "EpiCura",
       "small-text": "0€ per sempre",
-      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "subtitle": "Le principali funzionalità di epiCura senza videoconsulti illimitati, sconti e convenzioni.",
       "option-list": [
         {
           "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
@@ -146,7 +206,7 @@
         }
       ],
       "cta": {
-        "label": "Entra in EpiCura e prenota",
+        "label": "Entra in epiCura e prenota",
         "link": "/",
         "image": "",
         "variant": "outlined"
@@ -205,7 +265,7 @@
   ],
   "app-banner": {
     "title": "50% di sconto sulla prima visita. <br /> Scarica l'app!",
-    "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "subtitle": "<strong>Inserisci subito il promo code APP50 e prenota.</strong> <br /> Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
       "name": "download-app-prime"
@@ -248,36 +308,225 @@
     "title": "",
     "cards": [
       {
-        "title": "Poliambulatorio Santa Maria della Croce",
-        "text": "Torino - via Arcivescovado 189",
+        "title": "Biochimico-Centro Prelievi Villasanta Medisan Assistenza",
+        "text": "Piazza Ammiraglio Manfredi Camperio, 320852 Villasanta MB",
         "image": "",
         "url": "",
         "discipline": ""
       },
       {
-        "title": "Poliambulatorio Santa Maria della Croce",
-        "text": "Torino - via Arcivescovado 189",
+        "title": "Biochimico-Centro Prelievi Lodi Vecchio",
+        "text": "Via SS. NABORRE E FELICE 49 – 26855 Lodi vecchio",
         "image": "",
         "url": "",
         "discipline": ""
       },
       {
-        "title": "Poliambulatorio Santa Maria della Croce",
-        "text": "Torino - via Arcivescovado 189",
+        "title": "Biochimico-Centro Prelievi Sardegna-WashingtonLab. Alfa",
+        "text": "Milano - via Sardegna, 34/A",
         "image": "",
         "url": "",
         "discipline": ""
       },
       {
-        "title": "Poliambulatorio Santa Maria della Croce",
-        "text": "Torino - via Arcivescovado 189",
+        "title": "Biochimico-Centro Prelievi Rogoredo-San Donato",
+        "text": "Milano - via Monte Palombino, 8",
         "image": "",
         "url": "",
         "discipline": ""
       },
       {
-        "title": "Poliambulatorio Santa Maria della Croce",
-        "text": "Torino - via Arcivescovado 189",
+        "title": "Biochimico-Centro Prelievi Ripamonti",
+        "text": "Milano - via Chopin, 50",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico-Centro Prelievi Lodi-Corvetto",
+        "text": "Milano - via Longhena, 7",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico-Centro Prelievi Greco-Staz.Centrale",
+        "text": "Milano - via E. De Marchi, 8",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico-Centro-Prelievi Certosa-Portello",
+        "text": "Milano - viale Certosa, 121",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico-Laboratorio Centrale e Centro Prelievi Farini-Garibaldi",
+        "text": "Milano - via Farini, 55",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Lam Centro Biochimico",
+        "text": "Milano - Via Torino 51",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Poliambulatorio Siom",
+        "text": "Torino - Corso Dante 64/A",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Diagnostica Forlanini Srl",
+        "text": "Milano - Via Pecorini Abelardo, 8",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "SANDONATO MEDICA",
+        "text": "San Donato Milanese (MI) - Via Bruxelles, 10",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Punto De.Ga. Srl",
+        "text": "Torino - Corso Regina Margherita 292 a-d",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Istituto Fisicoterapico",
+        "text": "Torino - Via Paolo Sacchi, 24",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Centro Medico Euriclea",
+        "text": "Milano - Piazzale Libia, 7 - 20135",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Clinica Sedes Sapientiae",
+        "text": "Torino - Via Bidone 31",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Altamedica",
+        "text": "Milano - L.go Schuster, 1 20122",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "ETHOS",
+        "text": "Milano - Via Valtellina, 12",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Lam Centro Biochimico",
+        "text": "Milano - Viale Pergolesi",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Centro Medico Gentilino",
+        "text": "Milano - Via Pordenone 32",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "CPG Srl",
+        "text": "Torino - Via De Sonnaz 5/A",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "EXAMINA srl",
+        "text": "Torino - Corso Vittorio Emanuele II, 18",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "A.N.S.A. srl",
+        "text": "Torino - Via Moncalvo, 4",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Centro Medico Monterosa",
+        "text": "Milano - Via Monte Rosa 3",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Centro Medico Unisalus",
+        "text": "Milano - Via Giovanni Battista Pirelli 16/B",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Centro Medico San Marco",
+        "text": "Milano - via Simone Martini 22/a",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Medikern",
+        "text": "Milano - Via Canova 19",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Polis Torino",
+        "text": "Torino - Via Capriolo, 18",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "EuroMedicaItalia",
+        "text": "Milano - Via Lomazzo 5",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Med Italia",
+        "text": "Torino - info@med-italia.it",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Poliambulatorio CMI",
+        "text": "Milano - Via Desenzano 14",
         "image": "",
         "url": "",
         "discipline": ""
@@ -372,43 +621,43 @@
     "title": "",
     "cities": [
       {
-        "option-link": "/torino/assistente-domiciliare/",
+        "option-link": "/torino/",
         "option-label": "Torino"
       },
       {
-        "option-link": "/milano/assistente-domiciliare/",
+        "option-link": "/milano/",
         "option-label": "Milano"
       },
       {
-        "option-link": "/roma/assistente-domiciliare/",
+        "option-link": "/roma/",
         "option-label": "Roma"
       },
       {
-        "option-link": "/bologna/assistente-domiciliare/",
+        "option-link": "/bologna/",
         "option-label": "Bologna"
       },
       {
-        "option-link": "/verona/assistente-domiciliare/",
+        "option-link": "/verona/",
         "option-label": "Verona"
       },
       {
-        "option-link": "/brescia/assistente-domiciliare/",
+        "option-link": "/brescia/",
         "option-label": "Brescia"
       },
       {
-        "option-link": "/catania/assistente-domiciliare/",
+        "option-link": "/catania/",
         "option-label": "Catania"
       },
       {
-        "option-link": "/genova/assistente-domiciliare/",
+        "option-link": "/genova/",
         "option-label": "Genova"
       },
       {
-        "option-link": "/firenze/assistente-domiciliare/",
+        "option-link": "/firenze/",
         "option-label": "Firenze"
       },
       {
-        "option-link": "/napoli/assistente-domiciliare/",
+        "option-link": "/napoli/",
         "option-label": "Napoli"
       }
     ]

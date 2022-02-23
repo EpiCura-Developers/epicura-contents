@@ -1,6 +1,6 @@
 {
   "metaDescription": {
-    "title": "EpiCura - Torino",
+    "title": "epiCura - Torino",
     "description": "Cura la tua salute e quella di chi ami a Torino e area metropolitana con EpiCura, primo poliambulatorio digitale in Italia. Servizi medici, sanitari e assistenziali 7 giorni su 7, anche in orari serali, senza liste d'attesa."
   },
   "top-banner": {
@@ -135,7 +135,7 @@
     "title": "Perché affidarsi a EpiCura?",
     "cards": [
       {
-        "title": "Comodo, veloce, flessibile",
+        "title": "Comodo, veloce, <br /> flessibile",
         "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
         "img": {
           "path": "common",
@@ -151,7 +151,7 @@
         }
       },
       {
-        "title": "Prenotazioni senza intoppi",
+        "title": "Prenotazioni <br /> senza intoppi",
         "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
         "img": {
           "path": "common",
@@ -187,7 +187,7 @@
       "is-prime": false,
       "title": "EpiCura",
       "small-text": "0€ per sempre",
-      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "subtitle": "Le principali funzionalità di epiCura senza videoconsulti illimitati, sconti e convenzioni.",
       "option-list": [
         {
           "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
@@ -227,7 +227,7 @@
         }
       ],
       "cta": {
-        "label": "Entra in EpiCura e prenota",
+        "label": "Entra in epiCura e prenota",
         "link": "/",
         "image": "",
         "variant": "outlined"
@@ -285,8 +285,8 @@
     }
   ],
   "app-banner": {
-    "title": "50% di sconto sulla prima visita. <br /><strong>Scarica l'app</strong>",
-    "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "title": "50% di sconto sulla prima visita. <br /> Scarica l'app!",
+    "subtitle": "<strong>Inserisci subito il promo code APP50 e prenota.</strong> <br /> Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
       "name": "download-app"
@@ -314,7 +314,7 @@
   "map": {
     "showAllText": "Mostra tutti",
     "hideAllText": "Mostra meno",
-    "doveCiTroviText": "I professionisti di EpiCura sono disponibili in tutta Torino",
+    "doveCiTroviText": "I professionisti di epiCura sono disponibili in tutta Torino",
     "quartieriText": "Controlla qui i comuni coperti dal servizio",
     "mapCenter": "45.066667,7.7",
     "markers": [
@@ -565,6 +565,88 @@
       {
         "location": "45.020289,7.733625",
         "name": "Revigliasco"
+      }
+    ]
+  },
+  "clinic-banner": {
+    "title": "Collaboriamo solo <br />con le migliori <br />cliniche e professionisti",
+    "subtitle": "",
+    "img": {
+      "path": "poliambulatori",
+      "name": "poliambulatori-banner"
+    },
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": true,
+    "has-large-title": true,
+    "has-bg-color": "",
+    "cta-content": []
+  },
+  "clinic-carousel": {
+    "title": "",
+    "cards": [
+      {
+        "title": "Poliambulatorio Siom",
+        "text": "Torino - Corso Dante 64/A",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Punto De.Ga. Srl",
+        "text": "Torino - Corso Regina Margherita 292 a-d",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Istituto Fisicoterapico",
+        "text": "Torino - Via Paolo Sacchi, 24",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Clinica Sedes Sapientiae",
+        "text": "Torino - Via Bidone 31",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "CPG Srl",
+        "text": "Torino - Via De Sonnaz 5/A",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "EXAMINA srl",
+        "text": "Torino - Corso Vittorio Emanuele II, 18",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "A.N.S.A. srl",
+        "text": "Torino - Via Moncalvo, 4",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Polis Torino",
+        "text": "Torino - Via Capriolo, 18",
+        "image": "",
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Med Italia",
+        "text": "Torino - info@med-italia.it",
+        "image": "",
+        "url": "",
+        "discipline": ""
       }
     ]
   }

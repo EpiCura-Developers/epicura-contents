@@ -8,7 +8,7 @@
     "subtitle": "Offri la possibilità a tutta l'azienda di accedere 7 giorni su 7 a prestazioni sanitarie a domicilio, in studio o in videoconsulto tramite App.",
     "img": {
       "path": "epicura corporate",
-      "name": "epicura-corporate-header"
+      "name": "corporate-header"
     },
     "has-large-title": true,
     "has-absolute-image": true,
@@ -146,7 +146,7 @@
           "name": "customer-care"
         },
         "title": "Customer Care dedicato",
-        "subtitle": "Un team di consulenti EpiCura disponibile per i dipendenti 7 giorni su 7.",
+        "subtitle": "Un team di consulenti epiCura disponibile per i dipendenti 7 giorni su 7.",
         "previous-price": "",
         "price": "",
         "price-detail": "",
@@ -185,7 +185,7 @@
       },
       {
         "icon": "/img/ricerca-convenzioni.png",
-        "text": "Accesso diretto a tutte le convenzioni partner di EpiCura in ambito di salute e benessere."
+        "text": "Accesso diretto a tutte le convenzioni partner di epiCura in ambito di salute e benessere."
       }
     ],
     "has-large-title": true,

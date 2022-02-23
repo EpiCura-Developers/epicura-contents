@@ -5,7 +5,7 @@
   },
   "subheader": {
     "titleBig": "Psicologo e Psicoterapeuta online",
-    "description1": "Con EpiCura puoi consultare i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet.",
+    "description1": "Con epiCura puoi consultare i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet.",
     "description2": " Prenota in pochi clic e ritrova adesso la tua serenità. "
   },
   "come_funziona": {
@@ -43,7 +43,7 @@
           "name": "referto-medico"
         },
         "title": "Fai terapia comodamente online",
-        "text": "Con EpiCura potrai accedere alle videosedute 7 giorni su 7, dove e quando vuoi: collegati da smartphone, pc o tablet e ricevi il supporto dei migliori psicologi e psicoterapeuti in totale comodità e sicurezza.",
+        "text": "Con epiCura potrai accedere alle videosedute 7 giorni su 7, dove e quando vuoi: collegati da smartphone, pc o tablet e ricevi il supporto dei migliori psicologi e psicoterapeuti in totale comodità e sicurezza.",
         "button": {
           "link": "https://epicuramed.typeform.com/to/pkPBYBjU?utm_campaign=Videoconsulto_gratuito_psicologia&utm_source=Sito&utm_medium=CTA",
           "link-staging": "https://epicuramed.typeform.com/to/wocfjSGc?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx",
@@ -54,14 +54,13 @@
   },
   "solutions": [
     {
-      "title": "I percorsi che abbiamo pensato per te",
+      "title": "Terapia individuale",
       "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato?<br />Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
       "startingFromText": "",
       "solutionsBig": [
         {
-          "code": "psychologyIndividual2Sessions",
-          "title": "Percorso Basic",
-          "text": "Inizia il tuo percorso con 2 videosedute mensili.<br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te. ",
+          "title": "Percorso online",
+          "text": "Inizia il tuo percorso con 2 o 4 sedute videosedute mensili.<br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te.",
           "startingFrom": false,
           "hideDiscount": true,
           "button": {
@@ -69,42 +68,86 @@
             "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
             "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
           },
-          "bottomText": {
-            "text": "Pacchetto base",
-            "highlighted": false
-          }
+          "priceCodes": [
+            {
+              "code": "psychologyIndividual2SessionsRemote",
+              "label": "2 sedute "
+            },
+            {
+              "code": "psychologyIndividual4SessionsRemote",
+              "label": "4 sedute "
+            }
+          ]
         },
         {
-          "code": "psychologyCouples2Sessions",
-          "title": "Percorso Plus",
-          "text": "Questo percorso ti consente di accedere a 3 videosedute mensili, comodamente da smartphone, pc o tablet.<br />Ideale per chi si approccia per la prima volta alla terapia psicologica. ",
+          "title": "Percorso in studio",
+          "text": "Questo percorso ti consente di accedere a 2 o 4 sedute in studio mensili.<br /> Ideale per chi si approccia per la prima volta alla terapia psicologica. ",
           "startingFrom": false,
+          "hideDiscount": true,
           "button": {
             "text": "Parla con un tutor",
             "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
             "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
           },
-          "bottomText": {
-            "text": "Risparmi ",
-            "highlighted": true,
-            "showDiscount": true
-          }
-        },
+          "priceCodes": [
+            {
+              "code": "psychologyIndividual2Sessions",
+              "label": "2 sedute "
+            },
+            {
+              "code": "psychologyIndividual4Sessions",
+              "label": "4 sedute "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Terapia di coppia",
+      "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato?<br />Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
+      "startingFromText": "",
+      "solutionsBig": [
         {
-          "code": "psychologyIndividual4Sessions",
-          "title": "Percorso Standard",
-          "text": "Percorso terapeutico che comprende 4 videosedute mensili, particolarmente efficace per lavorare su sofferenze e disturbi di lungo periodo.<br />Ideale per un supporto psicologico costante.",
+          "title": "Percorso online",
+          "text": "Inizia il tuo percorso con 2 o 4 sedute videosedute mensili.<br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te. ",
           "startingFrom": false,
+          "hideDiscount": true,
           "button": {
             "text": "Parla con un tutor",
             "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
             "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
           },
-          "bottomText": {
-            "text": "Risparmi ",
-            "highlighted": true,
-            "showDiscount": true
-          }
+          "priceCodes": [
+            {
+              "code": "psychologyCouples2SessionsRemote",
+              "label": "2 sedute "
+            },
+            {
+              "code": "psychologyCouples4SessionsRemote",
+              "label": "4 sedute "
+            }
+          ]
+        },
+        {
+          "title": "Percorso in studio",
+          "text": "Questo percorso ti consente di accedere a 2 o 4 sedute in studio mensili.<br /> Ideale per chi si approccia per la prima volta alla terapia psicologica. ",
+          "startingFrom": false,
+          "hideDiscount": true,
+          "button": {
+            "text": "Parla con un tutor",
+            "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
+            "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
+          },
+          "priceCodes": [
+            {
+              "code": "psychologyCouples2Sessions",
+              "label": "2 sedute "
+            },
+            {
+              "code": "psychologyCouples4Sessions",
+              "label": "4 sedute "
+            }
+          ]
         }
       ]
     }
@@ -120,12 +163,12 @@
       {
         "image": { "path": "psychology", "name": "tram" },
         "title": "Evita scomodi spostamenti",
-        "description": "EpiCura ti permette di accedere alle videosedute in modo semplice e rapido, ovunque tu sia, senza necessità di recarti nello studio del professionista."
+        "description": "epiCura ti permette di accedere alle videosedute in modo semplice e rapido, ovunque tu sia, senza necessità di recarti nello studio del professionista."
       },
       {
         "image": { "path": "common", "name": "credit-card" },
         "title": "Paga comodamente online",
-        "description": "Con EpiCura puoi prenotare e pagare comodamente da sito, in pochi clic e in totale sicurezza, con carta di credito, bancomat oppure prepagata."
+        "description": "Con epiCura puoi prenotare e pagare comodamente da sito, in pochi clic e in totale sicurezza, con carta di credito, bancomat oppure prepagata."
       }
     ]
   },
@@ -172,7 +215,7 @@
   "banner-info": {
     "title": "Hai un dubbio sul servizio di<br /> psicologia e psicoterapia?",
     "title-colored": "",
-    "content": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi di EpiCura più adatti alle tue esigenze.",
+    "content": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi di epiCura più adatti alle tue esigenze.",
     "image": {
       "path": "common",
       "name": "info-psicologia"
@@ -187,7 +230,7 @@
   },
   "top-banner": {
     "title": "Psicologo e Psicoterapeuta online",
-    "subtitle": "Se hai bisogno di parlare con qualcuno, nessun problema: con EpiCura puoi parlare con i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet. ",
+    "subtitle": "Se hai bisogno di parlare con qualcuno, nessun problema: con epiCura puoi parlare con i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet. ",
     "img": {
       "path": "psychology",
       "name": "psychology-header"
@@ -195,7 +238,7 @@
     "has-large-title": true,
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": false,
+    "hide-image-mobile": true,
     "has-bg-color": "psychology",
     "cta-content": [
       {
@@ -264,7 +307,7 @@
       },
       {
         "title": "Evita gli spostamenti",
-        "text": "EpiCura ti permette di accedere alle videosedute in modo semplice e rapido, ovunque tu sia, senza necessità di recarti nello studio del professionista.",
+        "text": "epiCura ti permette di accedere alle videosedute in modo semplice e rapido, ovunque tu sia, senza necessità di recarti nello studio del professionista.",
         "img": {
           "path": "common",
           "name": "pro-certified"
@@ -272,7 +315,7 @@
       },
       {
         "title": "Paga comodamente online",
-        "text": "Con EpiCura puoi prenotare e pagare comodamente da sito, in pochi clic e in totale sicurezza, con carta di credito, bancomat oppure prepagata.",
+        "text": "Con epiCura puoi prenotare e pagare comodamente da sito, in pochi clic e in totale sicurezza, con carta di credito, bancomat oppure prepagata.",
         "img": {
           "path": "common",
           "name": "booking-1"
@@ -320,7 +363,7 @@
   },
   "service-banner": {
     "title": "Hai un dubbio sul servizio di psicologia? Chiamaci",
-    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi EpiCura più adatti alle tue esigenze.",
+    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi epiCura più adatti alle tue esigenze.",
     "img": {
       "path": "psychology",
       "name": "psychology-service-banner"

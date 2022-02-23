@@ -31,64 +31,100 @@
     "has-bg-color": "",
     "cta-content": []
   },
-  "benefit-carousel": {
+  "discipline-carousel": {
+    "title": "Alcune delle visite più richieste a domicilio, in videoconsulto o in studio",
+    "cards": [
+      {
+        "img": {
+          "path": "physiotherapy",
+          "name": "physiotherapy-service-card"
+        },
+        "title": "Fisioterapia",
+        "text": "A partire da 40€/seduta",
+        "discipline": "physiotherapy"
+      },
+      {
+        "img": {
+          "path": "veterinary",
+          "name": "veterinary-service-card"
+        },
+        "title": "Veterinaria",
+        "text": "A partire da 60€",
+        "discipline": "veterinary"
+      },
+      {
+        "img": {
+          "path": "nutrition",
+          "name": "nutrition-service-card"
+        },
+        "title": "Nutrizione",
+        "text": "A partire da 40€/seduta",
+        "discipline": "nutrition"
+      },
+
+      {
+        "img": {
+          "path": "physiotherapy",
+          "name": "physiotherapy-service-card"
+        },
+        "title": "Fisioterapia",
+        "text": "A partire da 40€/seduta",
+        "discipline": "physiotherapy"
+      },
+      {
+        "img": {
+          "path": "veterinary",
+          "name": "veterinary-service-card"
+        },
+        "title": "Veterinaria",
+        "text": "A partire da 60€",
+        "discipline": "veterinary"
+      },
+      {
+        "img": {
+          "path": "nutrition",
+          "name": "nutrition-service-card"
+        },
+        "title": "Nutrizione",
+        "text": "A partire da 40€/seduta",
+        "discipline": "nutrition"
+      }
+    ]
+  },
+  "bullet-cards": {
     "title": "",
     "cards": [
       {
-        "title": "Comodo, veloce, flessibile",
+        "title": "Comodo, veloce, <br /> flessibile",
         "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
-        "image": "",
-        "url": "",
-        "discipline": ""
+        "img": {
+          "path": "common",
+          "name": "convenient"
+        }
       },
       {
-        "title": "Professionisti certificati",
+        "title": "Professionisti <br /> certificati",
         "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
-        "image": "",
-        "url": "",
-        "discipline": ""
+        "img": {
+          "path": "common",
+          "name": "pro-certified"
+        }
       },
       {
-        "title": "Prenotazioni senza intoppi",
+        "title": "Prenotazioni <br /> senza intoppi",
         "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
-        "image": "",
-        "url": "",
-        "discipline": ""
+        "img": {
+          "path": "common",
+          "name": "booking-1"
+        }
       },
       {
-        "title": "Supporto costante",
+        "title": "Supporto <br /> costante",
         "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Comodo, veloce, flessibile",
-        "text": "Torino - via Arcivescovado 189",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Professionisti certificati",
-        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Prenotazioni senza intoppi",
-        "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Supporto costante",
-        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
-        "image": "",
-        "url": "",
-        "discipline": ""
+        "img": {
+          "path": "common",
+          "name": "support"
+        }
       }
     ]
   },
@@ -111,7 +147,7 @@
       "is-prime": false,
       "title": "EpiCura",
       "small-text": "0€ per sempre",
-      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
+      "subtitle": "Le principali funzionalità di epiCura senza videoconsulti illimitati, sconti e convenzioni.",
       "option-list": [
         {
           "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
@@ -151,7 +187,7 @@
         }
       ],
       "cta": {
-        "label": "Entra in EpiCura e prenota",
+        "label": "Entra in epiCura e prenota",
         "link": "/",
         "image": "",
         "variant": "outlined"
@@ -230,8 +266,8 @@
     ]
   },
   "app-banner": {
-    "title": "50% di sconto sulla prima visita. <br /><strong>Scarica l'app</strong>",
-    "subtitle": "Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "title": "50% di sconto sulla prima visita. <br /> Scarica l'app!",
+    "subtitle": "<strong>Inserisci subito il promo code APP50 e prenota.</strong> <br /> Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
     "img": {
       "path": "common",
       "name": "download-app"
@@ -281,43 +317,43 @@
     "title": "",
     "cities": [
       {
-        "option-link": "/torino/assistente-domiciliare/",
+        "option-link": "/torino/",
         "option-label": "Torino"
       },
       {
-        "option-link": "/milano/assistente-domiciliare/",
+        "option-link": "/milano/",
         "option-label": "Milano"
       },
       {
-        "option-link": "/roma/assistente-domiciliare/",
+        "option-link": "/roma/",
         "option-label": "Roma"
       },
       {
-        "option-link": "/bologna/assistente-domiciliare/",
+        "option-link": "/bologna/",
         "option-label": "Bologna"
       },
       {
-        "option-link": "/verona/assistente-domiciliare/",
+        "option-link": "/verona/",
         "option-label": "Verona"
       },
       {
-        "option-link": "/brescia/assistente-domiciliare/",
+        "option-link": "/brescia/",
         "option-label": "Brescia"
       },
       {
-        "option-link": "/catania/assistente-domiciliare/",
+        "option-link": "/catania/",
         "option-label": "Catania"
       },
       {
-        "option-link": "/genova/assistente-domiciliare/",
+        "option-link": "/genova/",
         "option-label": "Genova"
       },
       {
-        "option-link": "/firenze/assistente-domiciliare/",
+        "option-link": "/firenze/",
         "option-label": "Firenze"
       },
       {
-        "option-link": "/napoli/assistente-domiciliare/",
+        "option-link": "/napoli/",
         "option-label": "Napoli"
       }
     ]

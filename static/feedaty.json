@@ -1,311 +1,311 @@
 {
-    "common-text": {
-        "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
-        "subtitle": "Ecco alcune recensioni di chi si è affidato ai servizi EpiCura.",
-        "average": "media recensioni",
-        "vote": 4.7,
-        "voteLiteral": "Ottimo",
-        "howManyReviews": "Oltre 400 recensioni verificate",
-        "askInfoText": "Richiedi informazioni",
-        "prenotaText": "Prenota online"
+  "common-text": {
+    "title": "La soddisfazione di chi ci sceglie è la nostra priorità.",
+    "subtitle": "Ecco alcune recensioni di chi si è affidato ai servizi EpiCura.",
+    "average": "media recensioni",
+    "vote": 4.7,
+    "voteLiteral": "Ottimo",
+    "howManyReviews": "Oltre 400 recensioni verificate",
+    "askInfoText": "Richiedi informazioni",
+    "prenotaText": "Prenota online"
+  },
+  "reviews-list": [
+    {
+      "sex": "male",
+      "text": "Ho usufruito del servizio di fisioterapia per risolvere un brutto dolore cervicale. Servizio impeccabile! La fisioterapista si è presa cura di me con estrema attenzione alla mia storia clinica.",
+      "discipline": "fisioterapista"
     },
-    "reviews-list": [
-        {
-            "sex": "male",
-            "text": "Ho usufruito del servizio di fisioterapia per risolvere un brutto dolore cervicale. Servizio impeccabile! La fisioterapista si è presa cura di me con estrema attenzione alla mia storia clinica.",
-            "discipline": "fisioterapista"
-        },
-        {
-            "sex": "female",
-            "text": "Il fisioterapista è stato bravissimo e mi sono trovata molto bene! Un vero professionista, preparato e umano nei rapporti. Grazie!",
-            "discipline": "fisioterapista"
-        },
-        {
-            "sex": "female",
-            "text": "Esperienza più che positiva. Ottima impressione e fisioterapista eccellente. Consigliatissimo.",
-            "discipline": "fisioterapista"
-        },
-        {
-            "sex": "male",
-            "text": "Fisioterapista preparato. Ottimo servizio da consigliare assolutamente!",
-            "discipline": "fisioterapista"
-        },
-        {
-            "sex": "male",
-            "text": "L’assistente inviata da EpiCura è molto preparata, attenta e cortese, ma soprattutto si prende cura di mio padre in modo eccellente. Grazie.",
-            "discipline": "assistente-domiciliare"
-        },
-        {
-            "sex": "female",
-            "text": "Sono stata molto soddisfatta sia dall'organizzazione veloce ed efficiente che dall’assistente domiciliare che si è preso cura di mia madre.",
-            "discipline": "assistente-domiciliare"
-        },
-        {
-            "sex": "female",
-            "text": "Efficienti e disponibili. In brevissimo tempo ci hanno aiutato a trovare la soluzione migliore per mio papà che ha avuto un brutto infortunio, necessitando di assistenza quotidiana qualificata.",
-            "discipline": "assistente-domiciliare"
-        },
-        {
-            "sex": "female",
-            "text": "Le prenotazioni per gli interventi sono veloci e hanno coperto tutte le esigenze incontrate. Il servizio infermieristico è ineccepibile: personale molto preparato e gentile.",
-            "discipline": "infermiere"
-        },
-        {
-            "sex": "male",
-            "text": "Risposta cortese e immediata. L’infermiera inviata molto professionale e soprattutto di grande umanità. Consigliatissimo.",
-            "discipline": "infermiere"
-        },
-        {
-            "sex": "female",
-            "text": "L'infermiere che ha eseguito il servizio è stato molto bravo, educato e competente. Prenoterò nuovamente da voi.",
-            "discipline": "infermiere"
-        },
-        {
-            "sex": "female",
-            "text": "Mi sono trovata estremamente bene, massoterapista competente, serio, puntuale e con una lunga esperienza nel settore. Non posso dare altro che un ottimo giudizio.",
-            "discipline": "massaggiatore-professionale"
-        },
-        {
-            "sex": "male",
-            "text": "Eseguito massaggio sportivo con professionista eccellente. Ottimo servizio, puntualità, cortesia e professionalità. Grazie.",
-            "discipline": "massaggiatore-professionale"
-        },
-        {
-            "sex": "female",
-            "text": "Personale altamente qualificato, gentilissimi nella fase di prenotazione, e negli orari concordati. Prezzi concorrenziali. Di meglio in giro credo che non ci sia davvero.",
-            "discipline": "massaggiatore-professionale"
-        },
-        {
-            "sex": "male",
-            "text": "In un momento di difficoltà per un problema che sto affrontando ho avuto consigli preziosi che sto seguendo, vedendo già i risultati. Ottimo servizio, medico gentile e competente.",
-            "discipline": "medico-di-base"
-        },
-        {
-            "sex": "male",
-            "text": "Ho usato EpiCura in un momento di urgenza: servizio comodo, veloce, efficiente. In poche ore ho effettuato una visita a domicilio con un medico esperto e molto professionale.",
-            "discipline": "medico-di-base"
-        },
-        {
-            "sex": "female",
-            "text": "Il dottore molto professionale e gentile. Ho avuto la fortuna di trovare casualmente uno specialista proprio del problema che soffriva mia madre. In tempi di pandemia non è poco. Grazie.",
-            "discipline": "medico-di-base"
-        },
-        {
-            "sex": "male",
-            "text": "Il nutrizionista che mi segue si è dimostrato preparato e disponibile, dandomi preziosi consigli. Vedo già i primi risultati. Che dire, servizio eccellente.",
-            "discipline": "nutrizionista"
-        },
-        {
-            "sex": "female",
-            "text": "Feedback ottimo, nutrizionista estremamente professionale e scrupolosa che mostra grande empatia e attenzione al mio percorso. Consiglio vivamente EpiCura.",
-            "discipline": "nutrizionista"
-        },
-        {
-            "sex": "female",
-            "text": "EpiCura è stata una bella scoperta! Nutrizionista gentile, umano e disponibile. Ho provato molte diete, ma questa volta mi sento incoraggiata anche emotivamente!",
-            "discipline": "nutrizionista"
-        },
-        {
-            "sex": "male",
-            "text": "L’osteopata, oltre ad essere gentilissimo, ha lavorato con umanità e professionalità. Persone come lui oggi sono rare. Grazie.",
-            "discipline": "osteopata"
-        },
-        {
-            "sex": "female",
-            "text": "Servizio perfetto e immediato: l’osteopata si è presentato a casa mia in meno di 24 ore. Comunicazione eccellente e completa, personale gentile e preparato.",
-            "discipline": "osteopata"
-        },
-        {
-            "sex": "male",
-            "text": "Osteopata gentile e preparato, soprattutto in grado di entrare in empatia con mia madre anziana.",
-            "discipline": "osteopata"
-        },
-        {
-            "sex": "male",
-            "text": "Cortesia e prontezza rare, sia nella presa in carico che per quanto riguarda la pediatra, gentile e competente, che è arrivata puntualmente e con tutto il necessario.",
-            "discipline": "pediatra"
-        },
-        {
-            "sex": "female",
-            "text": "Non mi dilungherò ma vi dico che dopo anni di brutte esperienze ho trovato finalmente, grazie a EpiCura, un pediatra veramente professionale!",
-            "discipline": "pediatra"
-        },
-        {
-            "sex": "male",
-            "text": "Ottimo servizio, rapido e professionale. Il pediatra che ha visitato mio figlio gentile e preparato. Tornerò da loro perché mi sono trovato bene e vi ringrazio.",
-            "discipline": "pediatra"
-        },
-        {
-            "sex": "female",
-            "text": "Nelle sedute con la psicologa ho riscontrato una grande professionalità e competenza. Complimenti, servizio davvero consigliato.",
-            "discipline": "psicologo"
-        },
-        {
-            "sex": "female",
-            "text": "Lo psicologo con cui sono stata messa in contatto è una persona seria, competente e molto gentile e soprattutto di grande sostegno in un momento molto difficile per me.",
-            "discipline": "psicologo"
-        },
-        {
-            "sex": "male",
-            "text": "Servizio di psicologia eccellente, mi ha aiutato tantissimo per quello che mi serviva, non mi aspettavo un servizio impeccabile. Grazie mille.",
-            "discipline": "psicologo"
-        },
-        {
-            "sex": "male",
-            "text": "Davvero un ottimo servizio! Prenotato al mattino ed usufruito la sera stessa. Psicoterapeuta preparato e gentile, consigliatissimo!",
-            "discipline": "psicoterapeuta"
-        },
-        {
-            "sex": "female",
-            "text": "Un ottimo servizio, dalla fase di prenotazione con operatori gentili e disponibili allo psicoterapeuta, molto umano e professionale.",
-            "discipline": "psicoterapeuta"
-        },
-        {
-            "sex": "female",
-            "text": "Un servizio eccellente e piacevolmente inaspettato, di grande supporto in una fase della mia vita molto complicata.",
-            "discipline": "psicoterapeuta"
-        },
-        {
-            "sex": "male",
-            "text": "Mi sono trovato egregiamente perché EpiCura mi ha fornito un veloce e valido aiuto in un momento di improvvisa e grave difficoltà per il mio cane anziano.",
-            "discipline": "veterinario"
-        },
-        {
-            "sex": "female",
-            "text": "Consigliatissimo, da noi è venuta una veterinaria veramente brava e professionale, anche i prezzi sono equi. Consigliatissimo.",
-            "discipline": "veterinario"
-        },
-        {
-            "sex": "female",
-            "text": "La visita è stata effettuata puntualmente ed in modo accurato a breve distanza dal momento della richiesta. Veterinario gentile e competente.",
-            "discipline": "veterinario"
-        },
-        {
-            "sex": "male",
-            "text": "Vi siete presi cura di mio padre, in un momento molto difficile per lui. Vi ringrazio per la vostra professionalità, efficienza e disponibilità. Veramente un servizio ottimo, molto consigliato.",
-            "discipline": "badante"
-        },
-        {
-            "sex": "female",
-            "text": "Gentili, professionali e soprattutto umani!! Abbiamo richiesto una badante per mia madre non autosufficiente, mi hanno proposto le 3 alternative da loro selezionate e scelto la migliore per noi.",
-            "discipline": "badante"
-        },
-        {
-            "sex": "female",
-            "text": "Un servizio ottimo! Il family tutor segue tutto il processo di selezione, interfacciandosi costantemente con la famiglia e ascoltando qualunque esigenza. Una presenza costante e rassicurante, grazie!",
-            "discipline": "badante"
-        }
-    ],
-    "male": [
-        "Aldo",
-        "Alberto",
-        "Alessandro",
-        "Andrea",
-        "Angelo",
-        "Antonio",
-        "Bartolomeo",
-        "Carlo",
-        "Davide",
-        "Dario",
-        "Donato",
-        "Enrico",
-        "Enzo",
-        "Fabio",
-        "Fernando",
-        "Francesco",
-        "Franco",
-        "Fulvio",
-        "Gianluca",
-        "Gian Marco",
-        "Giorgio",
-        "Giovanni",
-        "Ivano",
-        "Ivo",
-        "Leonardo",
-        "Livio",
-        "Lorenzo",
-        "Luca",
-        "Lucio",
-        "Ludovico",
-        "Marcello",
-        "Marco",
-        "Massimo",
-        "Maurizio",
-        "Nicola",
-        "Niccolò",
-        "Osvaldo",
-        "Paolo",
-        "Pietro",
-        "Raffaele",
-        "Roberto",
-        "Samuele",
-        "Saverio",
-        "Sergio",
-        "Tommaso",
-        "Umberto",
-        "Ugo",
-        "Vittorio",
-        "Jacopo"
-    ],
-    "female": [
-        "Adriana",
-        "Anna",
-        "Annarita",
-        "Aurora",
-        "Beatrice",
-        "Camilla",
-        "Carolina",
-        "Caterina",
-        "Chiara",
-        "Clara",
-        "Claudia",
-        "Cristina",
-        "Costanza",
-        "Diana",
-        "Desiree",
-        "Donatella",
-        "Dora",
-        "Elvira",
-        "Emma",
-        "Eva",
-        "Federica",
-        "Flavia",
-        "Fulvia",
-        "Giorgia",
-        "Giovanna",
-        "Giuditta",
-        "Greta",
-        "Imma",
-        "Ilaria",
-        "Isotta",
-        "Ivana",
-        "Laura",
-        "Licia",
-        "Lorenza",
-        "Luisa",
-        "Manuela",
-        "Maria",
-        "Margherita",
-        "Marta",
-        "Matilde",
-        "Michela",
-        "Monica",
-        "Nicoletta",
-        "Nicole",
-        "Nora",
-        "Osvalda",
-        "Paola",
-        "Piera",
-        "Raffaella",
-        "Roberta",
-        "Rossana",
-        "Sara",
-        "Silvia",
-        "Simona",
-        "Sofia",
-        "Sonia",
-        "Tatiana",
-        "Valentina",
-        "Valeria"
-    ]
+    {
+      "sex": "female",
+      "text": "Il fisioterapista è stato bravissimo e mi sono trovata molto bene! Un vero professionista, preparato e umano nei rapporti. Grazie!",
+      "discipline": "fisioterapista"
+    },
+    {
+      "sex": "female",
+      "text": "Esperienza più che positiva. Ottima impressione e fisioterapista eccellente. Consigliatissimo.",
+      "discipline": "fisioterapista"
+    },
+    {
+      "sex": "male",
+      "text": "Fisioterapista preparato. Ottimo servizio da consigliare assolutamente!",
+      "discipline": "fisioterapista"
+    },
+    {
+      "sex": "male",
+      "text": "L’assistente inviata da epiCura è molto preparata, attenta e cortese, ma soprattutto si prende cura di mio padre in modo eccellente. Grazie.",
+      "discipline": "assistente-domiciliare"
+    },
+    {
+      "sex": "female",
+      "text": "Sono stata molto soddisfatta sia dall'organizzazione veloce ed efficiente che dall’assistente domiciliare che si è preso cura di mia madre.",
+      "discipline": "assistente-domiciliare"
+    },
+    {
+      "sex": "female",
+      "text": "Efficienti e disponibili. In brevissimo tempo ci hanno aiutato a trovare la soluzione migliore per mio papà che ha avuto un brutto infortunio, necessitando di assistenza quotidiana qualificata.",
+      "discipline": "assistente-domiciliare"
+    },
+    {
+      "sex": "female",
+      "text": "Le prenotazioni per gli interventi sono veloci e hanno coperto tutte le esigenze incontrate. Il servizio infermieristico è ineccepibile: personale molto preparato e gentile.",
+      "discipline": "infermiere"
+    },
+    {
+      "sex": "male",
+      "text": "Risposta cortese e immediata. L’infermiera inviata molto professionale e soprattutto di grande umanità. Consigliatissimo.",
+      "discipline": "infermiere"
+    },
+    {
+      "sex": "female",
+      "text": "L'infermiere che ha eseguito il servizio è stato molto bravo, educato e competente. Prenoterò nuovamente da voi.",
+      "discipline": "infermiere"
+    },
+    {
+      "sex": "female",
+      "text": "Mi sono trovata estremamente bene, massoterapista competente, serio, puntuale e con una lunga esperienza nel settore. Non posso dare altro che un ottimo giudizio.",
+      "discipline": "massaggiatore-professionale"
+    },
+    {
+      "sex": "male",
+      "text": "Eseguito massaggio sportivo con professionista eccellente. Ottimo servizio, puntualità, cortesia e professionalità. Grazie.",
+      "discipline": "massaggiatore-professionale"
+    },
+    {
+      "sex": "female",
+      "text": "Personale altamente qualificato, gentilissimi nella fase di prenotazione, e negli orari concordati. Prezzi concorrenziali. Di meglio in giro credo che non ci sia davvero.",
+      "discipline": "massaggiatore-professionale"
+    },
+    {
+      "sex": "male",
+      "text": "In un momento di difficoltà per un problema che sto affrontando ho avuto consigli preziosi che sto seguendo, vedendo già i risultati. Ottimo servizio, medico gentile e competente.",
+      "discipline": "medico-di-base"
+    },
+    {
+      "sex": "male",
+      "text": "Ho usato epiCura in un momento di urgenza: servizio comodo, veloce, efficiente. In poche ore ho effettuato una visita a domicilio con un medico esperto e molto professionale.",
+      "discipline": "medico-di-base"
+    },
+    {
+      "sex": "female",
+      "text": "Il dottore molto professionale e gentile. Ho avuto la fortuna di trovare casualmente uno specialista proprio del problema che soffriva mia madre. In tempi di pandemia non è poco. Grazie.",
+      "discipline": "medico-di-base"
+    },
+    {
+      "sex": "male",
+      "text": "Il nutrizionista che mi segue si è dimostrato preparato e disponibile, dandomi preziosi consigli. Vedo già i primi risultati. Che dire, servizio eccellente.",
+      "discipline": "nutrizionista"
+    },
+    {
+      "sex": "female",
+      "text": "Feedback ottimo, nutrizionista estremamente professionale e scrupolosa che mostra grande empatia e attenzione al mio percorso. Consiglio vivamente EpiCura.",
+      "discipline": "nutrizionista"
+    },
+    {
+      "sex": "female",
+      "text": "epiCura è stata una bella scoperta! Nutrizionista gentile, umano e disponibile. Ho provato molte diete, ma questa volta mi sento incoraggiata anche emotivamente!",
+      "discipline": "nutrizionista"
+    },
+    {
+      "sex": "male",
+      "text": "L’osteopata, oltre ad essere gentilissimo, ha lavorato con umanità e professionalità. Persone come lui oggi sono rare. Grazie.",
+      "discipline": "osteopata"
+    },
+    {
+      "sex": "female",
+      "text": "Servizio perfetto e immediato: l’osteopata si è presentato a casa mia in meno di 24 ore. Comunicazione eccellente e completa, personale gentile e preparato.",
+      "discipline": "osteopata"
+    },
+    {
+      "sex": "male",
+      "text": "Osteopata gentile e preparato, soprattutto in grado di entrare in empatia con mia madre anziana.",
+      "discipline": "osteopata"
+    },
+    {
+      "sex": "male",
+      "text": "Cortesia e prontezza rare, sia nella presa in carico che per quanto riguarda la pediatra, gentile e competente, che è arrivata puntualmente e con tutto il necessario.",
+      "discipline": "pediatra"
+    },
+    {
+      "sex": "female",
+      "text": "Non mi dilungherò ma vi dico che dopo anni di brutte esperienze ho trovato finalmente, grazie a EpiCura, un pediatra veramente professionale!",
+      "discipline": "pediatra"
+    },
+    {
+      "sex": "male",
+      "text": "Ottimo servizio, rapido e professionale. Il pediatra che ha visitato mio figlio gentile e preparato. Tornerò da loro perché mi sono trovato bene e vi ringrazio.",
+      "discipline": "pediatra"
+    },
+    {
+      "sex": "female",
+      "text": "Nelle sedute con la psicologa ho riscontrato una grande professionalità e competenza. Complimenti, servizio davvero consigliato.",
+      "discipline": "psicologo"
+    },
+    {
+      "sex": "female",
+      "text": "Lo psicologo con cui sono stata messa in contatto è una persona seria, competente e molto gentile e soprattutto di grande sostegno in un momento molto difficile per me.",
+      "discipline": "psicologo"
+    },
+    {
+      "sex": "male",
+      "text": "Servizio di psicologia eccellente, mi ha aiutato tantissimo per quello che mi serviva, non mi aspettavo un servizio impeccabile. Grazie mille.",
+      "discipline": "psicologo"
+    },
+    {
+      "sex": "male",
+      "text": "Davvero un ottimo servizio! Prenotato al mattino ed usufruito la sera stessa. Psicoterapeuta preparato e gentile, consigliatissimo!",
+      "discipline": "psicoterapeuta"
+    },
+    {
+      "sex": "female",
+      "text": "Un ottimo servizio, dalla fase di prenotazione con operatori gentili e disponibili allo psicoterapeuta, molto umano e professionale.",
+      "discipline": "psicoterapeuta"
+    },
+    {
+      "sex": "female",
+      "text": "Un servizio eccellente e piacevolmente inaspettato, di grande supporto in una fase della mia vita molto complicata.",
+      "discipline": "psicoterapeuta"
+    },
+    {
+      "sex": "male",
+      "text": "Mi sono trovato egregiamente perché epiCura mi ha fornito un veloce e valido aiuto in un momento di improvvisa e grave difficoltà per il mio cane anziano.",
+      "discipline": "veterinario"
+    },
+    {
+      "sex": "female",
+      "text": "Consigliatissimo, da noi è venuta una veterinaria veramente brava e professionale, anche i prezzi sono equi. Consigliatissimo.",
+      "discipline": "veterinario"
+    },
+    {
+      "sex": "female",
+      "text": "La visita è stata effettuata puntualmente ed in modo accurato a breve distanza dal momento della richiesta. Veterinario gentile e competente.",
+      "discipline": "veterinario"
+    },
+    {
+      "sex": "male",
+      "text": "Vi siete presi cura di mio padre, in un momento molto difficile per lui. Vi ringrazio per la vostra professionalità, efficienza e disponibilità. Veramente un servizio ottimo, molto consigliato.",
+      "discipline": "badante"
+    },
+    {
+      "sex": "female",
+      "text": "Gentili, professionali e soprattutto umani!! Abbiamo richiesto una badante per mia madre non autosufficiente, mi hanno proposto le 3 alternative da loro selezionate e scelto la migliore per noi.",
+      "discipline": "badante"
+    },
+    {
+      "sex": "female",
+      "text": "Un servizio ottimo! Il family tutor segue tutto il processo di selezione, interfacciandosi costantemente con la famiglia e ascoltando qualunque esigenza. Una presenza costante e rassicurante, grazie!",
+      "discipline": "badante"
+    }
+  ],
+  "male": [
+    "Aldo",
+    "Alberto",
+    "Alessandro",
+    "Andrea",
+    "Angelo",
+    "Antonio",
+    "Bartolomeo",
+    "Carlo",
+    "Davide",
+    "Dario",
+    "Donato",
+    "Enrico",
+    "Enzo",
+    "Fabio",
+    "Fernando",
+    "Francesco",
+    "Franco",
+    "Fulvio",
+    "Gianluca",
+    "Gian Marco",
+    "Giorgio",
+    "Giovanni",
+    "Ivano",
+    "Ivo",
+    "Leonardo",
+    "Livio",
+    "Lorenzo",
+    "Luca",
+    "Lucio",
+    "Ludovico",
+    "Marcello",
+    "Marco",
+    "Massimo",
+    "Maurizio",
+    "Nicola",
+    "Niccolò",
+    "Osvaldo",
+    "Paolo",
+    "Pietro",
+    "Raffaele",
+    "Roberto",
+    "Samuele",
+    "Saverio",
+    "Sergio",
+    "Tommaso",
+    "Umberto",
+    "Ugo",
+    "Vittorio",
+    "Jacopo"
+  ],
+  "female": [
+    "Adriana",
+    "Anna",
+    "Annarita",
+    "Aurora",
+    "Beatrice",
+    "Camilla",
+    "Carolina",
+    "Caterina",
+    "Chiara",
+    "Clara",
+    "Claudia",
+    "Cristina",
+    "Costanza",
+    "Diana",
+    "Desiree",
+    "Donatella",
+    "Dora",
+    "Elvira",
+    "Emma",
+    "Eva",
+    "Federica",
+    "Flavia",
+    "Fulvia",
+    "Giorgia",
+    "Giovanna",
+    "Giuditta",
+    "Greta",
+    "Imma",
+    "Ilaria",
+    "Isotta",
+    "Ivana",
+    "Laura",
+    "Licia",
+    "Lorenza",
+    "Luisa",
+    "Manuela",
+    "Maria",
+    "Margherita",
+    "Marta",
+    "Matilde",
+    "Michela",
+    "Monica",
+    "Nicoletta",
+    "Nicole",
+    "Nora",
+    "Osvalda",
+    "Paola",
+    "Piera",
+    "Raffaella",
+    "Roberta",
+    "Rossana",
+    "Sara",
+    "Silvia",
+    "Simona",
+    "Sofia",
+    "Sonia",
+    "Tatiana",
+    "Valentina",
+    "Valeria"
+  ]
 }
