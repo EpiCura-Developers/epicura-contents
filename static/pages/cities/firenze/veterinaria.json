@@ -13,12 +13,12 @@
     "has-large-title": true,
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": true,
+    "hide-image-mobile": false,
     "has-bg-color": "",
     "cta-content": []
   },
   "bullet-cards": {
-    "title": "Perché affidarsi a EpiCura?",
+    "title": "Perché affidarsi a epiCura?",
     "cards": [
       {
         "title": "Comodo, veloce, <br /> flessibile",
@@ -179,7 +179,7 @@
   "prime-table-compare": [
     {
       "is-prime": false,
-      "title": "EpiCura",
+      "title": "epiCura",
       "small-text": "0€ per sempre",
       "subtitle": "Le principali funzionalità di epiCura senza videoconsulti illimitati, sconti e convenzioni.",
       "option-list": [

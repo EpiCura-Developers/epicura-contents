@@ -13,12 +13,12 @@
     "has-large-title": true,
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": true,
+    "hide-image-mobile": false,
     "has-bg-color": "physiotherapy",
     "cta-content": []
   },
   "bullet-cards": {
-    "title": "Perché affidarsi a EpiCura?",
+    "title": "Perché affidarsi a epiCura?",
     "cards": [
       {
         "title": "Comodo, veloce, <br /> flessibile",
@@ -104,6 +104,39 @@
       }
     ]
   },
+  "how-does-it-work": {
+    "title": "Fisioterapia a domicilio o in studio. Ecco come funziona",
+    "subtitle": "",
+    "cards": [
+      {
+        "title": "SCOPRI LE NOSTRE SOLUZIONI",
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze.",
+        "img": {
+          "path": "caregiver",
+          "name": "esigenze-familiari"
+        },
+        "has-background": true
+      },
+      {
+        "title": "Troviamo la badante <br /> più adatta",
+        "text": "In base alle tue richieste, pensiamo noi a cercare le persone più idonee da presentarti. Lavoriamo solo con personale esperto e referenziato.",
+        "img": {
+          "path": "caregiver",
+          "name": "badante-adatta"
+        },
+        "has-background": true
+      },
+      {
+        "title": "Gestiamo la parte <br /> contrattuale",
+        "text": "epiCura si occupa totalmente della gestione burocratica e fiscale, sollevandoti da ogni incombenza gestionale, per offrirti un servizio ‘senza pensieri’.",
+        "img": {
+          "path": "caregiver",
+          "name": "gestione-contrattuale"
+        },
+        "has-background": true
+      }
+    ]
+  },
   "prime-banner": {
     "title": "<b>epiCura Prime</b> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
@@ -121,7 +154,7 @@
   "prime-table-compare": [
     {
       "is-prime": false,
-      "title": "EpiCura",
+      "title": "epiCura",
       "small-text": "0€ per sempre",
       "subtitle": "Le principali funzionalità di epiCura senza videoconsulti illimitati, sconti e convenzioni.",
       "option-list": [

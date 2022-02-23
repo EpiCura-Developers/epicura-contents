@@ -34,7 +34,7 @@
     ],
     "bck-image": ""
   },
-  "site-who-we-are-team-title": "Il team EpiCura",
+  "site-who-we-are-team-title": "Il team epiCura",
   "site-who-we-are-team-img": { "path": "common", "name": "site-who-we-are-team-img" },
   "site-who-we-are-slogan": "Sognatori, creativi e appassionati: vogliamo semplificare la sanità e renderla migliore per tutti.",
   "site-who-we-are-statistics": [
@@ -56,7 +56,7 @@
     }
   ],
   "site-who-we-are-our-values-title": "Cosa ci rende speciali",
-  "site-who-we-are-our-values-share-text": "Condividi i nostri valori e ami le sfide? <br /> Scopri le posizioni aperte e unisciti alla rivoluzione EpiCura!",
+  "site-who-we-are-our-values-share-text": "Condividi i nostri valori e ami le sfide? <br /> Scopri le posizioni aperte e unisciti alla rivoluzione epiCura!",
   "site-who-we-are-our-values-btn-text": "Entra nel team",
   "site-who-we-are-our-values-link": "https://www.linkedin.com/company/epicuramed/jobs/?viewAsMember=true",
   "site-who-we-are-our-values": [
@@ -78,7 +78,7 @@
     {
       "site-who-we-are-our-value-image": { "path": "common", "name": "world" },
       "site-who-we-are-our-value-title": "Un grande obiettivo condiviso",
-      "site-who-we-are-our-value-subtitle": "Decine di investitori hanno creduto in EpiCura, permettendoci di offrire un servizio sempre migliore."
+      "site-who-we-are-our-value-subtitle": "Decine di investitori hanno creduto in epiCura, permettendoci di offrire un servizio sempre migliore."
     }
   ],
   "site-who-we-are-contact": "Vuoi metterti in contatto con noi?",
@@ -86,7 +86,7 @@
     {
       "site-who-we-are-contact-img": { "path": "common", "name": "card-1" },
       "site-who-we-are-contact-text": "Per enti, aziende e privati",
-      "site-who-we-are-contact-email": "informazioni@epicura.it",
+      "site-who-we-are-contact-corporate": "https://landingpage.epicuramed.it/epicura-corporate_richiesta-info",
       "site-who-we-are-contact-btn-text": "Parliamoci"
     },
     {

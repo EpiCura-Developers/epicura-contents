@@ -1,6 +1,6 @@
 {
   "metaDescription": {
-    "title": "EpiCura",
+    "title": "epiCura",
     "description": "Medici, infermieri, veterinari, badanti e professionisti della salute a domicilio, in studio o in videoconsulto, 7 giorni su 7."
   },
   "top-banner": {
@@ -13,12 +13,12 @@
     "has-large-title": true,
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": true,
+    "hide-image-mobile": false,
     "has-bg-color": "",
     "cta-content": [
       {
         "label": "Entriamo in contatto",
-        "link": "/",
+        "link": "https://landingpage.epicuramed.it/epicura-corporate_richiesta-info",
         "image": "",
         "variant": "gradient"
       }
@@ -168,7 +168,7 @@
     ]
   },
   "app-banner": {
-    "title": "Un'app per gestire <strong>tutto quanto</strong>",
+    "title": "Un'app per gestire tutto quanto",
     "subtitle": "",
     "img": {
       "path": "common",
@@ -196,7 +196,7 @@
     "cta-content": [
       {
         "label": "Entriamo in contatto",
-        "link": "/",
+        "link": "https://landingpage.epicuramed.it/epicura-corporate_richiesta-info",
         "image": "",
         "variant": "gradient"
       }
@@ -312,7 +312,7 @@
     "cta": [
       {
         "label": "Entriamo in contatto",
-        "link": "/",
+        "link": "https://landingpage.epicuramed.it/epicura-corporate_richiesta-info",
         "image": "",
         "variant": "outlined"
       }

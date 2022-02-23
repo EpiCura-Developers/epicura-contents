@@ -186,14 +186,14 @@
     "cta-content": [
       {
         "label": "Contattaci",
-        "link": "/",
+        "link": "https://landingpage.epicuramed.it/ad-bd_form",
         "image": "",
         "variant": "gradient"
       }
     ]
   },
   "card-discount": {
-    "title": "Prenotando un servizio di assistenza a ore o badante, ricevi subito il 10% di sconto su tutti i servizi EpiCura",
+    "title": "Prenotando un servizio di assistenza a ore o badante, ricevi subito il 10% di sconto su tutti i servizi epiCura",
     "services-list": [
       "Fisioterapia",
       "Medicina generale",

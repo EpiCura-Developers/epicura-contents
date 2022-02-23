@@ -1,6 +1,6 @@
 {
   "metaDescription": {
-    "title": "Domande frequenti su EpiCura",
+    "title": "Domande frequenti su epiCura",
     "description": "Hai dubbi? Ecco qui alcune delle domande che più spesso ci vengono poste, se non trovi risposta contattaci al numero verde gratuito."
   },
   "site-faqs-page-title": "Domande frequenti",
@@ -17,7 +17,7 @@
   "categories": [
     {
       "link": "/generiche",
-      "title": "Come funziona EpiCura",
+      "title": "Come funziona epiCura",
       "image": {
         "path": "common",
         "name": "faq-generic"

@@ -1,9 +1,9 @@
 {
   "metaDescription": {
-    "title": "Domande frequenti su EpiCura",
-    "description": "Tutte le risposte su EpiCura"
+    "title": "Domande frequenti su epiCura",
+    "description": "Tutte le risposte su epiCura"
   },
-  "site-faqs-page-title": "Domande frequenti su EpiCura",
+  "site-faqs-page-title": "Domande frequenti su epiCura",
   "site-faqs-page-subtitle": "Abbiamo tutte le risposte che cerchi.",
   "site-faqs-page-img": {
     "path": "common",
@@ -24,7 +24,7 @@
   },
   "faqs": [
     {
-      "title": "Cos’è EpiCura?",
+      "title": "Cos’è epiCura?",
       "content": "epiCura è il primo poliambulatorio digitale d’Italia che riunisce professionisti sanitari e socio-assistenziali. La nostra rete, attiva in tutto il territorio nazionale, comprende badanti, assistenti domiciliari, fisioterapisti, osteopati, medici, infermieri, pediatri, veterinari, nutrizionisti, psicologi, psicoterapeuti e massoterapisti, che erogano il servizio comodamente a domicilio e, in alcuni casi, anche attraverso videoconsulto da smartphone, pc o tablet."
     },
     {

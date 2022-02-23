@@ -4,338 +4,187 @@
     "description": "Assistenza a ore a Firenze per anziani, malati e disabili con assistenti domiciliari qualificati e con esperienza, che ti raggiungono a domicilio, in ospedale o in casa di riposo."
   },
   "top-banner": {
-    "title": "Assistenza domiciliare a ore a Firenze",
-    "subtitle": "EpiCura si prende cura di anziani, malati o disabili con assistenti domiciliari qualificati e con esperienza, che raggiungono il tuo caro a domicilio, in ospedale o in casa di riposo. Scopri le nostre soluzioni di assistenza a domicilio e ritrova la serenità.",
+    "title": "Troviamo la badante diurna nella tua città",
+    "subtitle": "epiCura offre un servizio personalizzato per l’assistenza a domicilio, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br>Scopri le nostre soluzioni di assistenza, senza costi di attivazione.",
     "img": {
-      "path": "homecare",
-      "name": "banner-homecare"
+      "path": "caregiver",
+      "name": "caregiver-banner"
     },
-    "has-absolute-image": true,
-    "first-image-order": false,
-    "hide-image-mobile": true,
-    "has-large-title": true,
-    "has-bg-color": "",
-    "cta-content": [],
     "list-details": [
       {
-        "icon": "/img/prenotazione-struttura.png",
-        "text": "Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro."
+        "icon": "/img/ricerca-selezione.png",
+        "text": "<strong>Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.</strong>"
       }
-    ]
-  },
-  "talks-about-us": {
-    "title": "Parlano di noi",
-    "list": [
-      {
-        "img": {
-          "path": "common",
-          "name": "skytg24"
-        }
-      },
-      {
-        "img": {
-          "path": "common",
-          "name": "lastampa"
-        }
-      },
-      {
-        "img": {
-          "path": "common",
-          "name": "corrieredellasera"
-        }
-      },
-      {
-        "img": {
-          "path": "common",
-          "name": "ilsole24ore"
-        }
-      }
-    ]
-  },
-  "how-it-works": {
-    "title": "Lavoriamo solo con badanti qualificate",
-    "subtitle": "Soltanto il 10% dei candidati supera i nostri rigidi processi di selezione, garantendoti un servizio di qualità.",
-    "cards": [
-      {
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
-        "title": "",
-        "subtitle": "Analizziamo le tue esigenze",
-        "text": "Attraverso una consulenza dedicata, i nostri operatori individueranno le necessità della tua famiglia, costruendo un piano assistenziale su misura."
-      },
-      {
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
-        "title": "",
-        "subtitle": "Troviamo il professionista più adatto",
-        "text": "In base alle tue richieste, ci occuperemo di trovare l’assistente domiciliare più idoneo per le tue esigenze. Lavoriamo solo con personale esperto e qualificato."
-      },
-      {
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        },
-        "title": "",
-        "subtitle": "Eroghiamo l’assistenza dove vuoi",
-        "text": "I nostri assistenti domiciliari ti raggiungono dove e quando vuoi, 7 giorni su 7. Con EpiCura avrai la certezza di ricevere assistenza solo dai migliori professionisti."
-      }
-    ]
-  },
-  "banner-price": {
-    "title": "Troviamo per te la migliore assistenza domiciliare a Torino",
-    "subtitle": "Cerchi assistenza qualificata per un tuo caro? Con EpiCura i migliori assistenti domiciliari arrivano comodamente a domicilio, in ospedale o in casa di riposo, 7 giorni su 7, entro 24 ore dalla prenotazione. Recupera la tua serenità e quella dei tuoi affetti, richiedi adesso un preventivo gratuito.*",
-    "note": "*Il servizio è erogabile a partire da un minimo di 3 ore consecutive",
-    "price": "",
+    ],
+    "has-large-title": true,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": "caregiver",
     "cta-content": [
       {
         "label": "Richiedi preventivo gratuito",
         "link": "/",
         "image": "",
-        "variant": "filled"
+        "variant": "gradient"
       }
     ]
   },
-  "caregiver-tasks": {
-    "title": "Di cosa si occupa l'assistente domiciliare?",
-    "list": [
-      {
-        "image": {
-          "path": "common",
-          "name": "icon"
-        },
-        "description": "Prepara i pasti e fornisce supporto per la loro corretta assunzione"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "icon"
-        },
-        "description": "Aiuta nella gestione delle attività giornaliere e nella pulizia della casa"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "icon"
-        },
-        "description": "Veste la persona e ne garantisce la cura e l'igiene quotidiana"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "icon"
-        },
-        "description": "Stimola le capacità comunicative e l’attività motoria all’aperto"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "icon"
-        },
-        "description": "Supporta nell’assunzione di terapie e accompagna alle visite mediche"
-      },
-      {
-        "image": {
-          "path": "common",
-          "name": "icon"
-        },
-        "description": "Monitora e sorveglia la persona assistita con cura e costanza"
-      }
-    ]
-  },
-  "prime-banner": {
-    "title": "<strong>Epicura Prime</strong> è <br />tutta salute",
-    "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
-    "img": {
-      "path": "common",
-      "name": "header_home"
-    },
-    "has-large-title": true,
-    "has-absolute-image": false,
-    "first-image-order": false,
-    "hide-image-mobile": false,
-    "has-bg-color": "",
-    "cta-content": []
-  },
-  "prime-table-compare": [
-    {
-      "is-prime": false,
-      "title": "EpiCura",
-      "small-text": "0€ per sempre",
-      "subtitle": "Le principali funzionalità di EpiCura senza videoconsulti illimitati, sconti e convenzioni.",
-      "option-list": [
-        {
-          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
-          "checked": true
-        },
-        {
-          "text": "Supporto prenotazioni 7/7",
-          "checked": true
-        },
-        {
-          "text": "Storico interventi",
-          "checked": true
-        },
-        {
-          "text": "Videoconsulti medico pediatra illimitati gratuiti",
-          "checked": false
-        },
-        {
-          "text": "Videoconsulti medico di base illimitati gratuiti",
-          "checked": false
-        },
-        {
-          "text": "Videoconsulti veterinari illimitati gratuiti",
-          "checked": false
-        },
-        {
-          "text": "100€ di bonus da spendere su tutte le prestazioni",
-          "checked": false
-        },
-        {
-          "text": "10% di sconto su tutte le prestazioni",
-          "checked": false
-        },
-        {
-          "text": "Accesso a convenzioni con diversi partner",
-          "checked": false
-        }
-      ],
-      "cta": {
-        "label": "Entra in EpiCura e prenota",
-        "link": "/",
-        "image": "",
-        "variant": "outlined"
-      }
-    },
-    {
-      "is-prime": true,
-      "title": "EpiCura Prime",
-      "small-text": "180€ all’anno",
-      "subtitle": "Videoconsulti illimitati, sconti e convenzioni esclusivi, per te e per le persone che ami.",
-      "option-list": [
-        {
-          "text": "Prenotazioni in studio, a domicilio o in videoconsulto",
-          "checked": true
-        },
-        {
-          "text": "Supporto prenotazioni 7/7",
-          "checked": true
-        },
-        {
-          "text": "Storico interventi",
-          "checked": true
-        },
-        {
-          "text": "Videoconsulti medico pediatra illimitati gratuiti",
-          "checked": true
-        },
-        {
-          "text": "Videoconsulti medico di base illimitati gratuiti",
-          "checked": true
-        },
-        {
-          "text": "Videoconsulti veterinari illimitati gratuiti",
-          "checked": true
-        },
-        {
-          "text": "100€ di bonus da spendere su tutte le prestazioni",
-          "checked": true
-        },
-        {
-          "text": "10% di sconto su tutte le prestazioni",
-          "checked": true
-        },
-        {
-          "text": "Accesso a convenzioni con diversi partner",
-          "checked": true
-        }
-      ],
-      "cta": {
-        "label": "Prova gratis per 14 giorni",
-        "link": "/",
-        "image": "",
-        "variant": "filled"
-      }
-    }
-  ],
-  "specialist-carousel": {
-    "title": "Badanti con esperienza e referenziate",
-    "subtitle": "Scegliamo con cura i nostri professionisti per garantirti serenità e affidabilità.",
+  "media-logos": {
+    "title": "Parlano di noi",
     "cards": [
       {
-        "title": "Dr. Luca Grasso",
-        "discipline": "Psicologo",
+        "title": "",
+        "text": "",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "skytg24-1"
         }
       },
       {
-        "title": "Dr. Luca Grasso",
-        "discipline": "Psicologo",
+        "title": "",
+        "text": "",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "lastampa-1"
         }
       },
       {
-        "title": "Dr. Luca Grasso",
-        "discipline": "Psicologo",
+        "title": "",
+        "text": "",
         "img": {
           "path": "common",
-          "name": "header_home"
+          "name": "corrieredellasera-1"
         }
       },
       {
-        "title": "Dr. Luca Grasso",
-        "discipline": "Psicologo",
+        "title": "",
+        "text": "",
         "img": {
           "path": "common",
-          "name": "header_home"
-        }
-      },
-      {
-        "title": "Dr. Luca Grasso",
-        "discipline": "Psicologo",
-        "img": {
-          "path": "common",
-          "name": "header_home"
-        }
-      },
-      {
-        "title": "Dr. Luca Grasso",
-        "discipline": "Psicologo",
-        "img": {
-          "path": "common",
-          "name": "header_home"
+          "name": "ilsole24ore-1"
         }
       }
     ]
   },
-  "service-banner": {
-    "title": "Cerchi assistenza domiciliare? Richiedi una consulenza.",
-    "subtitle": "Non perdere la testa nella ricerca dell'assistente domiciliare. Se non sai da dove iniziare, un nostro consulente ascolterà le tue esigenze e ti guiderà verso il percorso assistenziale più adeguato. Pensaci: una telefonata può cambiarti la vita.",
+  "how-does-it-work": {
+    "title": "Lavoriamo solo con badanti qualificate",
+    "subtitle": "Soltanto il 10% dei candidati supera i nostri rigidi processi di selezione, garantendoti un servizio di qualità.",
+    "cards": [
+      {
+        "title": "Analizziamo le esigenze <br /> dei familiari",
+        "text": "Attraverso una consulenza dedicata, i nostri Family Tutor individuano le necessità della tua famiglia, costruendo un piano assistenziale su misura.",
+        "img": {
+          "path": "caregiver",
+          "name": "esigenze-familiari"
+        },
+        "has-background": true
+      },
+      {
+        "title": "Troviamo la badante <br /> più adatta",
+        "text": "In base alle tue richieste, pensiamo noi a cercare le persone più idonee da presentarti. Lavoriamo solo con personale esperto e referenziato.",
+        "img": {
+          "path": "caregiver",
+          "name": "badante-adatta"
+        },
+        "has-background": true
+      },
+      {
+        "title": "Gestiamo la parte <br /> contrattuale",
+        "text": "epiCura si occupa totalmente della gestione burocratica e fiscale, sollevandoti da ogni incombenza gestionale, per offrirti un servizio ‘senza pensieri’.",
+        "img": {
+          "path": "caregiver",
+          "name": "gestione-contrattuale"
+        },
+        "has-background": true
+      }
+    ]
+  },
+  "homecare-banner-price": {
+    "title": "Troviamo per te la migliore <br /> assistenza domiciliare a Firenze",
+    "subtitle": "Cerchi assistenza qualificata per un tuo caro? <br /> Con epiCura i migliori assistenti domiciliari arrivano comodamente a domicilio, in ospedale o in casa di riposo, 7 giorni su 7, entro 24 ore dalla prenotazione. <br /> <br /> Recupera la tua serenità e quella dei tuoi affetti, richiedi adesso un preventivo gratuito.* <br /><br /> <strong>*Il servizio è erogabile a partire da un minimo di 3 ore consecutive</strong> <br /><br /> <span>Tariffa: 14€/h</span>",
     "img": {
-      "path": "common",
-      "name": "header_home"
+      "path": "homecare",
+      "name": "homecare-service-banner"
     },
-    "has-large-title": true,
-    "has-absolute-image": false,
+    "has-large-title": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": false,
-    "has-bg-color": "",
+    "has-bg-color": "caregiver",
     "cta-content": [
       {
-        "label": "Prenota una consulenza gratuita",
+        "label": "Richiedi preventivo",
         "link": "#",
+        "img": {},
+        "variant": "gradient"
+      }
+    ]
+  },
+  "tasks-card": {
+    "title": "Cosa fa la badante diurna? Ecco le principali mansioni",
+    "cards": [
+      {
         "img": {
-          "path": "common",
-          "name": "header_home"
+          "path": "caregiver",
+          "name": "pasti"
         },
+        "text": "Prepara i pasti e fornisce supporto per la loro assunzione"
+      },
+      {
+        "img": {
+          "path": "caregiver",
+          "name": "pulizie"
+        },
+        "text": "Aiuta nella gestione delle attività giornaliere e nella pulizia della casa"
+      },
+      {
+        "img": {
+          "path": "caregiver",
+          "name": "igiene"
+        },
+        "text": "Veste la persona e ne garantisce la cura e l'igiene quotidiana"
+      },
+      {
+        "img": {
+          "path": "caregiver",
+          "name": "comunicazione"
+        },
+        "text": "Stimola le capacità comunicative e l’attività motoria all’aperto"
+      },
+      {
+        "img": {
+          "path": "caregiver",
+          "name": "terapie"
+        },
+        "text": "Supporta nell’assunzione di terapie e accompagna alle visite mediche"
+      },
+      {
+        "img": {
+          "path": "caregiver",
+          "name": "sorveglianza"
+        },
+        "text": "Monitora e sorveglia la persona assistita con cura e costanza"
+      }
+    ]
+  },
+  "family-tutor-banner": {
+    "title": "Cerchi assistenza domiciliare? Richiedi una consulenza.",
+    "subtitle": "Non perdere la testa nella ricerca di una badante. <br /> Se non sai da dove iniziare, un nostro consulente ascolterà le tue esigenze e ti guiderà verso il percorso assistenziale più adeguato.",
+    "img": {
+      "path": "caregiver",
+      "name": "family-tutor-1"
+    },
+    "has-large-title": false,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": "caregiver-invert",
+    "cta-content": [
+      {
+        "label": "Contattaci",
+        "link": "/",
+        "image": "",
         "variant": "gradient"
       }
     ]
