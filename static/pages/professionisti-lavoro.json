@@ -1,6 +1,6 @@
 {
   "metaDescription": {
-    "title": "Lavora con EpiCura",
+    "title": "Lavora con epiCura",
     "description": "Entra nella rete di professionisti epiCura e costruisci con noi il futuro della sanità."
   },
   "imagesList": {
@@ -77,7 +77,7 @@
   },
   "fourth-section": {
     "title": "Requisiti per collaborare con noi",
-    "subtitle": "Collaboriamo solo con professionisti qualificati e certificati per garantire i migliori standard di qualità. <br /> Vuoi entrare a far parte di EpiCura? <br /> Scopri i requisiti richiesti per collaborare con noi:",
+    "subtitle": "Collaboriamo solo con professionisti qualificati e certificati per garantire i migliori standard di qualità. <br /> Vuoi entrare a far parte di epiCura? <br /> Scopri i requisiti richiesti per collaborare con noi:",
     "tab-list": [
       {
         "tab-name": "Medici e professionisti",
@@ -105,7 +105,7 @@
     ]
   },
   "fifth-section": {
-    "title": "I valori di un professionista EpiCura",
+    "title": "I valori di un professionista epiCura",
     "card-list": [
       {
         "title": "Puntualità e serietà",
@@ -137,7 +137,7 @@
   "caregiver": {
     "bkg-color": "#F5F8FF",
     "title": "Sei una badante? <br/> Lavora con noi",
-    "content": "Se hai esperienza nel campo dell'assistenza alla persona, svolgi il tuo lavoro con professionalità e hai referenze dimostrabili, invia il tuo curriculum per entrare a far parte della rete di professionisti EpiCura, attiva in tutta Italia.",
+    "content": "Se hai esperienza nel campo dell'assistenza alla persona, svolgi il tuo lavoro con professionalità e hai referenze dimostrabili, invia il tuo curriculum per entrare a far parte della rete di professionisti epiCura, attiva in tutta Italia.",
     "image": {
       "path": "homecare",
       "name": "homecare_subheader"
@@ -147,7 +147,7 @@
   },
   "faqs-section": [
     {
-      "title": "In quali città è attiva EpiCura?",
+      "title": "In quali città è attiva epiCura?",
       "content": "I nostri servizi sono oggi attivi nelle città di Torino, Milano, Roma, Firenze, Bologna, Napoli, Genova, Catania, Brescia e Verona. Il servizio di badanti, invece, è attivo in tutta Italia."
     },
     {
