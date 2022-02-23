@@ -611,7 +611,7 @@
     "cta-content": [
       {
         "label": "Entra in Epicura",
-        "link": "/",
+        "link": "https://app.epicura.it/login",
         "image": "",
         "variant": "outlined"
       }
