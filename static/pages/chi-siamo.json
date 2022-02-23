@@ -86,7 +86,7 @@
     {
       "site-who-we-are-contact-img": { "path": "common", "name": "card-1" },
       "site-who-we-are-contact-text": "Per enti, aziende e privati",
-      "site-who-we-are-contact-email": "informazioni@epicura.it",
+      "site-who-we-are-contact-corporate": "https://landingpage.epicuramed.it/epicura-corporate_richiesta-info",
       "site-who-we-are-contact-btn-text": "Parliamoci"
     },
     {
