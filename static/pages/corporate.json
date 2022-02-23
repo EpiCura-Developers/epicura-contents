@@ -13,7 +13,7 @@
     "has-large-title": true,
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": true,
+    "hide-image-mobile": false,
     "has-bg-color": "",
     "cta-content": [
       {
