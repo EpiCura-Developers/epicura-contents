@@ -3,18 +3,73 @@
     "title": "Badante notturna nella tua città",
     "description": "Servizio di badante notturna in tutta Italia. Family tutor dedicato, sostituzione gratuita, soddisfatto o rimborsato. Piani di assistenza personalizzati, ci occupiamo noi della burocrazia."
   },
-  "subheader": {
-    "prenotaOnlineText": "Richiedi preventivo gratuito",
-    "prenotaUrl": "https://share.hsforms.com/1J8JG8P5qS8mZ1bFk3XofwA4ebbs",
-    "prenotaUrlStaging": "https://share.hsforms.com/1oCFxFNrQQLC_iskSUXYv0w5kab9",
-    "professionistaText": "",
-    "professionistaUrl": "",
-    "titleBig": "Badante notturna nella tua città",
-    "subtitleBig": "",
-    "description1": "EpiCura offre un servizio personalizzato per l'assistenza a domicilio di anziani, malati e disabili, in ospedale o in casa di riposo con badanti qualificate e referenziate."
+  "top-banner": {
+    "title": "Troviamo la badante convivente nella tua città",
+    "subtitle": "epiCura offre un servizio personalizzato per l’assistenza a domicilio, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br>Scopri le nostre soluzioni di assistenza, senza costi di attivazione.",
+    "img": {
+      "path": "caregiver",
+      "name": "caregiver-banner"
+    },
+    "list-details": [
+      {
+        "icon": "/img/ricerca-selezione.png",
+        "text": "<strong>Agenzia per la Ricerca e Selezione del Personale autorizzata dal Ministero del Lavoro.</strong>"
+      }
+    ],
+    "has-large-title": true,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": "caregiver",
+
+    "cta-content": [
+      {
+        "label": "Richiedi preventivo gratuito",
+        "link": "/",
+        "image": "",
+        "variant": "gradient"
+      }
+    ]
   },
-  "check_list": {
-    "title": "Il servizio di badante notturna comprende:",
+  "media-logos": {
+    "title": "Parlano di noi",
+    "cards": [
+      {
+        "title": "",
+        "text": "",
+        "img": {
+          "path": "common",
+          "name": "skytg24-1"
+        }
+      },
+      {
+        "title": "",
+        "text": "",
+        "img": {
+          "path": "common",
+          "name": "lastampa-1"
+        }
+      },
+      {
+        "title": "",
+        "text": "",
+        "img": {
+          "path": "common",
+          "name": "corrieredellasera-1"
+        }
+      },
+      {
+        "title": "",
+        "text": "",
+        "img": {
+          "path": "common",
+          "name": "ilsole24ore-1"
+        }
+      }
+    ]
+  },
+  "check-list": {
+    "title": "Il servizio di badante convivente comprende:",
     "list": [
       "Servizio di ricerca e selezione: i candidati vengono scelti in base alle esigenze comunicate in fase di consulenza.",
       "Sostituzione garantita: ci occupiamo noi della sostituzione della badante in caso di infortuni, ferie o licenziamenti.",
@@ -23,28 +78,99 @@
     ],
     "footer": {
       "text": "A partire da",
-      "price": "1.180€",
+      "price": "1.410€",
       "priceIncludes": "(include stipendio, TFR, contributi e tredicesima)",
-      "button": {
-        "text": "RICHIEDI PREVENTIVO GRATUITO",
-        "link": "https://share.hsforms.com/1J8JG8P5qS8mZ1bFk3XofwA4ebbs",
-        "link-staging": "https://share.hsforms.com/1oCFxFNrQQLC_iskSUXYv0w5kab9"
-      }
+      "cta-content": [
+        {
+          "label": "Richiedi preventivo gratuito",
+          "link": "https://share.hsforms.com/1wA8mORR2T4WZyk5AZpCJZA4ebbs",
+          "image": "",
+          "variant": "outlined"
+        }
+      ]
     }
   },
-  "familyTutor": {
-    "bkg-color": "#F5F8FF",
-    "title": "Cerchi una badante? <br/> Chiedi al family tutor.",
-    "content": "Se un tuo caro ha bisogno di assistenza ma non sai da dove iniziare, i nostri consulenti sono a disposizione per ascoltare le tue esigenze e guidarti verso il percorso assistenziale più adeguato. <br/> Ritrova serenità, prenota adesso un colloquio gratuito.",
-    "image": {
-      "path": "caregiver",
-      "name": "family-tutor"
-    },
-    "button-text": "PRENOTA UN COLLOQUIO GRATUITO",
-    "button-link": "https://share.hsforms.com/1J8JG8P5qS8mZ1bFk3XofwA4ebbs",
-    "button-link-staging": "https://share.hsforms.com/1oCFxFNrQQLC_iskSUXYv0w5kab9"
+  "tasks-card": {
+    "title": "Cosa fa la badante diurna? Ecco le principali mansioni",
+    "cards": [
+      {
+        "img": {
+          "path": "caregiver",
+          "name": "pasti"
+        },
+        "text": "Prepara i pasti e fornisce supporto per la loro assunzione"
+      },
+      {
+        "img": {
+          "path": "caregiver",
+          "name": "pulizie"
+        },
+        "text": "Aiuta nella gestione delle attività giornaliere e nella pulizia della casa"
+      },
+      {
+        "img": {
+          "path": "caregiver",
+          "name": "igiene"
+        },
+        "text": "Veste la persona e ne garantisce la cura e l'igiene quotidiana"
+      },
+      {
+        "img": {
+          "path": "caregiver",
+          "name": "comunicazione"
+        },
+        "text": "Stimola le capacità comunicative e l’attività motoria all’aperto"
+      },
+      {
+        "img": {
+          "path": "caregiver",
+          "name": "terapie"
+        },
+        "text": "Supporta nell’assunzione di terapie e accompagna alle visite mediche"
+      },
+      {
+        "img": {
+          "path": "caregiver",
+          "name": "sorveglianza"
+        },
+        "text": "Monitora e sorveglia la persona assistita con cura e costanza"
+      }
+    ]
   },
-  "discount": {
+  "qualified-caregiver": {
+    "title": "Lavoriamo solo con badanti qualificate",
+    "subtitle": "Soltanto il 10% dei candidati supera i nostri rigidi processi di selezione, garantendoti un servizio di qualità.",
+    "cards": [
+      {
+        "title": "Verifica dei requisiti",
+        "text": "Verifichiamo nel dettaglio i requisiti minimi d’accesso di tutti i candidati, selezionando solo personale con esperienza e qualificato.",
+        "img": {
+          "path": "caregiver",
+          "name": "verifica-requisiti"
+        },
+        "has-background": true
+      },
+      {
+        "title": "Colloquio e verifica referenze",
+        "text": "Attraverso il colloquio, eseguito da personale qualificato, i candidati attraversano una doppia verifica dove vengono accertate le referenze.",
+        "img": {
+          "path": "caregiver",
+          "name": "verifica-competenze"
+        },
+        "has-background": true
+      },
+      {
+        "title": "Incontro con la famiglia",
+        "text": "Selezionati i migliori candidati, le badanti affrontano un colloquio conoscitivo con la famiglia, che sceglierà il profilo più adeguato alle proprie esigenze.",
+        "img": {
+          "path": "caregiver",
+          "name": "incontro-famiglia"
+        },
+        "has-background": true
+      }
+    ]
+  },
+  "card-discount": {
     "title": "Prenotando un servizio di assistenza a ore o badante, ricevi subito il 10% di sconto su tutti i servizi EpiCura",
     "services-list": [
       "Fisioterapia",
