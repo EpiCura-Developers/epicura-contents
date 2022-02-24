@@ -11,7 +11,7 @@
       "name": "bologna-header"
     },
     "has-large-title": true,
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": false,
     "has-bg-color": "",
