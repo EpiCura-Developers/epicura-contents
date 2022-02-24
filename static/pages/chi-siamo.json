@@ -17,17 +17,17 @@
     "content": "Abbiamo una rete nazionale che oggi conta 800 professionisti attivi, tra medici, personale sanitario e assistenti domiciliari in 10 delle principali città italiane. <br /><strong>Il nostro servizio è attivo 7 giorni su 7, dalle 8 alle 20.</strong>",
     "cards": [
       {
-        "image": { "path": "common", "name": "referto-medico" },
+        "image": { "path": "common", "name": "visita-generica-white" },
         "title": "Scegli la soluzione",
         "text": "Offriamo un’ampia scelta di servizi sanitari per rispondere esattamente a ciò di cui hai bisogno. Se hai un problema e non sai a chi rivolgerti, il nostro team di esperti ti aiuterà ad individuare la soluzione più adatta a te."
       },
       {
-        "image": { "path": "common", "name": "visita-generica" },
+        "image": { "path": "common", "name": "esami-strumentali-white" },
         "title": "Prenota la seduta",
         "text": "Contattaci o prenota direttamente online. Noi troveremo per te il miglior professionista che faccia al caso tuo che ti guiderà durante l’intero percorso terapeutico. Riceverai il servizio direttamente a casa, senza liste d’attesa."
       },
       {
-        "image": { "path": "common", "name": "nutrizione-icon" },
+        "image": { "path": "common", "name": "nutrizione-icon-white" },
         "title": "Migliora la tua salute",
         "text": "Rilassati e prenditi cura della tua salute o quella del tuo animale, a tutto il resto pensiamo noi. Ti affiancheremo durante tutto il percorso di cura, con un team di esperti disponibile 7 giorni su 7, anche in orario serale."
       }
@@ -84,14 +84,14 @@
   "site-who-we-are-contact": "Vuoi metterti in contatto con noi?",
   "site-who-we-are-contact-list": [
     {
-      "site-who-we-are-contact-img": { "path": "common", "name": "card-1" },
+      "site-who-we-are-contact-img": { "path": "common", "name": "poliambulatori-card" },
       "site-who-we-are-contact-text": "Per enti, aziende e privati",
       "site-who-we-are-contact-corporate": "https://landingpage.epicuramed.it/epicura-corporate_richiesta-info",
       "site-who-we-are-contact-btn-text": "Parliamoci"
     },
     {
-      "site-who-we-are-contact-img": { "path": "common", "name": "card-2" },
-      "site-who-we-are-contact-text": "Per medici, professionisti sanitari<br /> e socio-assistenziali",
+      "site-who-we-are-contact-img": { "path": "common", "name": "specialist-card" },
+      "site-who-we-are-contact-text": "Per medici, professionisti sanitari <br /> e socio-assistenziali",
       "site-who-we-are-contact-btn-text": "Collaboriamo",
       "site-who-we-are-contact-link": "/professionisti-lavoro/"
     }
