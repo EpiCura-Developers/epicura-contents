@@ -185,8 +185,8 @@
 
     "cta-content": [
       {
-        "label": "Contattaci",
-        "link": "https://landingpage.epicuramed.it/ad-bd_form",
+        "label": "800 909 209",
+        "link": "tel:800909209",
         "image": "",
         "variant": "gradient"
       }
