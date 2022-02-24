@@ -4,7 +4,7 @@
     "description": "Fisioterapisti esperti a domicilio a Brescia e area metropolitana. Riabilitazione a domicilio, linfodrenaggio, sedute fisioterapiche a casa, 7 giorni su 7, senza liste d'attesa."
   },
   "top-banner": {
-    "title": "Fisioterapista a<br /> Brescia",
+    "title": "Fisioterapista a  <br /> Brescia",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
     "img": {
       "path": "physiotherapy",
@@ -17,43 +17,6 @@
     "has-bg-color": "physiotherapy",
     "cta-content": []
   },
-  "bullet-cards": {
-    "title": "Perché affidarsi a epiCura?",
-    "cards": [
-      {
-        "title": "Comodo, veloce, <br /> flessibile",
-        "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
-        "img": {
-          "path": "common",
-          "name": "convenient"
-        }
-      },
-      {
-        "title": "Professionisti <br /> certificati",
-        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
-        "img": {
-          "path": "common",
-          "name": "pro-certified"
-        }
-      },
-      {
-        "title": "Prenotazioni <br /> senza intoppi",
-        "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
-        "img": {
-          "path": "common",
-          "name": "booking-1"
-        }
-      },
-      {
-        "title": "Supporto <br /> costante",
-        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
-        "img": {
-          "path": "common",
-          "name": "support"
-        }
-      }
-    ]
-  },
   "how-does-it-work": {
     "title": "Fisioterapia a domicilio o in studio. Ecco come funziona",
     "subtitle": "",
@@ -62,8 +25,8 @@
         "title": "Scopri le nostre soluzioni",
         "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze.",
         "img": {
-          "path": "caregiver",
-          "name": "esigenze-familiari"
+          "path": "common",
+          "name": "visita-generica-white"
         },
         "has-background": true
       },
@@ -71,8 +34,8 @@
         "title": "Prenota in pochi click",
         "text": "La prenotazione con epiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata.",
         "img": {
-          "path": "caregiver",
-          "name": "badante-adatta"
+          "path": "common",
+          "name": "booking-white"
         },
         "has-background": true
       },
@@ -80,15 +43,15 @@
         "title": "Ricevi l’intervento a domicilio o in studio",
         "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con epiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
         "img": {
-          "path": "caregiver",
-          "name": "gestione-contrattuale"
+          "path": "common",
+          "name": "visita-domicilio-white"
         },
         "has-background": true
       }
     ]
   },
   "card-trattamenti": {
-    "title": "I nostri trattamenti di fisioterapia",
+    "title": "I nostri trattamenti di fisioterapia a domicilio e in studio",
     "cards": [
       {
         "title": "Fisioterapia per anziani",
@@ -277,36 +240,6 @@
         "link": "https://play.google.com/store/apps/details?id=it.epicura.customers",
         "image": "/img/badge-google-play-store.png",
         "variant": "image"
-      }
-    ]
-  },
-  "bullet-cards-service": {
-    "title": "I migliori fisioterapisti a domicilio entro 24 ore",
-    "subtitle": "Un servizio comodo, flessibile, affidabile",
-    "cards": [
-      {
-        "title": "Solo professionisti qualificati",
-        "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
-        "img": {
-          "path": "common",
-          "name": "specialist-2"
-        }
-      },
-      {
-        "title": "La tua soddisfazione è anche la nostra ",
-        "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
-        "img": {
-          "path": "common",
-          "name": "certificate-2"
-        }
-      },
-      {
-        "title": "Siamo sempre al tuo fianco",
-        "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
-        "img": {
-          "path": "common",
-          "name": "support-2"
-        }
       }
     ]
   },
