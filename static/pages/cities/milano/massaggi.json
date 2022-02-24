@@ -131,7 +131,7 @@
     },
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": true,
+    "hide-image-mobile": false,
     "has-large-title": true,
     "has-bg-color": "prime-light",
     "cta-content": []
@@ -247,7 +247,7 @@
     },
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": true,
+    "hide-image-mobile": false,
     "has-large-title": true,
     "has-bg-color": "zircon",
     "cta-content": [
