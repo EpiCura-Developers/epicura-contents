@@ -254,7 +254,7 @@
     "has-large-title": false,
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": true,
+    "hide-image-mobile": false,
     "has-bg-color": "caregiver",
     "cta-content": []
   },
