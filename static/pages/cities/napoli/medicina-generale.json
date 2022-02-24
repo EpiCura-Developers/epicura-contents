@@ -54,6 +54,39 @@
       }
     ]
   },
+  "how-does-it-work": {
+    "title": "Medico a domicilio, in studio o in videoconsulto. Ecco come funziona",
+    "subtitle": "",
+    "cards": [
+      {
+        "title": "Scopri le nostre soluzioni",
+        "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze.",
+        "img": {
+          "path": "caregiver",
+          "name": "esigenze-familiari"
+        },
+        "has-background": true
+      },
+      {
+        "title": "Prenota in pochi click",
+        "text": "La prenotazione con epiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata.",
+        "img": {
+          "path": "caregiver",
+          "name": "badante-adatta"
+        },
+        "has-background": true
+      },
+      {
+        "title": "Ricevi l’intervento a domicilio, in studio o in videoconsulto",
+        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con epiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
+        "img": {
+          "path": "caregiver",
+          "name": "gestione-contrattuale"
+        },
+        "has-background": true
+      }
+    ]
+  },
   "prime-banner": {
     "title": "<b>epiCura Prime</b> è <br />tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
