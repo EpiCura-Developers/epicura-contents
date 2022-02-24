@@ -9,8 +9,8 @@
     }
   },
   {
-    "option-link": "/prime/",
-    "option-label": "epiCura Prime",
+    "option-link": "/corporate/",
+    "option-label": "epiCura Corporate",
     "option-is-complex": true,
     "option-is-amp": true,
     "option-style-object-like": {
