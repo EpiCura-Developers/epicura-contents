@@ -119,7 +119,7 @@
     }
   ],
   "advantages": {
-    "title": "I migliori osteopati a domicilio entro 24 ore",
+    "title": "I migliori osteopati a domicilio e in studio entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "list": [
       {
@@ -127,7 +127,7 @@
           "path": "common",
           "name": "specialist-2"
         },
-        "title": "Solo professionisti qualificati",
+        "title": "Solo professionisti <br /> qualificati",
         "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
       },
       {
@@ -143,7 +143,7 @@
           "path": "common",
           "name": "support-2"
         },
-        "title": "Siamo sempre al tuo fianco",
+        "title": "Siamo sempre <br /> al tuo fianco",
         "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
       }
     ]
