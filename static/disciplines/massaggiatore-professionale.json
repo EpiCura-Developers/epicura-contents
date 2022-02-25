@@ -46,7 +46,7 @@
       {
         "image": {
           "path": "common",
-          "name": "visita-generica"
+          "name": "visita-generica-white"
         },
         "title": "Scopri le nostre soluzioni",
         "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze."
@@ -54,7 +54,7 @@
       {
         "image": {
           "path": "common",
-          "name": "booking-2"
+          "name": "booking-white"
         },
         "title": "Prenota in pochi click",
         "text": "La prenotazione con epiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata."
@@ -62,7 +62,7 @@
       {
         "image": {
           "path": "common",
-          "name": "visita-domicilio"
+          "name": "visita-domicilio-white"
         },
         "title": "Ricevi l'intervento a domicilio",
         "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con epiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati."
