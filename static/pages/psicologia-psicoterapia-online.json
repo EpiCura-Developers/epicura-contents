@@ -9,46 +9,41 @@
     "description2": " Prenota in pochi clic e ritrova adesso la tua serenità. "
   },
   "come_funziona": {
-    "title": "Come funziona?",
+    "title": "Psicologo online, come funziona",
+    "subtitle": "Il primo videoconsulto è gratuito",
+    "button": {
+      "label": "Prenota videoconsulto gratuito",
+      "link": "https://landingpage.epicuramed.it/psicologia_form",
+      "image": "",
+      "variant": "gradient"
+    },
     "cards": [
       {
         "image": {
           "path": "common",
           "name": "videoconsulto-icon"
         },
-        "title": "Inizia dal videoconsulto a 25€",
-        "text": "Inizia la terapia con un videoconsulto a soli 25 Euro: potrai confrontarti con un professionista scelto apposta per te, che ti guiderà nei primi passi del percorso terapeutico comodamente da pc, smartphone o tablet.",
-        "button": {
-          "link": "https://epicuramed.typeform.com/to/pkPBYBjU?utm_campaign=Videoconsulto_gratuito_psicologia&utm_source=Sito&utm_medium=CTA",
-          "link-staging": "https://epicuramed.typeform.com/to/wocfjSGc?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx",
-          "text": "Inizia il tuo percorso"
-        }
+        "title": "Prenota il videoconsulto gratuito",
+        "text": "Sei tu a scegliere quando ricevere il videoconsulto gratuito. In fase di prenotazione, seleziona data e orario che preferisci, noi lo comunicheremo al tuo terapeuta.",
+        "has-background": true
       },
       {
         "image": {
           "path": "common",
           "name": "psicologia-online"
         },
-        "title": "Scegli il percorso più adatto",
-        "text": "Dopo aver effettuato il primo videoconsulto, potrai decidere come continuare il percorso terapeutico: parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
-        "button": {
-          "link": "https://epicuramed.typeform.com/to/pkPBYBjU?utm_campaign=Videoconsulto_gratuito_psicologia&utm_source=Sito&utm_medium=CTA",
-          "link-staging": "https://epicuramed.typeform.com/to/wocfjSGc?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx",
-          "text": "Inizia il tuo percorso"
-        }
+        "title": "Conosci il tuo psicologo",
+        "text": "Le tue esigenze sono importanti! Dopo aver saputo qualcosa in più su di te… ti verrà assegnato lo specialista più adatto!",
+        "has-background": true
       },
       {
         "image": {
           "path": "common",
           "name": "referto-medico"
         },
-        "title": "Fai terapia comodamente online",
-        "text": "Con epiCura potrai accedere alle videosedute 7 giorni su 7, dove e quando vuoi: collegati da smartphone, pc o tablet e ricevi il supporto dei migliori psicologi e psicoterapeuti in totale comodità e sicurezza.",
-        "button": {
-          "link": "https://epicuramed.typeform.com/to/pkPBYBjU?utm_campaign=Videoconsulto_gratuito_psicologia&utm_source=Sito&utm_medium=CTA",
-          "link-staging": "https://epicuramed.typeform.com/to/wocfjSGc?utm_source=xxxxx&utm_medium=xxxxx&utm_campaign=xxxxx&utm_term=xxxxx&utm_content=xxxxx",
-          "text": "Inizia il tuo percorso"
-        }
+        "title": "Inizia la terapia",
+        "text": "Cliccando sul link che riceverai via mail potrai usufruire del primo videoconsulto gratuito. Accedi comodamente da smartphone, pc o tablet e parla con il professionista scelto apposta per te.",
+        "has-background": true
       }
     ]
   },
@@ -65,7 +60,7 @@
           "hideDiscount": true,
           "button": {
             "text": "Parla con un tutor",
-            "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
+            "link": "https://landingpage.epicuramed.it/psicologia_form",
             "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
           },
           "priceCodes": [
@@ -86,7 +81,7 @@
           "hideDiscount": true,
           "button": {
             "text": "Parla con un tutor",
-            "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
+            "link": "https://landingpage.epicuramed.it/psicologia_form",
             "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
           },
           "priceCodes": [
@@ -114,7 +109,7 @@
           "hideDiscount": true,
           "button": {
             "text": "Parla con un tutor",
-            "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
+            "link": "https://landingpage.epicuramed.it/psicologia_form",
             "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
           },
           "priceCodes": [
@@ -135,7 +130,7 @@
           "hideDiscount": true,
           "button": {
             "text": "Parla con un tutor",
-            "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
+            "link": "https://landingpage.epicuramed.it/psicologia_form",
             "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
           },
           "priceCodes": [
@@ -246,6 +241,52 @@
         "link": "https://landingpage.epicuramed.it/psicologia_form ",
         "image": "",
         "variant": "gradient"
+      }
+    ]
+  },
+  "trattamenti": {
+    "sectionTitle": "I nostri psicologi online si occupano di ",
+    "altri_trattamenti": "Altri interventi di psicologia",
+    "list": [
+      {
+        "link": "/ansia",
+        "title": "Ansia",
+        "description": "paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
+      },
+      {
+        "link": "/sofferenza-psicologica",
+        "title": "Sofferenza psicologica",
+        "description": "stress, mobbing, burnout"
+      },
+      {
+        "link": "/dipendenze",
+        "title": "Dipendenze",
+        "description": "affettiva, alcol, droga, gioco d’azzardo (ludopatia), social network, videogiochi, sesso"
+      },
+      {
+        "link": "/depressione",
+        "title": "Depressione",
+        "description": "lutto, divorzio, fine relazione, patologie, malattie oncologiche, malattie croniche"
+      },
+      {
+        "link": "/disturbo-della-personalita",
+        "title": "Disturbo della personalità",
+        "description": "ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
+      },
+      {
+        "link": "/disturbi-alimentari",
+        "title": "Disturbi alimentari",
+        "description": "anoressia, bulimia, fame compulsiva (binge-eating)"
+      },
+      {
+        "link": "/terapia-di-coppia",
+        "title": "Terapia di coppia",
+        "description": "coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, stati di frustrazione"
+      },
+      {
+        "link": "/terapia-familiare",
+        "title": "Terapia familiare",
+        "description": "conflittualità familiari, disagi dell’età adolescenziale e pre-adolescenziale"
       }
     ]
   },
