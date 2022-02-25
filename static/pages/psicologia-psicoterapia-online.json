@@ -110,12 +110,12 @@
   },
   "solutions": [
     {
-      "title": "Terapia individuale",
+      "title": "Terapia individuale e di coppia online",
       "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato?<br />Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
       "startingFromText": "",
       "solutionsBig": [
         {
-          "title": "Percorso online",
+          "title": "Terapia individuale",
           "text": "Inizia il tuo percorso con 2 o 4 sedute videosedute mensili.<br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te.",
           "startingFrom": false,
           "hideDiscount": true,
@@ -136,35 +136,7 @@
           ]
         },
         {
-          "title": "Percorso in studio",
-          "text": "Questo percorso ti consente di accedere a 2 o 4 sedute in studio mensili.<br /> Ideale per chi si approccia per la prima volta alla terapia psicologica. ",
-          "startingFrom": false,
-          "hideDiscount": true,
-          "button": {
-            "text": "Parla con un tutor",
-            "link": "https://landingpage.epicuramed.it/psicologia_form",
-            "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
-          },
-          "priceCodes": [
-            {
-              "code": "psychologyIndividual2Sessions",
-              "label": "2 sedute "
-            },
-            {
-              "code": "psychologyIndividual4Sessions",
-              "label": "4 sedute "
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "title": "Terapia di coppia",
-      "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato?<br />Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
-      "startingFromText": "",
-      "solutionsBig": [
-        {
-          "title": "Percorso online",
+          "title": "Terapia di coppia",
           "text": "Inizia il tuo percorso con 2 o 4 sedute videosedute mensili.<br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te. ",
           "startingFrom": false,
           "hideDiscount": true,
@@ -180,27 +152,6 @@
             },
             {
               "code": "psychologyCouples4SessionsRemote",
-              "label": "4 sedute "
-            }
-          ]
-        },
-        {
-          "title": "Percorso in studio",
-          "text": "Questo percorso ti consente di accedere a 2 o 4 sedute in studio mensili.<br /> Ideale per chi si approccia per la prima volta alla terapia psicologica. ",
-          "startingFrom": false,
-          "hideDiscount": true,
-          "button": {
-            "text": "Parla con un tutor",
-            "link": "https://landingpage.epicuramed.it/psicologia_form",
-            "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
-          },
-          "priceCodes": [
-            {
-              "code": "psychologyCouples2Sessions",
-              "label": "2 sedute "
-            },
-            {
-              "code": "psychologyCouples4Sessions",
               "label": "4 sedute "
             }
           ]
