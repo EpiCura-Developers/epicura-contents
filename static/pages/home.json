@@ -50,66 +50,6 @@
       }
     ]
   },
-  "discipline-carousel": {
-    "title": "Alcune delle visite più richieste a domicilio, in videoconsulto o in studio",
-    "cards": [
-      {
-        "img": {
-          "path": "physiotherapy",
-          "name": "physiotherapy-service-card"
-        },
-        "title": "Fisioterapia",
-        "text": "A partire da 40€/seduta",
-        "discipline": "physiotherapy"
-      },
-      {
-        "img": {
-          "path": "veterinary",
-          "name": "veterinary-service-card"
-        },
-        "title": "Veterinaria",
-        "text": "A partire da 60€",
-        "discipline": "veterinary"
-      },
-      {
-        "img": {
-          "path": "nutrition",
-          "name": "nutrition-service-card"
-        },
-        "title": "Nutrizione",
-        "text": "A partire da 40€/seduta",
-        "discipline": "nutrition"
-      },
-
-      {
-        "img": {
-          "path": "physiotherapy",
-          "name": "physiotherapy-service-card"
-        },
-        "title": "Fisioterapia",
-        "text": "A partire da 40€/seduta",
-        "discipline": "physiotherapy"
-      },
-      {
-        "img": {
-          "path": "veterinary",
-          "name": "veterinary-service-card"
-        },
-        "title": "Veterinaria",
-        "text": "A partire da 60€",
-        "discipline": "veterinary"
-      },
-      {
-        "img": {
-          "path": "nutrition",
-          "name": "nutrition-service-card"
-        },
-        "title": "Nutrizione",
-        "text": "A partire da 40€/seduta",
-        "discipline": "nutrition"
-      }
-    ]
-  },
   "bullet-cards": {
     "title": "Perché affidarsi a epiCura?",
     "cards": [

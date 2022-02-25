@@ -1,0 +1,80 @@
+{
+    "discipline-carousel": {
+        "title": "Alcune delle visite più richieste a domicilio, in videoconsulto o in studio",
+        "titleCity": "Visite più richieste a",
+        "cards": [
+            {
+                "img": {
+                    "path": "nursing",
+                    "name": "nursing_mobile"
+                },
+                "title": "Infermieristica",
+                "text": "A partire da 25€",
+                "discipline": "nursing"
+            },
+            {
+                "img": {
+                    "path": "physiotherapy",
+                    "name": "physiotherapy-service-card"
+                },
+                "title": "Fisioterapia",
+                "text": "A partire da 50€/seduta",
+                "discipline": "physiotherapy"
+            },
+            {
+                "img": {
+                    "path": "nutrition",
+                    "name": "nutrition-service-card"
+                },
+                "title": "Nutrizione",
+                "text": "A partire da 60€",
+                "discipline": "nutrition"
+            },
+            {
+                "img": {
+                    "path": "osteopathy",
+                    "name": "osteopathy_mobile"
+                },
+                "title": "Osteopatia",
+                "text": "A partire da 68€/seduta",
+                "discipline": "osteopathy"
+            },
+            {
+                "img": {
+                    "path": "veterinary",
+                    "name": "veterinary-service-card"
+                },
+                "title": "Veterinaria",
+                "text": "A partire da 45€",
+                "discipline": "veterinary"
+            },
+            {
+                "img": {
+                    "path": "generalMedicine",
+                    "name": "generalMedicine_mobile"
+                },
+                "title": "Medicina generale",
+                "text": "A partire da 94€",
+                "discipline": "generalMedicine"
+            },
+            {
+                "img": {
+                    "path": "pediatrics",
+                    "name": "pediatrics-service-card"
+                },
+                "title": "Pediatria",
+                "text": "A partire da 118€",
+                "discipline": "pediatrics"
+            },
+            {
+                "img": {
+                    "path": "massages",
+                    "name": "massages_mobile"
+                },
+                "title": "Massoterapia",
+                "text": "A partire da 59€",
+                "discipline": "massages"
+            }
+        ]
+    }
+}
