@@ -61,17 +61,17 @@
       {
         "title": "Ricevi le richieste",
         "content": "Ricevi le richieste degli utenti nella tua zona di competenza, comodamente in app e via e-mail. In ogni richiesta sono specificati i dettagli dell'intervento, come luogo e orario.",
-        "image": "visita-generica-white"
+        "image": "pro-medical-records"
       },
       {
         "title": "Prendi in carico la prestazione",
         "content": "Con epiCura non hai vincoli: puoi prendere in carico solo le richieste d'intervento che si conciliano con i tuoi impegni personali e lavorativi.",
-        "image": "calendar-white"
+        "image": "pro-calendar"
       },
       {
         "title": "Esegui l'intervento",
         "content": "Presa in carico la richiesta, non dovrai fare altro che eseguire la prestazione con professionalità. A intervento concluso riceverai il tuo corrispettivo senza commissioni o costi nascosti!",
-        "image": "visita-generica-white"
+        "image": "pro-with-phones"
       }
     ]
   },
