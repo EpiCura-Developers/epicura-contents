@@ -63,6 +63,52 @@
       }
     ]
   },
+  "trattamenti": {
+    "sectionTitle": "I nostri psicologi online si occupano di ",
+    "altri_trattamenti": "Altri interventi di psicologia",
+    "list": [
+      {
+        "link": "/ansia",
+        "title": "Ansia",
+        "description": "paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
+      },
+      {
+        "link": "/sofferenza-psicologica",
+        "title": "Sofferenza psicologica",
+        "description": "stress, mobbing, burnout"
+      },
+      {
+        "link": "/dipendenze",
+        "title": "Dipendenze",
+        "description": "affettiva, alcol, droga, gioco d’azzardo (ludopatia), social network, videogiochi, sesso"
+      },
+      {
+        "link": "/depressione",
+        "title": "Depressione",
+        "description": "lutto, divorzio, fine relazione, patologie, malattie oncologiche, malattie croniche"
+      },
+      {
+        "link": "/disturbo-della-personalita",
+        "title": "Disturbo della personalità",
+        "description": "ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
+      },
+      {
+        "link": "/disturbi-alimentari",
+        "title": "Disturbi alimentari",
+        "description": "anoressia, bulimia, fame compulsiva (binge-eating)"
+      },
+      {
+        "link": "/terapia-di-coppia",
+        "title": "Terapia di coppia",
+        "description": "coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, stati di frustrazione"
+      },
+      {
+        "link": "/terapia-familiare",
+        "title": "Terapia familiare",
+        "description": "conflittualità familiari, disagi dell’età adolescenziale e pre-adolescenziale"
+      }
+    ]
+  },
   "card-trattamenti": {
     "title": "In cosa possiamo aiutarti:",
     "cards": [
