@@ -4,7 +4,7 @@
     "description": "Fisioterapisti esperti a domicilio a Verona e area metropolitana. Riabilitazione a domicilio, linfodrenaggio, sedute fisioterapiche a casa, 7 giorni su 7, senza liste d'attesa."
   },
   "top-banner": {
-    "title": "Fisioterapista a<br /> Verona",
+    "title": "Fisioterapista a <br /> Verona",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
     "img": {
       "path": "physiotherapy",
@@ -62,8 +62,8 @@
         "title": "Scopri le nostre soluzioni",
         "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze.",
         "img": {
-          "path": "caregiver",
-          "name": "esigenze-familiari"
+          "path": "common",
+          "name": "visita-generica-white"
         },
         "has-background": true
       },
@@ -71,8 +71,8 @@
         "title": "Prenota in pochi click",
         "text": "La prenotazione con epiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata.",
         "img": {
-          "path": "caregiver",
-          "name": "badante-adatta"
+          "path": "common",
+          "name": "booking-white"
         },
         "has-background": true
       },
@@ -80,15 +80,15 @@
         "title": "Ricevi l’intervento a domicilio o in studio",
         "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con epiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
         "img": {
-          "path": "caregiver",
-          "name": "gestione-contrattuale"
+          "path": "common",
+          "name": "visita-domicilio-white"
         },
         "has-background": true
       }
     ]
   },
   "card-trattamenti": {
-    "title": "I nostri trattamenti di fisioterapia",
+    "title": "I nostri trattamenti di fisioterapia a domicilio e in studio",
     "cards": [
       {
         "title": "Fisioterapia per anziani",
@@ -146,7 +146,7 @@
     },
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": true,
+    "hide-image-mobile": false,
     "has-large-title": true,
     "has-bg-color": "prime-light",
     "cta-content": []
@@ -262,7 +262,7 @@
     },
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": true,
+    "hide-image-mobile": false,
     "has-large-title": true,
     "has-bg-color": "zircon",
     "cta-content": [
@@ -281,7 +281,7 @@
     ]
   },
   "bullet-cards-service": {
-    "title": "I migliori fisioterapisti a domicilio entro 24 ore",
+    "title": "I migliori fisioterapisti a domicilio e in studio in 24ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {

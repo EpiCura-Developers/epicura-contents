@@ -4,8 +4,8 @@
     "description": "Assistenza a ore a Genova per anziani, malati e disabili con assistenti domiciliari qualificati e con esperienza, che ti raggiungono a domicilio, in ospedale o in casa di riposo."
   },
   "top-banner": {
-    "title": "Troviamo la badante diurna nella tua città",
-    "subtitle": "epiCura offre un servizio personalizzato per l’assistenza a domicilio, in ospedale o in casa di riposo con badanti qualificate e referenziate. <br>Scopri le nostre soluzioni di assistenza, senza costi di attivazione.",
+    "title": "Assistenza domiciliare a ore a Genova",
+    "subtitle": "epiCura si prende cura di anziani, malati o disabili con assistenti domiciliari qualificati e con esperienza, che raggiungono il tuo caro a domicilio, in ospedale o in casa di riposo. <br /><br /> Scopri le nostre soluzioni di assistenza a domicilio e ritrova la serenità.",
     "img": {
       "path": "caregiver",
       "name": "caregiver-banner"
@@ -182,8 +182,8 @@
     "has-bg-color": "caregiver-invert",
     "cta-content": [
       {
-        "label": "Contattaci",
-        "link": "/",
+        "label": "800 909 209",
+        "link": "tel:800909209",
         "image": "",
         "variant": "gradient"
       }

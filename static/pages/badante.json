@@ -248,13 +248,16 @@
     ]
   },
   "cities-banner": {
-    "title": "Hai bisogno di assistenza <br />domiciliare a ore?",
+    "title": "Hai bisogno di assistenza domiciliare a ore?",
     "subtitle": "L'assistenza a ore è ideale per persone autosufficienti e non che hanno bisogno di supporto solo in specifici giorni o per attività che non riescono a svolgere in autonomia (spesa, pulizia della casa, visite mediche). <br /> Il servizio è erogabile a partire da un minimo di 3 ore consecutive.",
-    "img": {},
+    "img": {
+      "path": "homecare",
+      "name": "homecare-service-banner"
+    },
     "has-large-title": false,
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": true,
+    "hide-image-mobile": false,
     "has-bg-color": "caregiver",
     "cta-content": []
   },
@@ -348,8 +351,8 @@
 
     "cta-content": [
       {
-        "label": "Contattaci",
-        "link": "https://landingpage.epicuramed.it/ad-bd_form",
+        "label": "800 909 209",
+        "link": "tel:800909209",
         "image": "",
         "variant": "gradient"
       }

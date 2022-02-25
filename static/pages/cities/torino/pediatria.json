@@ -17,71 +17,34 @@
     "has-bg-color": "physiotherapy",
     "cta-content": []
   },
-  "bullet-cards": {
-    "title": "Perché affidarsi a epiCura?",
-    "cards": [
-      {
-        "title": "Comodo, veloce, <br /> flessibile",
-        "text": "Servizi erogati dove e quando vuoi, 7 giorni su 7, entro 24h dalla prenotazione.",
-        "img": {
-          "path": "common",
-          "name": "convenient"
-        }
-      },
-      {
-        "title": "Professionisti <br /> certificati",
-        "text": "Incontri soltanto professionisti di valore e usufruisci di un servizio di alta qualità.",
-        "img": {
-          "path": "common",
-          "name": "pro-certified"
-        }
-      },
-      {
-        "title": "Prenotazioni <br /> senza intoppi",
-        "text": "Ti registri facilmente e prenoti qualunque visita in pochi minuti.",
-        "img": {
-          "path": "common",
-          "name": "booking-1"
-        }
-      },
-      {
-        "title": "Supporto <br /> costante",
-        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
-        "img": {
-          "path": "common",
-          "name": "support"
-        }
-      }
-    ]
-  },
   "how-does-it-work": {
     "title": "Pediatra a domicilio, in studio o in videoconsulto. Ecco come funziona",
     "subtitle": "",
     "cards": [
       {
-        "title": "Scopri le nostre soluzioni",
+        "title": "Scopri <br /> le nostre soluzioni",
         "text": "Abbiamo pensato a un'ampia gamma di servizi per prenderti cura della tua salute al meglio. Scegli la terapia e il percorso più adatti a te, noi troveremo il miglior professionista per le tue esigenze.",
         "img": {
-          "path": "caregiver",
-          "name": "esigenze-familiari"
+          "path": "common",
+          "name": "visita-generica-white"
         },
         "has-background": true
       },
       {
-        "title": "Prenota in pochi click",
+        "title": "Prenota <br /> in pochi click",
         "text": "La prenotazione con epiCura è semplice e veloce! Scegli dove e quando ricevere l'intervento e paga online in totale sicurezza con carta di credito, bancomat o carta prepagata.",
         "img": {
-          "path": "caregiver",
-          "name": "badante-adatta"
+          "path": "common",
+          "name": "booking-white"
         },
         "has-background": true
       },
       {
-        "title": "Ricevi l’intervento a domicilio, in studio o in videoconsulto",
+        "title": "Ricevi l'intervento <br /> a domicilio o in studio",
         "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con epiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
         "img": {
-          "path": "caregiver",
-          "name": "gestione-contrattuale"
+          "path": "common",
+          "name": "visita-domicilio-white"
         },
         "has-background": true
       }
@@ -96,7 +59,7 @@
     },
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": true,
+    "hide-image-mobile": false,
     "has-large-title": true,
     "has-bg-color": "prime-light",
     "cta-content": []
@@ -214,7 +177,7 @@
     },
     "has-absolute-image": true,
     "first-image-order": false,
-    "hide-image-mobile": true,
+    "hide-image-mobile": false,
     "has-large-title": true,
     "has-bg-color": "zircon",
     "cta-content": [

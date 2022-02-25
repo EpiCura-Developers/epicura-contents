@@ -9,9 +9,20 @@
     }
   },
   {
-    "option-link": "/corporate/",
-    "option-label": "epiCura Corporate",
+    "option-link": "/prime/",
+    "option-label": "EpiCura Prime",
+    "option-is-prime": true,
     "option-is-complex": true,
+    "option-is-amp": true,
+    "option-style-object-like": {
+      "font-weight": "bold"
+    }
+  },
+  {
+    "option-link": "/corporate/",
+    "option-label": "EpiCura Corporate",
+    "option-is-complex": true,
+    "only-mobile": true,
     "option-is-amp": true,
     "option-style-object-like": {
       "font-weight": "bold"
