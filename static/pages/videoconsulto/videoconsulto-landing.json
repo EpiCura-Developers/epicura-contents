@@ -41,7 +41,7 @@
     "textColor": "dark"
   },
   "body": {
-    "htmlContent": "<h3>Dove e quando vuoi, senza liste di attesa.</h3><p>Se devi intraprendere un percorso specialistico per la prima volta, oppure vuoi ricevere un altro parere professionale su una diagnosi o una terapia prescritta, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.*</p><p style='color: #008075'>*Il servizio ha una durata indicativa di 20 minuti.</p>"
+    "htmlContent": "<h3 class=\"epicura-primary\">Dove e quando vuoi, senza liste di attesa.</h3><p>Se devi intraprendere un percorso specialistico per la prima volta, oppure vuoi ricevere un altro parere professionale su una diagnosi o una terapia prescritta, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.*</p><p style='color: #008075'>*Il servizio ha una durata indicativa di 20 minuti.</p>"
   },
   "carousel": {
     "bkgColor": "#F5F8FF",
@@ -86,7 +86,7 @@
       {
         "image": {
           "path": "common",
-          "name": "scegli-soluzione"
+          "name": "videoconsulto-white"
         },
         "title": "Scegli la disciplina",
         "text": "Offriamo un’ampia scelta di servizi sanitari per rispondere a tutte le tue esigenze. Se hai un problema e non sai a chi rivolgerti, il nostro team di esperti ti aiuterà ad individuare la soluzione più adatta a te."
@@ -94,7 +94,7 @@
       {
         "image": {
           "path": "common",
-          "name": "prenota-seduta"
+          "name": "calendar-white"
         },
         "title": "Prenota il videoconsulto",
         "text": "Prenota il consulto comodamente online, nel giorno e nell'ora che preferisci. Troveremo per te il miglior professionista capace di rispondere alle tue esigenze. A prenotazione avvenuta, riceverai una mail di conferma con tutti i dettagli."
@@ -102,7 +102,7 @@
       {
         "image": {
           "path": "common",
-          "name": "pro-with-phones"
+          "name": "pro-with-phones-white"
         },
         "title": "Parla con lo specialista",
         "text": "Prenditi cura della tua salute o quella del tuo animale domestico comodamente da smartphone, tablet o pc! I nostri professionisti sono a tua disposizione 7 giorni su 7, anche in orario serale."
