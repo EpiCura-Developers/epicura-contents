@@ -9,9 +9,9 @@
     "pro-pointer": { "path": "common", "name": "pro-pointer" },
     "pro-hands": { "path": "common", "name": "pro-hands" },
     "pro-docs": { "path": "common", "name": "pro-docs" },
-    "pro-medical-records": { "path": "common", "name": "visita-generica-white" },
-    "pro-calendar": { "path": "common", "name": "calendar-white" },
-    "pro-with-phones": { "path": "common", "name": "visita-generica-white" },
+    "visita-generica-white": { "path": "common", "name": "visita-generica-white" },
+    "calendar-white": { "path": "common", "name": "calendar-white" },
+    "heart-white": { "path": "common", "name": "heart-white" },
     "pro-phone": { "path": "common", "name": "pro-phone" },
     "pro-heart": { "path": "common", "name": "pro-heart" },
     "pro-speak": { "path": "common", "name": "pro-speak" },
@@ -61,17 +61,17 @@
       {
         "title": "Ricevi le richieste",
         "content": "Ricevi le richieste degli utenti nella tua zona di competenza, comodamente in app e via e-mail. In ogni richiesta sono specificati i dettagli dell'intervento, come luogo e orario.",
-        "image": "pro-medical-records"
+        "image": "visita-generica-white"
       },
       {
         "title": "Prendi in carico la prestazione",
         "content": "Con epiCura non hai vincoli: puoi prendere in carico solo le richieste d'intervento che si conciliano con i tuoi impegni personali e lavorativi.",
-        "image": "pro-calendar"
+        "image": "calendar-white"
       },
       {
         "title": "Esegui l'intervento",
         "content": "Presa in carico la richiesta, non dovrai fare altro che eseguire la prestazione con professionalità. A intervento concluso riceverai il tuo corrispettivo senza commissioni o costi nascosti!",
-        "image": "pro-with-phones"
+        "image": "heart-white"
       }
     ]
   },
