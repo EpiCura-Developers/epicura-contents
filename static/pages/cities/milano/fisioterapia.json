@@ -218,7 +218,7 @@
   ],
   "app-banner": {
     "title": "50% di sconto sulla prima visita. <br /> Scarica l'app!",
-    "subtitle": "<strong>Inserisci subito il promo code APP50 e prenota.</strong> <br /> Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.",
+    "subtitle": "<strong>Inserisci subito il promo code APP50* e prenota.</strong> <br /> Se devi intraprendere un percorso specialistico per la prima volta o vuoi ricevere un ulteriore parere su una diagnosi o una terapia, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7. <br /> <small>*non valido per le prenotazioni delle visite in poliambulatorio.</small>",
     "img": {
       "path": "common",
       "name": "download-app"

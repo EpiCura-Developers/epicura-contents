@@ -3,10 +3,26 @@
     "title": "Psicologo e Psicoterapeuta online",
     "description": "Psicologi e psicoterapeuti per ansia, depressione, disturbi psicologici, 7 giorni su 7, nessuna lista d'attesa."
   },
-  "subheader": {
-    "titleBig": "Psicologo e Psicoterapeuta online",
-    "description1": "Con epiCura puoi consultare i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet.",
-    "description2": " Prenota in pochi clic e ritrova adesso la tua serenità. "
+  "top-banner": {
+    "title": "Psicologo e Psicoterapeuta online",
+    "subtitle": "Se hai bisogno di parlare con qualcuno, nessun problema: con epiCura puoi parlare con i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet. ",
+    "img": {
+      "path": "psychology",
+      "name": "psychology-header"
+    },
+    "has-large-title": true,
+    "has-absolute-image": true,
+    "first-image-order": false,
+    "hide-image-mobile": false,
+    "has-bg-color": "psychology",
+    "cta-content": [
+      {
+        "label": "Inizia il tuo percorso",
+        "link": "https://landingpage.epicuramed.it/psicologia_form ",
+        "image": "",
+        "variant": "gradient"
+      }
+    ]
   },
   "come_funziona": {
     "title": "Psicologo online, come funziona",
@@ -21,7 +37,7 @@
       {
         "image": {
           "path": "common",
-          "name": "videoconsulto-icon"
+          "name": "videoconsulto-white"
         },
         "title": "Prenota il videoconsulto gratuito",
         "text": "Sei tu a scegliere quando ricevere il videoconsulto gratuito. In fase di prenotazione, seleziona data e orario che preferisci, noi lo comunicheremo al tuo terapeuta.",
@@ -30,20 +46,65 @@
       {
         "image": {
           "path": "common",
-          "name": "psicologia-online"
+          "name": "incontro-white"
         },
-        "title": "Conosci il tuo psicologo",
+        "title": "Conosci <br /> il tuo psicologo",
         "text": "Le tue esigenze sono importanti! Dopo aver saputo qualcosa in più su di te… ti verrà assegnato lo specialista più adatto!",
         "has-background": true
       },
       {
         "image": {
           "path": "common",
-          "name": "referto-medico"
+          "name": "psicologia-online-white"
         },
-        "title": "Inizia la terapia",
+        "title": "Inizia <br /> la terapia",
         "text": "Cliccando sul link che riceverai via mail potrai usufruire del primo videoconsulto gratuito. Accedi comodamente da smartphone, pc o tablet e parla con il professionista scelto apposta per te.",
         "has-background": true
+      }
+    ]
+  },
+  "card-trattamenti": {
+    "title": "In cosa possiamo aiutarti:",
+    "cards": [
+      {
+        "url": "/ansia",
+        "title": "Ansia",
+        "description": "Paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
+      },
+      {
+        "url": "/sofferenza-psicologica",
+        "title": "Sofferenza psicologica",
+        "description": "Stress, mobbing, burnout"
+      },
+      {
+        "url": "/dipendenze",
+        "title": "Dipendenze",
+        "description": "Affettiva, alcol, droga, gioco d’azzardo (ludopatia), social network, videogiochi, sesso"
+      },
+      {
+        "url": "/depressione",
+        "title": "Depressione",
+        "description": "Lutto, divorzio, fine relazione, patologie, malattie oncologiche, malattie croniche"
+      },
+      {
+        "url": "/disturbo-della-personalita",
+        "title": "Disturbo della personalità",
+        "description": "Ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
+      },
+      {
+        "url": "/disturbi-alimentari",
+        "title": "Disturbi alimentari",
+        "description": "Anoressia, bulimia, fame compulsiva (binge-eating)"
+      },
+      {
+        "url": "/terapia-di-coppia",
+        "title": "Terapia di coppia",
+        "description": "Coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, stati di frustrazione"
+      },
+      {
+        "url": "/terapia-familiare",
+        "title": "Terapia familiare",
+        "description": "Conflittualità familiari, disagi dell’età adolescenziale e pre-adolescenziale"
       }
     ]
   },
@@ -147,194 +208,6 @@
       ]
     }
   ],
-  "psyco_advantages": {
-    "title": "I vantaggi dello psicologo online epiCura",
-    "list": [
-      {
-        "image": { "path": "common", "name": "videoconsulto" },
-        "title": "Dove vuoi, in totale sicurezza",
-        "description": "Accedi alla tua videoseduta dove e quando vuoi, da smartphone, pc o tablet. Il nostro servizio è strutturato a completa garanzia della tua privacy."
-      },
-      {
-        "image": { "path": "psychology", "name": "tram" },
-        "title": "Evita scomodi spostamenti",
-        "description": "epiCura ti permette di accedere alle videosedute in modo semplice e rapido, ovunque tu sia, senza necessità di recarti nello studio del professionista."
-      },
-      {
-        "image": { "path": "common", "name": "credit-card" },
-        "title": "Paga comodamente online",
-        "description": "Con epiCura puoi prenotare e pagare comodamente da sito, in pochi clic e in totale sicurezza, con carta di credito, bancomat oppure prepagata."
-      }
-    ]
-  },
-  "advantages": {
-    "title": "I migliori psicologi e psicoterapeuti online",
-    "subtitle": "Un servizio comodo, flessibile, affidabile",
-    "list": [
-      {
-        "image": { "path": "common", "name": "professionist" },
-        "title": "Solo professionisti qualificati",
-        "description": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale."
-      },
-      {
-        "image": { "path": "common", "name": "certificate" },
-        "title": "La tua soddisfazione è la nostra priorità",
-        "description": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi."
-      },
-      {
-        "image": { "path": "common", "name": "operator" },
-        "title": "Siamo sempre al tuo fianco",
-        "description": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno."
-      }
-    ]
-  },
-  "test": {
-    "title": "Ansia, stress, depressione? <br/> Scoprilo con un test.",
-    "text": "Irritabilità, tristezza, angoscia: è solo un momento o c'è qualcosa di più? Analizza i sintomi con i nostri test e inizia un percorso su misura per recuperare serenità.",
-    "image": { "path": "psychology", "name": "test" },
-    "list": [
-      {
-        "name": "Test ansia",
-        "link": "https://epicuramed.typeform.com/to/mFnp4gNn?utm_source=sito&utm_medium=banner&utm_campaign=psicologia"
-      },
-      {
-        "name": "Test stress",
-        "link": "https://epicuramed.typeform.com/to/hjO3Zkrg?utm_source=sito&utm_medium=banner&utm_campaign=psicologia"
-      },
-      {
-        "name": "Test depressione",
-        "link": "https://epicuramed.typeform.com/to/defBBYdR?utm_source=sito&utm_medium=banner&utm_campaign=psicologia"
-      }
-    ]
-  },
-  "banner-info": {
-    "title": "Hai un dubbio sul servizio di<br /> psicologia e psicoterapia?",
-    "title-colored": "",
-    "content": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi di epiCura più adatti alle tue esigenze.",
-    "image": {
-      "path": "common",
-      "name": "info-psicologia"
-    },
-    "image-mobile": {
-      "path": "common",
-      "name": "info-psicologia-mobile"
-    },
-    "button-text": "Richiedi informazioni",
-    "button-link-production": "https://share.hsforms.com/1CZItMEkXQ16DCV1LVw-T5g4ebbs",
-    "button-link-staging": "https://share.hsforms.com/1C2v2qPBhSVaQDKdTIJfwMQ5kab9"
-  },
-  "top-banner": {
-    "title": "Psicologo e Psicoterapeuta online",
-    "subtitle": "Se hai bisogno di parlare con qualcuno, nessun problema: con epiCura puoi parlare con i migliori psicologi e psicoterapeuti comodamente online, 7 giorni su 7, da smartphone, pc o tablet. ",
-    "img": {
-      "path": "psychology",
-      "name": "psychology-header"
-    },
-    "has-large-title": true,
-    "has-absolute-image": true,
-    "first-image-order": false,
-    "hide-image-mobile": false,
-    "has-bg-color": "psychology",
-    "cta-content": [
-      {
-        "label": "Inizia il tuo percorso",
-        "link": "https://landingpage.epicuramed.it/psicologia_form ",
-        "image": "",
-        "variant": "gradient"
-      }
-    ]
-  },
-  "trattamenti": {
-    "sectionTitle": "I nostri psicologi online si occupano di ",
-    "altri_trattamenti": "Altri interventi di psicologia",
-    "list": [
-      {
-        "link": "/ansia",
-        "title": "Ansia",
-        "description": "paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
-      },
-      {
-        "link": "/sofferenza-psicologica",
-        "title": "Sofferenza psicologica",
-        "description": "stress, mobbing, burnout"
-      },
-      {
-        "link": "/dipendenze",
-        "title": "Dipendenze",
-        "description": "affettiva, alcol, droga, gioco d’azzardo (ludopatia), social network, videogiochi, sesso"
-      },
-      {
-        "link": "/depressione",
-        "title": "Depressione",
-        "description": "lutto, divorzio, fine relazione, patologie, malattie oncologiche, malattie croniche"
-      },
-      {
-        "link": "/disturbo-della-personalita",
-        "title": "Disturbo della personalità",
-        "description": "ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
-      },
-      {
-        "link": "/disturbi-alimentari",
-        "title": "Disturbi alimentari",
-        "description": "anoressia, bulimia, fame compulsiva (binge-eating)"
-      },
-      {
-        "link": "/terapia-di-coppia",
-        "title": "Terapia di coppia",
-        "description": "coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, stati di frustrazione"
-      },
-      {
-        "link": "/terapia-familiare",
-        "title": "Terapia familiare",
-        "description": "conflittualità familiari, disagi dell’età adolescenziale e pre-adolescenziale"
-      }
-    ]
-  },
-  "card-trattamenti": {
-    "title": "In cosa possiamo aiutarti:",
-    "cards": [
-      {
-        "url": "/ansia",
-        "title": "Ansia",
-        "description": "Paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
-      },
-      {
-        "url": "/sofferenza-psicologica",
-        "title": "Sofferenza psicologica",
-        "description": "Stress, mobbing, burnout"
-      },
-      {
-        "url": "/dipendenze",
-        "title": "Dipendenze",
-        "description": "Affettiva, alcol, droga, gioco d’azzardo (ludopatia), social network, videogiochi, sesso"
-      },
-      {
-        "url": "/depressione",
-        "title": "Depressione",
-        "description": "Lutto, divorzio, fine relazione, patologie, malattie oncologiche, malattie croniche"
-      },
-      {
-        "url": "/disturbo-della-personalita",
-        "title": "Disturbo della personalità",
-        "description": "Ossessivo-compulsivo, borderline, narcisistico, paranoide, schizoide, schizotipico, antisociale, istrionico, evitante, dipendente"
-      },
-      {
-        "url": "/disturbi-alimentari",
-        "title": "Disturbi alimentari",
-        "description": "Anoressia, bulimia, fame compulsiva (binge-eating)"
-      },
-      {
-        "url": "/terapia-di-coppia",
-        "title": "Terapia di coppia",
-        "description": "Coppie in crisi, problemi di comunicazione, infedeltà, gelosia, divorzio, problemi sessuali, dipendenza affettiva, stati di frustrazione"
-      },
-      {
-        "url": "/terapia-familiare",
-        "title": "Terapia familiare",
-        "description": "Conflittualità familiari, disagi dell’età adolescenziale e pre-adolescenziale"
-      }
-    ]
-  },
   "advantages-cards": {
     "title": "I vantaggi dello psicologo online epiCura",
     "cards": [
@@ -355,7 +228,7 @@
         }
       },
       {
-        "title": "Paga comodamente online",
+        "title": "Paga online",
         "text": "Con epiCura puoi prenotare e pagare comodamente da sito, in pochi clic e in totale sicurezza, con carta di credito, bancomat oppure prepagata.",
         "img": {
           "path": "common",
@@ -363,7 +236,7 @@
         }
       },
       {
-        "title": "Supporto <br /> costante",
+        "title": "Supporto costante",
         "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
         "img": {
           "path": "common",
