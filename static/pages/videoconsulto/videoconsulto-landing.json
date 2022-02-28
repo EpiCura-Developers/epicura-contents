@@ -41,39 +41,39 @@
     "textColor": "dark"
   },
   "body": {
-    "htmlContent": "<h3 class=\"epicura-primary\">Dove e quando vuoi, senza liste di attesa.</h3><p>Se devi intraprendere un percorso specialistico per la prima volta, oppure vuoi ricevere un altro parere professionale su una diagnosi o una terapia prescritta, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.*</p><p style='color: #008075'>*Il servizio ha una durata indicativa di 20 minuti.</p>"
+    "htmlContent": "<h3 class=\"epicura-primary\">Dove e quando vuoi, senza liste di attesa.</h3><p>Se devi intraprendere un percorso specialistico per la prima volta, oppure vuoi ricevere un altro parere professionale su una diagnosi o una terapia prescritta, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.*</p><p class='epicura-primary'>*Il servizio ha una durata indicativa di 20 minuti.</p>"
   },
   "carousel": {
     "bkgColor": "#F5F8FF",
     "title": "È utile per",
     "slides": [
       {
-        "icon": { "path": "videoconsultation", "name": "consulenza" },
+        "icon": { "path": "videoconsultation", "name": "consulenza-prescrizioni" },
         "title": "Consulenza su patologia già accertata",
         "description": "Se hai bisogno di un altro parere specialistico o di maggiori informazioni su una diagnosi."
       },
       {
-        "icon": { "path": "videoconsultation", "name": "diagnosi" },
+        "icon": { "path": "videoconsultation", "name": "diagnosi-adeguata" },
         "title": "Definire una diagnosi adeguata",
         "description": "Se vuoi inquadrare meglio una condizione clinica per intraprendere il percorso specialistico più adatto."
       },
       {
-        "icon": { "path": "videoconsultation", "name": "sintomi" },
+        "icon": { "path": "videoconsultation", "name": "valutazione-sintomi-1" },
         "title": "Valutare sintomi clinici",
         "description": "Se desideri ricevere una valutazione specialistica immediata, senza liste d'attesa."
       },
       {
-        "icon": { "path": "videoconsultation", "name": "prescrizione" },
+        "icon": { "path": "videoconsultation", "name": "consulenza-prescrizioni" },
         "title": "Consulenza su prescrizione medica",
         "description": "Se necessiti di indicazioni più dettagliate su una prescrizione medica già emessa da un altro professionista."
       },
       {
-        "icon": { "path": "videoconsultation", "name": "trattamento" },
+        "icon": { "path": "videoconsultation", "name": "trattamento-prescritto" },
         "title": "Parere su trattamento già prescritto",
         "description": "Se vuoi confrontarti con uno specialista su un trattamento e/o un piano terapeutico in corso o da iniziare."
       },
       {
-        "icon": { "path": "videoconsultation", "name": "accertamenti" },
+        "icon": { "path": "videoconsultation", "name": "accertamenti-diagniostici" },
         "title": "Informazioni su accertamenti diagnostici",
         "description": "Se ti hanno prescritto esami strumentali o accertamenti diagnostici e vuoi approfondire su come prepararti al meglio."
       }
