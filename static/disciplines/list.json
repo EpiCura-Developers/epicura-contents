@@ -64,8 +64,8 @@
             },
             {
                 "img": {
-                    "path": "pediatrics",
-                    "name": "pediatrics-service-card"
+                    "path": "common",
+                    "name": "pediatrics-card"
                 },
                 "title": "Pediatria",
                 "text": "A partire da 118€",
@@ -73,8 +73,8 @@
             },
             {
                 "img": {
-                    "path": "massages",
-                    "name": "massages_mobile"
+                    "path": "common",
+                    "name": "massages-card"
                 },
                 "title": "Massoterapia",
                 "text": "A partire da 59€",
@@ -127,7 +127,7 @@
                 },
                 "title": "Visita Cardiologo",
                 "text": "",
-                "discipline": "clinic",
+                "discipline": "cardiology",
                 "showInHome": true
             },
             {
@@ -137,7 +137,7 @@
                 },
                 "title": "Oculista",
                 "text": "",
-                "discipline": "clinic",
+                "discipline": "ophthalmology",
                 "showInHome": true
             }
         ]

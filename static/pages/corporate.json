@@ -83,7 +83,7 @@
         "cta": [
           {
             "label": "Entriamo in contatto",
-            "link": "/",
+            "link": "https://landingpage.epicuramed.it/epicura-corporate_richiesta-info",
             "image": "",
             "variant": "outlined"
           }
@@ -94,7 +94,7 @@
     ]
   },
   "bullet-cards": {
-    "title": "Migliora il <strong>benessere</strong> e la <strong>produttività</strong> dei tuoi dipendenti.",
+    "title": "Migliora il benessere e la produttività dei tuoi dipendenti.",
     "cards": [
       {
         "title": "<strong>Facilita l'accesso alla sanità</strong>",
@@ -171,8 +171,8 @@
     "title": "Un'app per gestire tutto quanto",
     "subtitle": "",
     "img": {
-      "path": "common",
-      "name": "download-app"
+      "path": "epicura corporate",
+      "name": "download-app-corporate"
     },
     "list-details": [
       {
@@ -273,32 +273,64 @@
     "title": "",
     "cards": [
       {
-        "title": "Il welfare del futuro",
-        "text": "Come sarà il welfare del futuro? Scopriamolo insieme in un momento di condivisione e confronto attraverso il supporto di dati e testimonianze di rilievo. Iscriviti ora!",
+        "title": "HR Innovation Forum",
+        "text": "Data evento: 10/03/22 <br /> Luogo evento: Bologna",
         "img": {
-          "path": "common",
-          "name": "event-carousel-image"
+          "path": "epicura corporate",
+          "name": "hr-innovation-forum"
         },
         "cta": [
           {
-            "label": "Iscriviti al webinar",
-            "link": "/",
+            "label": "Vieni a trovarci",
+            "link": "https://www.hrinnovationforum.com/",
             "image": "",
             "variant": "outlined"
           }
         ]
       },
       {
-        "title": "Il welfare del futuro",
-        "text": "Come sarà il welfare del futuro? Scopriamolo insieme in un momento di condivisione e confronto attraverso il supporto di dati e testimonianze di rilievo. Iscriviti ora!",
+        "title": "Wellfeel",
+        "text": "Data evento: 27/04/22 <br /> Luogo evento: Milano",
         "img": {
-          "path": "common",
-          "name": "event-carousel-image"
+          "path": "epicura corporate",
+          "name": "este"
         },
         "cta": [
           {
-            "label": "Iscriviti al webinar",
-            "link": "/",
+            "label": "Vieni a trovarci",
+            "link": "https://www.este.it/eventi/wellfeel-2022/",
+            "image": "",
+            "variant": "outlined"
+          }
+        ]
+      },
+      {
+        "title": "HRC Square",
+        "text": "Data evento: 24/05/22 <br /> Luogo evento: Online",
+        "img": {
+          "path": "epicura corporate",
+          "name": "hrc-square"
+        },
+        "cta": [
+          {
+            "label": "Vieni a trovarci",
+            "link": "https://hrcigroup.com/it/learning-square/",
+            "image": "",
+            "variant": "outlined"
+          }
+        ]
+      },
+      {
+        "title": "Global Summit Human Resources",
+        "text": "Data evento: 19-20/10/22 <br /> Luogo evento: Lago di Garda Lazise - Verona",
+        "img": {
+          "path": "epicura corporate",
+          "name": "global-summit"
+        },
+        "cta": [
+          {
+            "label": "Vieni a trovarci",
+            "link": "https://ghrsummit.it/",
             "image": "",
             "variant": "outlined"
           }
