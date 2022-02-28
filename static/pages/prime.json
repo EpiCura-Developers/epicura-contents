@@ -225,7 +225,7 @@
     ]
   },
   "clinic-banner": {
-    "title": "Collaboriamo <br /> con le migliori <br /> cliniche e professionisti",
+    "title": "Collaboriamo  <br class=\"md-show\"/> con le migliori  <br class=\"md-show\"/> cliniche e professionisti",
     "subtitle": "",
     "img": {
       "path": "poliambulatori",
