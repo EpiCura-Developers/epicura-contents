@@ -12,72 +12,20 @@
     "check_list": {
       "title": "Quando è consigliata la terapia familiare",
       "footer": {
-        "button": {
-          "text": "Inizia il tuo percorso online"
-        }
+        "cta-content": [
+          {
+            "label": "Inizia il tuo percorso online",
+            "link": "https://landingpage.epicuramed.it/psicologia_form",
+            "image": "",
+            "variant": "gradient"
+          }
+        ]
       }
     },
     "price_title": "",
     "image": {
       "path": "psychology",
       "name": "Terapia-di-coppia"
-    },
-    "solutions": [
-      {
-        "title": "Continua la terapia con un percorso su misura",
-        "subtitle": "Hai già effettuato il primo videoconsulto o vuoi continuare un percorso già iniziato?<br />Parla gratuitamente con un nostro tutor e scegli la soluzione più adatta alle tue esigenze.",
-        "startingFromText": "",
-        "solutionsBig": [
-          {
-            "code": "psychotherapyMonthlyFamilySubscription2Sessions",
-            "title": "Percorso basic",
-            "text": "Iniziate il vostro percorso con 2 videosedute mensili.<br /><br />Se state affrontando un momento difficile e desiderate confrontarvi con un terapeuta, questa soluzione fa per voi. ",
-            "startingFrom": false,
-            "hideDiscount": true,
-            "button": {
-              "text": "Parla con un tutor",
-              "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
-              "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
-            },
-            "bottomText": {
-              "text": "Pacchetto base",
-              "highlighted": false
-            }
-          },
-          {
-            "code": "psychotherapyMonthlyFamilySubscription3Sessions",
-            "title": "Percorso plus",
-            "text": "Questo percorso vi consente di accedere a 3 videosedute mensili, comodamente da smartphone, pc o tablet.<br /><br />Ideale per chi si approccia per la prima volta alla terapia familiare. ",
-            "startingFrom": false,
-            "button": {
-              "text": "Parla con un tutor",
-              "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
-              "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
-            },
-            "bottomText": {
-              "text": "Risparmi ",
-              "highlighted": true,
-              "showDiscount": true
-            }
-          },
-          {
-            "code": "psychotherapyMonthlyFamilySubscription4Sessions",
-            "title": "Percorso standard",
-            "text": "Percorso terapeutico che comprende 4 videosedute mensili, particolarmente efficace per lavorare su problematiche di lungo periodo.<br /><br />Ideale per un supporto terapeutico costante.",
-            "startingFrom": false,
-            "button": {
-              "text": "Parla con un tutor",
-              "link": "https://share.hsforms.com/1O-tdXN-ZTFi1W-dtqGaCjg4ebbs",
-              "link-staging": "https://share.hsforms.com/1h6IEZLAuSjOIDiV1wzdMug5kab9"
-            },
-            "bottomText": {
-              "text": "Risparmi ",
-              "highlighted": true,
-              "showDiscount": true
-            }
-          }
-        ]
-      }
-    ]
+    }
   }
   
