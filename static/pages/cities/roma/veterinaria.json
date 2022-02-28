@@ -4,7 +4,7 @@
     "description": "Veterinari a domicilio a Roma e area metropolitana. Visite veterinarie, eutanasia, prelievi per cani e gatti, esami feci e urine a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
   "top-banner": {
-    "title": "Veterinario a <br/>Roma",
+    "title": "Veterinario a <br class=\"md-show\"/> Roma",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
     "img": {
       "path": "veterinary",
@@ -18,7 +18,7 @@
     "cta-content": []
   },
   "how-does-it-work": {
-    "title": "Veterinario a domicilio, in studio o in videoconsulto. Ecco come funziona",
+    "title": "Veterinario a domicilio, in studio e in videoconsulto. <br class=\"md-show\"/> Ecco come funziona.",
     "subtitle": "",
     "cards": [
       {
@@ -302,7 +302,7 @@
     ]
   },
   "bullet-cards-service": {
-    "title": "I migliori veterinari a domicilio entro 24 ore",
+    "title": "I migliori veterinari a domicilio, in studio <br class=\"md-show\"/>  e in videoconsulto entro 24 ore.",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {

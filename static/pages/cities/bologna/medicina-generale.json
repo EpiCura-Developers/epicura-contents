@@ -4,7 +4,7 @@
     "description": "Medici generici a domicilio a Bologna e area metropolitana. Visite mediche, prescrizione farmaci a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
   "top-banner": {
-    "title": "Medico di base<br /> Bologna",
+    "title": "Medico di base a <br class=\"md-show\"/> Bologna",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
     "img": {
       "path": "generalMedicine",
@@ -18,7 +18,7 @@
     "cta-content": []
   },
   "how-does-it-work": {
-    "title": "Medico a domicilio, in studio o in videoconsulto. Ecco come funziona",
+    "title": "Medico a domicilio, in studio e in videoconsulto. <br class=\"md-show\"/> Ecco come funziona.",
     "subtitle": "",
     "cards": [
       {
@@ -196,7 +196,7 @@
     ]
   },
   "bullet-cards-service": {
-    "title": "I migliori pediatri a domicilio entro 24 ore",
+    "title": "I migliori medici di base a domicilio, in studio <br class=\"md-show\"/> e in videoconsulto entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {

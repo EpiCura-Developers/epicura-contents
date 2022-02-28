@@ -4,7 +4,7 @@
     "description": "Massoterapista a domicilio a Verona e area metropolitana. Massaggi relax, massaggi decontratturanti, massaggio linfatici a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
   "top-banner": {
-    "title": "Massoterapista a<br /> Verona",
+    "title": "Massoterapista a <br class=\"md-show\"/> Verona",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
     "img": {
       "path": "massages",
@@ -18,7 +18,7 @@
     "cta-content": []
   },
   "how-does-it-work": {
-    "title": "Massoterapia a domicilio o in studio. Ecco come funziona",
+    "title": "Massoterapia a domicilio e in studio. Ecco come funziona.",
     "subtitle": "",
     "cards": [
       {
@@ -229,7 +229,7 @@
     ]
   },
   "bullet-cards-service": {
-    "title": "I migliori massoterapisti a domicilio entro 24 ore",
+    "title": "I migliori massoterapisti a domicilio e in studio entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {

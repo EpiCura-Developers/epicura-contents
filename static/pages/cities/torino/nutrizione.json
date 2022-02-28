@@ -4,7 +4,7 @@
     "description": "Nutrizionisti a domicilio a Torino e area metropolitana. Valutazione nutrizionale, monitoraggio e pianificazione diete a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
   "top-banner": {
-    "title": "Nutrizionista a <br /> Torino",
+    "title": "Nutrizionista a <br class=\"md-show\"/> Torino",
     "subtitle": "Prenditi cura del tuo corpo grazie agli specialisti epiCura. Sarai tu a decidere quale prestazione faccia al caso tuo! Comodamente online con visite in videoconsulto oppure presso nostri studi o potrai scegliere il piano alimentare “su misura” per le tue esigenze",
     "img": {
       "path": "nutrition",
@@ -344,7 +344,7 @@
     ]
   },
   "bullet-cards-service": {
-    "title": "I migliori nutrizionisti in videoconsulto o in studio entro 24 ore",
+    "title": "I migliori nutrizionisti in videoconsulto e in studio entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {

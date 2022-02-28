@@ -4,7 +4,7 @@
     "description": "Infermieri a domicilio a Firenze e area metropolitana. Inieizioni, medicazioni, clistere a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
   "top-banner": {
-    "title": "Infermiere a<br /> Firenze",
+    "title": "Infermiere a <br class=\"md-show\"/> Firenze",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
     "img": {
       "path": "nursing",
@@ -18,7 +18,7 @@
     "cta-content": []
   },
   "how-does-it-work": {
-    "title": "Infermiere a domicilio o in studio. Ecco come funziona",
+    "title": "Infermiere a domicilio. Ecco come funziona.",
     "subtitle": "",
     "cards": [
       {

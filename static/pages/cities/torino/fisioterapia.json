@@ -8,7 +8,7 @@
     "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
     "img": {
       "path": "physiotherapy",
-      "name": "physiotherapy-header"
+      "name": "physiotherapy-header-1"
     },
     "has-large-title": true,
     "has-absolute-image": true,
@@ -18,7 +18,7 @@
     "cta-content": []
   },
   "how-does-it-work": {
-    "title": "Fisioterapia a domicilio o in studio. Ecco come funziona",
+    "title": "Fisioterapia a domicilio e in studio. Ecco come funziona.",
     "subtitle": "",
     "cards": [
       {
@@ -246,7 +246,7 @@
     ]
   },
   "bullet-cards-service": {
-    "title": "I migliori fisioterapisti a domicilio e in studio in 24ore",
+    "title": "I migliori fisioterapisti a domicilio e in studio in 24 ore.",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {

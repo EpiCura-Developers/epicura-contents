@@ -8,7 +8,7 @@
     "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
     "img": {
       "path": "physiotherapy",
-      "name": "physiotherapy-header"
+      "name": "physiotherapy-header-1"
     },
     "has-large-title": true,
     "has-absolute-image": true,
@@ -18,7 +18,7 @@
     "cta-content": []
   },
   "how-does-it-work": {
-    "title": "Fisioterapia a domicilio o in studio. Ecco come funziona",
+    "title": "Fisioterapia a domicilio e in studio. <br class=\"md-show\"/> Ecco come funziona.",
     "subtitle": "",
     "cards": [
       {
@@ -240,6 +240,36 @@
         "link": "https://play.google.com/store/apps/details?id=it.epicura.customers",
         "image": "/img/badge-google-play-store.png",
         "variant": "image"
+      }
+    ]
+  },
+  "bullet-cards-service": {
+    "title": "I migliori fisioterapisti a domicilio e in studio in 24 ore.",
+    "subtitle": "Un servizio comodo, flessibile, affidabile",
+    "cards": [
+      {
+        "title": "Solo professionisti <br /> qualificati",
+        "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
+        "img": {
+          "path": "common",
+          "name": "specialist-2"
+        }
+      },
+      {
+        "title": "La tua soddisfazione <br /> è anche la nostra ",
+        "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
+        "img": {
+          "path": "common",
+          "name": "certificate-2"
+        }
+      },
+      {
+        "title": "Siamo sempre <br /> al tuo fianco",
+        "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
+        "img": {
+          "path": "common",
+          "name": "support-2"
+        }
       }
     ]
   },

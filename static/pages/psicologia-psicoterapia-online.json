@@ -206,7 +206,7 @@
     }
   ],
   "advantages": {
-    "title": "I migliori fisioterapisti a domicilio e in studio entro 24 ore",
+    "title": "I migliori psicologi online entro 24 ore.",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "list": [
       {
@@ -312,6 +312,27 @@
         "link": "tel:800909209",
         "img": {},
         "variant": "gradient"
+      }
+    ]
+  },
+  "service-cards": {
+    "title": "Puoi prenotare anche",
+    "cards": [
+      {
+        "title": "Visite mediche, esami strumentali e videoconsulti",
+        "subtitle": "online - a domicilio - in studio",
+        "img": "/img/visite-mediche-gradient.png",
+        "img-hover": "/img/visite-mediche-white.png",
+        "cta-label": "Prenota",
+        "url": "/servizi/"
+      },
+      {
+        "title": "Ricerca e selezione badanti, assistenza domiciliare ad ore",
+        "subtitle": "a domicilio",
+        "img": "/img/ricerca-badante-gradient.png",
+        "img-hover": "/img/ricerca-badante-white.png",
+        "cta-label": "Prenota",
+        "url": "/badante/"
       }
     ]
   }
