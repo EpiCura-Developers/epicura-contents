@@ -8,7 +8,7 @@
     "name": "services"
   },
   "top-banner": {
-    "title": "Prenotare una visita <br />è sempre un incubo",
+    "title": "Prenotare una visita <br class=\"md-show\"/> è sempre un incubo",
     "subtitle": "Con <strong>epiCura</strong> prenota e ricevi l'<strong>intervento a casa, in studio o in videoconsulto</strong>, 7 giorni su 7, entro 24 ore.",
     "img": {
       "path": "common",
@@ -88,7 +88,7 @@
     ]
   },
   "prime-banner": {
-    "title": "<b>epiCura Prime</b> è <br />tutta salute",
+    "title": "<b>epiCura Prime</b> è<br class=\"md-show\"/>tutta salute",
     "subtitle": "Non vogliamo convincerti a comprare l’abbonamento, ma non possiamo negare che avresti solo da guadagnarci.",
     "img": {
       "path": "epicura prime",
@@ -231,7 +231,7 @@
     ]
   },
   "clinic-banner": {
-    "title": "Collaboriamo <br /> con le migliori <br /> cliniche e professionisti",
+    "title": "Collaboriamo <br class=\"md-show\"/> con le migliori <br class=\"md-show\"/> cliniche e professionisti",
     "subtitle": "",
     "img": {
       "path": "poliambulatori",
@@ -537,7 +537,7 @@
     }
   ],
   "slider-banner": {
-    "title": "Paga comodamente online <br /> in modo semplice e sicuro",
+    "title": "Paga comodamente online <br class=\"md-show\"/> in modo semplice e sicuro",
     "subtitle": "Quanto è bello saltare le file agli sportelli? Paga direttamente online tramite pc, tablet o smartphone.",
     "img": {
       "path": "common",

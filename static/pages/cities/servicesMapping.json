@@ -1,7 +1,7 @@
 {
   "fisioterapia": {
     "fullName": "Fisioterapia",
-    "specialists": "Fisioterapista a domicilio"
+    "specialists": "Fisioterapista"
   },
   "osteopatia": {
     "fullName": "Osteopatia",
@@ -13,23 +13,23 @@
   },
   "infermieristica": {
     "fullName": "Infermieristica",
-    "specialists": "Infermiere a domicilio"
+    "specialists": "Infermiere"
   },
   "pediatria": {
     "fullName": "Pediatria",
-    "specialists": "Pediatra a domicilio"
+    "specialists": "Pediatra"
   },
   "veterinaria": {
     "fullName": "Veterinaria",
-    "specialists": "Veterinario a domicilio"
+    "specialists": "Veterinario"
   },
   "medicina-generale": {
     "fullName": "Medicina generale",
-    "specialists": "Medico generico a domicilio"
+    "specialists": "Medico di base"
   },
   "massaggi": {
     "fullName": "Massoterapia",
-    "specialists": "Massoterapista a domicilio"
+    "specialists": "Massoterapista"
   },
   "psicologia": {
     "fullName": "Psicologia",
@@ -41,7 +41,7 @@
   },
   "nutrizione": {
     "fullName": "Nutrizione",
-    "specialists": "Nutrizionista a domicilio"
+    "specialists": "Nutrizionista"
   },
   "servizio-ricerca-badanti": {
     "fullName": "Servizio Ricerca Badanti",

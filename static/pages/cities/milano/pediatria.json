@@ -4,7 +4,7 @@
     "description": "Pediatri esperti a domicilio a Milano e area metropolitana. Visite pediatriche a casa, consulti telefonici e online, 7 giorni su 7, nessuna lista d'attesa"
   },
   "top-banner": {
-    "title": "Pediatra a<br /> Milano",
+    "title": "Pediatra a <br class=\"md-show\"/> Milano",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
     "img": {
       "path": "pediatrics",
@@ -14,11 +14,11 @@
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": false,
-    "has-bg-color": "physiotherapy",
+    "has-bg-color": "pediatrics",
     "cta-content": []
   },
   "how-does-it-work": {
-    "title": "Pediatra a domicilio, in studio o in videoconsulto. Ecco come funziona",
+    "title": "Pediatra a domicilio, in studio e in videoconsulto. <br class=\"md-show\"/> Ecco come funziona.",
     "subtitle": "",
     "cards": [
       {
@@ -196,11 +196,11 @@
     ]
   },
   "bullet-cards-service": {
-    "title": "I migliori pediatri a domicilio entro 24 ore",
+    "title": "I migliori pediatri a domicilio, in studio <br class=\"md-show\"/> e in videoconsulto entro 24 ore.",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {
-        "title": "Solo professionisti qualificati",
+        "title": "Solo professionisti <br /> qualificati",
         "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
         "img": {
           "path": "common",
@@ -208,7 +208,7 @@
         }
       },
       {
-        "title": "La tua soddisfazione è anche la nostra ",
+        "title": "La tua soddisfazione <br /> è anche la nostra ",
         "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
         "img": {
           "path": "common",
@@ -216,7 +216,7 @@
         }
       },
       {
-        "title": "Siamo sempre al tuo fianco",
+        "title": "Siamo sempre <br /> al tuo fianco",
         "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
         "img": {
           "path": "common",

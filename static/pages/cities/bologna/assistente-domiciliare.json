@@ -21,11 +21,10 @@
     "first-image-order": false,
     "hide-image-mobile": false,
     "has-bg-color": "caregiver",
-
     "cta-content": [
       {
         "label": "Richiedi preventivo gratuito",
-        "link": "/",
+        "link": "https://landingpage.epicuramed.it/ad-bd_form",
         "image": "",
         "variant": "gradient"
       }

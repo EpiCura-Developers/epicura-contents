@@ -4,7 +4,7 @@
     "description": "Massoterapista a domicilio a Milano e area metropolitana. Massaggi relax, massaggi decontratturanti, massaggio linfatici a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
   "top-banner": {
-    "title": "Massoterapista a<br /> Milano",
+    "title": "Massoterapista a <br class=\"md-show\"/> Milano",
     "subtitle": "Scegli la visita di cui hai bisogno e la modalità con cui riceverlo. È facile, veloce e soprattutto comodo.",
     "img": {
       "path": "massages",
@@ -18,7 +18,7 @@
     "cta-content": []
   },
   "how-does-it-work": {
-    "title": "Massoterapia a domicilio o in studio. Ecco come funziona",
+    "title": "Massoterapia a domicilio e in studio. Ecco come funziona.",
     "subtitle": "",
     "cards": [
       {
@@ -229,11 +229,11 @@
     ]
   },
   "bullet-cards-service": {
-    "title": "I migliori massoterapisti a domicilio entro 24 ore",
+    "title": "I migliori massoterapisti a domicilio e in studio entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {
-        "title": "Solo professionisti qualificati",
+        "title": "Solo professionisti <br /> qualificati",
         "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
         "img": {
           "path": "common",
@@ -241,7 +241,7 @@
         }
       },
       {
-        "title": "La tua soddisfazione è anche la nostra ",
+        "title": "La tua soddisfazione <br /> è anche la nostra ",
         "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
         "img": {
           "path": "common",
@@ -249,7 +249,7 @@
         }
       },
       {
-        "title": "Siamo sempre al tuo fianco",
+        "title": "Siamo sempre <br /> al tuo fianco",
         "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
         "img": {
           "path": "common",

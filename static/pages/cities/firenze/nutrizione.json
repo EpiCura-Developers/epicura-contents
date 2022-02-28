@@ -4,7 +4,7 @@
     "description": "Nutrizionisti a domicilio a Firenze e area metropolitana. Valutazione nutrizionale, monitoraggio e pianificazione diete a casa, 7 giorni su 7, nessuna lista d'attesa"
   },
   "top-banner": {
-    "title": "Nutrizionista a<br /> Firenze",
+    "title": "Nutrizionista a <br class=\"md-show\"/> Firenze",
     "subtitle": "Prenditi cura del tuo corpo grazie agli specialisti epiCura. Sarai tu a decidere quale prestazione faccia al caso tuo! Comodamente online con visite in videoconsulto oppure presso nostri studi o potrai scegliere il piano alimentare “su misura” per le tue esigenze",
     "img": {
       "path": "nutrition",
@@ -100,11 +100,11 @@
     "subtitle": "",
     "list-details": [
       {
-        "icon": "/img/prenotazione-struttura.png",
+        "icon": "/img/videoconsulto.png",
         "text": "<b>VISITA IN VIDEOCONSULTO</b><br>Comodamente a casa tua: nella stanza e all’orario che preferisci."
       },
       {
-        "icon": "/img/videoconsulto.png",
+        "icon": "/img/prenotazione-struttura.png",
         "text": "<b>DIRETTAMENTE IN STUDIO</b><br>Ci vediamo per un incontro di persona direttamente nello studio del tuo specialista di fiducia."
       },
       {
@@ -113,8 +113,8 @@
       }
     ],
     "img": {
-      "path": "common",
-      "name": "download-app"
+      "path": "nutrition",
+      "name": "nutrition-banner"
     },
     "has-absolute-image": true,
     "first-image-order": false,
@@ -344,7 +344,7 @@
     ]
   },
   "bullet-cards-service": {
-    "title": "I migliori nutrizionisti in videoconsulto o in studio entro 24 ore",
+    "title": "I migliori nutrizionisti in videoconsulto e in studio entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {
