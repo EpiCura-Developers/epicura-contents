@@ -4,20 +4,20 @@
     "description": "Entra nella rete di professionisti epiCura e costruisci con noi il futuro della sanità."
   },
   "imagesList": {
-    "search-bck-img": { "path": "common", "name": "header_home" },
-    "pro-alarm": { "path": "common", "name": "pro-alarm" },
-    "pro-pointer": { "path": "common", "name": "pro-pointer" },
-    "pro-hands": { "path": "common", "name": "pro-hands" },
-    "pro-docs": { "path": "common", "name": "pro-docs" },
+    "search-bck-img": { "path": "common", "name": "pro-header" },
+    "alarm-pro": { "path": "common", "name": "alarm-pro" },
+    "pointer-pro": { "path": "common", "name": "pointer-pro" },
+    "pro-payment": { "path": "common", "name": "pro-payment" },
+    "pro-documents": { "path": "common", "name": "pro-documents" },
     "visita-generica-white": { "path": "common", "name": "visita-generica-white" },
     "calendar-white": { "path": "common", "name": "calendar-white" },
     "heart-white": { "path": "common", "name": "heart-white" },
     "pro-phone": { "path": "common", "name": "pro-phone" },
-    "pro-heart": { "path": "common", "name": "pro-heart" },
-    "pro-speak": { "path": "common", "name": "pro-speak" },
-    "pro-muscle": { "path": "common", "name": "pro-muscle" },
-    "pro-clock": { "path": "common", "name": "pro-clock" },
-    "pro-lightbulb": { "path": "common", "name": "pro-lightbulb" }
+    "heart-pro": { "path": "common", "name": "heart-pro" },
+    "pro-communication": { "path": "common", "name": "pro-communication" },
+    "muscle-pro": { "path": "common", "name": "muscle-pro" },
+    "clock-pro": { "path": "common", "name": "clock-pro" },
+    "pro-bulb": { "path": "common", "name": "pro-bulb" }
   },
   "header": {
     "title": "Diventa parte del primo poliambulatorio digitale in Italia.",
@@ -30,22 +30,22 @@
       {
         "title": "Il mondo epiCura in un'app",
         "content": "Scopri le richieste di intervento nella tua città, prendi in carico la prestazione e gestisci tutto comodamente da smartphone.",
-        "image": "pro-alarm"
+        "image": "alarm-pro"
       },
       {
         "title": "Scegli tu quando lavorare",
         "content": "Con epiCura sei tu a scegliere le prestazioni da prendere in carico: decidi tu come, dove e quando lavorare.",
-        "image": "pro-pointer"
+        "image": "pointer-pro"
       },
       {
         "title": "Pagamenti chiari e puntuali",
         "content": "La trasparenza è il nostro punto di forza: ricevi con puntualità il pagamento delle tue prestazioni, senza commissioni o costi nascosti!",
-        "image": "pro-hands"
+        "image": "pro-payment"
       },
       {
         "title": "Dimentica la burocrazia!",
         "content": "Con epiCura la gestione fiscale e contrattuale è totalmente a carico nostro: pensa solo al tuo lavoro, del resto ci occupiamo noi!",
-        "image": "pro-docs"
+        "image": "pro-documents"
       }
     ]
   },
@@ -110,27 +110,27 @@
       {
         "title": "Puntualità e serietà",
         "content": "Arrivi sempre in orario e prendi con serietà il tuo impegno con il paziente.",
-        "image": "pro-clock"
+        "image": "clock-pro"
       },
       {
         "title": "Gestione degli imprevisti",
         "content": "Sai gestire le situazioni inattese e prendi decisioni in autonomia.",
-        "image": "pro-lightbulb"
+        "image": "pro-bulb"
       },
       {
         "title": "Attenzione alla persona",
         "content": "Ti prendi cura di chi hai di fronte con empatia e cerchi sempre la soluzione migliore al suo caso.",
-        "image": "pro-heart"
+        "image": "heart-pro"
       },
       {
         "title": "Comunicazione trasparente",
         "content": "Dai informazioni in modo semplice e chiaro, facendo sentire il paziente a proprio agio.",
-        "image": "pro-speak"
+        "image": "pro-communication"
       },
       {
         "title": "Passione per il proprio lavoro",
         "content": "Svolgi il tuo lavoro con dedizione e presti cura e attenzione alle richieste dei pazienti.",
-        "image": "pro-muscle"
+        "image": "muscle-pro"
       }
     ]
   },
