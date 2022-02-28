@@ -15,7 +15,7 @@
     "pro-phone": { "path": "common", "name": "pro-phone" },
     "heart-pro": { "path": "common", "name": "heart-pro" },
     "pro-communication": { "path": "common", "name": "pro-communication" },
-    "muscle-pro": { "path": "common", "name": "muscle-pro" },
+    "passion-pro": { "path": "common", "name": "passion-pro" },
     "clock-pro": { "path": "common", "name": "clock-pro" },
     "pro-bulb": { "path": "common", "name": "pro-bulb" }
   },
@@ -130,7 +130,7 @@
       {
         "title": "Passione per il proprio lavoro",
         "content": "Svolgi il tuo lavoro con dedizione e presti cura e attenzione alle richieste dei pazienti.",
-        "image": "muscle-pro"
+        "image": "passion-pro"
       }
     ]
   },
