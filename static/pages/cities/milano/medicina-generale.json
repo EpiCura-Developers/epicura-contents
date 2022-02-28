@@ -200,7 +200,7 @@
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {
-        "title": "Solo professionisti qualificati",
+        "title": "Solo professionisti <br /> qualificati",
         "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
         "img": {
           "path": "common",
@@ -208,7 +208,7 @@
         }
       },
       {
-        "title": "La tua soddisfazione è anche la nostra ",
+        "title": "La tua soddisfazione <br /> è anche la nostra ",
         "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
         "img": {
           "path": "common",
@@ -216,7 +216,7 @@
         }
       },
       {
-        "title": "Siamo sempre al tuo fianco",
+        "title": "Siamo sempre <br /> al tuo fianco",
         "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
         "img": {
           "path": "common",
