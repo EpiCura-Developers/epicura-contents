@@ -26,7 +26,7 @@
   },
   "come_funziona": {
     "title": "Psicologo online, come funziona",
-    "subtitle": "Il primo videoconsulto è gratuito",
+    "subtitle": "",
     "button": {
       "label": "Prenota videoconsulto gratuito",
       "link": "https://landingpage.epicuramed.it/psicologia_form",
@@ -230,14 +230,6 @@
         "img": {
           "path": "common",
           "name": "booking-1"
-        }
-      },
-      {
-        "title": "Supporto costante",
-        "text": "Il nostro Customer Care ti aiuterà in ogni momento per semplificarti la vita.",
-        "img": {
-          "path": "common",
-          "name": "support"
         }
       }
     ]
