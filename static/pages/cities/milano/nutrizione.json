@@ -5,7 +5,7 @@
   },
   "top-banner": {
     "title": "Nutrizionista a<br /> Milano",
-    "subtitle": "epiCura porta i migliori nutrizionisti comodamente a domicilio, in tutta Napoli e area metropolitana, 7 giorni su 7, quando e dove vuoi. <br /><br />Prenota in pochi click e prenditi cura del tuo corpo e del tuo benessere in modo semplice e veloce.",
+    "subtitle": "Prenditi cura del tuo corpo grazie agli specialisti epiCura. Sarai tu a decidere quale prestazione faccia al caso tuo! Comodamente online con visite in videoconsulto oppure presso nostri studi o potrai scegliere il piano alimentare “su misura” per le tue esigenze",
     "img": {
       "path": "nutrition",
       "name": "nutrition-header"
@@ -18,7 +18,7 @@
     "cta-content": []
   },
   "how-does-it-work": {
-    "title": "Nutrizionista a domicilio, come funziona",
+    "title": "Come funziona?",
     "subtitle": "",
     "cards": [
       {
@@ -26,7 +26,7 @@
         "text": "Abbiamo pensato a diversi percorsi nutrizionali per permetterti di scegliere in base ai tuoi obiettivi e necessità. Scegli il percorso nutrizionale più adatto, noi troveremo il miglior professionista per le tue esigenze.",
         "img": {
           "path": "common",
-          "name": "nutrizione-icon"
+          "name": "nutrizione-icon-white"
         },
         "has-background": true
       },
@@ -35,16 +35,16 @@
         "text": "La prenotazione con epiCura è semplice e veloce! Scegli dove e quando ricevere l’intervento e prenota online in totale sicurezza, utilizzando carta di credito, bancomat o prepagata.",
         "img": {
           "path": "common",
-          "name": "booking-2"
+          "name": "booking-white"
         },
         "has-background": true
       },
       {
-        "title": "Ricevi l’intervento a domicilio",
-        "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con epiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
+        "title": "Scegli la modalità",
+        "text": "I nostri professionisti sono attivi 7 giorni su 7, compreso sabato e domenica. Rilassati con epiCura: avrai la certezza di ricevere interventi erogati solo dai nostri nutrizionisti qualificati e certificati.",
         "img": {
           "path": "common",
-          "name": "visita-domicilio"
+          "name": "visita-domicilio-white"
         },
         "has-background": true
       }
@@ -97,14 +97,38 @@
   },
   "nutrition-banner": {
     "title": "Le soluzioni che abbiamo pensato per te",
-    "subtitle": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo.",
-    "img": {},
+    "subtitle": "",
+    "list-details": [
+      {
+        "icon": "/img/prenotazione-struttura.png",
+        "text": "<b>VISITA IN VIDEOCONSULTO</b><br>Comodamente a casa tua: nella stanza e all’orario che preferisci."
+      },
+      {
+        "icon": "/img/videoconsulto.png",
+        "text": "<b>DIRETTAMENTE IN STUDIO</b><br>Ci vediamo per un incontro di persona direttamente nello studio del tuo specialista di fiducia."
+      },
+      {
+        "icon": "/img/ricerca-convenzioni.png",
+        "text": "<b>PACCHETTO PERSONALIZZATO</b><br> Il nostro Piano Alimentare è suddiviso in due momenti: un primo incontro conoscitivo online e due follow up in videoconsulto"
+      }
+    ],
+    "img": {
+      "path": "common",
+      "name": "download-app"
+    },
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": false,
     "has-large-title": true,
     "has-bg-color": "nutrition",
-    "cta-content": []
+    "cta-content": [
+      {
+        "label": "Prenota la tua visita",
+        "link": "https://app.epicura.it/login",
+        "image": "",
+        "variant": "gradient"
+      }
+    ]
   },
   "nutrition-table-compare": [
     {
@@ -320,11 +344,11 @@
     ]
   },
   "bullet-cards-service": {
-    "title": "I migliori nutrizionisti a domicilio entro 24 ore",
+    "title": "I migliori nutrizionisti in videoconsulto o in studio entro 24 ore",
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {
-        "title": "Solo professionisti qualificati",
+        "title": "Solo professionisti <br> qualificati",
         "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
         "img": {
           "path": "common",
@@ -332,7 +356,7 @@
         }
       },
       {
-        "title": "La tua soddisfazione è anche la nostra ",
+        "title": "La tua soddisfazione <br> è anche la nostra ",
         "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
         "img": {
           "path": "common",
@@ -340,7 +364,7 @@
         }
       },
       {
-        "title": "Siamo sempre al tuo fianco",
+        "title": "Siamo sempre <br> al tuo fianco",
         "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
         "img": {
           "path": "common",
