@@ -12,9 +12,14 @@
     "check_list": {
       "title": "I tipi di dipendenza per cui la terapia online può aiutarti:",
       "footer": {
-        "button": {
-          "text": "Inizia il tuo percorso online"
-        }
+        "cta-content": [
+          {
+            "label": "Inizia il tuo percorso online",
+            "link": "https://landingpage.epicuramed.it/psicologia_form",
+            "image": "",
+            "variant": "gradient"
+          }
+        ]
       }
     },
     "price_title": "",
