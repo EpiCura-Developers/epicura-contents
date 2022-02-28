@@ -1,145 +1,145 @@
 {
-    "discipline-carousel": {
-        "title": "Alcune delle visite più richieste a domicilio, in videoconsulto o in studio",
-        "titleCity": "Visite più richieste a",
-        "cards": [
-            {
-                "img": {
-                    "path": "common",
-                    "name": "nursing-card"
-                },
-                "title": "Infermieristica",
-                "text": "A partire da 25€",
-                "discipline": "nursing",
-                "showInHome": true
-            },
-            {
-                "img": {
-                    "path": "common",
-                    "name": "physiotherapy-card"
-                },
-                "title": "Fisioterapia",
-                "text": "A partire da 50€/seduta",
-                "discipline": "physiotherapy",
-                "showInHome": true
-            },
-            {
-                "img": {
-                    "path": "common",
-                    "name": "nutrition-card"
-                },
-                "title": "Nutrizione",
-                "text": "A partire da 60€",
-                "discipline": "nutrition",
-                "showInHome": true
-            },
-            {
-                "img": {
-                    "path": "common",
-                    "name": "osteopathy-card"
-                },
-                "title": "Osteopatia",
-                "text": "A partire da 68€/seduta",
-                "discipline": "osteopathy"
-            },
-            {
-                "img": {
-                    "path": "common",
-                    "name": "veterinary-card"
-                },
-                "title": "Veterinaria",
-                "text": "A partire da 45€",
-                "discipline": "veterinary",
-                "showInHome": true
-            },
-            {
-                "img": {
-                    "path": "common",
-                    "name": "generalMedicine-card"
-                },
-                "title": "Medicina generale",
-                "text": "A partire da 94€",
-                "discipline": "generalMedicine",
-                "showInHome": true
-            },
-            {
-                "img": {
-                    "path": "common",
-                    "name": "pediatrics-card"
-                },
-                "title": "Pediatria",
-                "text": "A partire da 118€",
-                "discipline": "pediatrics"
-            },
-            {
-                "img": {
-                    "path": "common",
-                    "name": "massages-card"
-                },
-                "title": "Massoterapia",
-                "text": "A partire da 59€",
-                "discipline": "massages"
-            },
-            {
-                "img": {
-                    "path": "common",
-                    "name": "psychology-card"
-                },
-                "title": "Psicologia",
-                "text": "A partire da 116€",
-                "discipline": "psychology",
-                "showInHome": true
-            },
-            {
-                "img": {
-                    "path": "common",
-                    "name": "online-psychology-card"
-                },
-                "title": "Psicologia online",
-                "text": "A partire da 105€",
-                "discipline": "psychology",
-                "showInHome": true
-            },
-            {
-                "img": {
-                    "path": "common",
-                    "name": "caregiver-card"
-                },
-                "title": "Ricerca Badanti e Assistenti a ore",
-                "text": "",
-                "discipline": "caregiver",
-                "showInHome": true
-            },
-            {
-                "img": {
-                    "path": "common",
-                    "name": "generalMedicine-video-card"
-                },
-                "title": "Videoconsulto medico di base",
-                "text": "A partire da 45€",
-                "discipline": "generalMedicine",
-                "showInHome": true
-            },
-            {
-                "img": {
-                    "path": "common",
-                    "name": "cardiologist-card"
-                },
-                "title": "Visita Cardiologo",
-                "text": "",
-                "discipline": "cardiology",
-                "showInHome": true
-            },
-            {
-                "img": {
-                    "path": "common",
-                    "name": "oculist-card"
-                },
-                "title": "Oculista",
-                "text": "",
-                "discipline": "ophthalmology",
-                "showInHome": true
-            }
-        ]
-    }
+  "discipline-carousel": {
+    "title": "Alcune delle visite più richieste a domicilio, in videoconsulto e in studio",
+    "titleCity": "Visite più richieste a",
+    "cards": [
+      {
+        "img": {
+          "path": "common",
+          "name": "nursing-card"
+        },
+        "title": "Infermieristica",
+        "text": "A partire da 25€",
+        "discipline": "nursing",
+        "showInHome": true
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "physiotherapy-card"
+        },
+        "title": "Fisioterapia",
+        "text": "A partire da 50€/seduta",
+        "discipline": "physiotherapy",
+        "showInHome": true
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "nutrition-card"
+        },
+        "title": "Nutrizione",
+        "text": "A partire da 60€",
+        "discipline": "nutrition",
+        "showInHome": true
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "osteopathy-card"
+        },
+        "title": "Osteopatia",
+        "text": "A partire da 68€/seduta",
+        "discipline": "osteopathy"
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "veterinary-card"
+        },
+        "title": "Veterinaria",
+        "text": "A partire da 45€",
+        "discipline": "veterinary",
+        "showInHome": true
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "generalMedicine-card"
+        },
+        "title": "Medicina generale",
+        "text": "A partire da 94€",
+        "discipline": "generalMedicine",
+        "showInHome": true
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "pediatrics-card"
+        },
+        "title": "Pediatria",
+        "text": "A partire da 118€",
+        "discipline": "pediatrics"
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "massages-card"
+        },
+        "title": "Massoterapia",
+        "text": "A partire da 59€",
+        "discipline": "massages"
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "psychology-card"
+        },
+        "title": "Psicologia",
+        "text": "A partire da 116€",
+        "discipline": "psychology",
+        "showInHome": true
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "online-psychology-card"
+        },
+        "title": "Psicologia online",
+        "text": "A partire da 105€",
+        "discipline": "psychology",
+        "showInHome": true
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "caregiver-card"
+        },
+        "title": "Ricerca Badanti e Assistenti a ore",
+        "text": "",
+        "discipline": "caregiver",
+        "showInHome": true
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "generalMedicine-video-card"
+        },
+        "title": "Videoconsulto medico di base",
+        "text": "A partire da 45€",
+        "discipline": "generalMedicine",
+        "showInHome": true
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "cardiologist-card"
+        },
+        "title": "Visita Cardiologo",
+        "text": "",
+        "discipline": "cardiology",
+        "showInHome": true
+      },
+      {
+        "img": {
+          "path": "common",
+          "name": "oculist-card"
+        },
+        "title": "Oculista",
+        "text": "",
+        "discipline": "ophthalmology",
+        "showInHome": true
+      }
+    ]
+  }
 }
