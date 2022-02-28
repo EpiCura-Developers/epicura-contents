@@ -11,10 +11,13 @@
   "site-who-we-are-header-img-mobile": { "path": "common", "name": "whoare_mobile" },
   "site-who-we-are-description-title": "Siamo il primo poliambulatorio digitale in Italia",
   "site-who-we-are-description-text": "Utilizziamo la tecnologia per rendere più accessibili i servizi sanitari e socio-assistenziali, con la missione di semplificare la vita delle persone. <br /> Vogliamo migliorare un settore caratterizzato da lunghe attese e grandi scomodità e lo stiamo facendo costruendo un servizio che si basa sulla tempestività, sulla flessibilità e sulla vicinanza ai nostri pazienti.",
-  "site-who-we-are-description-img": { "path": "common", "name": "lamp" },
+  "site-who-we-are-description-img": {
+    "path": "common",
+    "name": "primo-poliambulatorio"
+  },
   "site-who-we-are-relation-work": {
     "title": "Come funziona?",
-    "content": "EpiCura è attiva in tutta Italia con oltre 900 professionisti, più di 16mila badanti e servizi in videoconsulto. Offre prestazioni mediche a domicilio nelle 10 principali città dello stivale. Presenta infine, una rete di poliambulatori su Torino e Milano.<br /> <strong>Il nostro servizio è attivo 7 giorni su 7, dalle 8 alle 20.</strong>",
+    "content": "epiCura è attiva in tutta Italia con oltre 900 professionisti, più di 16mila badanti e servizi in videoconsulto. Offre prestazioni mediche a domicilio nelle 10 principali città dello stivale. Presenta infine, una rete di poliambulatori su Torino e Milano.<br /> <strong>Il nostro servizio è attivo 7 giorni su 7, dalle 8 alle 20.</strong>",
     "cards": [
       {
         "image": { "path": "common", "name": "visita-generica-white" },
@@ -35,7 +38,7 @@
     "bck-image": ""
   },
   "site-who-we-are-team-title": "Il team epiCura",
-  "site-who-we-are-team-img": { "path": "common", "name": "site-who-we-are-team-img" },
+  "site-who-we-are-team-img": { "path": "common", "name": "team-epicura" },
   "site-who-we-are-slogan": "Sognatori, creativi e appassionati: vogliamo semplificare la sanità e renderla migliore per tutti.",
   "site-who-we-are-statistics": [
     {
