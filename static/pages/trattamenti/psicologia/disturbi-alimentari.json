@@ -1,31 +1,30 @@
 {
-    "metaDescription": {
-      "title": "Disturbi alimentari",
-      "description": "Anoressia, bulimia, fame compulsiva (binge-eating)"
-    },
+  "metaDescription": {
     "title": "Disturbi alimentari",
-    "whatIs": {
-      "title": "Curare i disturbi alimentari",
-      "text": "I disturbi alimentari sono delle patologie che si caratterizzano per un rapporto anomalo con il cibo. Questi derivano da una vera e propria ossessione per il proprio peso e la propria immagine corporea.<br />I disturbi alimentari possono manifestarsi con un’assunzione di cibo incontrollata o con una sua drastica riduzione, con effetti negativi non soltanto sulla psiche ma anche sulla salute.<br />Il corpo, di fatti, è sottoposto a un costante stress (come, ad esempio, nel caso delle crisi bulimiche) e le conseguenze possono essere anche importanti.<br />Purtroppo a soffrire di disturbi alimentari (anoressia, bulimia e binge-eating) sono soprattutto i più giovani. Prevenire questo fenomeno o contrastarlo nelle sue fasi iniziali è fondamentale.",
-      "hint": "Il supporto psicologico o psicoterapeutico, in stretta collaborazione con figure specialistiche quali medici e nutrizionisti, permette di combattere efficacemente i disturbi alimentari, instaurando nuovamente un rapporto sano con il cibo e con la propria immagine, a beneficio della salute di mente e corpo."
-    },
-    "check_list": {
-      "title": "La terapia online può aiutarti in caso di",
-      "footer": {
-        "cta-content": [
-          {
-            "label": "Inizia il tuo percorso online",
-            "link": "https://landingpage.epicuramed.it/psicologia_form",
-            "image": "",
-            "variant": "gradient"
-          }
-        ]
-      }
-    },
-    "price_title": "",
-    "image": {
-      "path": "psychology",
-      "name": "Psicologia-disturbi-alimentari"
+    "description": "Anoressia, bulimia, fame compulsiva (binge-eating)"
+  },
+  "title": "Disturbi alimentari",
+  "whatIs": {
+    "title": "Curare i disturbi alimentari",
+    "text": "I disturbi alimentari sono delle patologie che si caratterizzano per un rapporto anomalo con il cibo. Questi derivano da una vera e propria ossessione per il proprio peso e la propria immagine corporea.<br />I disturbi alimentari possono manifestarsi con un’assunzione di cibo incontrollata o con una sua drastica riduzione, con effetti negativi non soltanto sulla psiche ma anche sulla salute.<br />Il corpo, di fatti, è sottoposto a un costante stress (come, ad esempio, nel caso delle crisi bulimiche) e le conseguenze possono essere anche importanti.<br />Purtroppo a soffrire di disturbi alimentari (anoressia, bulimia e binge-eating) sono soprattutto i più giovani. Prevenire questo fenomeno o contrastarlo nelle sue fasi iniziali è fondamentale.",
+    "hint": "Il supporto psicologico o psicoterapeutico, in stretta collaborazione con figure specialistiche quali medici e nutrizionisti, permette di combattere efficacemente i disturbi alimentari, instaurando nuovamente un rapporto sano con il cibo e con la propria immagine, a beneficio della salute di mente e corpo."
+  },
+  "check_list": {
+    "title": "La terapia online può aiutarti in caso di",
+    "footer": {
+      "cta-content": [
+        {
+          "label": "Inizia il tuo percorso online",
+          "link": "https://hubs.la/Q0150x0q0",
+          "image": "",
+          "variant": "gradient"
+        }
+      ]
     }
+  },
+  "price_title": "",
+  "image": {
+    "path": "psychology",
+    "name": "Psicologia-disturbi-alimentari"
   }
-  
+}
