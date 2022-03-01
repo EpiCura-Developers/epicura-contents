@@ -104,17 +104,17 @@
         "text": "<b>VISITA IN VIDEOCONSULTO</b><br>Comodamente a casa tua: nella stanza e all’orario che preferisci."
       },
       {
-        "icon": "/img/prenotazione-struttura.png",
+        "icon": "/img/studio.png",
         "text": "<b>DIRETTAMENTE IN STUDIO</b><br>Ci vediamo per un incontro di persona direttamente nello studio del tuo specialista di fiducia."
       },
       {
-        "icon": "/img/ricerca-convenzioni.png",
+        "icon": "/img/pacchetto-nutrizione.png",
         "text": "<b>PACCHETTO PERSONALIZZATO</b><br> Il nostro Piano Alimentare è suddiviso in due momenti: un primo incontro conoscitivo online e due follow up in videoconsulto"
       }
     ],
     "img": {
       "path": "nutrition",
-      "name": "nutrition-banner-1"
+      "name": "nutrition-banner-2"
     },
     "has-absolute-image": true,
     "first-image-order": true,
