@@ -176,15 +176,15 @@
     },
     "list-details": [
       {
-        "icon": "/img/prenotazione-struttura.png",
+        "icon": "/img/prenotazione.png",
         "text": "Prenotazione e gestione di qualsiasi visita medica, 24/7."
       },
       {
-        "icon": "/img/videoconsulto.png",
+        "icon": "/img/fatture.png",
         "text": "Organizzazione semplificata di tutte le fatture delle prestazioni sanitarie."
       },
       {
-        "icon": "/img/ricerca-convenzioni.png",
+        "icon": "/img/convenzioni.png",
         "text": "Accesso diretto a tutte le convenzioni partner di epiCura in ambito di salute e benessere."
       }
     ],

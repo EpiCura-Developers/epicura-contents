@@ -102,6 +102,12 @@
           "option-label": "Programma Referral",
           "option-is-complex": false,
           "option-is-amp": false
+        },
+        {
+          "option-link": "https://contents.epicuramed.it/documents/epicura_welcome_bonus_50.pdf",
+          "option-label": "Welcome bonus",
+          "option-is-complex": false,
+          "option-is-amp": false
         }
       ]
     }
