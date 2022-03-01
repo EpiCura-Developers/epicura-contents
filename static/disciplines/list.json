@@ -126,7 +126,7 @@
           "name": "cardiologist-card-1"
         },
         "title": "Visita Cardiologo",
-        "text": "",
+        "text": "A partire da 40€",
         "discipline": "cardiology",
         "showInHome": true
       },
@@ -136,7 +136,7 @@
           "name": "oculist-card"
         },
         "title": "Oculista",
-        "text": "",
+        "text": "A partire da 100€",
         "discipline": "ophthalmology",
         "showInHome": true
       }
