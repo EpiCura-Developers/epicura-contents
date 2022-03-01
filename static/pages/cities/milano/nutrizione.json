@@ -114,10 +114,10 @@
     ],
     "img": {
       "path": "nutrition",
-      "name": "nutrition-banner"
+      "name": "nutrition-banner-1"
     },
     "has-absolute-image": true,
-    "first-image-order": false,
+    "first-image-order": true,
     "hide-image-mobile": false,
     "has-large-title": true,
     "has-bg-color": "nutrition",
