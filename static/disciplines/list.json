@@ -6,7 +6,7 @@
       {
         "img": {
           "path": "common",
-          "name": "nursing-card"
+          "name": "nursing-card-1"
         },
         "title": "Infermieristica",
         "text": "A partire da 25€",
@@ -36,7 +36,7 @@
       {
         "img": {
           "path": "common",
-          "name": "osteopathy-card"
+          "name": "osteopathy-card-1"
         },
         "title": "Osteopatia",
         "text": "A partire da 68€/seduta",
@@ -45,7 +45,7 @@
       {
         "img": {
           "path": "common",
-          "name": "veterinary-card"
+          "name": "veterinary-card-1"
         },
         "title": "Veterinaria",
         "text": "A partire da 45€",
@@ -65,7 +65,7 @@
       {
         "img": {
           "path": "common",
-          "name": "pediatrics-card"
+          "name": "pediatrics-card-1"
         },
         "title": "Pediatria",
         "text": "A partire da 118€",
@@ -83,7 +83,7 @@
       {
         "img": {
           "path": "common",
-          "name": "psychology-card"
+          "name": "psychology-card-1"
         },
         "title": "Psicologia",
         "text": "A partire da 116€",
@@ -103,7 +103,7 @@
       {
         "img": {
           "path": "common",
-          "name": "caregiver-card"
+          "name": "caregiver-card-1"
         },
         "title": "Ricerca Badanti e Assistenti a ore",
         "text": "",
@@ -115,7 +115,7 @@
           "path": "common",
           "name": "generalMedicine-video-card"
         },
-        "title": "Videoconsulto medico di base",
+        "title": "Videoconsulto Medico di base",
         "text": "A partire da 45€",
         "discipline": "generalMedicine",
         "showInHome": true
@@ -123,7 +123,7 @@
       {
         "img": {
           "path": "common",
-          "name": "cardiologist-card"
+          "name": "cardiologist-card-1"
         },
         "title": "Visita Cardiologo",
         "text": "",
