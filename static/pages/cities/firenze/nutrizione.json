@@ -5,7 +5,7 @@
   },
   "top-banner": {
     "title": "Nutrizionista a <br class=\"md-show\"/> Firenze",
-    "subtitle": "Prenditi cura del tuo corpo grazie agli specialisti epiCura. Sarai tu a decidere quale prestazione faccia al caso tuo! Comodamente online con visite in videoconsulto oppure presso nostri studi o potrai scegliere il piano alimentare “su misura” per le tue esigenze",
+    "subtitle": "Prenditi cura del tuo corpo grazie agli specialisti epiCura. Sarai tu a decidere quale prestazione faccia al caso tuo! Comodamente online con visite in videoconsulto oppure presso nostri studi o potrai scegliere il piano alimentare per le tue esigenze",
     "img": {
       "path": "nutrition",
       "name": "nutrition-header"
@@ -101,7 +101,7 @@
     "list-details": [
       {
         "icon": "/img/videoconsulto.png",
-        "text": "<b>VISITA IN VIDEOCONSULTO</b><br>Comodamente a casa tua: nella stanza e all’orario che preferisci."
+        "text": "<b>VISITA IN VIDEOCONSULTO</b><br>Comodamente a casa tua all’orario che preferisci."
       },
       {
         "icon": "/img/studio.png",
