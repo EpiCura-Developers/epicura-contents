@@ -1,31 +1,30 @@
 {
-    "metaDescription": {
-      "title": "Sofferenza psicologica",
-      "description": "Stress, mobbing, burnout"
-    },
+  "metaDescription": {
     "title": "Sofferenza psicologica",
-    "whatIs": {
-      "title": "Curare la sofferenza psicologica",
-      "text": "Lo stress è la risposta dell’organismo a stimoli che turbano la nostra quotidianità: spesso si tratta di cambiamenti che consideriamo difficili da gestire, come periodi di lavoro intenso, un trauma (anche ripetuto, come episodi di mobbing o bullismo), una malattia o la separazione da una persona cara.<br />Le conseguenze dello stress, soprattutto se cronico, possono manifestarsi con stati ansiosi frequenti, minore autostima, problemi relazionali e persino fobie. Anche il corpo reagisce allo stress, facendo insorgere diversi disturbi psicosomatici: tra i più comuni ci sono dolori addominali, nausea, reflusso gastro-esofageo ed emicrania.",
-      "hint": "La terapia psicologica o psicoterapeutica è di fondamentale importanza per affrontare situazioni di stress (soprattutto cronico) e ritrovare così una maggiore armonia e serenità, giovando notevolmente al benessere psico-fisico."
-    },
-    "check_list": {
-      "title": "La terapia online può aiutarti in caso di",
-      "footer": {
-        "cta-content": [
-          {
-            "label": "Inizia il tuo percorso online",
-            "link": "https://landingpage.epicuramed.it/psicologia_form",
-            "image": "",
-            "variant": "gradient"
-          }
-        ]
-      }
-    },
-    "price_title": "",
-    "image": {
-      "path": "psychology",
-      "name": "Sofferenza-psicologica"
+    "description": "Stress, mobbing, burnout"
+  },
+  "title": "Sofferenza psicologica",
+  "whatIs": {
+    "title": "Curare la sofferenza psicologica",
+    "text": "Lo stress è la risposta dell’organismo a stimoli che turbano la nostra quotidianità: spesso si tratta di cambiamenti che consideriamo difficili da gestire, come periodi di lavoro intenso, un trauma (anche ripetuto, come episodi di mobbing o bullismo), una malattia o la separazione da una persona cara.<br />Le conseguenze dello stress, soprattutto se cronico, possono manifestarsi con stati ansiosi frequenti, minore autostima, problemi relazionali e persino fobie. Anche il corpo reagisce allo stress, facendo insorgere diversi disturbi psicosomatici: tra i più comuni ci sono dolori addominali, nausea, reflusso gastro-esofageo ed emicrania.",
+    "hint": "La terapia psicologica o psicoterapeutica è di fondamentale importanza per affrontare situazioni di stress (soprattutto cronico) e ritrovare così una maggiore armonia e serenità, giovando notevolmente al benessere psico-fisico."
+  },
+  "check_list": {
+    "title": "La terapia online può aiutarti in caso di",
+    "footer": {
+      "cta-content": [
+        {
+          "label": "Inizia il tuo percorso online",
+          "link": "https://hubs.la/Q0150x0q0",
+          "image": "",
+          "variant": "gradient"
+        }
+      ]
     }
+  },
+  "price_title": "",
+  "image": {
+    "path": "psychology",
+    "name": "Sofferenza-psicologica"
   }
-  
+}

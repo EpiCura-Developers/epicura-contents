@@ -1,31 +1,30 @@
 {
-    "metaDescription": {
-      "title": "Ansia",
-      "description": "Paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
-    },
+  "metaDescription": {
     "title": "Ansia",
-    "whatIs": {
-      "title": "Curare l'ansia",
-      "text": "L’ansia è una reazione naturale del corpo alla percezione di situazioni considerate minacciose o pericolose. Tuttavia, quando gli stati ansiosi si manifestano in modo ripetuto, l’ansia può trasformarsi in uno malessere generale costante, che influisce negativamente sulla qualità della vita.<br />I sintomi dell’ansia, infatti, sono molteplici e vanno dalla tachicardia, alla nausea fino alle vertigini e alla sensazione di soffocare.",
-      "hint": "Il supporto psicologico o psicoterapeutico può aiutare non solo a gestire gli stati ansiosi ma anche a prevenirli, ritrovando una maggiore serenità e affrontando la propria vita con più sicurezza e tranquillità."
-    },
-    "check_list": {
-      "title": "La terapia online può aiutarti in caso di",
-      "footer": {
-        "cta-content": [
-          {
-            "label": "Inizia il tuo percorso online",
-            "link": "https://landingpage.epicuramed.it/psicologia_form",
-            "image": "",
-            "variant": "gradient"
-          }
-        ]
-      }
-    },
-    "price_title": "",
-    "image": {
-      "path": "psychology",
-      "name": "Ansia"
+    "description": "Paure, fobie, attacchi di panico, disturbi psicosomatici, ipocondria, insonnia, ansia sociale"
+  },
+  "title": "Ansia",
+  "whatIs": {
+    "title": "Curare l'ansia",
+    "text": "L’ansia è una reazione naturale del corpo alla percezione di situazioni considerate minacciose o pericolose. Tuttavia, quando gli stati ansiosi si manifestano in modo ripetuto, l’ansia può trasformarsi in uno malessere generale costante, che influisce negativamente sulla qualità della vita.<br />I sintomi dell’ansia, infatti, sono molteplici e vanno dalla tachicardia, alla nausea fino alle vertigini e alla sensazione di soffocare.",
+    "hint": "Il supporto psicologico o psicoterapeutico può aiutare non solo a gestire gli stati ansiosi ma anche a prevenirli, ritrovando una maggiore serenità e affrontando la propria vita con più sicurezza e tranquillità."
+  },
+  "check_list": {
+    "title": "La terapia online può aiutarti in caso di",
+    "footer": {
+      "cta-content": [
+        {
+          "label": "Inizia il tuo percorso online",
+          "link": "https://hubs.la/Q0150x0q0",
+          "image": "",
+          "variant": "gradient"
+        }
+      ]
     }
+  },
+  "price_title": "",
+  "image": {
+    "path": "psychology",
+    "name": "Ansia"
   }
-  
+}
