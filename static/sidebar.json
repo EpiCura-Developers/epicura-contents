@@ -84,7 +84,7 @@
     "option-is-complex": true,
     "option-is-amp": false,
     "is-image": true,
-    "img-url": "/img/download_on_the_app_store_badge_it_rgb_wht_100317.png",
+    "img-url": "/img/badge-app-store.png",
     "option-style-object-like": {
       "margin-top": "10px",
       "margin-bottom": "0"
@@ -96,7 +96,7 @@
     "option-is-complex": true,
     "option-is-amp": false,
     "is-image": true,
-    "img-url": "/img/google_play_store_badge_it.png",
+    "img-url": "/img/badge-google-play-store.png",
     "option-style-object-like": {
       "margin-top": "10px",
       "margin-bottom": "0"
