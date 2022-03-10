@@ -246,228 +246,329 @@
   },
   "clinic-carousel": {
     "title": "",
+    "clinic": true,
     "cards": [
       {
-        "title": "Biochimico-Centro Prelievi Villasanta Medisan Assistenza",
-        "text": "Piazza Ammiraglio Manfredi Camperio, 320852 Villasanta MB",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Biochimico-Centro Prelievi Lodi Vecchio",
-        "text": "Via SS. NABORRE E FELICE 49 – 26855 Lodi vecchio",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Biochimico-Centro Prelievi Sardegna-WashingtonLab. Alfa",
-        "text": "Milano - via Sardegna, 34/A",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Biochimico-Centro Prelievi Rogoredo-San Donato",
-        "text": "Milano - via Monte Palombino, 8",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Biochimico-Centro Prelievi Ripamonti",
-        "text": "Milano - via Chopin, 50",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Biochimico-Centro Prelievi Lodi-Corvetto",
-        "text": "Milano - via Longhena, 7",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Biochimico-Centro Prelievi Greco-Staz.Centrale",
-        "text": "Milano - via E. De Marchi, 8",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Biochimico-Centro-Prelievi Certosa-Portello",
-        "text": "Milano - viale Certosa, 121",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Biochimico-Laboratorio Centrale e Centro Prelievi Farini-Garibaldi",
-        "text": "Milano - via Farini, 55",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
         "title": "Lam Centro Biochimico",
-        "text": "Milano - Via Torino 51",
-        "image": "",
+        "text": "Milano - Via Pergolesi, 13 ",
+        "img": {
+          "path": "poliambulatori",
+          "name": "amu-logo"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Centro Medico San Marco",
+        "text": "Milano - Via Simone Martini, 22/A",
+        "img": {
+          "path": "poliambulatori",
+          "name": "centro-medico-smarco-logo"
+        },
         "url": "",
         "discipline": ""
       },
       {
         "title": "Poliambulatorio Siom",
-        "text": "Torino - Corso Dante 64/A",
-        "image": "",
+        "text": "Torino - Corso Dante, 64/A",
+        "img": {
+          "path": "poliambulatori",
+          "name": "siom-logo"
+        },
         "url": "",
         "discipline": ""
       },
       {
-        "title": "Diagnostica Forlanini Srl",
-        "text": "Milano - Via Pecorini Abelardo, 8",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "SANDONATO MEDICA",
+        "title": "Sandonato Medica",
         "text": "San Donato Milanese (MI) - Via Bruxelles, 10",
-        "image": "",
+        "img": {
+          "path": "poliambulatori",
+          "name": "sandonato-logo"
+        },
         "url": "",
         "discipline": ""
       },
       {
-        "title": "Punto De.Ga. Srl",
-        "text": "Torino - Corso Regina Margherita 292 a-d",
-        "image": "",
+        "title": "Clinica Sedes Sapientiae",
+        "text": "Torino - Via Bidone, 31",
+        "img": {
+          "path": "poliambulatori",
+          "name": "clinica-sedes-logo"
+        },
         "url": "",
         "discipline": ""
       },
       {
         "title": "Istituto Fisicoterapico",
         "text": "Torino - Via Paolo Sacchi, 24",
-        "image": "",
+        "img": {
+          "path": "poliambulatori",
+          "name": "fisicoterapico-logo"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "EXAMINA Srl",
+        "text": "Torino - Corso Vittorio Emanuele II, 18",
+        "img": {
+          "path": "poliambulatori",
+          "name": "examina-logo"
+        },
         "url": "",
         "discipline": ""
       },
       {
         "title": "Centro Medico Euriclea",
-        "text": "Milano - Piazzale Libia, 7 - 20135",
-        "image": "",
+        "text": "Milano - Piazzale Libia, 7",
+        "img": {
+          "path": "poliambulatori",
+          "name": "euriclea-logo"
+        },
         "url": "",
         "discipline": ""
       },
       {
-        "title": "Clinica Sedes Sapientiae",
-        "text": "Torino - Via Bidone 31",
-        "image": "",
+        "title": "Centro Medico Gentilino",
+        "text": "Milano - Via Pordenone, 32",
+        "img": {
+          "path": "poliambulatori",
+          "name": "gentilino-logo"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Centro Medico Monterosa",
+        "text": "Milano - Via Monte Rosa, 3",
+        "img": {
+          "path": "poliambulatori",
+          "name": "monterosa-logo"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Centro Medico Unisalus",
+        "text": "Milano - Via Giovanni Battista Pirelli, 16/B",
+        "img": {
+          "path": "poliambulatori",
+          "name": "unisalus-logo"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Medikern",
+        "text": "Milano - Via Canova, 19",
+        "img": {
+          "path": "poliambulatori",
+          "name": "medikern-logo"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "EuroMedicaItalia",
+        "text": "Milano - Via Lomazzo, 5",
+        "img": {
+          "path": "poliambulatori",
+          "name": "euromedica-logo"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico - Centro Prelievi Villasanta Medisan Assistenza",
+        "text": "Villasanta (MB) - Piazza Manfredo Camperio, 3",
+        "img": {
+          "path": "poliambulatori",
+          "name": "1-placeholder"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico - Centro Prelievi Lodi Vecchio",
+        "text": "Lodi Vecchio (LO) - Via SS. Naborre e Felice, 49",
+        "img": {
+          "path": "poliambulatori",
+          "name": "2-placeholder"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico - Centro Prelievi Sardegna-WashingtonLab. Alfa",
+        "text": "Milano - Via Sardegna, 34/A",
+        "img": {
+          "path": "poliambulatori",
+          "name": "3-placeholder"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico - Centro Prelievi Rogoredo-San Donato",
+        "text": "Milano - Via Monte Palombino, 8",
+        "img": {
+          "path": "poliambulatori",
+          "name": "4-placeholder"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico - Centro Prelievi Ripamonti",
+        "text": "Milano - Via Chopin, 50",
+        "img": {
+          "path": "poliambulatori",
+          "name": "1-placeholder"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico - Centro Prelievi Lodi-Corvetto",
+        "text": "Milano - Via Longhena, 7",
+        "img": {
+          "path": "poliambulatori",
+          "name": "2-placeholder"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico - Centro Prelievi Greco-Staz.Centrale",
+        "text": "Milano - Via E. De Marchi, 8",
+        "img": {
+          "path": "poliambulatori",
+          "name": "3-placeholder"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico - Centro-Prelievi Certosa-Portello",
+        "text": "Milano - Viale Certosa, 121",
+        "img": {
+          "path": "poliambulatori",
+          "name": "4-placeholder"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Biochimico - Laboratorio Centrale e Centro Prelievi Farini-Garibaldi",
+        "text": "Milano - Via Farini, 55",
+        "img": {
+          "path": "poliambulatori",
+          "name": "1-placeholder"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
+        "title": "Lam Centro Biochimico",
+        "text": "Milano - Via Torino, 51",
+        "img": {
+          "path": "poliambulatori",
+          "name": "2-placeholder"
+        },
+        "url": "",
+        "discipline": ""
+      },
+
+      {
+        "title": "Diagnostica Forlanini Srl",
+        "text": "Milano - Via Pecorini Abelardo, 8",
+        "img": {
+          "path": "poliambulatori",
+          "name": "3-placeholder"
+        },
+        "url": "",
+        "discipline": ""
+      },
+
+      {
+        "title": "Punto De.Ga. Srl",
+        "text": "Torino - Corso Regina Margherita, 292/A-D",
+        "img": {
+          "path": "poliambulatori",
+          "name": "4-placeholder"
+        },
         "url": "",
         "discipline": ""
       },
       {
         "title": "Altamedica",
-        "text": "Milano - L.go Schuster, 1 20122",
-        "image": "",
+        "text": "Milano - Largo Schuster, 1",
+        "img": {
+          "path": "poliambulatori",
+          "name": "1-placeholder"
+        },
         "url": "",
         "discipline": ""
       },
       {
         "title": "ETHOS",
         "text": "Milano - Via Valtellina, 12",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Lam Centro Biochimico",
-        "text": "Milano - Viale Pergolesi",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Centro Medico Gentilino",
-        "text": "Milano - Via Pordenone 32",
-        "image": "",
+        "img": {
+          "path": "poliambulatori",
+          "name": "2-placeholder"
+        },
         "url": "",
         "discipline": ""
       },
       {
         "title": "CPG Srl",
-        "text": "Torino - Via De Sonnaz 5/A",
-        "image": "",
+        "text": "Torino - Via De Sonnaz, 5/A",
+        "img": {
+          "path": "poliambulatori",
+          "name": "3-placeholder"
+        },
         "url": "",
         "discipline": ""
       },
+
       {
-        "title": "EXAMINA srl",
-        "text": "Torino - Corso Vittorio Emanuele II, 18",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "A.N.S.A. srl",
+        "title": "A.N.S.A. Srl",
         "text": "Torino - Via Moncalvo, 4",
-        "image": "",
+        "img": {
+          "path": "poliambulatori",
+          "name": "4-placeholder"
+        },
         "url": "",
         "discipline": ""
       },
-      {
-        "title": "Centro Medico Monterosa",
-        "text": "Milano - Via Monte Rosa 3",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Centro Medico Unisalus",
-        "text": "Milano - Via Giovanni Battista Pirelli 16/B",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Centro Medico San Marco",
-        "text": "Milano - via Simone Martini 22/a",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Medikern",
-        "text": "Milano - Via Canova 19",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
+
       {
         "title": "Polis Torino",
         "text": "Torino - Via Capriolo, 18",
-        "image": "",
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "EuroMedicaItalia",
-        "text": "Milano - Via Lomazzo 5",
-        "image": "",
+        "img": {
+          "path": "poliambulatori",
+          "name": "1-placeholder"
+        },
         "url": "",
         "discipline": ""
       },
       {
         "title": "Med Italia",
-        "text": "Torino - info@med-italia.it",
-        "image": "",
+        "text": "Torino - Via Pastrengo, 16",
+        "img": {
+          "path": "poliambulatori",
+          "name": "2-placeholder"
+        },
         "url": "",
         "discipline": ""
       },
       {
         "title": "Poliambulatorio CMI",
-        "text": "Milano - Via Desenzano 14",
-        "image": "",
+        "text": "Milano - Via Desenzano, 14",
+        "img": {
+          "path": "poliambulatori",
+          "name": "3-placeholder"
+        },
         "url": "",
         "discipline": ""
       }
@@ -494,48 +595,6 @@
       }
     ]
   },
-  "site-landing-active-cities": [
-    {
-      "option-link": "/torino/",
-      "option-label": "Torino"
-    },
-    {
-      "option-link": "/milano/",
-      "option-label": "Milano"
-    },
-    {
-      "option-link": "/roma/",
-      "option-label": "Roma"
-    },
-    {
-      "option-link": "/bologna/",
-      "option-label": "Bologna"
-    },
-    {
-      "option-link": "/verona/",
-      "option-label": "Verona"
-    },
-    {
-      "option-link": "/brescia/",
-      "option-label": "Brescia"
-    },
-    {
-      "option-link": "/catania/",
-      "option-label": "Catania"
-    },
-    {
-      "option-link": "/genova/",
-      "option-label": "Genova"
-    },
-    {
-      "option-link": "/firenze/",
-      "option-label": "Firenze"
-    },
-    {
-      "option-link": "/napoli/",
-      "option-label": "Napoli"
-    }
-  ],
   "slider-banner": {
     "title": "Paga comodamente online <br class=\"md-show\"/> in modo semplice e sicuro",
     "subtitle": "Quanto è bello saltare le file agli sportelli? Paga direttamente online tramite pc, tablet o smartphone.",
