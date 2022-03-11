@@ -8,7 +8,7 @@
     "list": [
       {
         "question": "Come avverrà il videoconsulto?",
-        "answer": "Dopo il pagamento e la conferma della prestazione, riceverai una mail contenente il link per collegarti alla tua videosessione e parlare con lo specialista. Non è necessario scaricare alcuna App, né registrarsi."
+        "answer": "Dopo il pagamento e la conferma della prestazione, riceverai una mail contenente il link per collegarti alla tua videosessione e parlare con lo specialista."
       },
       {
         "question": "Cosa posso richiedere durante un videoconsulto?",
@@ -16,7 +16,7 @@
       },
       {
         "question": "Quanto dura un videoconsulto?",
-        "answer": "Indicativamente, la durata del consulto è di 15-20 minuti."
+        "answer": "Indicativamente, la durata del consulto è di 20-40 minuti."
       },
       {
         "question": "Il consulto è riservato?",
@@ -24,17 +24,17 @@
       },
       {
         "question": "Perché dovrei scegliere il videoconsulto?",
-        "answer": "L'opportunità di avere consulti specialistici a portata di click e senza attese o spostamenti, soprattutto in un periodo come quello in cui viviamo, non è solo una soluzione comoda, ma anche consigliabile!"
+        "answer": "L'opportunità di avere consulti specialistici a portata di click e senza attese o spostamenti, è una soluzione comoda e consigliabile!"
       },
       {
         "question": "Posso scegliere l'ora in cui ricevere il videoconsulto?",
-        "answer": "Sì, sarai tu a indicare un orario per il consulto online. Ne potrai parlare comunque con il professionista, subito dopo il pagamento."
+        "answer": "Sì, sarai tu a indicare un orario per il consulto online."
       }
     ]
   },
   "header": {
     "title": "Videoconsulti specialistici",
-    "subtitle": "Consulti online 7 giorni su 7 da 45€",
+    "subtitle": "Consulti online 7 giorni su 7 a 45€",
     "dropdownLabel": "Seleziona disciplina",
     "dropdownPlaceholder": "Seleziona disciplina",
     "bkgColor": "#F5F8FF",

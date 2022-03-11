@@ -101,7 +101,7 @@
     "list-details": [
       {
         "icon": "/img/videoconsulto.png",
-        "text": "<b>VISITA IN VIDEOCONSULTO</b><br>Comodamente a casa tua all’orario che preferisci."
+        "text": "<b>VISITA IN VIDEOCONSULTO</b><br>Comodamente all’orario che preferisci."
       },
       {
         "icon": "/img/studio.png",
@@ -109,7 +109,7 @@
       },
       {
         "icon": "/img/pacchetto-nutrizione.png",
-        "text": "<b>PACCHETTO PERSONALIZZATO</b><br> Il nostro Piano Alimentare è suddiviso in due momenti: un primo incontro conoscitivo online e due follow up in videoconsulto"
+        "text": "<b>PIANO ALIMENTARE</b><br> Il nostro pacchetto personalizzato è suddiviso in due momenti: un primo incontro conoscitivo online e due follow up in videoconsulto"
       }
     ],
     "img": {

@@ -40,7 +40,7 @@
           "name": "videoconsulto-white"
         },
         "title": "Prenota il videoconsulto gratuito",
-        "text": "Sei tu a scegliere quando ricevere il videoconsulto gratuito. In fase di prenotazione, seleziona data e orario che preferisci, noi lo comunicheremo al tuo terapeuta.",
+        "text": "Nella fase di prenotazione, seleziona la data, l'orario e comunica le tue esigenze.",
         "has-background": true
       },
       {
@@ -49,7 +49,7 @@
           "name": "incontro-white"
         },
         "title": "Conosci <br /> il tuo psicologo",
-        "text": "Le tue esigenze sono importanti! Dopo aver saputo qualcosa in più su di te… ti verrà assegnato lo specialista più adatto!",
+        "text": "Abbiamo trovato il terapeuta adatto alle tue esigenze... è ora di conoscerlo!",
         "has-background": true
       },
       {
@@ -58,7 +58,7 @@
           "name": "psicologia-online-white"
         },
         "title": "Inizia <br /> la terapia",
-        "text": "Cliccando sul link che riceverai via mail potrai usufruire del primo videoconsulto gratuito. Accedi comodamente da smartphone, pc o tablet e parla con il professionista scelto apposta per te.",
+        "text": "Terminato il primo videoconsulto gratuito, decidi se iniziare il tuo percorso psicologico.",
         "has-background": true
       }
     ]
@@ -162,7 +162,7 @@
       "solutionsBig": [
         {
           "title": "Terapia individuale",
-          "text": "Inizia il tuo percorso con 2 o 4 sedute videosedute mensili.<br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te.",
+          "text": "Inizia il tuo percorso con 2 o 4 videosedute mensili. Questa opzione è ideale se senti il bisogno di confrontarti con uno specialista per affrontare eventuali problematiche.",
           "startingFrom": false,
           "hideDiscount": true,
           "button": {
@@ -183,7 +183,7 @@
         },
         {
           "title": "Terapia di coppia",
-          "text": "Inizia il tuo percorso con 2 o 4 sedute videosedute mensili.<br />Se stai affrontando un momento difficile e desideri confrontarti con uno specialista, questa soluzione fa per te. ",
+          "text": "Comincia questo percorso terapeutico di 2 o 4 videosedute mensili. Questo pacchetto è indicato quando uno o entrambi i partner si trovano in una situazione di disagio significativo e prolungato.",
           "startingFrom": false,
           "hideDiscount": true,
           "button": {
