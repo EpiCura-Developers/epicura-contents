@@ -40,7 +40,7 @@
         "has-background": true
       },
       {
-        "title": "Ricevi l'intervento <br /> a domicilio o in studio",
+        "title": "Ricevi l'intervento a domicilio, in studio o in videoconsulto",
         "text": "I nostri professionisti ti raggiungono dove e quando vuoi, 7 giorni su 7. Rilassati e prenditi cura di te: con epiCura avrai la certezza di ricevere interventi erogati solo dai migliori professionisti, qualificati e certificati.",
         "img": {
           "path": "common",
@@ -58,9 +58,9 @@
         "is-highlighted": false,
         "title": "Pacchetto Cucciolo",
         "subtitle": "Un check-up completo per il tuo cucciolo. Comprende: <br/> • prima visita specialistica <br /> • vaccino eptavalente <br /> • sverminazione  <br /> • applicazione microchip <br /> • trattamento anti-parassitario.",
-        "previous-price": "200",
-        "price": "165 Euro",
-        "price-detail": "<strong>Risparmi 35 Euro</strong>",
+        "previous-price": "",
+        "price": "149 Euro",
+        "price-detail": "",
         "cta": [
           {
             "label": "Prenota ora",
@@ -74,9 +74,9 @@
         "is-highlighted": false,
         "title": "Pacchetto Pet Care",
         "subtitle": "È consigliato per un controllo specialistico sullo stato di salute almeno ogni 12 mesi. <br/> Comprende: <br/> • visita specialistica completa <br/> • vaccino eptavalente.",
-        "previous-price": "100",
-        "price": "80 Euro",
-        "price-detail": "<strong>Risparmi 20 Euro</strong>",
+        "previous-price": "",
+        "price": "72 Euro",
+        "price-detail": "",
         "cta": [
           {
             "label": "Prenota ora",
@@ -90,9 +90,9 @@
         "is-highlighted": false,
         "title": "Pacchetto Prevenzione",
         "subtitle": "Consigliato per un check-up sullo stato di salute e il contrasto di malattie infettive. <br/> Comprende: <br/> • visita specialistica completa <br/> • test per leishmania oppure filaria.",
-        "previous-price": "70",
-        "price": "60 Euro",
-        "price-detail": "<strong>Risparmi 10€</strong>",
+        "previous-price": "",
+        "price": "72 Euro",
+        "price-detail": "",
         "cta": [
           {
             "label": "Prenota ora",
@@ -112,9 +112,9 @@
         "is-highlighted": false,
         "title": "Pacchetto Cucciolo",
         "subtitle": "Un check-up completo per il tuo cucciolo. <br/> Comprende: <br/> • prima visita specialistica <br /> • vaccino quadrivalente (trivalente+FeLV) <br /> • sverminazione  <br /> • trattamento anti-parassitario.",
-        "previous-price": "200",
-        "price": "165 Euro",
-        "price-detail": "Risparmi 35 Euro",
+        "previous-price": "",
+        "price": "113 Euro",
+        "price-detail": "",
         "cta": [
           {
             "label": "Prenota ora",
@@ -128,9 +128,9 @@
         "is-highlighted": false,
         "title": "Pacchetto Pet Care",
         "subtitle": "È consigliato per un controllo specialistico sullo stato di salute almeno ogni 12 mesi. <br/> Comprende: <br/> • visita specialistica completa <br/> • vaccino trivalente.",
-        "previous-price": "100",
-        "price": "80 Euro",
-        "price-detail": "Risparmi 20 Euro",
+        "previous-price": "",
+        "price": "72 Euro",
+        "price-detail": "",
         "cta": [
           {
             "label": "Prenota ora",
@@ -144,9 +144,9 @@
         "is-highlighted": false,
         "title": "Pacchetto Prevenzione",
         "subtitle": "Consigliato per un check-up sullo stato di salute e la prevenzione della leucemia felina. <br/> Comprende: <br/> • visita specialistica completa <br/> • vaccino trivalente + FeLV.",
-        "previous-price": "70",
-        "price": "60 Euro",
-        "price-detail": "Risparmi 10€",
+        "previous-price": "",
+        "price": "72 Euro",
+        "price-detail": "",
         "cta": [
           {
             "label": "Prenota ora",

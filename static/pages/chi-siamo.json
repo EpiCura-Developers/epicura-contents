@@ -17,7 +17,7 @@
   },
   "site-who-we-are-relation-work": {
     "title": "Come funziona?",
-    "content": "epiCura è attiva in tutta Italia con oltre 900 professionisti, più di 16mila badanti e servizi in videoconsulto. Offre prestazioni mediche a domicilio nelle 10 principali città dello stivale. Presenta infine, una rete di poliambulatori su Torino e Milano.<br /> <strong>Il nostro servizio è attivo 7 giorni su 7, dalle 8 alle 20.</strong>",
+    "content": "epiCura è attiva in tutta Italia con oltre 900 professionisti, più di 16mila badanti e servizi in videoconsulto. Offre prestazioni mediche a domicilio, in studio e in videoconsulto nelle 10 principali città dello stivale. Presenta infine, una rete di poliambulatori su Torino e Milano.<br /> <strong>Il nostro servizio è attivo 7 giorni su 7, dalle 8 alle 20.</strong>",
     "cards": [
       {
         "image": { "path": "common", "name": "visita-generica-white" },
@@ -27,7 +27,7 @@
       {
         "image": { "path": "common", "name": "esami-strumentali-white" },
         "title": "Prenota la seduta",
-        "text": "Contattaci o prenota direttamente online. Noi troveremo per te il miglior professionista che faccia al caso tuo che ti guiderà durante l’intero percorso terapeutico. Riceverai il servizio direttamente a casa, senza liste d’attesa."
+        "text": "Contattaci o prenota direttamente online. Noi troveremo per te il miglior professionista che faccia al caso tuo che ti guiderà durante l’intero percorso terapeutico. Riceverai il servizio direttamente a casa, in studio o in videoconsulto senza liste d’attesa."
       },
       {
         "image": { "path": "common", "name": "nutrizione-icon-white" },
