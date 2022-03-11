@@ -914,51 +914,11 @@
         "discipline": ""
       },
       {
-        "title": "Poliambulatorio Siom",
-        "text": "Torino - Corso Dante, 64/A",
-        "img": {
-          "path": "poliambulatori",
-          "name": "siom-logo"
-        },
-        "url": "",
-        "discipline": ""
-      },
-      {
         "title": "Sandonato Medica",
         "text": "San Donato Milanese (MI) - Via Bruxelles, 10",
         "img": {
           "path": "poliambulatori",
           "name": "sandonato-logo"
-        },
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Clinica Sedes Sapientiae",
-        "text": "Torino - Via Bidone, 31",
-        "img": {
-          "path": "poliambulatori",
-          "name": "clinica-sedes-logo"
-        },
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Istituto Fisicoterapico",
-        "text": "Torino - Via Paolo Sacchi, 24",
-        "img": {
-          "path": "poliambulatori",
-          "name": "fisicoterapico-logo"
-        },
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "EXAMINA Srl",
-        "text": "Torino - Corso Vittorio Emanuele II, 18",
-        "img": {
-          "path": "poliambulatori",
-          "name": "examina-logo"
         },
         "url": "",
         "discipline": ""
@@ -1134,17 +1094,6 @@
         "url": "",
         "discipline": ""
       },
-
-      {
-        "title": "Punto De.Ga. Srl",
-        "text": "Torino - Corso Regina Margherita, 292/A-D",
-        "img": {
-          "path": "poliambulatori",
-          "name": "4-placeholder"
-        },
-        "url": "",
-        "discipline": ""
-      },
       {
         "title": "Altamedica",
         "text": "Milano - Largo Schuster, 1",
@@ -1158,48 +1107,6 @@
       {
         "title": "ETHOS",
         "text": "Milano - Via Valtellina, 12",
-        "img": {
-          "path": "poliambulatori",
-          "name": "2-placeholder"
-        },
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "CPG Srl",
-        "text": "Torino - Via De Sonnaz, 5/A",
-        "img": {
-          "path": "poliambulatori",
-          "name": "3-placeholder"
-        },
-        "url": "",
-        "discipline": ""
-      },
-
-      {
-        "title": "A.N.S.A. Srl",
-        "text": "Torino - Via Moncalvo, 4",
-        "img": {
-          "path": "poliambulatori",
-          "name": "4-placeholder"
-        },
-        "url": "",
-        "discipline": ""
-      },
-
-      {
-        "title": "Polis Torino",
-        "text": "Torino - Via Capriolo, 18",
-        "img": {
-          "path": "poliambulatori",
-          "name": "1-placeholder"
-        },
-        "url": "",
-        "discipline": ""
-      },
-      {
-        "title": "Med Italia",
-        "text": "Torino - Via Pastrengo, 16",
         "img": {
           "path": "poliambulatori",
           "name": "2-placeholder"
