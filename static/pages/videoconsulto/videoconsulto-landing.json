@@ -37,14 +37,14 @@
     "subtitle": "Consulti online 7 giorni su 7 a 45€",
     "dropdownLabel": "Seleziona disciplina",
     "dropdownPlaceholder": "Seleziona disciplina",
-    "bkgColor": "#F5F8FF",
+    "bkgColor": "#F2F5FF",
     "textColor": "dark"
   },
   "body": {
     "htmlContent": "<h3 class=\"epicura-primary\">Dove e quando vuoi, senza liste di attesa.</h3><p>Se devi intraprendere un percorso specialistico per la prima volta, oppure vuoi ricevere un altro parere professionale su una diagnosi o una terapia prescritta, ti mettiamo in contatto con un nostro professionista entro 24h, 7 giorni su 7.*</p><p class='epicura-primary'>*Il servizio ha una durata indicativa di 20 minuti.</p>"
   },
   "carousel": {
-    "bkgColor": "#F5F8FF",
+    "bkgColor": "#F2F5FF",
     "title": "È utile per",
     "slides": [
       {
