@@ -8,8 +8,8 @@
     "name": "services"
   },
   "top-banner": {
-    "title": "Prenotare una visita <br class=\"md-show\"/> è sempre un incubo",
-    "subtitle": "Con <strong>epiCura</strong> prenota e ricevi l'<strong>intervento a casa, in studio o in videoconsulto</strong>, 7 giorni su 7, entro 24 ore.",
+    "title": "Non perdere la salute cercando di curarla",
+    "subtitle": "Prenota la prossima visita medica a <strong>domicilio, in studio o in videoconsulto 7 giorni su 7</strong>, compreso sabato e domenica. <br /> Ah, inserendo il codice sconto <strong>EPICURA50</strong>* ottieni 50€. <br /><small>*Leggi <a href=\"https://contents.epicuramed.it/documents/epicura_welcome_bonus_50.pdf\" target=\"_blank\">l’informativa</a> per usufruire del codice sconto.</small>",
     "img": {
       "path": "common",
       "name": "header-home"
