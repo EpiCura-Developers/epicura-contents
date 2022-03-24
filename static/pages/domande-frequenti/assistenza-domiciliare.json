@@ -7,7 +7,7 @@
   "site-faqs-page-subtitle": "Abbiamo tutte le risposte che cerchi.",
   "site-faqs-page-img": {
     "path": "common",
-    "name": "AD-faq"
+    "name": "AD-faq-header"
   },
   "site-faqs-page-img-mobile": {
     "path": "homecare",
