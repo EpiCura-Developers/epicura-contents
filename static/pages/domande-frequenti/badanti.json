@@ -7,13 +7,13 @@
   "site-faqs-page-subtitle": "Abbiamo tutte le risposte che cerchi.",
   "site-faqs-page-img": {
     "path": "common",
-    "name": "faq-badanti"
+    "name": "badanti-faq"
   },
   "site-faqs-page-img-mobile": {
     "path": "common",
-    "name": "faq-badanti-mobile"
+    "name": "badanti-faq-mobile"
   },
-  "site-faqs-page-color": "#f8f3e9",
+  "site-faqs-page-color": "#F2F5FF",
   "faqs-contact": {
     "text": "Non hai trovato la risposta che cercavi?",
     "contact-us": {
@@ -37,7 +37,7 @@
     },
     {
       "title": "Come posso richiedere un preventivo gratuito?",
-      "content": "Puoi prenotare un colloquio gratuito con un nostro consulente in pochi clic, attraverso il form di prenotazione disponibile sul nostro sito, disponibile a questo <a href='https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs' title='Form' target='_blank'>link</a>. "
+      "content": "Puoi prenotare un colloquio gratuito con un nostro consulente in pochi clic, attraverso il form di prenotazione disponibile sul nostro sito, disponibile a questo <a href='https://share.hsforms.com/1scgK_jjiR4WcuF_9foLbcg4ebbs' style='color: #14BDCC' title='Form' target='_blank'>link</a>. "
     },
     {
       "title": "Quali sono i tempi di attivazione per la ricerca badanti?",

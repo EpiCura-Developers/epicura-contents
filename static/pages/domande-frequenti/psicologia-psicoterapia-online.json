@@ -7,13 +7,13 @@
   "site-faqs-page-subtitle": "Abbiamo tutte le risposte che cerchi.",
   "site-faqs-page-img": {
     "path": "common",
-    "name": "faq-psicologia"
+    "name": "psicologia-faq"
   },
   "site-faqs-page-img-mobile": {
     "path": "common",
-    "name": "faq-psicologia-mobile"
+    "name": "psicologia-faq-mobile"
   },
-  "site-faqs-page-color": "#ffe9a7",
+  "site-faqs-page-color": "#F2F5FF",
   "faqs-contact": {
     "text": "Non hai trovato la risposta che cercavi?",
     "contact-us": {
