@@ -7,13 +7,13 @@
   "site-faqs-page-subtitle": "Abbiamo tutte le risposte che cerchi.",
   "site-faqs-page-img": {
     "path": "common",
-    "name": "faq-generic"
+    "name": "generic-faq-header"
   },
   "site-faqs-page-img-mobile": {
     "path": "common",
-    "name": "faq-generic-mobile"
+    "name": "generic-faq-mobile"
   },
-  "site-faqs-page-color": "#F5F8FF",
+  "site-faqs-page-color": "#F2F5FF",
   "faqs-contact": {
     "text": "Non hai trovato la risposta che cercavi?",
     "contact-us": {
@@ -24,24 +24,28 @@
   },
   "faqs": [
     {
-      "title": "Cos’è epiCura?",
-      "content": "epiCura è il primo poliambulatorio digitale d’Italia che riunisce professionisti sanitari e socio-assistenziali. La nostra rete, attiva in tutto il territorio nazionale, comprende badanti, assistenti domiciliari, fisioterapisti, osteopati, medici, infermieri, pediatri, veterinari, nutrizionisti, psicologi, psicoterapeuti e massoterapisti, che erogano il servizio comodamente a domicilio e, in alcuni casi, anche attraverso videoconsulto da smartphone, pc o tablet."
+      "title": "Cos'è epiCura",
+      "content": "EpiCura è il primo poliambulatorio digitale in Italia attivo <strong>7 giorni su 7</strong> che offre servizi sanitari e socio-assistenziali a <strong>domicilio</strong>, in <strong>videoconsulto</strong> o <strong>studio</strong>. La nostra rete di professionisti comprende badanti, assistenti domiciliari, fisioterapisti, osteopati, medici, infermieri, pediatri, veterinari, nutrizionisti, psicologi, psicoterapeuti e massoterapisti e molto altro. Inoltre grazie a una forte rete di poliambulatori, con epiCura puoi prenotare visite strumentali e di laboratorio, troviamo noi per te la struttura e la data più veloce per svolgere la visita medica."
     },
     {
       "title": "Dove siete attivi?",
-      "content": "I principali servizi a domicilio di epiCura sono disponibili nelle città di Torino, Milano, Roma, Bologna, Brescia, Verona, Genova, Firenze, Napoli e Catania, prima provincia inclusa. Il servizio di badanti per anziani, malati e disabili è invece attivo in tutta Italia. <br /><br />I servizi di videoconsulto specialistico e di videoseduta psicologica e psicoterapeutica sono erogabili ovunque, attraverso smartphone, pc o tablet."
+      "content": "Tutti i nostri servizi di <strong>videoconsulto</strong> sono a portata di click da smartphone, pc o tablet.<br/><br/>In tutta Italia è attivo il <strong>servizio badanti</strong> per anziani o persone affette da disabilità.<br/><br/>Solo nelle città di Torino, Milano, Roma, Bologna, Brescia, Verona, Genova, Firenze, Napoli e Catania sono a completa disposizione tutti i nostri servizi a domicilio e in studio.<br/><br/>Le collaborazioni con le migliori cliniche per prenotare <strong>esami diagnostici</strong> sono in continua evoluzione. La lista dei poliambulatori rimane sempre aggiornata."
     },
     {
-      "title": "epiCura ha sedi fisiche?",
-      "content": "No, epiCura non ha sedi fisiche: siamo un poliambulatorio digitale, che ha scommesso sulle nuove tecnologie per rendere i servizi sanitari e assistenziali più rapidi, comodi e flessibili. Per questo motivo, grazie a una rete di professionisti attiva in tutta Italia, eroghiamo prestazioni e trattamenti specialistici in tutta la città e area metropolitana, 7 giorni su 7, anche in orari serali."
+      "title": "EpiCura ha sedi fisiche?",
+      "content": "Epicura nasce come poliambulatorio digitale, ma nel 2022 abbiamo inaugurato ben due <strong>epiStore</strong>: uno a <strong>Milano</strong> (via Canonica, 72) e l’altro a <strong>Torino</strong> (via Nizza,60).<br/><br/>Nei nostri epiStore è possibile richiedere informazioni e prenotare tutti i servizi epiCura."
+    },
+    {
+      "title": "Avete un numero telefonico di riferimento?",
+      "content": "Per qualsiasi dubbio, domanda o richiesta di informazioni puoi chiamare il seguente numero telefonico: <strong>800 909 209</strong>. <strong>Reperibilità assicurata tutti i giorni, dalle 8:00 alle 20:00</strong>."
     },
     {
       "title": "Le prestazioni sono erogate solo a domicilio?",
-      "content": "epiCura ti raggiunge ovunque desideri: potrai ricevere visite e interventi specialistici a casa, in ospedale, sul luogo di lavoro e in casa di riposo. Alcuni dei nostri professionisti hanno anche a disposizione uno studio professionale dove, su richiesta, possono ricevere i pazienti.<br /><br />I videoconsulti specialistici, inoltre, sono erogabili ovunque, comodamente da smartphone, pc o tablet."
+      "content": "Epicura è il primo poliambulatorio digitale che ti permette di prenotare qualsiasi visita specialistica <strong>dove e quando vuoi, a domicilio, in videoconsulto o in studio.</strong>"
     },
     {
       "title": "Come posso prenotare un intervento?",
-      "content": "Con epiCura la prenotazione è semplice e veloce: potrai compilare il modulo di prenotazione comodamente sul nostro sito, in pochi click (<a href='https://app.epicura.it' title='Prenota' target='_blank'>www.epicura.it/prenota</a>)."
+      "content": "Con epiCura prenotare una qualsiasi visita medica è semplice e veloce. Si può prenotare tramite sito, app (iOS e Android), chat, o numero di telefono al 800 909 209.<br/>A Torino e Milano anche nei nostri epiStore.<br/><br/> Ci piace dare ai nostri clienti la massima flessibilità anche nella modalità di prenotazione."
     },
     {
       "title": "Posso scegliere io il professionista?",
@@ -53,19 +57,19 @@
     },
     {
       "title": "Cosa fare se volessi ricevere solo una consulenza e non una visita?",
-      "content": "epiCura ti dà la possibilità di ricevere consulti medici e specialistici a distanza, ovunque tu sia. Scopri il nostro servizio di videoconsulti cliccando <a href='/videoconsulti/' title='Videoconsulti' target='_blank'>qui</a>."
+      "content": "EpiCura ti dà la possibilità di ricevere consulti medici e specialistici a distanza, ovunque tu sia. Scopri il nostro servizio di videoconsulti cliccando <a style='color: #14BDCC;' href='/videoconsulti/' title='Videoconsulti' target='_blank'>qui</a>."
     },
     {
-      "title": "Se il professionista che si è candidato non mi sembra adatto?",
-      "content": "Tutti gli specialisti che collaborano con epiCura sono professionisti qualificati, in possesso delle certificazioni necessarie per svolgere la propria attività e con esperienza alle spalle. Tuttavia, nell’eventualità in cui non fossi convinto del profilo che si è reso disponibile per te, puoi comunicarcelo via mail e provvederemo a trovare un professionista in linea con le tue esigenze."
+      "title": "E sei il professionista che si è candidato non mi sembra adatto?",
+      "content": "EpiCura seleziona solo i migliori professionisti del settore per ogni disciplina. Ogni specialista è in possesso di certificazioni acquisite con l’iscrizione all’Albo ufficiale. Tuttavia, nell’eventualità in cui non fossi convinto del profilo che si è reso disponibile per te, puoi comunicarcelo via mail e provvederemo a trovare un professionista in linea con le tue esigenze."
     },
     {
-      "title": "Devo modificare il giorno/orario/luogo dell’appuntamento, come faccio?",
-      "content": "Nessun problema: sarà sufficiente contattarci via mail a [customercare@epicura.it](mailto:customercare@epicura.it) e comunicarci le tue nuove disponibilità. Qualora lo specialista che aveva preso in carico la richiesta non fosse più disponibile, troveremo per te un altro professionista."
+      "title": "Devo modificare il giorno / orario / luogo dell’appuntamento, come faccio?",
+      "content": "Per poter effettuare qualsiasi tipo di modifica in termini di giorno, orario e luogo per appuntamento con specialista, è necessario comunicare le nuove disponibilità all’indirizzo email <span style='color: #14BDCC;'>[customercare@epicura.it](mailto:customercare@epicura.it)</span> o al numero di telefono 800 909 209 o tramite app nell’apposita chat. Qualora lo specialista scelto in precedenza non fosse più disponibile, troveremo rapidamente un nuovo professionista adatto alle tue esigenze."
     },
     {
       "title": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
-      "content": "Dipende dalla tipologia di intervento richiesto. epiCura garantisce la detraibilità di tutte le spese riconosciute come sanitarie, proprio come un qualsiasi poliambulatorio o centro medico.<br />Per farlo basterà utilizzare la fattura che riceverai dopo il pagamento delle prestazioni. Alcuni costi, ad esempio quelli relativi all'Assistenza Domiciliare, sono detraibili solo entro certi limiti e a seconda delle caratteristiche del contribuente (per approfondire clicca <a href='https://www.fiscoetasse.com/approfondimenti/13065-spese-per-addetti-all-assistenza-personale-le-regole-di-detrazione-.html' title='Fiscotasse' target='_blank'>qui</a>).<br />Ricordiamo che l'Osteopatia e la Massoterapia non sono considerate prestazioni sanitarie, per cui non è possibile portarle in detrazione."
+      "content": "Dipende dalla tipologia di intervento richiesto. EpiCura garantisce la detraibilità di tutte le spese riconosciute come sanitarie, proprio come un qualsiasi poliambulatorio o centro medico.<br />Per farlo basterà utilizzare la fattura che riceverai dopo il pagamento delle prestazioni. Alcuni costi, ad esempio quelli relativi all'Assistenza Domiciliare, sono detraibili solo entro certi limiti e a seconda delle caratteristiche del contribuente (per approfondire clicca <a style='color:  #14BDCC;' href='https://www.fiscoetasse.com/approfondimenti/13065-spese-per-addetti-all-assistenza-personale-le-regole-di-detrazione-.html' title='Fiscotasse' target='_blank'>qui</a>).<br />Ricordiamo che l'Osteopatia e la Massoterapia non sono considerate prestazioni sanitarie, per cui non è possibile portarle in detrazione."
     },
     {
       "title": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",

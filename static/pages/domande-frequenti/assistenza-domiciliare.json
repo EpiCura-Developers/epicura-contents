@@ -7,13 +7,13 @@
   "site-faqs-page-subtitle": "Abbiamo tutte le risposte che cerchi.",
   "site-faqs-page-img": {
     "path": "common",
-    "name": "faq-AD"
+    "name": "AD-faq-header"
   },
   "site-faqs-page-img-mobile": {
-    "path": "common",
-    "name": "faq-AD-mobile"
+    "path": "homecare",
+    "name": "AD-faq-mobile"
   },
-  "site-faqs-page-color": "#faebff",
+  "site-faqs-page-color": "#F2F5FF",
   "faqs-contact": {
     "text": "Non hai trovato la risposta che cercavi?",
     "contact-us": {

@@ -7,20 +7,20 @@
   "site-faqs-page-subtitle": "Abbiamo tutte le risposte che cerchi.",
   "site-faqs-page-img": {
     "path": "common",
-    "name": "faqs-bck-img"
+    "name": "faq-header"
   },
   "site-faqs-page-img-mobile": {
     "path": "common",
-    "name": "faq-mobile"
+    "name": "faq-header-mobile"
   },
-  "site-faqs-page-color": "#F5F8FF",
+  "site-faqs-page-color": "#F2F5FF",
   "categories": [
     {
       "link": "/generiche",
       "title": "Come funziona epiCura",
       "image": {
         "path": "common",
-        "name": "faq-generic"
+        "name": "generic-faq-card"
       }
     },
     {
@@ -28,7 +28,7 @@
       "title": "Badanti",
       "image": {
         "path": "common",
-        "name": "faq-badanti"
+        "name": "badanti-faq-card"
       }
     },
     {
@@ -36,7 +36,7 @@
       "title": "Assistenza a ore",
       "image": {
         "path": "common",
-        "name": "faq-AD"
+        "name": "AD-faq-card"
       }
     },
     {
@@ -44,7 +44,7 @@
       "title": "Videoconsulti specialistici",
       "image": {
         "path": "common",
-        "name": "faq-videoconsulto"
+        "name": "videoconsulti-faq-card"
       }
     },
     {
@@ -52,7 +52,7 @@
       "title": "Psicologia online",
       "image": {
         "path": "common",
-        "name": "faq-psicologia"
+        "name": "psicologia-faq-card"
       }
     }
   ]
