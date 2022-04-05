@@ -90,6 +90,54 @@
       ]
     }
   },
+  "caregiver-banner": {
+    "title": "Non il classico \"servizio badanti\"",
+    "subtitle": "Se stai cercando qualcosa di nuovo e non il solto servizio badanti, sei finito nella giusta pagina!",
+    "img": {
+      "path": "caregiver",
+      "name": "family-tutor"
+    },
+    "has-large-title": false,
+    "text-center": true,
+    "has-absolute-image": false,
+    "first-image-order": true,
+    "hide-image-mobile": false,
+    "has-bg-color": "",
+    "list-details": [
+      {
+        "icon": "/img/ricerca-selezione.png",
+        "text": "<b>Convenzioni con tutti i partner epiCura</b><br />Perché spendere di più quando puoi godere di sconti esclusivi per il benessere dell'anziano?"
+      },
+      {
+        "icon": "/img/ricerca-selezione.png",
+        "text": "<b>Sportello ammortizzatori sociali</b><br /> Quante volte hai chiesto aiuto per capire il difficile linguaggio burocratico? Non ti preoccupare! Ci pensiamo noi!"
+      },
+      {
+        "icon": "/img/ricerca-selezione.png",
+        "text": "<b>Farmaci a domicilio nelle principali città</b><br />SOS farmaci a casa? No stress, le prime due consegne sono gratuite."
+      },
+      {
+        "icon": "/img/ricerca-selezione.png",
+        "text": "<b>Un primo videoconsulto psicologico gratuito</b><br />È molto difficile, soprattutto mentalmente, assistere un parente anziano. Quindi perché non approfittare di un videoconsulto psicologico per la famiglia?"
+      },
+      {
+        "icon": "/img/ricerca-selezione.png",
+        "text": "<b>Videoconsulto gratuito con gli infermieri epiCura</b><br />Ascolta i suggerimenti dei nostri professionisti per migliorare la qualità di vita dell'anziano. Il primo videoconsulto è gratuito."
+      },
+      {
+        "icon": "/img/ricerca-selezione.png",
+        "text": "<b>Un supporto fisioterapico e infermieristico a domicilio nelle città in cui siamo attivi</b><br />Offriamo un aiuto costante e professionale da parte di fisioterapisti e infermieri epiCura direttamente a casa. Comodo, no?"
+      }
+    ],
+    "cta-content": [
+      {
+        "label": "Richiedi preventivo gratuito",
+        "link": "https://hubs.la/Q0150JR20",
+        "image": "",
+        "variant": "gradient"
+      }
+    ]
+  },
   "qualified-caregiver": {
     "title": "Lavoriamo solo con badanti qualificate",
     "subtitle": "Soltanto il 10% dei candidati supera i nostri rigidi processi di selezione, garantendoti un servizio di qualità.",
