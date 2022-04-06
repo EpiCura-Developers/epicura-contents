@@ -217,13 +217,13 @@
     "has-bg-color": "prime",
     "cta-content": [
       {
-        "label": "",
+        "label": "App Store",
         "link": "https://apps.apple.com/app/epicura/id1606001325",
         "image": "/img/badge-app-store-white.png",
         "variant": "image"
       },
       {
-        "label": "",
+        "label": "Google Play Store",
         "link": "https://play.google.com/store/apps/details?id=it.epicura.customers",
         "image": "/img/badge-google-play-store-white.png",
         "variant": "image"
