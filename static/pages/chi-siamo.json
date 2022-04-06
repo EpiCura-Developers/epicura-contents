@@ -11,9 +11,13 @@
   "site-who-we-are-header-img-mobile": { "path": "common", "name": "whoare_mobile" },
   "site-who-we-are-description-title": "Siamo il primo poliambulatorio digitale in Italia",
   "site-who-we-are-description-text": "Utilizziamo la tecnologia per rendere più accessibili i servizi sanitari e socio-assistenziali, con la missione di semplificare la vita delle persone. <br /> Vogliamo migliorare un settore caratterizzato da lunghe attese e grandi scomodità e lo stiamo facendo costruendo un servizio che si basa sulla tempestività, sulla flessibilità e sulla vicinanza ai nostri pazienti.",
-  "site-who-we-are-description-img": {
+  "videoconsultation-img": {
     "path": "common",
-    "name": "primo-poliambulatorio"
+    "name": "poliambulatorio-digitale"
+  },
+  "epistore-img": {
+    "path": "common",
+    "name": "epistore"
   },
   "epistore-title": "E ora abbiamo inaugurato i primi due epiStore a Milano e Torino",
   "epistore-description": "Abbiamo pensato anche alle persone poco smart e che non amano particolarmente la tecnologia. Proprio per questo motivo, abbiamo aperto due negozi fisici nelle nostre città del cuore: Milano, in via Canonica 77 e Torino, in Via Nizza 60. Ora non vi resta che venire a trovarci!",
