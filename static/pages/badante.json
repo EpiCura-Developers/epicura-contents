@@ -261,27 +261,27 @@
     "list-details": [
       {
         "icon": "/img/convenzioni-gradient.png",
-        "text": "Convenzioni con tutti i partner epiCura per risparmiare"
+        "text": "<strong>Convenzioni</strong> con tutti i partner epiCura per risparmiare"
       },
       {
         "icon": "/img/burocrazia-gradient.png",
-        "text": "Sportello ammortizzatori sociali per comprendere il linguaggio burocratico"
+        "text": "<strong>Sportello ammortizzatori sociali</strong> per comprendere il linguaggio burocratico"
       },
       {
         "icon": "/img/farmaci-gradient.png",
-        "text": "Farmaci a domicilio nelle principali città. Le prime due consegne sono gratuite"
+        "text": "<strong>Farmaci a domicilio</strong> nelle principali città. Le prime due consegne sono gratuite"
       },
       {
         "icon": "/img/psico-videoconsulto.png",
-        "text": "Primo videoconsulto psicologico gratuito per le famiglie con un parente anziano da assistere"
+        "text": "Primo <strong>videoconsulto psicologico gratuito</strong> per le famiglie con un parente anziano da assistere"
       },
       {
         "icon": "/img/infermieri-videoconsulto-gradient.png",
-        "text": "Un videoconsulto gratuito con gli infermieri epiCura per ricevere i nostri suggerimenti"
+        "text": "Un <strong>videoconsulto gratuito con gli infermieri epiCura</strong> per ricevere i nostri suggerimenti"
       },
       {
         "icon": "/img/fisioterapia-gradient.png",
-        "text": "Un supporto fisioterapico e infermieristico a domicilio nelle città in cui siamo attivi"
+        "text": "Un <strong>supporto fisioterapico e infermieristico a domicilio</strong> nelle città in cui siamo attivi"
       }
     ],
     "cta-content": [
@@ -304,7 +304,7 @@
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": false,
-    "has-bg-color": "caregiver",
+    "has-bg-color": "",
     "cta-content": []
   },
   "cities-list": {
