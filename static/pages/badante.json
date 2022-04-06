@@ -250,39 +250,38 @@
     "title": "",
     "subtitle": "",
     "img": {
-      "path": "caregiver",
-      "name": "family-tutor"
+      "path": "common",
+      "name": "family-2"
     },
     "has-large-title": false,
-    "text-center": true,
-    "has-absolute-image": false,
+    "has-absolute-image": true,
     "first-image-order": true,
     "hide-image-mobile": false,
     "has-bg-color": "",
     "list-details": [
       {
-        "icon": "/img/ricerca-selezione.png",
-        "text": "<b>Convenzioni con tutti i partner epiCura</b><br />Perché spendere di più quando puoi godere di sconti esclusivi per il benessere dell'anziano?"
+        "icon": "/img/convenzioni-gradient.png",
+        "text": "Convenzioni con tutti i partner epiCura per risparmiare"
       },
       {
-        "icon": "/img/ricerca-selezione.png",
-        "text": "<b>Sportello ammortizzatori sociali</b><br /> Quante volte hai chiesto aiuto per capire il difficile linguaggio burocratico? Non ti preoccupare! Ci pensiamo noi!"
+        "icon": "/img/burocrazia-gradient.png",
+        "text": "Sportello ammortizzatori sociali per comprendere il linguaggio burocratico"
       },
       {
-        "icon": "/img/ricerca-selezione.png",
-        "text": "<b>Farmaci a domicilio nelle principali città</b><br />SOS farmaci a casa? No stress, le prime due consegne sono gratuite."
+        "icon": "/img/farmaci-gradient.png",
+        "text": "Farmaci a domicilio nelle principali città. Le prime due consegne sono gratuite"
       },
       {
-        "icon": "/img/ricerca-selezione.png",
-        "text": "<b>Un primo videoconsulto psicologico gratuito</b><br />È molto difficile, soprattutto mentalmente, assistere un parente anziano. Quindi perché non approfittare di un videoconsulto psicologico per la famiglia?"
+        "icon": "/img/psico-videoconsulto.png",
+        "text": "Primo videoconsulto psicologico gratuito per le famiglie con un parente anziano da assistere"
       },
       {
-        "icon": "/img/ricerca-selezione.png",
-        "text": "<b>Videoconsulto gratuito con gli infermieri epiCura</b><br />Ascolta i suggerimenti dei nostri professionisti per migliorare la qualità di vita dell'anziano. Il primo videoconsulto è gratuito."
+        "icon": "/img/infermieri-videoconsulto-gradient.png",
+        "text": "Un videoconsulto gratuito con gli infermieri epiCura per ricevere i nostri suggerimenti"
       },
       {
-        "icon": "/img/ricerca-selezione.png",
-        "text": "<b>Un supporto fisioterapico e infermieristico a domicilio nelle città in cui siamo attivi</b><br />Offriamo un aiuto costante e professionale da parte di fisioterapisti e infermieri epiCura direttamente a casa. Comodo, no?"
+        "icon": "/img/fisioterapia-gradient.png",
+        "text": "Un supporto fisioterapico e infermieristico a domicilio nelle città in cui siamo attivi"
       }
     ],
     "cta-content": [
