@@ -33,7 +33,7 @@
     },
     {
       "title": "Come posso prenotare un intervento di assistenza domiciliare?",
-      "content": "Puoi prenotare comodamente in pochi clic attraverso il form di prenotazione a questo <a href='https://share.hsforms.com/1YYFng7mtRf-UF4Mqk2TGwg4ebbs' title='Form' target='_blank'>link</a>.<br />Inviata la richiesta, verrai ricontattato da un nostro consulente dedicato, che ti darà tutte le informazioni necessarie per trovare la soluzione di assistenza più adeguata."
+      "content": "Puoi prenotare comodamente in pochi clic attraverso il form di prenotazione a questo <a href='https://landingpage.epicuramed.it/assistenza' style='color: #4060FF' title='Form' target='_blank'>link</a>.<br />Inviata la richiesta, verrai ricontattato da un nostro consulente dedicato, che ti darà tutte le informazioni necessarie per trovare la soluzione di assistenza più adeguata."
     },
     {
       "title": "Posso scegliere io l’assistente domiciliare?",
@@ -53,7 +53,7 @@
     },
     {
       "title": "Devo modificare il giorno/orario/luogo dell’appuntamento, come faccio?",
-      "content": "Non preoccuparti! Sarà sufficiente contattarci via mail a [customercare@epicura.it](mailto:customercare@epicura.it) e comunicarci le tue nuove disponibilità. Qualora lo specialista che aveva preso in carico la richiesta non fosse più disponibile, ti forniremo le nuove disponibilità di un altro specialista."
+      "content": "Non preoccuparti! Sarà sufficiente contattarci via mail a <span style='color: #4060FF;'>[customercare@epicura.it](mailto:customercare@epicura.it)</span> e comunicarci le tue nuove disponibilità. Qualora lo specialista che aveva preso in carico la richiesta non fosse più disponibile, ti forniremo le nuove disponibilità di un altro specialista."
     },
     {
       "title": "Cosa succede se non mi trovo bene con l'assistente domiciliare?",
@@ -61,7 +61,7 @@
     },
     {
       "title": "Il costo delle prestazioni è detraibile dalla dichiarazione dei redditi?",
-      "content": "I costi relativi all'Assistenza Domiciliare sono detraibili solo entro certi limiti e a seconda delle caratteristiche del contribuente. Per approfondire clicca <a href='https://www.fiscoetasse.com/approfondimenti/13065-spese-per-addetti-all-assistenza-personale-le-regole-di-detrazione-.htm' title='Fiscotasse' target='_blank'>qui</a>."
+      "content": "I costi relativi all'Assistenza Domiciliare sono detraibili solo entro certi limiti e a seconda delle caratteristiche del contribuente. Per approfondire clicca <a href='https://www.fiscoetasse.com/approfondimenti/13065-spese-per-addetti-all-assistenza-personale-le-regole-di-detrazione-.htm' style='color: #4060FF' title='Fiscotasse' target='_blank'>qui</a>."
     },
     {
       "title": "Il costo delle prestazioni è rimborsabile tramite assicurazione?",
