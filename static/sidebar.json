@@ -80,7 +80,7 @@
   },
   {
     "option-link": "https://apps.apple.com/us/app/epicura/id1606001325",
-    "option-label": "apple app store",
+    "option-label": "App Store",
     "option-is-complex": true,
     "option-is-amp": false,
     "is-image": true,
@@ -92,7 +92,7 @@
   },
   {
     "option-link": "https://play.google.com/store/apps/details?id=it.epicura.customers&gl=IT",
-    "option-label": "google play store",
+    "option-label": "Google Play Store",
     "option-is-complex": true,
     "option-is-amp": false,
     "is-image": true,
