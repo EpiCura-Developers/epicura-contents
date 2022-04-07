@@ -231,7 +231,7 @@
       "subtitle": "Dalla collaborazione tra epiCura e Europe Assistance nasce il primo Osservatorio dedicato all'analisi delle politiche di welfare nelle aziende italiane. Scopri tutti i benefit adottati per rispondere alle reali esigenze dei dipendenti!",
       "img": {
         "path": "common",
-        "name": "header_home"
+        "name": "home-header"
       },
       "has-absolute-image": true,
       "first-image-order": false,
@@ -252,7 +252,7 @@
       "subtitle": "Dalla collaborazione tra epiCura e Europe Assistance nasce il primo Osservatorio dedicato all'analisi delle politiche di welfare nelle aziende italiane. Scopri tutti i benefit adottati per rispondere alle reali esigenze dei dipendenti!",
       "img": {
         "path": "common",
-        "name": "header_home"
+        "name": "home-header"
       },
       "has-absolute-image": true,
       "first-image-order": false,
