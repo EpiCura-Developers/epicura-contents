@@ -12,14 +12,27 @@
     "subtitle": "Prenota la prossima visita medica a <strong>domicilio, in studio o in videoconsulto 7 giorni su 7</strong>, compreso sabato e domenica. <br /> Ah, inserendo il codice sconto <strong>EPICURA50</strong>* ottieni 50€. <br /><small>*Leggi <a href=\"https://contents.epicuramed.it/documents/epicura_welcome_bonus_50.pdf\" target=\"_blank\">l’informativa</a> per usufruire del codice sconto.</small>",
     "img": {
       "path": "common",
-      "name": "header-home"
+      "name": "home-header"
     },
     "has-large-title": true,
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": false,
     "has-bg-color": "",
-    "cta-content": []
+    "cta-content": [
+      {
+        "label": "App Store",
+        "link": "https://apps.apple.com/app/epicura/id1606001325",
+        "image": "/img/badge-app-store-bk.png",
+        "variant": "image"
+      },
+      {
+        "label": "Google Play Store",
+        "link": "https://play.google.com/store/apps/details?id=it.epicura.customers",
+        "image": "/img/badge-google-play-store-bk.png",
+        "variant": "image"
+      }
+    ]
   },
   "service-cards": {
     "title": "Ecco cosa puoi prenotare:",
