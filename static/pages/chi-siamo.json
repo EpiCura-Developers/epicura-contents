@@ -94,7 +94,7 @@
   "site-who-we-are-contact-list": [
     {
       "site-who-we-are-contact-img": { "path": "common", "name": "poliambulatori-card" },
-      "site-who-we-are-contact-text": "Per strutture sanitarie e poliambulatori",
+      "site-who-we-are-contact-text": "Per strutture sanitarie <br /> e poliambulatori",
       "site-who-we-are-contact-corporate": "mailto:informazioni@epicura.it",
       "site-who-we-are-contact-btn-text": "Parliamoci"
     },
