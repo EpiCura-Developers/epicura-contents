@@ -7,8 +7,8 @@
     "titleBig": "Articoli e comunicati stampa",
     "description1": "Le più importanti testate parlano di noi"
   },
-  "site-press-bkg": { "path": "common", "name": "press-bkg" },
-  "site-press-bkg-mobile": { "path": "common", "name": "press_mobile" },
+  "site-press-bkg": { "path": "common", "name": "press-header" },
+  "site-press-bkg-mobile": { "path": "common", "name": "press-mobile" },
   "site-press-contact-us-img": { "path": "common", "name": "press" },
   "site-press-contact-us-name": "epiCura Marketing",
   "site-press-contact-us-role": "Sezione Ufficio Stampa",

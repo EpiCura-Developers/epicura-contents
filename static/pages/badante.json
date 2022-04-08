@@ -101,7 +101,6 @@
     "first-image-order": false,
     "hide-image-mobile": false,
     "has-bg-color": "caregiver",
-
     "cta-content": [
       {
         "label": "Richiedi preventivo gratuito",
@@ -195,7 +194,7 @@
         "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi. <small>A partire da 1.410 Euro al mese</small>",
         "previous-price": "",
         "price": "",
-        "price-detail": "Servizio attivo in tutta italia",
+        "price-detail": "Servizio attivo in tutta Italia",
         "cta": [
           {
             "label": "Scopri di più",
@@ -215,7 +214,7 @@
         "subtitle": "Presta assistenza part-time durante il giorno. È un supporto fondamentale per le attività quotidiane di persone autosufficienti e non. <small>A partire da 720 Euro al mese</small>",
         "previous-price": "",
         "price": "",
-        "price-detail": "Servizio attivo in tutta italia",
+        "price-detail": "Servizio attivo in tutta Italia",
         "cta": [
           {
             "label": "Scopri di più",
@@ -235,7 +234,7 @@
         "subtitle": "Si occupa del monitoraggio della persona assistita durante la notte, garantendo le cure e le attenzioni necessarie anche in caso di emergenza. <small>A partire da 1.180 Euro al mese</small>",
         "previous-price": "",
         "price": "",
-        "price-detail": "Servizio attivo in tutta italia",
+        "price-detail": "Servizio attivo in tutta Italia",
         "cta": [
           {
             "label": "Scopri di più",
@@ -244,6 +243,53 @@
             "variant": "outlined"
           }
         ]
+      }
+    ]
+  },
+  "caregiver-banner": {
+    "title": "",
+    "subtitle": "",
+    "img": {
+      "path": "common",
+      "name": "family-2"
+    },
+    "has-large-title": false,
+    "has-absolute-image": true,
+    "first-image-order": true,
+    "hide-image-mobile": false,
+    "has-bg-color": "",
+    "list-details": [
+      {
+        "icon": "/img/convenzioni-gradient.png",
+        "text": "<b>Convenzioni</b> con tutti i partner epiCura per risparmiare"
+      },
+      {
+        "icon": "/img/burocrazia-gradient.png",
+        "text": "<b>Sportello ammortizzatori sociali</b> per comprendere il linguaggio burocratico"
+      },
+      {
+        "icon": "/img/farmaci-gradient.png",
+        "text": "<b>Farmaci a domicilio</b> nelle principali città. Le prime due consegne sono gratuite"
+      },
+      {
+        "icon": "/img/psico-videoconsulto.png",
+        "text": "Primo <b>videoconsulto psicologico gratuito</b> per le famiglie con un parente anziano da assistere"
+      },
+      {
+        "icon": "/img/infermieri-videoconsulto-gradient.png",
+        "text": "Un <b>videoconsulto gratuito con gli infermieri epiCura</b> per ricevere i nostri suggerimenti"
+      },
+      {
+        "icon": "/img/fisioterapia-gradient.png",
+        "text": "Un <b>supporto fisioterapico e infermieristico a domicilio</b> nelle città in cui siamo attivi"
+      }
+    ],
+    "cta-content": [
+      {
+        "label": "Richiedi preventivo gratuito",
+        "link": "https://hubs.la/Q0150JR20",
+        "image": "",
+        "variant": "gradient"
       }
     ]
   },
@@ -258,7 +304,7 @@
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": false,
-    "has-bg-color": "caregiver",
+    "has-bg-color": "",
     "cta-content": []
   },
   "cities-list": {
