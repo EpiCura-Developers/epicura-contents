@@ -226,8 +226,8 @@
     ]
   },
   "service-banner": {
-    "title": "Hai un dubbio sul servizio di pediatria? Chiamaci o vieni a trovarci nel nostro store",
-    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi epiCura più adatti alle tue esigenze.<br /><br />Vivi a Milano? Ci trovi in via Canonica 77, dal martedì al sabato dalle 10:00 alle 19:00.",
+    "title": "Hai un dubbio sul servizio di pediatria? Chiamaci",
+    "subtitle": "Il nostro team sarà felice di fornirti tutte le informazioni necessarie per prenotare i servizi epiCura più adatti alle tue esigenze.",
     "img": {
       "path": "pediatrics",
       "name": "pediatrics-service-banner"
