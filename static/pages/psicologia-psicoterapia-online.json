@@ -18,7 +18,7 @@
     "cta-content": [
       {
         "label": "Inizia il tuo percorso",
-        "link": "https://hubs.la/Q0150x0q0",
+        "link": "https://app.epicura.it/",
         "image": "",
         "variant": "gradient"
       }
@@ -29,7 +29,7 @@
     "subtitle": "",
     "button": {
       "label": "Prenota videoconsulto gratuito",
-      "link": "https://hubs.la/Q0150x0q0",
+      "link": "https://app.epicura.it/",
       "image": "",
       "variant": "gradient"
     },
