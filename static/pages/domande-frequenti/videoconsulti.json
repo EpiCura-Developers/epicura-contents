@@ -25,23 +25,23 @@
   "faqs": [
     {
       "title": "Dove è attivo il servizio di videoconsulti?",
-      "content": "Il servizio, accessibile comodamente da smartphone, pc o tablet, è disponibile in tutta Italia."
+      "content": "Tutte le prestazioni mediche in videoconsulto sono erogate <strong>in tutta Italia</strong>. Il servizio è comodamente <strong>accessibile da smartphone, pc e tablet</strong>."
     },
     {
-      "title": "Posso scegliere l'ora in cui ricevere il videoconsulto?",
-      "content": "Sì, sarai tu a indicare la fascia oraria che preferisci per ricevere il consulto online.<br />Ne potrai parlare comunque con il professionista, subito dopo il pagamento."
+      "title": "Posso scegliere il giorno e la data dell’appuntamento in videoconsulto?",
+      "content": "Epicura garantisce <strong>massima flessibilità</strong> e <strong>libertà di scelta</strong> ai pazienti. Le prestazioni mediche in videoconsulto sono erogate <strong>7 giorni su 7</strong>. Ogni utente può selezionare la fascia oraria che preferisce, in base ai propri impegni.<br/><br/>Una volta effettuate prenotazione e pagamento, è possibile entrare direttamente in contatto con il professionista e, in caso di imprevisti, modificare l’orario dell’appuntamento."
     },
     {
       "title": "Posso scegliere io il professionista?",
-      "content": "Il nostro servizio si distingue per essere molto più rapido di quello offerto dalle strutture tradizionali. Possiamo contare su una vasta rete di professionisti su tutto il territorio, in grado di rispondere a ogni situazione o necessità. Questo ci permette di selezionare il miglior specialista per te in meno di 24 ore, abbattendo sensibilmente i tempi di attesa e rendendo il servizio tempestivo e adeguato a ogni tua esigenza oraria."
+      "content": "Velocità nel processare le richieste e qualità dei servizi offerti ci contraddistinguono dalle strutture sanitarie tradizionali.<br/><br/>Epicura conta un’ampia rete di professionisti sanitari certificati e con minimo un anno di esperienza nel settore di riferimento. In base alle necessità o esigenze orarie del paziente, selezioniamo il professionista più adatto <strong>in 24 ore</strong>."
     },
     {
-      "title": "Come avverrà il videoconsulto?",
-      "content": "Dopo il pagamento e la conferma della prenotazione, riceverai una mail contenente le generalità del professionista che effettuerà il consulto e il link per collegarti alla tua video-sessione.<br /><br />Dal momento in cui accederai al videoconsulto, il link rimarrà attivo per 60 minuti. Qualora avessi problemi di accesso, puoi scriverci a [customercare@epicura.it](mailto:customercare@epicura.it).<br /><br />Ti ricordiamo che per partecipare al videoconsulto non è necessario scaricare nessuna app, né registrarsi."
+      "title": "Una volta prenotato, come mi collego al videoconsulto?",
+      "content": "A seguito di pagamento e conferma dell’appuntamento, il paziente riceve via email le generalità del professionista che effettuerà la prestazione medica e il relativo link necessario per collegarsi al videoconsulto, anche tramite App, nell’orario scelto in fase di prenotazione.<br/><br/>Qualora ci fossero problemi di accesso, è possibile inviare una email all’indirizzo <span style='color: #4060FF;'>[customercare@epicura.it](mailto:customercare@epicura.it)</span>."
     },
     {
-      "title": "Cosa posso richiedere durante un videoconsulto?",
-      "content": "Potrai richiedere consulenza su patologia già accertata o sulla tipologia di trattamenti e terapie da attuare (già prescritte), consigli di tipo specialistico su segni clinici e sintomi presenti al momento del videoconsulto.<br />Potrai inoltre risolvere qualunque dubbio su sintomi riguardanti la tua salute o quella dei tuoi cari."
+      "title": "Cosa posso chiedere durante un videoconsulto?",
+      "content": "Il videoconsulto è un'importante occasione di dialogo tra paziente e specialista, in cui chiedere consigli o pareri su:accertamenti diagnostici, sintomi clinici o trattamenti già prescritti per la tua salute o per quella dei tuoi cari."
     },
     {
       "title": "Quanto dura un videoconsulto?",
@@ -49,11 +49,11 @@
     },
     {
       "title": "Il videoconsulto tutela la mia privacy?",
-      "content": "Assolutamente sì. Tutto ciò che verrà detto tra te e lo specialista è strettamente confidenziale e legato al segreto professionale, garantendo quindi la massima riservatezza.<br /><br />Inoltre, a completa garanzia della tua privacy, non è possibile registrare né audio né video della sessione.<br />Qualora desiderassi avere una registrazione del consulto, è necessario concordarlo direttamente con il professionista."
+      "content": "Selezioniamo con cura e massima attenzione ogni professionista che entra nella rete di epiCura per garantire un servizio di qualità.<br/><br/>I nostri specialisti sanitari sono iscritti all’albo e dunque seguono il codice deontologico dell’ordine a cui appartengono che prevede l’assoluto rispetto del segreto professionale.<br/><br/>Il contenuto del videoconsulto non viene divulgato in alcun modo. Non è assolutamente possibile registrare né audio né video della sessione."
     },
     {
       "title": "Perché dovrei scegliere il videoconsulto?",
-      "content": "L'opportunità di avere consulti specialistici a portata di smartphone, senza attese o scomodi spostamenti, è una soluzione particolarmente veloce e flessibile, capace di adeguarsi a ogni esigenza.<br />Nel particolare momento storico che viviamo, inoltre, i videoconsulti sono consigliabili per evitare spostamenti e affollamenti."
+      "content": "Il videoconsulto specialistico è una valida e comoda alternativa alle visite mediche in studio. Si tratta di un servizio erogato online, prenotabile in pochi click e senza liste d’attesa. Il paziente sceglie giorno e orario in cui incontrare virtualmente il professionista per chiedere  consigli su un trattamento già prescritto, informazione per accertamenti diagnostici o valutare sintomi clinici."
     },
     {
       "title": "Il costo del videoconsulto è detraibile dalla dichiarazione dei redditi?",
