@@ -405,8 +405,8 @@
     ]
   },
   "job-banner": {
-    "title": "Sei una badante? <br /> Lavora con noi",
-    "subtitle": "Se hai esperienza nel campo dell’assistenza alla persona, svolgi il tuo lavoro con professionalità e hai referenze dimostrabili, invia il tuo curriculum per entrare a far parte della rete di professionisti epiCura, attiva in tutta Italia.",
+    "title": "Cerchi lavoro come badante? <br /> Scarica l'app per Android di epiCura!",
+    "subtitle": "Inserendo il tuo numero di telefono e l'indirizzo, l'app di epiCura ti aiuta a trovare lavoro vicino a casa tua gratuitamente e velocemente. <br /> <br /> Clicca qui per scaricare l'app:",
     "img": {
       "path": "caregiver",
       "name": "caregiver-job"
@@ -416,13 +416,12 @@
     "first-image-order": false,
     "hide-image-mobile": false,
     "has-bg-color": "caregiver",
-
     "cta-content": [
       {
-        "label": "Candidati ora",
-        "link": "https://app.ncoreplat.com/jobposition/109737/assistenti-familiari-it/ricerca-badanti",
-        "image": "",
-        "variant": "gradient"
+        "label": "Google Play Store",
+        "link": "https://play.google.com/store/apps/details?id=it.epicura.Badanti",
+        "image": "/img/badge-google-play-store.png",
+        "variant": "image"
       }
     ]
   },
