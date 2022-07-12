@@ -1,63 +1,159 @@
 [
   {
+    "logo": { "path": "common", "name": "altraeta" },
+    "title": "altraeta.it - EpiCura, in 5 anni piattaforma leader dell’assistenza domiciliare in Italia",
+    "date": "30 Giugno 2022",
+    "link": "https://altraeta.it/epicura-in-5-anni-piattaforma-leader-dellassistenza-domiciliare-in-italia/"
+  },
+  {
+    "logo": { "path": "common", "name": "laltramedicina" },
+    "title": "laltramedicina.it - Alzheimer: Da Epicura 5 Consigli Per Alleggerire Il Carico Emotivo Dei Caregiver",
+    "date": "07 Giugno 2022",
+    "link": "https://www.laltramedicina.it/notizie/alzheimer-da-epicura-5-consigli-per-alleggerire-il-carico-emotivo-dei-caregiver/"
+  },
+  {
+    "logo": { "path": "common", "name": "politicamentecorretto" },
+    "title": "Politicamentecorretto.com - epiCura apre lo spazio fisico a Milano: dal digital al phygital per semplificare l'accesso alla cura e non rinunciare al contatto con le persone",
+    "date": "26 Aprile 2022",
+    "link": "https://www.politicamentecorretto.com/2022/04/26/epicura-apre-lo-spazio-fisico-a-milano-dal-digital-al-phygital-per-semplificare-laccesso-alla-cura-e-non-rinunciare-al-contatto-con-le-persone/"
+  },
+  {
+    "logo": { "path": "common", "name": "impresasanita" },
+    "title": "impresasanita.it - Nuova Linea Corporate di epiCura",
+    "date": "22 Aprile 2022",
+    "link": "https://www.impresasanita.it/it/articles/20220422/nuova_linea_corporate_di_epicura"
+  },
+  {
+    "logo": { "path": "common", "name": "tecnomedicina" },
+    "title": "tecnomedicina.it - A Torino epiCura apre il primo spazio fisico",
+    "date": "22 Aprile 2022",
+    "link": "https://www.tecnomedicina.it/a-torino-epicura-apre-il-primo-spazio-fisico/"
+  },
+  {
+    "logo": { "path": "common", "name": "uditeudite" },
+    "title": "udite-udite.it - A Torino epiCura apre il primo spazio fisico: dal digital al phygital per semplificare l'accesso alla cure e non rinunciare con contatto con le persone",
+    "date": "20 Aprile 2022",
+    "link": "https://udite-udite.it/2022/04/a-torino-epicura-apre-il-primo-spazio-fisico-dal-digital-al-phygital-per-semplificare-laccesso-alla-cura-e-non-rinunciare-al-contatto-con-le-persone/"
+  },
+  {
+    "logo": { "path": "common", "name": "politicamentecorretto" },
+    "title": "Politicamentecorretto.com - epiCura apre il primo spazio fisico a Torino: dal digital al phygital per semplificare l'accesso alla cure e non rinunciare con contatto con le persone",
+    "date": "20 Aprile 2022",
+    "link": "https://www.politicamentecorretto.com/2022/04/20/epicura-apre-il-primo-spazio-fisico-a-torino-dal-digital-al-phygital-per-semplificare-laccesso-alla-cura-e-non-rinunciare-al-contatto-con-le-persone/"
+  },
+  {
+    "logo": { "path": "common", "name": "dailyonline" },
+    "title": "Daily online - Serviceplan e Mediaplus curano l’adv di posizionamento di epiCura e contribuiscono alla crescita attesa dei ricavi netti del Gruppo del 7/8% a giugno",
+    "date": "12 Aprile 2022",
+    "link": "https://www.dailyonline.it/it/2022/serviceplan-mediaplus-curano-ladv-posizionamento-epicura-contribuiscono-alla-crescita-attesa-dei-ricavi-netti-del-gruppo-del-78"
+  },
+  {
+    "logo": { "path": "common", "name": "lastampa" },
+    "title": "La Stampa - epiCura startup di successo. Il poliambulatorio digitale apre le porte ai clienti fisici.",
+    "date": "12 Aprile 2022",
+    "link": "/press/La_Stampa_12_04_2022.pdf"
+  },
+  {
+    "logo": { "path": "common", "name": "mediakey" },
+    "title": "Media Key - epiCura lancia la nuova campagna di comunicazione e da il via al nuovo posizionamento 'pensa solo alla salute'",
+    "date": "11 Aprile 2022",
+    "link": "https://www.mediakey.tv/leggi-news/epicura-lancia-la-nuova-campagna-di-comunicazione-e-da-il-via-al-nuovo-posizionamento-pensa-solo-alla-salute"
+  },
+  {
+    "logo": { "path": "common", "name": "youmark" },
+    "title": "Youmark! - Con il claim 'Pensa solo alla salute', epiCura lancia la nuova campagna di comunicazione integrata addressable TV, OOH e digital. Creatività di Serviceplan Italia, pianifica Mediap",
+    "date": "11 Aprile 2022",
+    "link": "https://youmark.it/ym-interactive/con-il-claim-pensa-solo-alla-salute-epicura-lancia-la-nuova-campagna-di-comunicazione-integrata-addressable-tv-ooh-e-digital-creativita-di-serviceplan-italia-pianifica-mediaplus/"
+  },
+  {
+    "logo": { "path": "common", "name": "milanofinanza" },
+    "title": "Metti un poliambulatorio digitale nel welfare aziendale",
+    "date": "29 Marzo 2022",
+    "link": "/press/MilanoFinanza.pdf"
+  },
+  {
+    "logo": { "path": "common", "name": "corrieredellasera" },
+    "title": "Corriere della Sera – EpiCura, welfare aziendale e ambulatori hi tech",
+    "date": "15 Marzo 2022",
+    "link": "/press/EpiCura_welfare_aziendale_e_ambulatori_hi_tech.pdf"
+  },
+  {
+    "logo": { "path": "common", "name": "ilsole24ore" },
+    "title": "Il Sole 24 ORE - Epicura investe sul welfare aziendale e apre negozi fisici",
+    "date": "16 Febbraio 2022",
+    "link": "https://www.ilsole24ore.com/art/epicura-investe-welfare-aziendale-e-apre-negozi-fisici-AEofUXBB"
+  },
+  {
     "logo": { "path": "common", "name": "corrieredellasera" },
     "title": "Corriere della Sera – epiCura, welfare aziendale e ambulatori hi tech",
     "date": "8 Gennaio 2022",
     "link": "/press/Epicura_Corriere_080122.pdf"
   },
   {
-    "logo": { "path": "common", "name": "forbes" },
-    "title": "Forbes - Questi due ragazzi hanno appena raccolto 5 milioni di euro per portare il loro poliambulatorio digitale in tutta Italia",
-    "date": "17 Settembre 2021",
-    "link": "https://forbes.it/2021/09/17/epicura-poliambulatorio-digitale-raccoglie-altri-5-milioni-euro/"
+    "logo": { "path": "common", "name": "tecnomedicina" },
+    "title": "tecnomedicina.it - EpiCura fa il suo ingresso nel mercato del welfare aziendale",
+    "date": "9 Marzo 2022",
+    "link": "https://www.tecnomedicina.it/epicura-fa-il-suo-ingresso-nel-mercato-del-welfare-aziendale/"
   },
   {
-    "logo": { "path": "common", "name": "startupitalia" },
-    "title": "Startup Italia - epiCura chiude terzo round da 5 milioni di euro. L’operazione è guidata da Europ Assistance",
-    "date": "17 Settembre 2021",
-    "link": "https://startupitalia.eu/162392-20210916-epicura-chiude-un-terzo-round-da-5-milioni-di-euro-loperazione-e-guidata-da-europ-assistance"
-  },
-  {
-    "logo": { "path": "common", "name": "larepubblica" },
-    "title": "La Repubblica - Europ Assistance scommette sul poliambulatorio digitale epiCura: round da 5 milioni",
-    "date": "16 Settembre 2021",
-    "link": "https://www.repubblica.it/economia/finanza/2021/09/16/news/europ_assistance_scommette_sul_poliambulatorio_digitale_epicura_round_da_5_milioni-318099065/"
-  },
-  {
-    "logo": { "path": "common", "name": "ilsole24ore" },
-    "title": "Il Sole 24 ORE - Il poliambulatorio digitale epiCura chiude un terzo round da 5 milioni",
-    "date": "16 Settembre 2021",
-    "link": "https://www.ilsole24ore.com/art/il-poliambulatorio-digitale-epicura-chiude-terzo-round-5-milioni-AEGUg4i"
-  },
-  {
-    "logo": { "path": "common", "name": "techprincess" },
-    "title": "Tech Princess - I consigli di epiCura per un’estate mindful",
-    "date": "11 Luglio 2021",
-    "link": "https://techprincess.it/epicura-estate-consigli/"
-  },
-  {
-    "logo": { "path": "common", "name": "innovationnation" },
-    "title": "Innovation Nation - Depressione post Covid: ecco epiCura, l'app per il supporto psicologico online",
-    "date": "11 Giugno 2021",
-    "link": "https://www.innovation-nation.it/depressione-post-covid-ecco-epicura-lapp-per-il-supporto-psicologico/"
+    "logo": { "path": "common", "name": "sbircialanotizia" },
+    "title": "sbircialanotizia.it - epiCura chiude terzo round da 5 milioni di euro. L’operazione è guidata da Europ Assistance",
+    "date": "09 Marzo 2022",
+    "link": "https://www.sbircialanotizia.it/innovazione-poliambulatorio-digitale-epicura-entra-nel-welfare-aziendale/"
   },
   {
     "logo": { "path": "common", "name": "sanitadigitale" },
-    "title": "Sanità Digitale - epiCura: il poliambulatorio digitale per la terapia online",
-    "date": "10 Giugno 2021",
-    "link": "https://www.sanita-digitale.com/cura/epicura-il-poliambulatorio-digitale-per-la-terapia-online/"
+    "title": "Sanità Digitale - Europ Assistance scommette sul poliambulatorio digitale epiCura: round da 5 milioni",
+    "date": "09 Marzo 2022",
+    "link": "https://www.sanita-digitale.com/in-evidenza/epicura-entra-nel-mercato-del-welfare-aziendale/"
   },
   {
-    "logo": { "path": "common", "name": "socialandtech" },
-    "title": "Social and Tech - epiCura, il primo poliambulatorio digitale in Italia",
-    "date": "1 Giugno 2021",
-    "link": "https://socialandtech.net/epicura-il-primo-poliambulatorio-digitale-in-italia/"
+    "logo": { "path": "common", "name": "pianetasalute" },
+    "title": "Pianeta Salute - Epicura, il primo poliambulatorio digitale in Italia, fa il suo ingresso nel mercato del welfare aziendale",
+    "date": "09 Marzo 2022",
+    "link": "https://www.pianetasaluteonline.com/2022/03/09/epicura-il-primo-poliambulatorio-digitale-in-italia-fa-il-suo-ingresso-nel-mercato-del-welfare-aziendale/"
   },
   {
-    "logo": { "path": "common", "name": "techprincess" },
-    "title": "Tech Princess - epiCura è il primo poliambulatorio digitale in Italia",
-    "date": "1 Giugno 2021",
-    "link": "https://techprincess.it/epicura-il-primo-poliambulatorio-digitale/"
+    "logo": { "path": "common", "name": "milanofinanza" },
+    "title": "Milano Finanaza - I consigli di epiCura per un’estate mindful",
+    "date": "09 Marzo 2022",
+    "link": "https://it.marketscreener.com/quotazioni/azione/ASSICURAZIONI-GENERALI-S-68929/attualita/Epicura-fa-il-suo-ingresso-in-mercato-welfare-aziendale-39713536/"
+  },
+  {
+    "logo": { "path": "common", "name": "marketscreener" },
+    "title": "MarketScreener - epiCura: fa il suo ingresso in mercato welfare aziendale",
+    "date": "09 Marzo 2022",
+    "link": "https://it.marketscreener.com/quotazioni/azione/ASSICURAZIONI-GENERALI-S-68929/attualita/Epicura-fa-il-suo-ingresso-in-mercato-welfare-aziendale-39713536/"
+  },
+  {
+    "logo": { "path": "common", "name": "advfn" },
+    "title": "ADVFN - epiCura: fa il suo ingresso in mercato welfare aziendale",
+    "date": "09 Marzo 2022",
+    "link": "https://it.advfn.com/mercati/notizie/87506658/epicura-fa-il-suo-ingresso-in-mercato-welfare-azi"
+  },
+  {
+    "logo": { "path": "common", "name": "askanews" },
+    "title": "Askanews - Welfare, epiCura presenta una nuova linea dedicata alle aziende",
+    "date": "09 Marzo 2022",
+    "link": "https://www.askanews.it/cronaca/2022/03/09/welfare-epicura-presenta-una-nuova-linea-dedicata-alle-aziende-pn_20220309_00077/"
+  },
+  {
+    "logo": { "path": "common", "name": "ansa" },
+    "title": "Ansa - epiCura entra nel mondo del welfare aziendale",
+    "date": "09 Marzo 2022",
+    "link": "https://www.ansa.it/piemonte/notizie/2022/03/09/epicura-entra-nel-mondo-del-welfare-aziendale_b51fd7af-41bb-49c3-9c35-418f85201edf.html"
+  },
+  {
+    "logo": { "path": "common", "name": "tgcom24" },
+    "title": "TGCOM24 - epiCura: fa il suo ingresso in mercato welfare aziendale",
+    "date": "09 Marzo 2022",
+    "link": "http://finanza.tgcom24.mediaset.it/news/dettaglio_news.asp?id=202203092004081530&chkAgenzie=PMFNW"
+  },
+  {
+    "logo": { "path": "common", "name": "milanofinanza" },
+    "title": "Milano Finanza - epiCura entra nel mercato del welfare aziendale",
+    "date": "09 Marzo 2022",
+    "link": "https://www.milanofinanza.it/news/epicura-entra-nel-mercato-del-welfare-aziendale-202203091412271090"
   },
   {
     "logo": { "path": "common", "name": "economy_magazine" },
@@ -66,94 +162,23 @@
     "link": "https://www.economymagazine.it/news/2021/05/25/news/epicura-al-fianco-delle-donne-nella-gestione-della-salute-dei-propri-cari-61748/"
   },
   {
-    "logo": { "path": "common", "name": "linnovatore" },
-    "title": "L'Innovatore - In forma per l’estate con epiCura",
-    "date": "24 Maggio 2021",
-    "link": "https://linnovatore.it/in-forma-per-estate-con-epicura/"
+    "logo": { "path": "common", "name": "adnkronos-logo" },
+    "title": "Adnkronos - Innovazione, poliambulatorio digitale epiCura entra nel welfare aziendale",
+    "date": "09 Marzo 2022",
+    "link": "https://www.adnkronos.com/innovazione-poliambulatorio-digitale-epicura-entra-nel-welfare-aziendale_3a7uRKJbBWxylJz3LzPaPU"
   },
   {
-    "logo": { "path": "common", "name": "italianotizie24" },
-    "title": "Italia Notizie 24 - Cani a rischio in primavera, ecco i consigli dei veterinari di epiCura",
-    "date": "31 Marzo 2021",
-    "link": "https://www.italianotizie24.it/cani-a-rischio-in-primavera-ecco-i-consigli-dei-veterinari-di-epicura/"
+    "logo": { "path": "common", "name": "techbusiness" },
+    "title": "Tech Business - epiCura entra nel mercato del welfare aziendale",
+    "date": "09 Marzo 2022",
+    "link": "https://techbusiness.it/epicura-welfare-aziendale/"
   },
+
   {
     "logo": { "path": "common", "name": "today-logo" },
     "title": "Today - Smart Working, da epiCura ecco 5 consigli pratici per la perfetta postazione di lavoro in casa",
     "date": "23 Febbraio 2021",
     "link": "https://www.today.it/innovazione/smart-working-postazione.html"
-  },
-  {
-    "logo": { "path": "common", "name": "startupitalia" },
-    "title": "StartupItalia - Top 100: le migliori startup italiane del 2020",
-    "date": "17 Dicembre 2020",
-    "link": "https://startupitalia.eu/142997-20201211-la-top-100-le-migliori-startup-italiane-del-2020-secondo"
-  },
-  {
-    "logo": { "path": "common", "name": "avvenirelogo" },
-    "title": "Avvenire - La rete digitale per visite a domicilio",
-    "date": "5 Dicembre 2020",
-    "link": "/press/Avvenire_5-dic-20.pdf"
-  },
-  {
-    "logo": { "path": "common", "name": "ilsole24ore" },
-    "title": "Il Sole 24 ORE - Covid e consulti medici, epiCura triplica i ricavi con i dottori a domicilio",
-    "date": "6 Novembre 2020",
-    "link": "https://www.ilsole24ore.com/art/covid-e-consulti-medici-epicura-triplica-ricavi-i-dottori-domicilio-ADpLjax"
-  },
-  {
-    "logo": { "path": "common", "name": "larepubblica" },
-    "title": "La Repubblica - epiCura, il Poliambulatorio Virtuale - il business delle diagnosi a distanza",
-    "date": "2 Novembre 2020",
-    "link": "/press/La_Repubblica_Torino_2-nov-2020.pdf"
-  },
-  {
-    "logo": { "path": "common", "name": "skytg24" },
-    "title": "Sky TG24 - epiCura, il Primo Poliambulatorio Digitale in Italia - Dalla telemedicina alle visite a domicilio",
-    "date": "17 Ottobre 2020",
-    "link": "https://www.youtube.com/watch?v=9xzqXiCok7E&t=1s"
-  },
-  {
-    "logo": { "path": "common", "name": "lastampa" },
-    "title": "La Stampa - Cos’è epiCura e perché ha successo: così nasce il primo poliambulatorio digitale d’Italia",
-    "date": "10 Ottobre 2020",
-    "link": "https://www.lastampa.it/topnews/economia-finanza/2020/10/10/news/cos-e-epicura-e-perche-ha-successo-cosi-nasce-il-primo-poliambulatorio-digitale-d-italia-1.39403536"
-  },
-  {
-    "logo": { "path": "common", "name": "startupbusinesslogo" },
-    "title": "StartupBusiness - epiCura, poliambulatorio digitale, in fortissima crescita",
-    "date": "8 Ottobre 2020",
-    "link": "https://www.startupbusiness.it/epicura-poliambulatorio-digitale-in-fortissima-crescita/105554/"
-  },
-  {
-    "logo": { "path": "common", "name": "ilsole24ore" },
-    "title": "Il Sole 24 Ore - Due milioni di euro per il poliambulatorio digitale epiCura",
-    "date": "8 Ottobre 2020",
-    "link": "https://www.ilsole24ore.com/art/due-milioni-euro-il-poliambulatorio-digitale-epicura-AD7BbZu"
-  },
-  {
-    "logo": { "path": "common", "name": "adnkronos-logo" },
-    "title": "Adnkronos – Estate, 10 app sostenibili per sopravvivere ad agosto",
-    "date": "10 Agosto 2020",
-    "link": "https://www.adnkronos.com/sostenibilita/tendenze/2020/08/10/estate-app-sostenibili-per-sopravvivere-agosto_ewuWBFTmAXH4XXUhebFgKJ.html"
-  },
-  {
-    "logo": { "path": "common", "name": "wall-street-italia" },
-    "title": "Wall Street Italia – Il poliambulatorio diventa digitale",
-    "date": "7 Luglio 2020",
-    "link": "/press/wall-street-italia7-lug-20.pdf"
-  },
-  {
-    "logo": { "path": "common", "name": "radio-number-one-logo" },
-    "title": "Radio Number One – Cosa è epiCura? Il poliambulatorio digitale tutto italiano",
-    "date": "5 Giugno 2020",
-    "link": "https://anchor.fm/mistergadget/episodes/Cosa--epiCura--Il-poliambulatorio-digitale-tutto-italiano-ef1baj"
-  },
-  {
-    "logo": { "path": "common", "name": "today-logo" },
-    "title": "Today.it – Dalle visite a domicilio alla telemedicina: è epiCura, poliambulatorio digitale e disponibile 7 giorni su 7",
-    "date": "3 Giugno 2020",
-    "link": "http://www.today.it/innovazione/startup/visite-mediche-domicilio-telemedicina-epicura-7-giorni-su-7.html"
   },
   {
     "logo": { "path": "common", "name": "affariitaliani" },
@@ -162,160 +187,10 @@
     "link": "https://www.affaritaliani.it/sociale/senior/covid-19-anziani-epicura-utilizza-assistenza-domiciliare-video-consulti-671435.html"
   },
   {
-    "logo": { "path": "common", "name": "lastampa" },
-    "title": "La Stampa – Emergenza coronavirus, epiCura potenzia il servizio di tele e video-consulto",
-    "date": "24 Marzo 2020",
-    "link": "https://www.lastampa.it/tecnologia/news/2020/03/24/news/emergenza-coronavirus-epicura-potenzia-il-servizio-di-tele-e-video-consulto-1.38632546"
-  },
-  {
-    "logo": { "path": "common", "name": "ilsole24ore" },
-    "title": "Il Sole 24 ORE – Così due ragazzi hanno creato il primo poliambulatorio digitale d’Italia",
-    "date": "23 Febbraio 2020",
-    "link": "https://stream24.ilsole24ore.com/video/italia/cosi-due-ragazzi-hanno-creato-primo-poliambulatorio-digitale-d-italia/AC74b6JB"
-  },
-  {
-    "logo": { "path": "common", "name": "ilsole24ore" },
-    "title": "Il Sole 24 ORE – epiCura amplia i servizi e-health. Giro di affari in crescita del 150%",
-    "date": "7 Febbraio 2020",
-    "link": "https://www.ilsole24ore.com/art/epicura-amplia-servizi-e-health-giro-d-affari-crescita-150percento-ACOBbAEB"
-  },
-  {
-    "logo": { "path": "common", "name": "forbes" },
-    "title": "Forbes – Come funziona il poliambulatorio digitale fondato da due italiani under30",
-    "date": "4 Febbraio 2020",
-    "link": "https://forbes.it/2020/02/04/come-funziona-il-poliambulatorio-2-0-creato-da-due-italiani-under-30/"
-  },
-  {
-    "logo": { "path": "common", "name": "digital-health-italia-logo" },
-    "title": "Digital Health Italia – epiCura: il primo ambulatorio digitale in Italia",
-    "date": "12 Giugno 2019",
-    "link": "http://digitalhealthitalia.com/epicura-il-primo-ambulatorio-digitale-in-italia/"
-  },
-  {
-    "logo": { "path": "common", "name": "lastampa" },
-    "title": "La Stampa – epiCura raccoglie un milione di euro",
-    "date": "12 Giugno 2019",
-    "link": "https://www.lastampa.it/2019/06/12/economia/epicura-raccoglie-un-milione-di-euro-L4ObtVQPYKypaS5oIpCfFJ/pagina.html"
-  },
-  {
     "logo": { "path": "common", "name": "AboutPharma-logo" },
     "title": "About Pharma – Assistenza domiciliare, un milione di euro per la startup epiCura",
     "date": "11 Giugno 2019",
     "link": "https://www.aboutpharma.com/blog/2019/06/11/assistenza-domiciliare-un-milione-di-euro-per-la-startup-epicura/"
-  },
-  {
-    "logo": { "path": "common", "name": "yahoofinance" },
-    "title": "Yahoo Finanza – Con epiCura il medico è a portata di app 7 giorni su 7",
-    "date": "11 Giugno 2019",
-    "link": "https://it.finance.yahoo.com/notizie/con-epi-cura-il-medico-e-a-portata-di-app-7-giorni-su-7-102708142.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADWwZwsu7izaKFhjg_nZ0jKCF4Ak2QoKVwirQ4PN64dcWUyuA__glnVAAbHvbjRjiLkegZ2gBvcwvxgrlsrXY6GOzuCTnMEPZ-AqkOIJaUHpdIhTb68zxxMHBmmcbavaXltR_1R-tVnSnT5mA-S5xdPr3HAJ9UTDuUfRZJFouzla"
-  },
-  {
-    "logo": { "path": "common", "name": "startupitalia" },
-    "title": "StartupItalia – epiCura chiude un secondo round di investimento da 1 milione di euro",
-    "date": "11 Giugno 2019",
-    "link": "https://startupitalia.eu/110689-20190611-epicura-chiude-un-secondo-round-di-investimento-da-1-milione-di-euro"
-  },
-  {
-    "logo": { "path": "common", "name": "startupbusinesslogo" },
-    "title": "StartupBusiness - epiCura, startup digital health, chiude crowdfunding da 1 milione",
-    "date": "11 Giugno 2019",
-    "link": "https://www.startupbusiness.it/epicura-prenotazione-visite-mediche-crowdfunding-da-1-milione/100255/"
-  },
-  {
-    "logo": { "path": "common", "name": "financecommunity-logo" },
-    "title": "Finance Community – epiCura chiude un round da 1 milione su Mamacrowd",
-    "date": "11 Giugno 2019",
-    "link": "https://financecommunity.it/epicura-chiude-un-round-1-milione-mamacrowd/"
-  },
-  {
-    "logo": { "path": "common", "name": "ilsole24ore" },
-    "title": "Il Sole 24 ORE – epiCura chiude un secondo round da un milione di euro",
-    "date": "11 Giugno 2019",
-    "link": "https://www.ilsole24ore.com/art/tecnologie/2019-06-10/epicura-chiude-secondo-round-un-milione-euro-154620.shtml?uuid=ACzA3hP"
-  },
-  {
-    "logo": { "path": "common", "name": "money-logo" },
-    "title": "Money.it – epiCura: il poliambulatorio digitale a domicilio chiude round da €1 milione",
-    "date": "11 Giugno 2019",
-    "link": "https://www.money.it/epiCura-poliambulatorio-digitale-a-domicilio-chiude-round-1-milione-Mamacrowd"
-  },
-  {
-    "logo": { "path": "common", "name": "ninja-logo" },
-    "title": "Ninja Marketing - Il nuovo round di epiCura, la startup del poliambulatorio digitale",
-    "date": "11 Giugno 2019",
-    "link": "https://www.ninjamarketing.it/2019/06/11/round-epicura-startup/"
-  },
-  {
-    "logo": { "path": "common", "name": "forbes" },
-    "title": "Forbes - Il poliambulatorio digitale di due Under 30 raccoglie 1 milione di euro",
-    "date": "11 Giugno 2019",
-    "link": "https://forbes.it/2019/06/11/startup-epicura-chiude-un-round-di-investimento-da-un-milione-di-euro/"
-  },
-  {
-    "logo": { "path": "common", "name": "startupbusinesslogo" },
-    "title": "Startupbusiness - epiCura, startup digital health, verso il milione col crowdfunding",
-    "date": "9 Maggio 2019",
-    "link": "https://www.startupbusiness.it/epicura-startup-digital-health-verso-il-milione-col-crowdfunding/99884/"
-  },
-  {
-    "logo": { "path": "common", "name": "askanewslogo" },
-    "title": "Askanews - Con epiCura prestazioni sanitarie a portata di click",
-    "date": "6 Maggio 2019",
-    "link": "https://www.askanews.it/video/2019/05/06/con-epicura-prestazioni-sanitarie-a-portata-di-click-20190503_video_19030039/"
-  },
-  {
-    "logo": { "path": "common", "name": "corrieredellasera" },
-    "title": "Corriere della Sera – Dal Poker all'assistenza sanitaria. epiCura fa il pieno di capitali",
-    "date": "20 Aprile 2019",
-    "link": "/press/articolo-corriere-epicura.pdf"
-  },
-  {
-    "logo": { "path": "common", "name": "wired-logo" },
-    "title": "Wired - 6 startup italiane che sono pronte a diventare grandi",
-    "date": "19 Aprile 2019",
-    "link": "https://www.wired.it/economia/start-up/2019/04/19/startup-lventure-group/"
-  },
-  {
-    "logo": { "path": "common", "name": "ilsole24ore" },
-    "title": "Il Sole 24 ORE – epiCura lancia un secondo round da 800mila euro",
-    "date": "2 Aprile 2019",
-    "link": "https://www.ilsole24ore.com/art/finanza-e-mercati/2019-04-01/epicura-lancia-secondo-round-800mila-euro-152257.shtml?uuid=ABPgUpjB"
-  },
-  {
-    "logo": { "path": "common", "name": "forbes" },
-    "title": "Forbes Under 30 2019",
-    "date": "28 marzo 2019",
-    "link": "/press/forbes-under30ita.pdf"
-  },
-  {
-    "logo": { "path": "common", "name": "lastampa" },
-    "title": "La Stampa – B Heroes: quattro startup piemontesi parteciperanno al reality su Sky Uno",
-    "date": "2 Febbraio 2019",
-    "link": "https://www.lastampa.it/2019/02/02/economia/b-heroes-quattro-startup-piemontesi-parteciperanno-al-reality-su-sky-uno-PZqMQB2TF6DFDJaJQXYBHK/pagina.html"
-  },
-  {
-    "logo": { "path": "common", "name": "ilsole24ore" },
-    "title": "Il Sole 24 Ore – B Heroes, ecco le startup che parteciperanno in tv al talent show",
-    "date": "16 Gennaio 2019",
-    "link": "https://www.ilsole24ore.com/art/tecnologie/2019-01-15/b-heroes-ecco-startup-che-parteciperanno-tv-talent-show--085846.shtml?uuid=AELmCnEH"
-  },
-  {
-    "logo": { "path": "common", "name": "markup" },
-    "title": "Mark Up – Smart Aging: le 4 start up più innovative nei servizi di assistenza per gli over60",
-    "date": "13 Dicembre 2018",
-    "link": "https://www.mark-up.it/smart-aging-premiate-le-4-start-up-piu-innovative-nei-servizi-di-assistenza-per-gli-over60/"
-  },
-  {
-    "logo": { "path": "common", "name": "startupitalia" },
-    "title": "StartupItalia – Smart aging, quattro startup per gli over 60",
-    "date": "29 Novembre 2018",
-    "link": "https://startupitalia.eu/101234-20181129-smart-aging-quattro-startup-gli-over-60"
-  },
-  {
-    "logo": { "path": "common", "name": "ansa" },
-    "title": "ANSA – Europ Assistance, selezionate 4 start-up con focus su over 60",
-    "date": "27 Novembre 2018",
-    "link": "http://www.ansa.it/sito/videogallery/economia/2018/11/27/europ-assistance-selezionate-4-start-up-con-focus-su-over-60_b7bb637d-bc08-425d-b966-34865aecf312.html"
   },
   {
     "logo": { "path": "common", "name": "ansa" },
@@ -328,113 +203,5 @@
     "title": "ANSA – Nuovi servizi per i babyboomers grazie alle startup",
     "date": "27 Novembre 2018",
     "link": "http://www.ansa.it/industry_4_0/notizie/news/2018/11/27/europ-assistance-seleziona-4-start-up_fe54e59a-f300-4c64-9f91-6ff2e8b34b43.html"
-  },
-  {
-    "logo": { "path": "common", "name": "affariitaliani" },
-    "title": "Affari Italiani – Smart Aging: quattro le startup selezionate da Europ Assistance e Generali",
-    "date": "27 Novembre 2018",
-    "link": "http://www.affaritaliani.it/economia/smart-aging-quattro-le-startup-selezionate-da-europ-assistance-generali-574343.html"
-  },
-  {
-    "logo": { "path": "common", "name": "yahoofinance" },
-    "title": "Yahoo Finanza – Il fisioterapista è 4.0. “L’assistenza arriva a casa in 24 ore”",
-    "date": "17 Luglio 2018",
-    "link": "https://it.finance.yahoo.com/notizie/il-fisioterapista-e-4-0-lassistenza-arriva-casa-24-ore-090213354.html?guccounter=2"
-  },
-  {
-    "logo": { "path": "common", "name": "lastampa" },
-    "title": "La Stampa – Il fisioterapista è 4.0 “L’assistenza arriva a casa entro 24 ore”",
-    "date": "17 Luglio 2018",
-    "link": "/dati-societari/20180717NA28-Dorso1M_s.pdf"
-  },
-  {
-    "logo": { "path": "common", "name": "corrieredellasera" },
-    "title": "Corriere della Sera – La start up che porta l’assistenza a domicilio",
-    "date": "12 Dicembre 2017",
-    "link": "/dati-societari/epiCura-Corriere-della-Sera.jpg"
-  },
-  {
-    "logo": { "path": "common", "name": "torinosette" },
-    "title": "Torino7 – La fisioterapia cambia volto. Un nesso tra vista&postura",
-    "date": "6 Ottobre 2017",
-    "link": "/dati-societari/Articolo+to7.pdf"
-  },
-  {
-    "logo": { "path": "common", "name": "startthink" },
-    "title": "Starthink Magazine – La fisioterapia a domicilio, comoda e sicura",
-    "date": "6 Ottobre 2017",
-    "link": "https://www.starthinkmagazine.it/2017/10/06/epicura-la-fisioterapia-domicilio-comoda-sicura/"
-  },
-  {
-    "logo": { "path": "common", "name": "startupitalia" },
-    "title": "StartupItalia – Da Foundamenta al primo round | Così cresce epiCura, la startup della fisioterapia a casa",
-    "date": "12 Settembre 2017 ",
-    "link": "http://openinnovation.startupitalia.eu/56812-20170912-da-foundamenta-al-primo-round-cosi-cresce-epicura-la-startup-della-fisioterapia-a-casa"
-  },
-  {
-    "logo": { "path": "common", "name": "lastampa" },
-    "title": "La Stampa – Il caso SocialFare",
-    "date": "15 Luglio 2017",
-    "link": "/dati-societari/Articolo-La-Stampa-epiCura.jpeg"
-  },
-  {
-    "logo": { "path": "common", "name": "diariodelweb" },
-    "title": "Diario del Web – Startup e investitori, il valore sociale genera nuova economia",
-    "date": "27 Giugno 2017",
-    "link": "https://www.diariodelweb.it/innovazione/articolo/?nid=20170627_427023"
-  },
-  {
-    "logo": { "path": "common", "name": "startupitalia" },
-    "title": "StartupItalia – La piattaforma digitale di fisioterapia e osteopatia a domicilio. epiCura (SocialFare)",
-    "date": "9 Maggio 2017",
-    "link": "http://openinnovation.startupitalia.eu/55777-20170509-la-piattaforma-digitale-di-fisioterapia-e-osteopatia-a-domicilio-epicura-socialfare"
-  },
-  {
-    "logo": { "path": "common", "name": "ilsole24ore" },
-    "title": "Il Sole 24 Ore – Le startup che migliorano le città",
-    "date": "14 Aprile 2017 ",
-    "link": "https://www.ilsole24ore.com/art/tecnologie/2017-04-14/le-startup-che-migliorano-citta-144713.shtml?uuid=AEEbkS5&refresh_ce=1"
-  },
-  {
-    "logo": { "path": "common", "name": "corrierenazionale" },
-    "title": "Corriere Nazionale – Foundamenta #3, cinque startup a impatto sociale ammesse al programma SocialFare",
-    "date": "13 Aprile 2017",
-    "link": "https://www.corrierenazionale.it/2017/04/13/foundamenta-3-cinque-startup-impatto-sociale-ammesse-al-programma-socialfare/"
-  },
-  {
-    "logo": { "path": "common", "name": "iltorinese" },
-    "title": "Il Torinese – Fisioterapia e Osteopatia a domicilio a portata di click!",
-    "date": "5 Marzo 2017",
-    "link": "http://www.iltorinese.it/fisioterapia-e-osteopatia-a-domicilio-a-portata-di-click/"
-  },
-  {
-    "logo": { "path": "common", "name": "diariodelweb" },
-    "title": "Diario del Web – Startup e investitori, il valore sociale genera nuova economia",
-    "date": "27 Giugno 2017",
-    "link": "https://www.diariodelweb.it/innovazione/articolo/?nid=20170627_427023"
-  },
-  {
-    "logo": { "path": "common", "name": "startupitalia" },
-    "title": "StartupItalia – La piattaforma digitale di fisioterapia e osteopatia a domicilio. epiCura (SocialFare)",
-    "date": "9 Maggio 2017",
-    "link": "http://openinnovation.startupitalia.eu/55777-20170509-la-piattaforma-digitale-di-fisioterapia-e-osteopatia-a-domicilio-epicura-socialfare"
-  },
-  {
-    "logo": { "path": "common", "name": "ilsole24ore" },
-    "title": "Il Sole 24 Ore – Le startup che migliorano le città",
-    "date": "14 Aprile 2017 ",
-    "link": "https://www.ilsole24ore.com/art/tecnologie/2017-04-14/le-startup-che-migliorano-citta-144713.shtml?uuid=AEEbkS5&refresh_ce=1"
-  },
-  {
-    "logo": { "path": "common", "name": "corrierenazionale" },
-    "title": "Corriere Nazionale – Foundamenta #3, cinque startup a impatto sociale ammesse al programma SocialFare",
-    "date": "13 Aprile 2017",
-    "link": "https://www.corrierenazionale.it/2017/04/13/foundamenta-3-cinque-startup-impatto-sociale-ammesse-al-programma-socialfare/"
-  },
-  {
-    "logo": { "path": "common", "name": "iltorinese" },
-    "title": "Il Torinese – Fisioterapia e Osteopatia a domicilio a portata di click!",
-    "date": "5 Marzo 2017",
-    "link": "http://www.iltorinese.it/fisioterapia-e-osteopatia-a-domicilio-a-portata-di-click/"
   }
 ]
