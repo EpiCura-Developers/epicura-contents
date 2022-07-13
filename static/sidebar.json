@@ -38,18 +38,6 @@
     }
   },
   {
-    "option-link": "/professionisti-lavoro/",
-    "option-label": "Sei un professionista?",
-    "option-is-complex": true,
-    "option-is-amp": false,
-    "option-style-object-like": {
-      "font-weight": "bold",
-      "margin-top": "5px",
-      "border-bottom": "1px solid rgba(0,0,0,0.161)",
-      "padding-bottom": "15px"
-    }
-  },
-  {
     "option-link": "/domande-frequenti/",
     "option-label": "Domande frequenti",
     "option-is-complex": true,

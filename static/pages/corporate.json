@@ -141,6 +141,16 @@
     "clinic": true,
     "cards": [
       {
+        "title": "Ospedale San Raffaele",
+        "text": "Milano",
+        "img": {
+          "path": "poliambulatori",
+          "name": "sanraffaele"
+        },
+        "url": "",
+        "discipline": ""
+      },
+      {
         "title": "Lam Centro Biochimico",
         "text": "Milano - Via Pergolesi, 13 ",
         "img": {
