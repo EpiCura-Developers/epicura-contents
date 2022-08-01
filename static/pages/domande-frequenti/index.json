@@ -38,22 +38,6 @@
         "path": "common",
         "name": "AD-faq-card"
       }
-    },
-    {
-      "link": "/videoconsulti",
-      "title": "Videoconsulti specialistici",
-      "image": {
-        "path": "common",
-        "name": "videoconsulti-faq-card"
-      }
-    },
-    {
-      "link": "/psicologia-psicoterapia-online",
-      "title": "Psicologia online",
-      "image": {
-        "path": "common",
-        "name": "psicologia-faq-card"
-      }
     }
   ]
 }

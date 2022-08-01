@@ -38,18 +38,6 @@
     }
   },
   {
-    "option-link": "/professionisti-lavoro/",
-    "option-label": "Sei un professionista?",
-    "option-is-complex": true,
-    "option-is-amp": false,
-    "option-style-object-like": {
-      "font-weight": "bold",
-      "margin-top": "5px",
-      "border-bottom": "1px solid rgba(0,0,0,0.161)",
-      "padding-bottom": "15px"
-    }
-  },
-  {
     "option-link": "/domande-frequenti/",
     "option-label": "Domande frequenti",
     "option-is-complex": true,
@@ -76,30 +64,6 @@
     "option-style-object-like": {
       "margin-top": "5px",
       "margin-bottom": "30px"
-    }
-  },
-  {
-    "option-link": "https://apps.apple.com/us/app/epicura/id1606001325",
-    "option-label": "App Store",
-    "option-is-complex": true,
-    "option-is-amp": false,
-    "is-image": true,
-    "img-url": "/img/badge-app-store.png",
-    "option-style-object-like": {
-      "margin-top": "10px",
-      "margin-bottom": "0"
-    }
-  },
-  {
-    "option-link": "https://play.google.com/store/apps/details?id=it.epicura.customers&gl=IT",
-    "option-label": "Google Play Store",
-    "option-is-complex": true,
-    "option-is-amp": false,
-    "is-image": true,
-    "img-url": "/img/badge-google-play-store.png",
-    "option-style-object-like": {
-      "margin-top": "10px",
-      "margin-bottom": "0"
     }
   }
 ]
