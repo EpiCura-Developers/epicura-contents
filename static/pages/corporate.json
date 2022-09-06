@@ -627,6 +627,38 @@
     "title": "",
     "cards": [
       {
+        "title": "Human Resources Forum Richmond",
+        "text": "Data evento: 16-18/10/22 <br /> Luogo evento: Rimini",
+        "img": {
+          "path": "epicura corporate",
+          "name": "richmond-italia"
+        },
+        "cta": [
+          {
+            "label": "Vieni a trovarci",
+            "link": "https://www.richmonditalia.it/eventi/human-resources-forum-2/",
+            "image": "",
+            "variant": "outlined"
+          }
+        ]
+      },
+      {
+        "title": "Global Summit Human Resources",
+        "text": "Data evento: 19-20/10/22 <br /> Luogo evento: Lago di Garda Lazise - Verona",
+        "img": {
+          "path": "epicura corporate",
+          "name": "global-summit"
+        },
+        "cta": [
+          {
+            "label": "Vieni a trovarci",
+            "link": "https://ghrsummit.it/",
+            "image": "",
+            "variant": "outlined"
+          }
+        ]
+      },
+      {
         "title": "HR Innovation Forum",
         "text": "Data evento: 10/03/22 <br /> Luogo evento: Bologna",
         "img": {
@@ -669,22 +701,6 @@
           {
             "label": "Vieni a trovarci",
             "link": "https://www.myhrgoal.com/events/hrc-square-corporate-wellness/1868",
-            "image": "",
-            "variant": "outlined"
-          }
-        ]
-      },
-      {
-        "title": "Global Summit Human Resources",
-        "text": "Data evento: 19-20/10/22 <br /> Luogo evento: Lago di Garda Lazise - Verona",
-        "img": {
-          "path": "epicura corporate",
-          "name": "global-summit"
-        },
-        "cta": [
-          {
-            "label": "Vieni a trovarci",
-            "link": "https://ghrsummit.it/",
             "image": "",
             "variant": "outlined"
           }
