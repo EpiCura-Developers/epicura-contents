@@ -1,11 +1,11 @@
 {
   "metaDescription": {
     "title": "epiCura - Chi siamo?",
-    "description": "Siamo il primo poliambulatorio digitale in Italia."
+    "description": "Non la “classica” agenzia di Ricerca e Selezione badanti!"
   },
   "subheader": {
-    "titleBig": "Il primo poliambulatorio digitale in Italia",
-    "description1": "Rendiamo la sanità più semplice, rapida e attenta ai bisogni delle persone."
+    "titleBig": "Non la “classica” agenzia di Ricerca e Selezione badanti!",
+    "description1": "Il nostro obiettivo? Semplificare e innovare il settore dell’assistenza alla persona."
   },
   "site-who-we-are-header-img": { "path": "common", "name": "site-who-we-are-header-img" },
   "site-who-we-are-header-img-mobile": { "path": "common", "name": "chi-siamo-mobile" },
@@ -19,11 +19,11 @@
     "path": "common",
     "name": "epistore"
   },
-  "epistore-title": "E ora abbiamo inaugurato il primo epiStore a Torino",
-  "epistore-description": "Abbiamo pensato anche alle persone poco smart e che non amano particolarmente la tecnologia. Proprio per questo motivo, abbiamo aperto un negozio fisico a Torino, in Via Nizza 60. Ora non vi resta che venire a trovarci!",
+  "epistore-title": "Abbiamo inaugurato i primi due epiStore a Milano e Torino",
+  "epistore-description": "Oltre a erogare servizi solo in modalità digitale, abbiamo deciso di investire anche sul territorio per stringere un rapporto di fiducia e diretto con le famiglie per conoscerne e comprenderne da vicino le esigenze. Nel 2022 sono stati infatti inaugurati i primi due epiStore a Milano ( via Canonica 77) e Torino (Via Nizza 60), luoghi strategici per consentire alle persone di conoscere direttamente i servizi offerti e ottimizzare i processi di recruiting dei professionisti.",
   "site-who-we-are-relation-work": {
     "title": "Come funziona?",
-    "content": "epiCura è attiva in tutta Italia con oltre 900 professionisti, più di 16mila badanti e servizi in videoconsulto. Offre prestazioni mediche a domicilio, in studio e in videoconsulto nelle 10 principali città dello stivale. Presenta infine, una rete di poliambulatori su Torino e Milano.<br /> <strong>Il nostro servizio è attivo 7 giorni su 7, dalle 8 alle 20.</strong>",
+    "content": "EpiCura è attiva in tutta Italia con migliaia di professionisti, più di 16 mila badanti e servizi in videoconsulto. Offre prestazioni mediche a domicilio, in studio e in videoconsulto nelle 10 principali città dello stivale. Presenta infine, una rete di poliambulatori su Torino e Milano.<br /> <strong>Il nostro servizio è attivo 7 giorni su 7, dalle 8 alle 20.</strong>",
     "cards": [
       {
         "image": { "path": "common", "name": "visita-generica-white" },
@@ -45,7 +45,7 @@
   },
   "site-who-we-are-team-title": "Il team epiCura",
   "site-who-we-are-team-img": { "path": "common", "name": "team-epicura" },
-  "site-who-we-are-slogan": "Sognatori, creativi e appassionati: vogliamo semplificare la sanità e renderla migliore per tutti.",
+  "site-who-we-are-slogan": "",
   "site-who-we-are-statistics": [
     {
       "site-who-we-are-statistic-value": "2017",
@@ -56,8 +56,8 @@
       "site-who-we-are-statistic-label": "I finanziamenti di chi ha creduto in noi."
     },
     {
-      "site-who-we-are-statistic-value": "+900",
-      "site-who-we-are-statistic-label": "I professionisti attivi nella nostra rete."
+      "site-who-we-are-statistic-value": "30mila",
+      "site-who-we-are-statistic-label": "Assistenti domiciliari nella nostra rete"
     },
     {
       "site-who-we-are-statistic-value": "+5000",
@@ -67,7 +67,7 @@
   "site-who-we-are-our-values-title": "Cosa ci rende speciali",
   "site-who-we-are-our-values-share-text": "Condividi i nostri valori e ami le sfide? <br /> Scopri le posizioni aperte e unisciti alla rivoluzione epiCura!",
   "site-who-we-are-our-values-btn-text": "Entra nel team",
-  "site-who-we-are-our-values-link": "https://www.linkedin.com/company/epicuramed/jobs/?viewAsMember=true",
+  "site-who-we-are-our-values-link": "https://impresapiu.subito.it/shops/39466-epicura",
   "site-who-we-are-our-values": [
     {
       "site-who-we-are-our-value-image": { "path": "common", "name": "care" },
@@ -81,8 +81,8 @@
     },
     {
       "site-who-we-are-our-value-image": { "path": "common", "name": "convenient" },
-      "site-who-we-are-our-value-title": "Comodo, veloce, flessibile",
-      "site-who-we-are-our-value-subtitle": "Dimentica le liste d'attesa e gli scomodi spostamenti: prenditi cura della tua salute dove e quando vuoi."
+      "site-who-we-are-our-value-title": "Comodo e veloce",
+      "site-who-we-are-our-value-subtitle": "L’attivazione della ricerca entro 24 ore dalla tua richiesta"
     },
     {
       "site-who-we-are-our-value-image": { "path": "common", "name": "world" },

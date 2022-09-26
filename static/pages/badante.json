@@ -104,7 +104,7 @@
     "cta-content": [
       {
         "label": "Richiedi preventivo gratuito",
-        "link": "https://hubs.la/Q0150JR20",
+        "link": "https://hubs.la/Q01lQrxq0",
         "image": "",
         "variant": "gradient"
       }
@@ -171,7 +171,7 @@
       },
       {
         "title": "Gestiamo la parte <br /> contrattuale",
-        "text": "epiCura si occupa totalmente della gestione burocratica e fiscale, sollevandoti da ogni incombenza gestionale, per offrirti un servizio ‘senza pensieri’.",
+        "text": "EpiCura si occupa totalmente della gestione burocratica e fiscale, sollevandoti da ogni incombenza gestionale, per offrirti un servizio ‘senza pensieri’.",
         "img": {
           "path": "caregiver",
           "name": "gestione-contrattuale"
@@ -260,34 +260,34 @@
     "has-bg-color": "",
     "list-details": [
       {
-        "icon": "/img/convenzioni-gradient.png",
-        "text": "<b>Convenzioni</b> con tutti i partner epiCura per risparmiare"
-      },
-      {
-        "icon": "/img/burocrazia-gradient.png",
-        "text": "<b>Sportello ammortizzatori sociali</b> per comprendere il linguaggio burocratico"
-      },
-      {
-        "icon": "/img/farmaci-gradient.png",
-        "text": "<b>Farmaci a domicilio</b> nelle principali città. Le prime due consegne sono gratuite"
-      },
-      {
         "icon": "/img/psico-videoconsulto.png",
-        "text": "Primo <b>videoconsulto psicologico gratuito</b> per le famiglie con un parente anziano da assistere"
+        "text": "<b>Primo videoconsulto psicologico gratuito</b> per le famiglie con un parente anziano da assistere"
       },
       {
         "icon": "/img/infermieri-videoconsulto-gradient.png",
-        "text": "Un <b>videoconsulto gratuito con gli infermieri epiCura</b> per ricevere i nostri suggerimenti"
+        "text": "<b>Un videoconsulto gratuito con gli infermieri epiCura</b> per consigli pratici su come gestire l'anziano"
       },
       {
         "icon": "/img/fisioterapia-gradient.png",
-        "text": "Un <b>supporto fisioterapico e infermieristico a domicilio</b> nelle città in cui siamo attivi"
+        "text": "<b>Una visita gratuita di fisioterapia e infermieristica a domicilio</b> nelle città in cui siamo attivi"
+      },
+      {
+        "icon": "/img/farmaci-gradient.png",
+        "text": "<b>Farmaci a domicilio</b> nelle principali città. Le prime 5 consegne sono gratuite"
+      },
+      {
+        "icon": "/img/convenzioni-gradient.png",
+        "text": "<b>Sconti e convenzioni</b> con i partner epiCura per salute e benessere"
+      },
+      {
+        "icon": "/img/burocrazia-gradient.png",
+        "text": "<b>Sportello ammortizzatori sociali</b> per un supporto concreto sulle pratiche burocratiche"
       }
     ],
     "cta-content": [
       {
         "label": "Richiedi preventivo gratuito",
-        "link": "https://hubs.la/Q0150JR20",
+        "link": "https://hubs.la/Q01lQrxq0",
         "image": "",
         "variant": "gradient"
       }
@@ -405,24 +405,23 @@
     ]
   },
   "job-banner": {
-    "title": "Sei una badante? <br /> Lavora con noi",
-    "subtitle": "Se hai esperienza nel campo dell’assistenza alla persona, svolgi il tuo lavoro con professionalità e hai referenze dimostrabili, invia il tuo curriculum per entrare a far parte della rete di professionisti epiCura, attiva in tutta Italia.",
+    "title": "Cerchi lavoro come badante? <br /> Scarica l'app per Android di epiCura!",
+    "subtitle": "Inserendo il tuo numero di telefono e l'indirizzo, l'app di epiCura ti aiuta a trovare lavoro vicino a casa tua gratuitamente e velocemente. <br /> <br /> Clicca qui per scaricare l'app:",
     "img": {
       "path": "caregiver",
-      "name": "caregiver-job"
+      "name": "caregiver-job-2"
     },
     "has-large-title": false,
     "has-absolute-image": true,
     "first-image-order": false,
     "hide-image-mobile": false,
     "has-bg-color": "caregiver",
-
     "cta-content": [
       {
-        "label": "Candidati ora",
-        "link": "https://app.ncoreplat.com/jobposition/109737/assistenti-familiari-it/ricerca-badanti",
-        "image": "",
-        "variant": "gradient"
+        "label": "Google Play Store",
+        "link": "https://play.google.com/store/apps/details?id=it.epicura.Badanti",
+        "image": "/img/badge-google-play-store.png",
+        "variant": "image"
       }
     ]
   },
@@ -447,15 +446,5 @@
       }
     ]
   },
-  "card-discount": {
-    "title": "Prenotando un servizio di assistenza a ore o badante, ricevi subito il 10% di sconto su tutti i servizi epiCura",
-    "services-list": [
-      "Fisioterapia",
-      "Medicina generale",
-      "Pediatria",
-      "Nutrizione",
-      "Massaggi",
-      "Psicologia e psicoterapia"
-    ]
-  }
+  "card-discount": null
 }

@@ -17,9 +17,9 @@
           "option-is-amp": true
         },
         {
-          "option-link": "/professionisti-lavoro/",
-          "option-label": "Sei un professionista?",
-          "option-is-complex": true,
+          "option-link": "https://play.google.com/store/apps/details?id=it.epicura.Badanti",
+          "option-label": "Cerchi lavoro come badante?",
+          "option-is-complex": false,
           "option-is-amp": false
         }
       ]
@@ -54,23 +54,6 @@
       ]
     },
     {
-      "column-name": "Prenota tramite app",
-      "column-options": [
-        {
-          "option-link": "https://apps.apple.com/app/epicura/id1606001325",
-          "option-label": "App iOS",
-          "option-is-complex": true,
-          "option-is-amp": false
-        },
-        {
-          "option-link": "https://play.google.com/store/apps/details?id=it.epicura.customers",
-          "option-label": "App Android",
-          "option-is-complex": true,
-          "option-is-amp": false
-        }
-      ]
-    },
-    {
       "column-name": "Aspetti legali",
       "column-options": [
         {
@@ -95,18 +78,6 @@
           "option-link": "/avvertenza-di-rischio/",
           "option-label": "Avvertenza di rischio",
           "option-is-complex": true,
-          "option-is-amp": false
-        },
-        {
-          "option-link": "https://contents.epicuramed.it/documents/epicura_referral.pdf",
-          "option-label": "Programma Referral",
-          "option-is-complex": false,
-          "option-is-amp": false
-        },
-        {
-          "option-link": "https://contents.epicuramed.it/documents/epicura_welcome_bonus_50.pdf",
-          "option-label": "Welcome bonus",
-          "option-is-complex": false,
           "option-is-amp": false
         }
       ]
