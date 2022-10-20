@@ -81,6 +81,23 @@
           "option-is-amp": false
         }
       ]
+    },
+    {
+      "column-name": "Store",
+      "column-options": [
+        {
+          "option-link": "https://landingpage.epicuramed.it/badante-torino-v2",
+          "option-label": "Torino<br /><span class=\"accent\">Via Nizza, 60<span>",
+          "option-is-complex": false,
+          "option-is-amp": false
+        },
+        {
+          "option-link": "https://landingpage.epicuramed.it/badante-milano-v2",
+          "option-label": "Milano<br /><span class=\"accent\">Via Luigi Canonica, 77<span>",
+          "option-is-complex": false,
+          "option-is-amp": false
+        }
+      ]
     }
   ]
 }
