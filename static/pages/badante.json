@@ -84,8 +84,8 @@
     }
   ],
   "top-banner": {
-    "title": "Spazientalgia da badante introvabile?",
-    "subtitle": "Ti aiutiamo a trovare la badante perfetta o l’assistente a ore idoneo per le tue necessità! Il nostro personale è composto  da professionisti affidabili e referenziati, in tutta Italia.",
+    "title": "Cerchi una badante e non pensi ad altro?",
+    "subtitle": "Rilassati, pensiamo a tutto noi!<br />Ti aiutiamo a trovare la persona più adatta alle tue esigenze, grazie a una rete composta da più di 40.000 professionisti affidabili e referenziati. Il servizio è attivo in tutta Italia.",
     "img": {
       "path": "caregiver",
       "name": "caregiver-header"
@@ -152,8 +152,8 @@
     "subtitle": "",
     "cards": [
       {
-        "title": "Analizziamo le esigenze <br /> dei familiari",
-        "text": "Attraverso una consulenza dedicata, i nostri Family Tutor individuano le necessità della tua famiglia, costruendo un piano assistenziale su misura.",
+        "title": "Analizziamo <br /> le tue esigenze",
+        "text": "I nostri Family tutor sono pronti a supportarti in tutto il percorso: dalla selezione della persona ideale all'inserimento in casa. Saremo sempre al tuo fianco.",
         "img": {
           "path": "caregiver",
           "name": "esigenze-familiari"
@@ -161,8 +161,8 @@
         "has-background": true
       },
       {
-        "title": "Troviamo la badante <br /> più adatta",
-        "text": "In base alle tue richieste, pensiamo noi a cercare le persone più idonee da presentarti. Lavoriamo solo con personale esperto e referenziato.",
+        "title": "Troviamo la badante <br /> giusta per te",
+        "text": "Contiamo su una rete di 40.000 assistenti domiciliari con esperienza e referenziati. L’attivazione della ricerca della badante avviene in 24 ore.",
         "img": {
           "path": "caregiver",
           "name": "badante-adatta"
@@ -171,7 +171,7 @@
       },
       {
         "title": "Gestiamo la parte <br /> contrattuale",
-        "text": "EpiCura si occupa totalmente della gestione burocratica e fiscale, sollevandoti da ogni incombenza gestionale, per offrirti un servizio ‘senza pensieri’.",
+        "text": "Ci occupiamo anche di tutte le questioni burocratiche e fiscali al fine di garantirti un servizio “senza pensieri”.",
         "img": {
           "path": "caregiver",
           "name": "gestione-contrattuale"
@@ -191,7 +191,7 @@
           "name": "badante-convivente-1"
         },
         "title": "Badante convivente giorno e notte",
-        "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi. <small>A partire da 1.410 Euro al mese</small>",
+        "subtitle": "Si trasferisce a casa della persona assistita per garantire un supporto costante e a tempo pieno. L’assistenza è erogabile per un minimo di 2 mesi.",
         "previous-price": "",
         "price": "",
         "price-detail": "Servizio attivo in tutta Italia",
@@ -211,7 +211,7 @@
           "name": "badante-diurna"
         },
         "title": "Badante diurna",
-        "subtitle": "Presta assistenza part-time durante il giorno. È un supporto fondamentale per le attività quotidiane di persone autosufficienti e non. <small>A partire da 720 Euro al mese</small>",
+        "subtitle": "Presta assistenza part-time durante il giorno. È un supporto fondamentale per le attività quotidiane di persone autosufficienti e non.",
         "previous-price": "",
         "price": "",
         "price-detail": "Servizio attivo in tutta Italia",
@@ -231,7 +231,7 @@
           "name": "badante-notturna"
         },
         "title": "Badante notturna",
-        "subtitle": "Si occupa del monitoraggio della persona assistita durante la notte, garantendo le cure e le attenzioni necessarie anche in caso di emergenza. <small>A partire da 1.180 Euro al mese</small>",
+        "subtitle": "Si occupa del monitoraggio della persona assistita durante la notte, garantendo le cure e le attenzioni necessarie anche in caso di emergenza.",
         "previous-price": "",
         "price": "",
         "price-detail": "Servizio attivo in tutta Italia",
@@ -308,7 +308,7 @@
     "cta-content": []
   },
   "cities-list": {
-    "title": "Scopri il nostro servizio di assistenza a ore nella tua città:",
+    "title": "Il servizio è attivo solo nelle seguenti città *",
     "cities": [
       {
         "option-link": "/torino/assistente-domiciliare/",

@@ -101,15 +101,15 @@
     "list-details": [
       {
         "icon": "/img/videoconsulto.png",
-        "text": "<b>VISITA IN VIDEOCONSULTO</b><br>Comodamente all’orario che preferisci."
+        "text": "<b>VISITA IN VIDEOCONSULTO</b><br />Comodamente all’orario che preferisci."
       },
       {
         "icon": "/img/studio.png",
-        "text": "<b>DIRETTAMENTE IN STUDIO</b><br>Ci vediamo per un incontro di persona direttamente nello studio del tuo specialista di fiducia."
+        "text": "<b>DIRETTAMENTE IN STUDIO</b><br />Ci vediamo per un incontro di persona direttamente nello studio del tuo specialista di fiducia."
       },
       {
         "icon": "/img/pacchetto-nutrizione.png",
-        "text": "<b>PIANO ALIMENTARE</b><br> Il nostro pacchetto personalizzato è suddiviso in due momenti: un primo incontro conoscitivo online e due follow up in videoconsulto"
+        "text": "<b>PIANO ALIMENTARE</b><br /> Il nostro pacchetto personalizzato è suddiviso in due momenti: un primo incontro conoscitivo online e due follow up in videoconsulto"
       }
     ],
     "img": {
@@ -348,7 +348,7 @@
     "subtitle": "Un servizio comodo, flessibile, affidabile",
     "cards": [
       {
-        "title": "Solo professionisti <br> qualificati",
+        "title": "Solo professionisti <br /> qualificati",
         "text": "Verifichiamo nel dettaglio tutte le certificazioni acquisite e l’iscrizione all’Albo Ufficiale.",
         "img": {
           "path": "common",
@@ -356,7 +356,7 @@
         }
       },
       {
-        "title": "La tua soddisfazione <br> è anche la nostra ",
+        "title": "La tua soddisfazione <br /> è anche la nostra ",
         "text": "Se non dovessi trovarti bene con il professionista, ti garantiamo la sostituzione senza costi aggiuntivi.",
         "img": {
           "path": "common",
@@ -364,7 +364,7 @@
         }
       },
       {
-        "title": "Siamo sempre <br> al tuo fianco",
+        "title": "Siamo sempre <br /> al tuo fianco",
         "text": "I nostri operatori sono attivi 7 giorni su 7 per offrirti un'assistenza su misura quando ne hai bisogno.",
         "img": {
           "path": "common",
