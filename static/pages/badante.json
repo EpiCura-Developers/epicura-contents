@@ -375,8 +375,8 @@
     ]
   },
   "job-banner": {
-    "title": "Cerchi lavoro come badante? <br /> Scarica l'app per Android di epiCura!",
-    "subtitle": "Inserendo il tuo numero di telefono e l'indirizzo, l'app di epiCura ti aiuta a trovare lavoro vicino a casa tua gratuitamente e velocemente. <br /> <br /> Clicca qui per scaricare l'app:",
+    "title": "Cerchi lavoro come badante?",
+    "subtitle": "Ti aiutiamo a trovare lavoro vicino a casa tua gratuitamente e velocemente. Clicca qui per candidarti:",
     "img": {
       "path": "caregiver",
       "name": "caregiver-job-2"
@@ -388,10 +388,10 @@
     "has-bg-color": "caregiver",
     "cta-content": [
       {
-        "label": "Google Play Store",
-        "link": "https://play.google.com/store/apps/details?id=it.epicura.Badanti",
-        "image": "/img/badge-google-play-store.png",
-        "variant": "image"
+        "label": "Candidati ora con questo link",
+        "link": "https://share.hsforms.com/1yFns9eDVTu-mFHsXS9ZrQg51wdn",
+        "image": "",
+        "variant": "outlined"
       }
     ]
   }
